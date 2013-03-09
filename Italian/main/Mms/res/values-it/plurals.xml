@@ -16,4 +16,8 @@
     <plurals name="recipient_count">
         <item quantity="other">%1$s contatti</item>
     </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s messaggi</item>
+        <item quantity="one">%1$s messaggio</item>  
+  </plurals>
 </resources>
