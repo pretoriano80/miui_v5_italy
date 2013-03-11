@@ -18,7 +18,19 @@
         <item>home_edit_box_area_4_3</item>
         <item>home_edit_box_area_4_4</item>
     </string-array>
-    <string-array name="transformation_entries">
+    <array name="shake_animation_scaler">
+        <item>0.0dip</item>
+        <item>4.0dip</item>
+        <item>0.0dip</item>
+        <item>-3.0dip</item>
+        <item>0.0dip</item>
+        <item>2.0dip</item>
+        <item>-1.0dip</item>
+        <item>0.0dip</item>
+        <item>1.0dip</item>
+        <item>0.0dip</item>
+  </array>
+  <string-array name="transformation_entries">
         <item>Classico</item>
         <item>Classico (senza rimbalzo)</item>
         <item>Sfumature</item>
@@ -50,10 +62,22 @@
         <item>left</item>
         <item>right</item>
     </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Predefinito</item>
+        <item>Classico</item>
+    </string-array>
     <string-array name="gadget_weather_image">
         <item>Sereno</item>
         <item>Nuvoloso</item>
-        <item>Yin</item>
+        <item>Ventilato</item>
         <item>Nebbia</item>
         <item>Forte pioggia</item>
         <item>Tempesta</item>

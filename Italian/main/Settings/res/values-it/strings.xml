@@ -8,6 +8,7 @@
     <string name="input_method_selector_visibility_default_value">0</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
+    <string name="create">Crea</string>
     <string name="device_info_default">Sconosciuto</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
     <string name="header_category_device">DISPOSITIVO</string>
@@ -100,6 +101,7 @@
     <string name="bluetooth_devices">Dispositivi Bluetooth</string>
     <string name="bluetooth_device_name">Nome dispositivo</string>
     <string name="bluetooth_device_details">Impostazioni dispositivo</string>
+    <string name="bluetooth_profile_details">Impostazioni profilo</string>
     <string name="bluetooth_name_not_set">"Nessun nome impostato, è in uso il nome dell'account"</string>
     <string name="bluetooth_scan_for_devices">Cerca dispositivi</string>
     <string name="bluetooth_rename_device">Rinomina telefono</string>

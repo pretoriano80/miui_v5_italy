@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d brani correlate</item>
+        <item quantity="one">%d brano correlata</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
     <plurals name="Ntracks_format">
         <item quantity="other">%1$d brani</item>
         <item quantity="one">%1$d brano</item>

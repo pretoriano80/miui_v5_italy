@@ -8,10 +8,7 @@
     <string name="unknown">Sconosciuto</string>
     <string name="installing">Installazione...</string>
     <string name="install_done">Applicazione installata</string>
-    <string name="install_confirm_question">Installare questa applicazione? Avrà accesso a:</string>
-    <string name="install_confirm_question_no_perms">Installare questa applicazione? Non richiede nessun particolare accesso.</string>
-    <string name="install_confirm_question_update">"Vuoi installare un aggiornamento per questa applicazione? I dati esistenti non verranno persi. L'applicazione aggiornata avrà accesso a:"</string>
-    <string name="install_confirm_question_update_system">"Installare un aggiornamento per questa applicazione nativa? I dati esistenti non verranno persi. L'applicazione aggiornata avrà accesso a:"</string>
+    <string name="install_confirm_question">Vuoi installare questa applicazione?</string>
     <string name="install_failed">Applicazione non installata</string>
     <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
     <string name="install_failed_inconsistent_certificates">È già installato un pacchetto con lo stesso nome e con una firma in conflitto.</string>
@@ -40,6 +37,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="dlg_sys_app_replacement_statement">"Applicazione di sistema. Sostituirla comunque?
 
 Tutti i dati utente precedenti verranno salvati."</string>
+    <string name="lift_ban">Rimuovi divieto</string>
     <string name="out_of_space_dlg_title">Spazio esaurito</string>
     <string name="out_of_space_dlg_text">Impossibile installare %1$s. Libera dello spazio e riprova.</string>
     <string name="dlg_ok">OK</string>
@@ -48,6 +46,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="uninstall_application_title">Disinstalla applicazione</string>
     <string name="uninstall_update_title">Disinstalla aggiornamento</string>
     <string name="uninstall_activity_text">%1$s fa parte della seguente applicazione:</string>
+    <string name="uninstall_confirm_question">Vuoi disinstallare questa applicazione ?</string>
     <string name="uninstall_application_text">Questa applicazione verrà disinstallata.</string>
     <string name="uninstall_update_text">"L'applicazione verrà sostituita con la versione di fabbrica."</string>
     <string name="uninstalling">Disinstallazione...</string>
@@ -56,13 +55,26 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>
     <string name="manage_device_administrators">Gestisci amministratori dispositivo</string>
     <string name="uninstall_failed_msg">Impossibile disinstallare %1$s</string>
+    <string name="uninstall_failed_retained_app_msg">Le applicazioni personalizzate dagli operatori non possono essere disinstallate</string>
     <string name="Parse_error_dlg_title">Errore di analisi</string>
     <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
-    <string name="newPerms">Nuovo</string>
-    <string name="privacyPerms">Privacy</string>
-    <string name="devicePerms">Accesso terminale</string>
-    <string name="no_new_perms">Questo aggiornamento non richiede peremssi.</string>
-    <string name="lift_ban">Rimuovi blocco</string>
     <string name="caller_app">Chiamante:%1$s</string>
-    <string name="uninstall_failed_retained_app_msg">Le applicazioni personalizzate dagli operatori non possono essere disinstallate</string>
+    <string name="safe_guard_support">Supporto tecnico fornito da %1$s</string>
+    <string name="safe_relative">Permissi di sicurezza</string>  
+    <string name="privacy_relative">Permessi di privacy</string>
+    <string name="other_relative">Altri permessi</string>
+    <string name="perm_notice">Avviso di sicurezza</string>
+    <string name="trust_switch_dialog_msg">"MIUI non chiederà permessi relativi a privacy o alla sicurezza per questa applicazione, ricordalo attentamente.
+Rendere questa applicazione affidabile ?"</string>
+    <string name="auto_startup_dialog_msg">"MIUI consentirà all'applicazione di avviarsi automaticamente senza richiedere l'autorizzazione, cosa che potrebbe comportare un aumento del consumo di dati e/o di batteria.
+Consentire l'avvio automatico ?"</string>
+    <string name="low_risk_perms">Permessi a basso rischio</string>
+    <string name="high_risk_perms">Permessi ad alto rischio</string>
+    <string name="perm_privacy_app_finish">Chiudi</string>
+    <string name="perm_privacy_app_launch">Lancia</string>
+    <string name="perm_privacy_app_installed">Installazione completata!</string>
+    <string name="perm_sysopt_boost_auto_start">Permessi avvio automatico</string>
+    <string name="perm_sysopt_boost_auto_start_summary">"L'applicazione si avvierà automaticamente!"</string>
+    <string name="perm_privacy_app_trust">Mi fido di questa applicazione</string>
+    <string name="perm_privacy_app_trust_summary">MIUI controllerà questa applicazione</string>
 </resources>

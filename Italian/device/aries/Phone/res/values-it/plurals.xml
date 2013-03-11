@@ -12,4 +12,9 @@
         <item quantity="other">"L'azione selezionata non è disponibile in modalità di richiamata di emergenza. Il telefono sarà in questa modalità per %s minuti. Uscire ora?"</item>
         <item quantity="one">"L'azione selezionata non è disponibile in modalità di richiamata di emergenza. Il telefono sarà in questa modalità per %s minuto. Uscire ora?"</item>
     </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d elementi selezionati"</item>
+        <item quantity="zero">%1$d elemento selezionato</item>
+        <item quantity="one">%1$d elemento selezionato</item>
+    </plurals>
 </resources>

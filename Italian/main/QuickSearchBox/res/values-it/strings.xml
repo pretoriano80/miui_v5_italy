@@ -36,6 +36,6 @@
     <string name="google_search_hint">Ricerca Google</string>
     <string name="google_search_description">Suggerimenti Ricerca Google</string>
     <string name="voice_search_hint_title">Prova dicendo:</string>
-    <string name="voice_search_hint_quotation_start">“</string>
-    <string name="voice_search_hint_quotation_end">”</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
 </resources>
