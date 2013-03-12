@@ -12,8 +12,7 @@ Based on a work at http://miui.com and http://miui.it
 
 
 Special thanks to:
-
-ale8530
+MarkHUK; ale8530; ingbrzy; ibotpeaches
 
 Also thanks to:
 
