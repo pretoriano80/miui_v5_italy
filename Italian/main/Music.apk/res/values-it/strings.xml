@@ -43,7 +43,7 @@
     <string name="music_filter">Filtra file</string>
     <string name="filter_by_size">Filtra per dimensione</string>
     <string name="filter_by_size_summary">Filtra i file più piccoli del valore impostato</string>
-    <string name="filter_by_size_prefix">"Dimensione "</string>
+    <string name="filter_by_size_prefix">Dimensione</string>
     <string name="filter_by_duration">Filtra i file per durata</string>
     <string name="filter_by_duration_summary">Filtra i file più brevi valore impostato</string>
     <string name="filter_by_duration_prefix">"Durata: "</string>
