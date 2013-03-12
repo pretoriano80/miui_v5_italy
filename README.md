@@ -22,6 +22,7 @@ _________________
 
 #####Also thanks to:
 
+- espetrunk (www.miui.es)
 - salvestro
 - raimondomartire
 - Francko76
