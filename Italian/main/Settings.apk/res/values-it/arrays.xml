@@ -449,41 +449,6 @@
         <item>2</item>
         <item>1</item>
     </string-array>
-    <string-array name="multi_sim_entries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_summaries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="multi_sim_entries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-        <item>Prompt</item>
-    </string-array>
-    <string-array name="multi_sim_summaries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-        <item>Prompt User</item>
-    </string-array>
-    <string-array name="multi_sim_values_voice">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="multi_sim_entries_voice_without_prompt">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_values_voice_without_prompt">
-        <item>0</item>
-        <item>1</item>
-    </string-array>    
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
         <item>@string/input_method_selector_always_show_title</item>
@@ -547,6 +512,7 @@
     <string-array name="led_color_values">
         <item>blue</item>
         <item>red</item>
+        <item>\#FFFF3300</item>
         <item>yellow</item>
         <item>green</item>
         <item>cyan</item>
@@ -556,6 +522,7 @@
     <string-array name="led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>
+        <item>Arancio</item>
         <item>Giallo</item>
         <item>Verde</item>
         <item>Ciano</item>
@@ -587,7 +554,7 @@
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
-        <item>WAPI esadeciimale</item>
+        <item>WAPI hexadecimal</item>
     </string-array>
     <string-array name="back_long_press_timeout">
         <item>0.5 secondi</item>
@@ -622,157 +589,55 @@
         <item>@string/font_size_normal</item>
         <item>@string/font_size_medium</item>
         <item>@string/font_size_large</item>
+        <item>@string/font_size_huge</item>
     </string-array>
     <string-array name="font_size_scale">
-        <item>0.86</item>
+        <item>0.77</item>
         <item>1.0</item>
-        <item>1.2</item>
-        <item>1.21</item>
+        <item>1.23</item>
+        <item>1.54</item>
+        <item>1.9</item>
     </string-array>
     <integer-array name="font_size_preference_row_height">
         <item>75</item>
         <item>85</item>
         <item>85</item>
         <item>110</item>
+        <item>130</item>
     </integer-array>
     <integer-array name="font_size_preference_preview_size">
         <item>14</item>
         <item>18</item>
         <item>22</item>
         <item>27</item>
+        <item>34</item>
     </integer-array>
-    <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
+    <string-array name="entries_dolby_control">
+        <item>Disattivato</item>
+        <item>Modalità Musica</item>
+        <item>Modalità Film</item>
     </string-array>
-    <string-array name="dolby_bassboost_ranks">
-        <item>@string/dolby_bassboost_low</item>
-        <item>@string/dolby_bassboost_normal</item>
-        <item>@string/dolby_bassboost_high</item>
-    </string-array>
-    <string-array name="dolby_bassboost_rank_valus">
-        <item>0</item>
-        <item>3</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="dolby_roomsize_ranks">
-        <item>@string/dolby_roomsize_low</item>
-        <item>@string/dolby_roomsize_normal</item>
-        <item>@string/dolby_roomsize_high</item>
-    </string-array>
-    <string-array name="dolby_roomsize_rank_valus">
+    <string-array name="entryvalues_dolby_control">
+        <item>-1</item>
         <item>0</item>
         <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0</item>
-        <item>16,8,0,-8,0,8,16</item>
-        <item>0,0,-4,-8,-8,-4,0</item>
-        <item>-8,-20,4,12,8,8,8</item>
-        <item>4,0,0,-8,-4,0,0</item>
-        <item>16,4,-4,-4,4,4,4</item>
-        <item>16,-4,0,-8,0,-4,-4</item>
-        <item>4,0,-4,-8,0,4,8</item>
-        <item>16,4,-8,-4,-8,-4,0</item>
-        <item>0,-4,-4,-4,-8,-4,-8</item>
-        <item>16,12,-24,-24,-16,12,16</item>
-        <item>24,14,-20,6,12,16,8</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_names">
-        <item>@string/dolby_eq_flat</item>
-        <item>@string/dolby_eq_rock</item>
-        <item>@string/dolby_eq_jazz</item>
-        <item>@string/dolby_eq_pop</item>
-        <item>@string/dolby_eq_classical</item>
-        <item>@string/dolby_eq_rb</item>
-        <item>@string/dolby_eq_hiphop</item>
-        <item>@string/dolby_eq_blues</item>
-        <item>@string/dolby_eq_electronic</item>
-        <item>@string/dolby_eq_country</item>
-        <item>@string/dolby_eq_dance</item>
-        <item>@string/dolby_eq_metal</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositivo connesso, creazione sessione...</item>
-        <item>Sessione creata</item>
-        <item>Sessione interrotta...</item>
-        <item>Sessione fallita</item>
-        <item>Timout creazione sessione, nuovo tentativo...</item>
-        <item>Dispositivo connesso</item>
+        <item>Device connected, creating session...</item>
+        <item>Session created</item>
+        <item>Session tearing down...</item>
+        <item>Session failed</item>
+        <item>Session creating timeout, retrying...</item>
+        <item>Device connected</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Modalità Prestazioni</item>
+        <item>Modalità Performance</item>
         <item>Modalità Normale</item>
         <item>Modalità Risparmio</item>
     </string-array>
-    <string-array name="msd_pc_system">
-        <item>Windows XP o versioni precedenti</item>
-        <item>Windows Vista o versioni successive</item>
-        <item>Mac OS</item>
-        <item>Linux</item>
-    </string-array>
-    <string-array name="msd_pc_system_install_start_summary">
-        <item>"Per Windows XP versioni precedenti,
-i driver devono essere installati manualmente"</item>
-        <item>"Per Windows Vista o versioni successive,
-il MI 2 music player verrà visualizzato sul tuo computer"</item>
-        <item>"Per sistemi Mac OS,
-i driver devono essere installati manualmente"</item>
-        <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Ignora la finestra Setup Wizard)
-il dispositivo di archiviazione XIAOMI verrà visualizzato sul tuo computer
-Apri e lancia Setup.exe per l'installazione"</item>
-        <item></item>
-        <item>"Il dispositivo di archiviazione XIAOMI verrà visualizzato sul tuo computer
-Apri e lancia AndroidFileTransfer.dmg per l'installazione"</item>
-        <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2.L'archivi omobile MI-2 mverrà visualizzato sul tuo computer
-Adesso puoi trasferire i file"</item>
-        <item></item>
-        <item>"Il computer aprirà e leggerà automaticamente i dati del telefono
-Adesso puoi trasferire i file"</item>
-        <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>"Se installi questo driver
-il dispositivo di archiviazione mobile MI-2 dovrebbe essere visualizzato sul computer"</item>
-        <item>"Per Windows Vista o versioni successive,
-il MI 2 music player verrà visualizzato sul tuo computer"</item>
-        <item>"Se installi questo driver
-Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
-        <item></item>
-    </string-array>
-    <string-array name="screen_color_title">
-        <item>Cald</item>
-        <item>Naturale</item>
-        <item>Freddo</item>
-    </string-array>
-    <string-array name="screen_saturation_title">
-        <item>Brillante</item>
-        <item>Standard</item>
-    </string-array>
-    <string-array name="perms_hips_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="perm_hips_action">
-        <item>Consenti</item>
-        <item>Chiedi</item>
-        <item>Nega</item>
-    </string-array>
-    <string-array name="startup_hips_values">
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="startup_hips_action">
-        <item>Consenti</item>
-        <item>Nega</item>
+    <string-array name="power_mode_value">
+        <item>high</item>
+        <item>middle</item>
+        <item>low</item>
     </string-array>
 </resources>

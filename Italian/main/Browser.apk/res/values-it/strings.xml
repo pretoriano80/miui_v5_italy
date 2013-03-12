@@ -88,7 +88,7 @@
     <string name="share_page">Condividi pagina</string>
     <string name="menu_save_snapshot">Salva per lettura offline</string>
     <string name="saving_snapshot">Salvataggio…</string>
-    <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
+    <string name="snapshot_failed">Impossibile salvare per la lettura offline.</string>
     <string name="contextheader_folder_bookmarkcount">%d segnalibri</string>
     <string name="contextheader_folder_empty">Cartella vuota</string>
     <string name="contextmenu_openlink">Apri</string>
@@ -111,7 +111,7 @@
     <string name="browser_bookmarks_page_bookmarks_text">Segnalibri</string>
     <string name="menu_preferences">Impostazioni</string>
     <string name="pref_content_title">Contenuto della pagina</string>
-    <string name="pref_allow_apptabs">Consenti schede multiple per app</string>
+    <string name="pref_allow_apptabs">consenti schede multiple per applicazione</string>
     <string name="pref_content_load_images">Carica immagini</string>
     <string name="pref_content_load_images_summary">Visualizza immagini in pagine web</string>
     <string name="pref_content_block_popups">Blocca pop-up</string>
@@ -246,13 +246,20 @@
     <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_summary">Permetti al browser di precaricare risultati di ricerca molto confidenziali in background</string>
     <string name="pref_data_preload_dialogtitle">Precaricamento risultati di ricerca</string>
-    <string name="pref_link_prefetch_title">Pre-caricamento pagina</string>
+    <string name="pref_link_prefetch_title">Precaricamento pagina</string>
     <string name="pref_link_prefetch_value_never">NEVER</string>
     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_link_prefetch_value_always">ALWAYS</string>
     <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
-    <string name="pref_link_prefetch_summary">Permetti al browser di pre-caricare </string>
-    <string name="pref_link_prefetch_dialogtitle">Pre-caricamento pagina</string>
+    <string name="pref_link_prefetch_summary">Consenti il precarimanto delle pagine in background</string>
+    <string name="pref_link_prefetch_dialogtitle">Precaricamento pagine</string>
+    <string name="pref_video_preload_title">Precaricamento video</string>
+    <string name="pref_video_preload_value_never">NEVER</string>
+    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
+    <string name="pref_video_preload_value_always">ALWAYS</string>
+    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
+    <string name="pref_video_preload_summary">Consenti il precaricamento dei video se il server lo consente</string>
+    <string name="pref_video_preload_dialogtitle">Precaricamento video...</string>
     <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
     <string name="browserFrameFileErrorLabel">Problema di file</string>
     <string name="browserFrameFormResubmitLabel" />
@@ -317,7 +324,7 @@
     <string name="error_console_eval_button_text">Valutare</string>
     <string name="defaultBookmarksUpButton">Segnalibri</string>
     <string name="empty_bookmarks_folder">Nessun segnalibro.</string>
-    <string name="other_bookmarks">Altri preferiti</string>
+    <string name="other_bookmarks">Altri segnalibri</string>
     <string name="rlz_access_point">Y1</string>
     <string name="account_chooser_dialog_title">Scegli account</string>
     <string name="import_bookmarks_dialog_title">"Sincronizza con l'account Google"</string>
@@ -370,7 +377,7 @@
     <string name="multi_select_title">%1$s oggetto(i) selezionato(i)</string>
     <string name="delete_multi_bookmarks_alert_title">Sicuro di voler eliminare %1$s?</string>
     <string name="add_bookmark">Aggiungi segnalibro</string>
-    <string name="add_bookmark_to_home_screen">Aggiungi alla home</string>
+    <string name="send_bookmark_to_home_screen">Invia alla Home</string>
     <string name="bookmark_title">Etichetta</string>
     <string name="bookmark_url">Url</string>
     <string name="bookmark_add_to">Aggiungi a</string>
@@ -401,15 +408,13 @@
     <string name="exported_bookmark_file_name">Miei favoriti</string>
     <string name="import_bookmark">Importa segnalibri</string>
     <string name="export_bookmark">Esporta segnalibri</string>
-    <string name="miui_yellowpage_category">Categoria</string>
-    <string name="miui_yellowpage_site">Sito</string>
     <string name="accessibility_button_goto">Vai</string>
     <string name="contextmenu_download_image_as">Salva immagine come</string>
     <string name="pref_ua_title">Gestione User Agent</string>
     <string name="pref_ua_string">Stringa User Agent</string>
     <string name="pref_ua_mione_entry">Mi-One</string>
     <string name="pref_ua_mione_value">6</string>
-    <string name="dump_counters">Dump contatori V8</string>
+    <string name="dump_counters">Dump V8 counters</string>
     <string name="dump_dom_tree">Dump albero DOM nel file</string>
     <string name="dump_render_tree">Dump render albero nel file</string>
     <string name="dump_display_tree">Dump visualizzazione albero nel file</string>
@@ -453,9 +458,12 @@
     <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo</string>
     <string name="search_bing">Bing</string>
-    <string name="MIUI_homepage">MIUI Home</string>
-    <string name="manage_feature_permissions">Gestisci Permessi</string>
+    <string name="MIUI_startpage">MIUI Home</string>
+    <string name="accessibility_button_tabs">Schede</string>
+    <string name="accessibility_button_larger">Più grande</string>
+    <string name="accessibility_button_smaller">Più piccolo</string>
+    <string name="accessibility_button_bookmark">Segnalibro</string>
     <string name="find_on_page">Trova nella pagina</string>
-    <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
-    <string name="readmodelist_bookmarks">_readinglist_in_database_</string>
+    <string name="selection_all">Seleziona tutto</string>
+    <string name="url_copy_done">Url copiata</string>
 </resources>

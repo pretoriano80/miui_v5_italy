@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="yahoo_uk">
-        <item>Yahoo! UK &amp;amp; Ireland</item>
+ <string-array name="yahoo_uk">
+        <item>Yahoo! UK &amp;amp;amp; Ireland</item>
         <item>uk.yahoo.com</item>
         <item>http://uk.search.yahoo.com/favicon.ico</item>
-        <item>http://uk.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
+        <item>http://uk.search.yahoo.com/search?ei={inputEncoding}&amp;amp;amp;fr=crmas&amp;amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://uk-sayt.ff.search.yahoo.com/gossip-uk-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
+        <item>http://uk-sayt.ff.search.yahoo.com/gossip-uk-sayt?output=fxjson&amp;amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="yahoo_jp">
         <item>Yahoo! JAPAN</item>
@@ -686,7 +686,7 @@
         <item>http://www.bing.com/s/wlflag.ico</item>
         <item>http://www.bing.com/search?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;amp;language={language}</item>
     </string-array>
     <string-array name="netsprint">
         <item>NetSprint</item>
@@ -700,17 +700,17 @@
         <item>네이버</item>
         <item>naver.com</item>
         <item>http://search.naver.com/favicon.ico</item>
-        <item>http://search.naver.com/search.naver?ie={inputEncoding}&amp;amp;query={searchTerms}</item>
+        <item>http://search.naver.com/search.naver?ie={inputEncoding}&amp;amp;amp;query={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ac.search.naver.com/autocompl?m=s&amp;amp;ie={inputEncoding}&amp;amp;oe=utf-8&amp;amp;q={searchTerms}</item>
+        <item>http://ac.search.naver.com/autocompl?m=s&amp;amp;amp;ie={inputEncoding}&amp;amp;amp;oe=utf-8&amp;amp;amp;q={searchTerms}</item>
     </string-array>
     <string-array name="bing_en_ZA">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=en-ZA&amp;amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=en-ZA&amp;amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;amp;language={language}</item>
     </string-array>
     <array name="bookmark_preloads">
         <item>@raw/favicon_google</item>
@@ -759,7 +759,6 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Pagina corrente</item>
-        <item>MIUI Home</item>
         <item>Pagina vuota</item>
         <item>Pagina default</item>
         <item>Siti più visitati</item>
@@ -836,6 +835,26 @@
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
     </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Mai</item>
+        <item>Solo su WiFi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>@string/pref_link_prefetch_value_never</item>
+        <item>@string/pref_link_prefetch_value_wifi_only</item>
+        <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Mai</item>
+        <item>Solo su WiFi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_video_preload_values">
+        <item>@string/pref_video_preload_value_never</item>
+        <item>@string/pref_video_preload_value_wifi_only</item>
+        <item>@string/pref_video_preload_value_always</item>
+    </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
@@ -866,6 +885,14 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
+    <string-array name="sogou">
+        <item>搜狗</item>
+        <item>sogou.com</item>
+        <item>http://wap.sogou.com/favicon.ico</item>
+        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;amp;amp;pid=xiaomiyidong</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;amp;wd={searchTerms}</item>
+    </string-array>
     <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
         <item>@raw/zh_thumb_xiaomi_bbs</item>
@@ -882,11 +909,26 @@
         <item>@raw/zh_favicon_163</item>
         <item>@raw/zh_thumb_163</item>
     </array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google_list_item</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo_list_item</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing_list_item</item>
+        <item>bing</item>
+    </string-array>    
     <string-array name="bookmarks_zh">
         <item>小米论坛</item>
         <item>http://bbs.xiaomi.com/</item>
         <item>百度</item>
-        <item>http://m.baidu.com/?from=1269a/</item>
+        <item>http://m.baidu.com/?from=1269a</item>
         <item>谷歌</item>
         <item>http://www.google.com.hk/</item>
         <item>新浪</item>
