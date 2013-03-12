@@ -457,7 +457,7 @@
     <string name="return_to_me_message">Si prega di riportare al proprietario.</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Apri impostazioni Wi-Fi</string>
-    <string name="lock_screen_date">d MMMM EEEE</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="unlockscreen_low_battery">Collega il caricabatteria</string>
     <string name="send">Invia</string>
     <string name="share">Condividi</string>

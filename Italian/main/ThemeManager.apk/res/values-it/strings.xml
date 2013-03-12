@@ -127,8 +127,7 @@
     <string name="resource_price_unit">Crediti MI</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">Stato scheda SD modificato</string>
-    <string name="sdcard_status_changed_dialog_message">"uscita in corso.
-Riaprire questa applicazione per aggiornare la disponibilità."</string>
+    <string name="sdcard_status_changed_dialog_message">Uscita in corso. Riaprire questa applicazione per aggiornare la disponibilità.</string>
     <string name="resource_mute">Nessuna</string>
     <string name="resource_default">Suoneria predefinita</string>
     <string name="resource_ringtone_default">Suonerie</string>

@@ -90,11 +90,8 @@
     <string name="find_device_notice_p3">per localizzarlo, bloccarlo o cancellarne i dati</string>
     <string name="i_know">OK</string>
     <string name="find_device_disabled_title">Localizzazione terminale disabilitata</string>
-    <string name="find_device_disabled_notice">"Puoi riaprire Trova il Tuo Telefono da
-Impostazioni -> Account e Sinc.
--> xiaomi account"</string>
-    <string name="user_agreement_p1">Accedendo accetti
- "</string>
+    <string name="find_device_disabled_notice">Puoi riaprire Trova il Tuo Telefono da Impostazioni -> Account e Sinc.-> xiaomi account</string>
+    <string name="user_agreement_p1">Accedendo accetti</string>
     <string name="user_agreement_p2">Termini e Condizioni del servizio Xiaomi</string>
     <string name="user_agreement_p3"> e </string>
     <string name="user_agreement_p4">la Regolamentazione sulla Privacy</string>
@@ -215,4 +212,19 @@ Impostazioni -> Account e Sinc.
     <string name="mibi_license_title">Accordo Utente Crediti MI</string>
     <string name="mibi_license_message">"Servizio Mi Credit Xiaomi. Premendo OK dichiari di essere d'accordo con %1$s".</string>
     <string name="mibi_license_message_span">Accordo Utente Crediti MI</string>
+    <string name="add_weibo_account">Aggiungi account</string>
+    <string name="bind">Autorizza</string>
+    <string name="bind_description">Consenti sincronizzazione con contatti telefono</string>
+    <string name="bind_sina_weibo">AutorizzaSina Weibo</string>
+    <string name="bind_weibo_description">Trova contatti, amici ed altre informazioni su tuo telefono direttamente dal tuo account</string>
+    <string name="binding_behavior_error">Errore di autorizzazione !</string>
+    <string name="error_frozen_summary">Il tuo account è stato bloccato</string>
+    <string name="error_frozen_title">Account bloccato!</string>
+    <string name="frozen">(Bloccato)</string>
+    <string name="imported_contacts">%s contatti importati</string>
+    <string name="nobind">Non autorizzato</string>
+    <string name="sina_weibo">Sina Weibo</string>
+    <string name="unbind">revoca autorizzazione</string>
+    <string name="update_contacts">Aggiorna contatti</string>
+    <string name="update_contacts_description">Aggiorna i tuoi contatti ed altre informazioni</string>
 </resources>

@@ -146,9 +146,7 @@
     <string name="Dashboard_Perm_SU_Desc">Controllo di %1$d apps per i Permessi di ROOT</string>
     <string name="Dashboard_Perm_SU_Disabled">Permessi di ROOT disabilitati</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">I permessi di ROOT non sono disponibili nelle versioni MIUI Stable</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Concedere i permessi di ROOT ad applicazioni di terze parti potrebbe causare instabilità di sistema, perdite di dati personali, danni al sistema o hardware. 
-
-Passare ad una versione MIUI Developer per abilitare i permessi di ROOT."</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Concedere i permessi di ROOT ad applicazioni di terze parti potrebbe causare instabilità di sistema, perdite di dati personali, danni al sistema o hardware. Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Scarica MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.nexus-lab.com/miui-rom-italian-packs/</string>
     <string name="Dashboard_Perm_HIPS_Switch">Controllo Autorizzazioni</string>
@@ -187,4 +185,5 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT."</strin
     <string name="SysOpt_Boost_AutoStart">Permessi avvio automatico</string>
     <string name="Su_Enable_Dialog">%1$s sta richiedendo i Permessi di ROOT che sono stati disabilitati di default per la sicurezza del sistema. Se vuoi abilitarli vai nelle impostazioni di Gestione Autorizzazioni.</string>
     <string name="Su_Unavailable">I permessi di ROOT sono disabilitati nella versione stable di MIUI (JBL). Installa la versione MIUI developer (www.miui.it) per avere i Permessi di ROOT attivi.</string>
+    <string name="HIPS_Perm_Title">Titolo</string>
 </resources>

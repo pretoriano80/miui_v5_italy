@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <string-array name="yahoo_uk">
+    <string-array name="yahoo_uk">
         <item>Yahoo! UK &amp;amp;amp; Ireland</item>
         <item>uk.yahoo.com</item>
         <item>http://uk.search.yahoo.com/favicon.ico</item>
@@ -835,26 +835,6 @@
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
     </string-array>
-    <string-array name="pref_link_prefetch_choices">
-        <item>Mai</item>
-        <item>Solo su WiFi</item>
-        <item>Sempre</item>
-    </string-array>
-    <string-array name="pref_link_prefetch_values">
-        <item>@string/pref_link_prefetch_value_never</item>
-        <item>@string/pref_link_prefetch_value_wifi_only</item>
-        <item>@string/pref_link_prefetch_value_always</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Mai</item>
-        <item>Solo su WiFi</item>
-        <item>Sempre</item>
-    </string-array>
-    <string-array name="pref_video_preload_values">
-        <item>@string/pref_video_preload_value_never</item>
-        <item>@string/pref_video_preload_value_wifi_only</item>
-        <item>@string/pref_video_preload_value_always</item>
-    </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
@@ -885,14 +865,6 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
-    <string-array name="sogou">
-        <item>搜狗</item>
-        <item>sogou.com</item>
-        <item>http://wap.sogou.com/favicon.ico</item>
-        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;amp;amp;pid=xiaomiyidong</item>
-        <item>UTF-8</item>
-        <item>http://suggestion.baidu.com/su?p=3&amp;amp;amp;wd={searchTerms}</item>
-    </string-array>
     <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
         <item>@raw/zh_thumb_xiaomi_bbs</item>
@@ -909,26 +881,11 @@
         <item>@raw/zh_favicon_163</item>
         <item>@raw/zh_thumb_163</item>
     </array>
-    <string-array name="google_in_list">
-        <item>search_google</item>
-        <item>ic_search_engine_google_list_item</item>
-        <item>google</item>
-    </string-array>
-    <string-array name="yahoo_in_list">
-        <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo_list_item</item>
-        <item>yahoo</item>
-    </string-array>
-    <string-array name="bing_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing_list_item</item>
-        <item>bing</item>
-    </string-array>    
     <string-array name="bookmarks_zh">
         <item>小米论坛</item>
         <item>http://bbs.xiaomi.com/</item>
         <item>百度</item>
-        <item>http://m.baidu.com/?from=1269a</item>
+        <item>http://m.baidu.com/?from=1269a/</item>
         <item>谷歌</item>
         <item>http://www.google.com.hk/</item>
         <item>新浪</item>

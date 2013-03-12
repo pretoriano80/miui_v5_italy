@@ -14,9 +14,10 @@
     <string name="preview_country_lbl">Nazione</string>
     <string name="preview_carrier_lbl">Operatore</string>
     <string name="preview_android_lbl">Versione Android</string>
-    <string name="preview_language_lbl">Langua</string>
+    <string name="preview_language_lbl">Lingua</string>
     <string name="notification_ticker">Statistiche Inviate</string>
     <string name="notification_title">Statistiche MIUIAndroid</string>
     <string name="notification_desc">Attiva o disattiva Statistiche Anonime</string>
     <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/>Learn More&lt;/a></string>
+    <string name="preview_title">Anteprima</string>
 </resources>

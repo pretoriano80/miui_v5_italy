@@ -122,5 +122,4 @@ Puoi anche annullare questa sveglia."</string>
     <string name="hour_unit">H</string>
     <string name="minute_unit">M</string>
     <string name="alarm_label_hint">Inserisci etichetta sveglia</string>
-    <item type="string" name="APKTOOL_DUMMY_0079">false</item>
 </resources>

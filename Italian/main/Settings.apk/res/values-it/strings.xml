@@ -1765,7 +1765,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_mobile_network_desc">Rete Mobile</string>
     <string name="perm_hips_mobile_network_hint">%1$s applicazioni hanno accesso ad Internet tramite la rete mobile</string>
     <string name="perm_hips_wifi_network">Rete Wi-Fi</string>
-    <string name="perm_hips_wifi_network_desc">Rete Wi-Fi<</string>
+    <string name="perm_hips_wifi_network_desc">Rete Wi-Fi</string>
     <string name="perm_hips_wifi_network_hint">%1$s applicazioni hanno accesso ad Internet tramite connessione Wi-Fi</string>
     <string name="perm_hips_network_unknown_addr">Indirizzo sconosciuto</string>
     <string name="perm_hips_network_mobile_event">Rete mobile in uso</string>
@@ -1839,9 +1839,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_su_desc1">Gestisci Permessi ROOT</string>
     <string name="perm_su_disabled">Permessi di ROOT disabilitati</string>
     <string name="perm_su_disabled_in_stable">Permessi di ROOT non disponibili su MIUI Stable</string>
-    <string name="perm_su_disabled_in_stable_desc">"Concedere Permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni hardware o di sistema.
-
-Passa alla versione MIUI Developer per abilitare i Permessi di ROOT."</string>
+    <string name="perm_su_disabled_in_stable_desc">Concedere Permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni hardware o di sistema. Passa alla versione MIUI Developer per abilitare i Permessi di ROOT.</string>
     <string name="perm_su_disabled_desc">Concedere Permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni hardware o di sistema. Accertati di conoscere il funzionamento dei Permessi di ROOT.</string>
     <string name="perm_su_disabled_in_stable_download">Scarica MIUI</string>
     <string name="perm_hips_switch">Monitor Permessi</string>
@@ -1854,11 +1852,9 @@ Passa alla versione MIUI Developer per abilitare i Permessi di ROOT."</string>
     <string name="perm_auto_start">Gestisci avvio automatico</string>
     <string name="perm_auto_start_desc">Abilita o disabilita</string>
     <string name="perm_hips_disable_title">Monitor Permessi</string>
-    <string name="perm_hips_disable_content">"Disabilitando questa funzione MIUI smetterà di monitorerare le richieste delle applicazioni limitando così la protezione della sicurezza e della privacy.
-Sicuro di volerla disabilitare ?"</string>
+    <string name="perm_hips_disable_content">Disabilitando questa funzione MIUI smetterà di monitorare le richieste delle applicazioni limitando così la protezione della sicurezza e della privacy. Sicuro di volerla disabilitare ?</string>
     <string name="perm_su_enable_title">Permessi di ROOT</string>
-    <string name="perm_su_enable_content">"Abilitando eusta funzione consentirai alle applicazioni di richiedere i Permessi di ROOT.
-Nota: Applicazioni con i permessi di ROOT possono causare instabilità di sistema, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it?"</string>
+    <string name="perm_su_enable_content">"Abilitando qusta funzione consentirai alle applicazioni di richiedere i Permessi di ROOT. Nota: Applicazioni con i permessi di ROOT possono causare instabilità di sistema, perdita di dati personali, danni hardware o di sistema, procedere con precauzione. Sicuro di voler procedere ?</string>
     <string name="perm_log_clear_title">Cancella log</string>
     <string name="perm_log_clear_content">Tutti i rapporti verranno cancellati. Sicuro di voler procedere ?</string>
     <string name="perm_privacy_count">Consentiti: %1$d Negati: %2$d</string>
@@ -1954,6 +1950,11 @@ Conentire avvio automatico ?"</string>
     <string name="screen_timeout_title">Timeout schermo</string>
     <string name="screen_on_proximity_sensor_title">Blocco Automatico</string>
     <string name="screen_on_proximity_sensor_summary">Disabilita le funzioni del telefono quando, ad esempio, il telefono viene tenuto in tasca (attivazione tramite sensore di prossimità).</string>
+    <string name="preferred_launcher_title">Launcher Preferito</string>
+    <string name="preferred_launcher_warning_title">Sostituzione launcher predefinito</string>
+    <string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
+    <string name="preferred_launcher_warning_replace">Replace Launcher</string>
+    <string name="preferred_launcher_warning_use_system">Use default launcher</string>
     <string name="key_settings_title">Impostazioni Tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="menu_key">Tasto Menu</string>
@@ -2265,13 +2266,13 @@ prova in questo modo:
     <string name="clear_activities_summary">Abilita questo programma per alcune operazioni predefinite</string>
     <string name="permission_detail_info">Dettagli permessi</string>
     <string name="permission_detail_info_summary">Tutti i permessi: Sicurezza%1$d，Privati %2$d，Altri%3$d</string>
-    <string name="permission_manage">Permission management</string>
-    <string name="permission_manage_summary">Auto start, privacy, secure permission management</string>
-    <string name="security_relative">Security related</string>
-    <string name="privacy_relative">Privacy related</string>
-    <string name="other_relative">Other permissions</string>
-    <string name="permission_manage_title">%s permission details</string>
-    <string name="filter_apps_cached">Cached</string>
+    <string name="permission_manage">Gestione permessi</string>
+    <string name="permission_manage_summary">Gestione dei permessi per avvio automatico, privacy, sicurezza.</string>
+    <string name="security_relative">Sicurezza</string>
+    <string name="privacy_relative">Privacy</string>
+    <string name="other_relative">Altro</string>
+    <string name="permission_manage_title">%s dettagli permessi</string>
+    <string name="filter_apps_cached">Cache</string>
     <string name="screen">Schermo</string>
     <string name="system">Sistema</string>
     <string name="screen_color_temperature_adjust">Regola temperatura colore</string>
@@ -2294,4 +2295,13 @@ prova in questo modo:
     <string name="private_sms_need_to_unlock">Inserire password SMS privati</string>
     <string name="private_sms_reset_by_account">Accedi al tuo account Xiaomi per ripristinare la password degli SMS privati</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza per creare la password di blocco</string>
+    <string name="perm_privacy_app_count_trust_summary">"Fidati dell'applicazione"</string>
+    <string name="safe_relative">Permessi di sicurezza</string>
+    <string name="mdb_entering">Entra</string>
+    <string name="mdb_restore_cancel">Annulla</string>
+    <string name="mdb_restore_info1">I tuoi dati verranno ripristinati</string>
+    <string name="mdb_restore_info2">Non interrompere la connessione USB</string>
+    <string name="mdb_restore_label">Ripristino Mdb</string>
+    <string name="mdb_restore_mode">Modalità Ripristino</string>
+    <string name="mdb_usb_disconnection_exit">USB disconnessa, ripristino interrotto</string>
 </resources>

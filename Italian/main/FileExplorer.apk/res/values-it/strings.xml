@@ -108,8 +108,7 @@
     <string name="ui_bar_txt_upload_progress">%1$d da caricare</string>
     <string name="ui_main_menu_option_task_manage">Gestione Trasferimenti</string>
     <string name="login_reg_content0">KuaiPan è il tuo archivio Cloud</string>
-    <string name="login_reg_content">"KuaiPan ti permette di archiviare file e sincronizzarli con vari terminali
-come coputer, telefoni ed altro."</string>
+    <string name="login_reg_content">KuaiPan ti permette di archiviare file e sincronizzarli con vari terminali come coputer, telefoni ed altro.</string>
     <string name="start_use_xiaomi_account">Accedi</string>
     <string name="pan_settting">Impostazioni MiDrive</string>
     <string name="xiaomi_account">Account Xiaomi</string>
@@ -126,12 +125,9 @@ come coputer, telefoni ed altro."</string>
     <string name="kuaipan_tech_support">Supporto tecnico offerto da Kingsoft Kuaipan</string>
     <string name="no_tasks">Nessuna attività</string>
     <string name="create_new_folder_failed">Impossibile creare cartella %1$s</string>
-    <string name="user_guide_kuaipan_copy">"Accedi ai tuoi file da vari dispositivi
-utilizzando Kuaipan"</string>
-    <string name="user_guide_upload_to_kuaipan">"Dal tuo telefono,
-copia e incolla semplicemente in Kuaipan"</string>
-    <string name="user_guide_download_other_version">"Puoi anche scaricare Kuaipan
-per il tuo PC o Mac"</string>
+    <string name="user_guide_kuaipan_copy">Accedi ai tuoi file da vari dispositivi utilizzando Kuaipan</string>
+    <string name="user_guide_upload_to_kuaipan">Dal tuo telefono,copia e incolla semplicemente in Kuaipan</string>
+    <string name="user_guide_download_other_version">Puoi anche scaricare Kuaipan per il tuo PC o Mac</string>
     <string name="user_guide_other_version">Scarica varie versioni di Kuaipan</string>
     <string name="upload_file_toolarge_message">%1$d file più grandi di 300M non possono essere caricati. Controlla Gestione Trasferimenti per maggiori dettagli.</string>
     <string name="cution">Suggerimenti</string>
@@ -221,4 +217,10 @@ per il tuo PC o Mac"</string>
     <string name="binding_accout_title">Aggiungi un account KuaiPan già esistente</string>
     <string name="kingsoft_account">Account Kingsoft KuaiPan</string>
     <string name="binded_accout_warning">Attenzione: questa operazione è irreversibile, vuoi continuare?</string>
+    <string name="cancel_cleanup">Annulla pulizia</string>
+    <string name="cleanup_help">Rimuovi file indesiderati nel sistema per liberare spazio</string>
+    <string name="cleanup_tab_app">Pulizia</string>
+    <string name="cleanup_tab_garbage">Pulizia Sistema</string>
+    <string name="menu_item_cleanup">Pulizia File</string>
+    <string name="start_cleanup">Avvi apulizia</string>
 </resources>

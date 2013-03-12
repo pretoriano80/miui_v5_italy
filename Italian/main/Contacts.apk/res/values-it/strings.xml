@@ -193,7 +193,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="description_delete_button">cancella</string>
     <string name="description_digits_edittext">numero da comporre</string>
     <string name="description_contact_photo">foto contatto</string>
-    <string name="description_minus_button">elimina</string>
+    <string name="description_minus_button">meno</string>
+    <string name="description_plus_button">altro</string>
     <string name="description_view_contact_detail">Mostra contatto</string>
     <string name="no_sdcard_message">Nessuna scheda SD rilevata</string>
     <string name="import_from_sim">Importa da scheda SIM</string>
@@ -234,8 +235,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="confirm_export_title">Conferma esportazione</string>
     <string name="confirm_export_message">Esportare la tua lista contatti nel file \"%s\"?</string>
     <string name="exporting_contact_failed_title">Impossibile esportare i dati del contatto</string>
-    <string name="exporting_contact_failed_message">Esportazione dati contatti non riuscita.
- Motivo: \"%s\"</string>
+    <string name="exporting_contact_failed_message">"Esportazione dati contatti non riuscita. Motivo: \"%s\"</string>
     <string name="fail_reason_no_exportable_contact">Nessun contatto esportabile</string>
     <string name="fail_reason_too_many_vcard">Troppi dati vCard sulla scheda SD</string>
     <string name="fail_reason_too_long_filename">Il nome file richiesto è troppo lungo (\"%s\")</string>
@@ -250,7 +250,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="composer_not_initialized">Il compositore di vCard non è correttamente inizializzato</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Impossibile aprire \"%s\": %s</string>
     <string name="exporting_contact_list_progress" formatted="false">%s contatti su %s</string>
-    <string name="cancel_import_confirmation_message">"Sicuro di voler annullare l'importazione di %s?"</string>
+    <string name="cancel_import_confirmation_message">"Annullare l'importazione di %s?"</string>
+    <string name="cancel_export_confirmation_message">"Annulla l'esportazione di %s?"</string>
     <string name="cancel_vcard_import_or_export_failed">Impossibile annullare importazione/esportazione vCard</string>
     <string name="search_settings_description">I nomi dei tuoi contatti</string>
     <string name="add_2sec_pause">Aggiungi pausa di 2 secondi</string>
@@ -516,7 +517,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="keep_local">Mantieni in locale</string>
     <string name="add_account">Aggiungi account</string>
     <string name="add_new_account">Aggiungi nuovo account</string>
- <string name="dialog_phone_call_prohibited_message">Chiamate non inviata</string>
+    <string name="dialog_phone_call_prohibited_message">Chiamate non inviata</string>
     <string name="dialog_voicemail_not_ready_message">Per impostare la segreteria, vai in Menu > Impostazioni.</string>
     <string name="dialog_voicemail_airplane_mode_message">To call voicemail, first turn off Airplane mode.</string>
     <string name="action_menu_overflow_description">More options</string>
@@ -650,9 +651,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_title">Impostazione automatica foto</string>
     <string name="pref_key_photo_word_summary">Imposta automaticamente le foto per i contatti cohe ne sono privi..</string>
-    <string name="remove_duplicate">MIUI ti aiuterà a trovare e unire i contatti doppi, ci contatti non verranno uniti automaticamente, puoi unirli manualmente
-
-Il completamento della procedura automatica di unione potrebbe impiegare un tempo prolungato.."</string>
+    <string name="remove_duplicate">MIUI ti aiuterà a trovare e unire i contatti doppi, ci contatti non verranno uniti automaticamente, puoi unirli manualmente. Il completamento della procedura automatica di unione potrebbe impiegare un tempo prolungato..</string>
     <string name="ic_menu_back">Indietro</string>
     <string name="preference_display">Mostra</string>
     <string name="preference_simple_mode_title">Modalità semplice</string>
@@ -792,7 +791,7 @@ Il completamento della procedura automatica di unione potrebbe impiegare un temp
     <string name="device_pairing_dialog_title">Accoppiameno dispositivo</string>
     <string name="device_pairing_dialog_message">"Accoppiamento dispositivo (potrebbe essere necessaria una conferma sull'altro telefono)…"</string>
     <string name="device_paired_dialog_title">Dispositivo accoppiato, recupero contatti</string>
-    <string name="device_paired_dialog_message">Dispositivo accoppiato, recupero contatti (potrebbe essere necessaria una conferma sull'altro telefono)…</string>
+    <string name="device_paired_dialog_message">"Dispositivo accoppiato, recupero contatti (potrebbe essere necessaria una conferma sull'altro telefono)…"</string>
     <string name="no_contacts_dialog_title">Contatto non trovato</string>
     <string name="no_contacts_dialog_message">Persona non trovata nei tuoi Contatti. Potrebbe essere presente nei contatti SIM, in questo caso importa le informazioni dalla SIM al tuo telefono.</string>
     <string name="cancel_import_dialog_title">Interrompi importazione</string>
@@ -814,14 +813,12 @@ Il completamento della procedura automatica di unione potrebbe impiegare un temp
     <string name="hint_distance">mantieni la distanza</string>
     <string name="hint_more_contact">unisci contatti quando risultano doppi</string>
     <string name="device_import_account_dialog_title">Seleziona account per importazione</string>
-    <string name="device_import_account_dialog_title_suffix">"
-(trovati %1$s contatti)"</string>
+    <string name="device_import_account_dialog_title_suffix">(trovati %1$s contatti)</string>
     <string name="device_import_local_account">Account locale</string>
     <string name="import_name">nome</string>
     <string name="import_percent">0%</string>
     <string name="percent_sign">%</string>
-    <string name="ret_sign">"
-"</string>
+    <string name="ret_sign">" "</string>
     <string name="checkhint">controlla altri telefoni</string>
     <string name="prepare_import">preparazione importazione</string>
     <string name="device_import_message">Importazione</string>

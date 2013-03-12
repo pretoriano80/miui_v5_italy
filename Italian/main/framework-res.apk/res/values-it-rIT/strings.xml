@@ -505,7 +505,7 @@ Tentativi rimasti:"</string>
     <string name="permdesc_readContacts">"Consente la lettura da parte di un'applicazione di tutti i dati (gli indirizzi) di contatto memorizzati sul telefono. Le applicazioni dannose possono sfruttare questa possibilità per inviare i dati ad altre persone."</string>
     <string name="permlab_writeContacts">scrittura dati di contatto</string>
     <string name="permdesc_writeContacts">"Consente a un'applicazione di modificare i dati (gli indirizzi) di contatto memorizzati sul telefono. Le applicazioni dannose possono sfruttare questa possibilità per cancellare o modificare i dati di contatto."</string>
-    <string name="permlab_readCallLog">read call log</string>
+    <string name="permlab_readCallLog">lettura registro chiamate</string>
     <string name="permdesc_readCallLog">"Allows the app to read your phone's call log, including data about incoming and outgoing calls. This permission allows apps to save your call log data, and malicious apps may share call log data without your knowledge."</string>
     <string name="permlab_writeCallLog">write call log</string>
     <string name="permdesc_writeCallLog">"Allows the app to modify your phone's call log, including data about incoming and outgoing calls. Malicious apps may use this to erase or modify your call log."</string>
