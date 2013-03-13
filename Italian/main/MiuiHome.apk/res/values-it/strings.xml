@@ -71,7 +71,7 @@
     <string name="reset_scene_prompt">La scena verrà ripristinata al layout predefinito</string>
     <string name="preferences_title">Preferenze</string>
     <string name="preferences_general_title">Impostazioni Generali</string>
-    <string name="pref_keep_in_memory_title">Mantieni in Memoria</string>
+    <string name="pref_keep_in_memory_title">Mantieni in memoria</string>
     <string name="pref_keep_in_memory_summary">Mantieni applicazione in memoria, in questo modo non verrà terminata.</string>
     <string name="pref_render_in_truecolor_title">Grafica Alta Definizione</string>
     <string name="pref_render_in_truecolor_summary">Attiva miglioramenti prestazioni.</string>

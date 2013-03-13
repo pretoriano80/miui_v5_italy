@@ -197,8 +197,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="description_plus_button">altro</string>
     <string name="description_view_contact_detail">Mostra contatto</string>
     <string name="no_sdcard_message">Nessuna scheda SD rilevata</string>
-    <string name="import_from_sim">Importa da scheda SIM</string>
-    <string name="import_from_sdcard">Importa da scheda SD</string>
+    <string name="import_from_sim">Importare da scheda SIM</string>
+    <string name="import_from_sdcard">Importare da scheda SD</string>
     <string name="export_to_sdcard">Esporta su scheda SD</string>
     <string name="share_visible_contacts">Condividi contatti visibili</string>
     <string name="import_one_vcard_string">Importa una vCard</string>
@@ -442,10 +442,10 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="date_year_toggle">Anno</string>
     <string name="social_widget_label">Contatto</string>
     <string name="social_widget_loading">Caricameno …</string>
-    <string name="contacts_unavailable_create_contact">Crea nuovo contatto</string>
-    <string name="contacts_unavailable_add_account">Accedi ad un account</string>
-    <string name="contacts_unavailable_import_contacts">Importa contatti da file</string>
-    <string name="create_group_dialog_title">Crea nuovo gruppo</string>
+    <string name="contacts_unavailable_create_contact">Creare nuovo contatto</string>
+    <string name="contacts_unavailable_add_account">Accedere ad un account</string>
+    <string name="contacts_unavailable_import_contacts">Importare contatti da file</string>
+    <string name="create_group_dialog_title">Creare nuovo gruppo</string>
     <string name="create_group_item_label">[Crea nuovo gruppo]</string>
     <string name="delete_group_dialog_title">Elimina gruppo</string>
     <string name="delete_group_dialog_message">"Sicuro di voler eliminare il gruppo '%1$s'? (I singoli contatti non verranno eliminati.)"</string>
@@ -579,7 +579,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="unknown_contact_name">Contatto sconosciuto</string>
     <string name="contactDetailCalllog">Registro chiamate</string>
     <string name="add_blacklist">Aggiungi alla Blacklist</string>   
-    <string name="empty_divider_title">Puoi</string>
+    <string name="empty_divider_title">Puoi:</string>
     <string name="noContactHelpTextAccountsInfo">Sincronizza Google, contatti Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina dati salvati nell'account Xiaomi e su MiTalk"</string>
    <string name="recent_contacts_label">Recenti</string>
@@ -614,7 +614,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="remind_btn_sync_now">Sincronizza Adesso</string>
     <string name="remind_btn_ignore">Ignora</string>
     <string name="display_only_phones">Mostra contatti solo con numero telefonico</string>
-    <string name="display_sim_contacts">Mostra contatti SIM</string>
+    <string name="display_sim_contacts">Mostrare contatti SIM</string>
     <string name="preference_remove_duplicate">Unisci contatti doppi</string>
     <string name="scan_merge">Ricerca contatti doppi…</string>
     <string name="scan_duplicate_message">Contatti con dati completamente duplicati %1$d</string>
@@ -650,7 +650,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="pref_key_rebuild_t9_index_message">Consenti di correggere gli errori nellaricerca contatti </string>
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_title">Impostazione automatica foto</string>
-    <string name="pref_key_photo_word_summary">Imposta automaticamente le foto per i contatti cohe ne sono privi..</string>
+    <string name="pref_key_photo_word_summary">Imposta automaticamente le foto per i contatti che ne sono privi</string>
     <string name="remove_duplicate">MIUI ti aiuterà a trovare e unire i contatti doppi, ci contatti non verranno uniti automaticamente, puoi unirli manualmente. Il completamento della procedura automatica di unione potrebbe impiegare un tempo prolungato..</string>
     <string name="ic_menu_back">Indietro</string>
     <string name="preference_display">Mostra</string>
@@ -712,7 +712,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="ringLabelsGroup">Suoneria</string>
     <string name="default_ringtone">Suoneria predefinita</string>
     <string name="recent_number">Recente</string>
-    <string name="menu_new_favorite_action_bar">Nuova</string>
+    <string name="menu_new_favorite_action_bar">Nuovo</string>
     <string name="click_close">Tocca lo schermo per chiudere</string>
     <string name="phone_primary">Principale</string>
     <string name="phone_info_divider">"  |  "</string>
@@ -774,7 +774,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="smart_group_frequency_4">Oltre 6 mesi</string>
     <string name="contact_detail_calllog_call_record_tips">Registrazione chiamata</string>
     <string name="contact_detail_calllog_call_note_tips">Nota chiamata</string>
-    <string name="import_from_other_phone">Importa da latro telefono</string>
+    <string name="import_from_other_phone">Importare da altro telefono</string>
     <string name="device_brand_title">seleziona marca telefono</string>
     <string name="device_version_title">seleziona modello telefono</string>
     <string name="device_list_title">seleziona telefono corrispondente</string>
