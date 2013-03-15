@@ -457,4 +457,6 @@
     <string name="find_on_page">Trova nella pagina</string>
     <string name="selection_all">Seleziona tutto</string>
     <string name="url_copy_done">Url copiata</string>
+    <string name="pref_setting_title">Impostazioni pagina</string>
+    <string name="pref_general_setting_title">Impostazioni</string>
 </resources>

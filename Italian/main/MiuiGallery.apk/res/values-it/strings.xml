@@ -94,7 +94,6 @@
     <string name="group_by_faces">Per persone</string>
     <string name="group_by_album">Per album</string>
     <string name="untagged">Senza tag</string>
-    <string name="group_by_size">Per grandezza</string>
     <string name="no_location">Nessun luogo</string>
     <string name="no_connectivity">Impossibile identificare alcune località a causa di problemi di rete.</string>
     <string name="sync_album_error">Download delle foto in questo album non riuscito. Riprova più tardi.</string>
@@ -283,4 +282,6 @@
     <string name="cloud_tab_albums">Album</string>
     <string name="cloud_tab_locations">Posizioni</string>
     <string name="cloud_album_set_create">Nuovo</string>
+    <string name="big_screen_alertdialog_title">Proiettore</string>
+    <string name="group_by_size">Per dimensione</string>
 </resources>

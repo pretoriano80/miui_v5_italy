@@ -6,6 +6,9 @@
     <string name="alarm_message_12_hour_formate">aah:mm</string>
     <string name="alwaysUsePrompt">Imposta come predefinito (non chiedere più)</string>
     <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
+    <string name="today">Oggi</string>
+    <string name="tomorrow">Domani</string>
+    <string name="yesterday">Ieri</string>
     <string name="arbor_day" />
     <string name="autumn_begins" />
     <string name="autumn_equinox" />
@@ -339,7 +342,6 @@
     <string name="month_of_september">Set</string>
     <string name="multi_select_title">%1$s selezionati</string>
     <string name="national_day" />
-    <string name="national_father_day" />
     <string name="never">Mai</string>
     <string name="new_years_day" />
     <string name="no_sim">SIM non inserita, servizio non disponibile</string>

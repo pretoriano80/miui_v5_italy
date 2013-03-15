@@ -832,4 +832,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title">Importazione contatti sina weibo…</string>
     <string name="import_weibo_notification_title_done">Importazione contatti sina weibo completata</string>
+    <string name="add_xiaomi_account_dialog_title">Seleziona account</string>
+    <string name="add_xiaomi_account_dialog_msg">'Per un'esperienza ottimale, puoi usare il tuo account Xiaomi per sincronizzare ed eseguire il backup dei contatti e gestirli dal tuo computer."</string>
+    <string name="add_xiaomi_account_dialog_btn">Utilizza account Xiaomi</string>
+    <string name="keep_local_btn">Salva solo sul telefono</string>
 </resources>

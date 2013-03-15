@@ -19,10 +19,7 @@ _________________
 - ale8530
 - ingbrzy
 - ibotpeaches
-
-#####Also thanks to:
-
-- espetrunk (www.miui.es)
+- espetrunk
 - salvestro
 - raimondomartire
 - Francko76

@@ -759,6 +759,7 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Pagina corrente</item>
+        <item>MIUI home</item>
         <item>Pagina vuota</item>
         <item>Pagina default</item>
         <item>Siti più visitati</item>

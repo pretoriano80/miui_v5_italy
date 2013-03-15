@@ -119,7 +119,8 @@
     <string name="button_pay">Paga</string>
     <string name="button_recharge">Ricarica</string>
     <string name="balance">Balance: %1$s Crediti MI</string>
-    <string name="mili_center">Centro creditiMI</string>
+    <string name="frozen">(Bloccato)</string>
+    <string name="mili_center">Crediti MI</string>
     <string name="error_mili_title">Crediti MI insufficienti</string>
     <string name="error_network_title">Errore di rete</string>
     <string name="error_network_summary">Si è verificato un errore di rete, controlla che la rete sia attiva e prova di nuovo</string>
@@ -136,6 +137,8 @@
     <string name="error_illegal_order_title">"Errore nell'ordine!"</string>
     <string name="error_illegal_order_summary">"Si è verificato un errore durante l'elaborazione del tuo ordine, riprovare più tardi"</string>
     <string name="error_verify_summary">"L'applicazione non ha i permessi per richiedere questo servizio"</string>
+    <string name="error_frozen_title">Account bloccato!</string>
+    <string name="error_frozen_summary">Il tuo account è stato bloccato</string>
     <string name="title_recharge">Ricarica Crediti MI</string>
     <string name="recharge_prepaid_title">Carte di ricarica prepagate</string>
     <string name="recharge_prepaid_summary">Sono supportate carte prepagate di China Mobile, China Unicom e China Telecom</string>
@@ -143,9 +146,12 @@
     <string name="recharge_alipay_summary">Ricarica Alipay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_tenpay_summary">Supporto ricarica Tenpay</string>
+    <string name="recharge_voucher_title">Vouche Crediti MI</string>
+    <string name="recharge_voucher_summary">Support for MiCredit top-up</string>
     <string name="recharge_hint">1 RMB equivale a 1 Credito MI</string>
     <string name="title_prepaid">Ricarica con carta</string>
     <string name="title_paytool">Top-up via %1$s</string>
+    <string name="title_voucher">Ricarica usando Voucher per Crediti MI</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
     <string name="recharge_denomination">%1$s RMB</string>
@@ -179,6 +185,20 @@
     <string name="prepaid_error_password">Inserici correttamente il codice della carta prepagata</string>
     <string name="prepaid_error_card_length">Inserisci il numero corretto di carta prepagata o la password</string>
     <string name="progress_prepaid_creating">Generazione ordine ricarica...</string>
+    <string name="voucher_input">Inserisci</string>
+    <string name="voucher_exchange">Cambia</string>
+    <string name="voucher_exchange_count">Vouchers utilizzato (%1$s)</string>
+    <string name="voucher_edit_hint">Password:</string>
+    <string name="voucher_edit_limit">Modifica limite</string>
+    <string name="voucher_denom">Crediti MI</string>
+    <string name="voucher_expire">%1$s-%2$s-%3$s scaduto</string>
+    <string name="voucher_empty">Nessun dato sui Crediti MI archiviato</string>
+    <string name="voucher_btn_exchange">Usa voucher</string>
+    <string name="voucher_btn_has_exchanged">Voucher recuperato</string>
+    <string name="voucher_btn_exchange_error">Non valido</string>
+    <string name="voucher_exchange_success">%1$s Crediti MI recuperat correttamente</string>
+    <string name="voucher_error_code">Si è verificato un errore con il tuo codice Vaucher per Crediti MI</string>
+    <string name="progress_voucher_creating">Aggiornamento Crediti MI...</string>
     <string name="progress_submit_title">Richiesta di ricarica inviata</string>
     <string name="progress_submit_summary">Ricarica: %1$s RMB</string>
     <string name="progress_submit_hint">Attendere circa 3 minuti</string>
@@ -193,6 +213,7 @@
     <string name="progress_error_server">Errore server, riprovare più tardi.</string>
     <string name="progress_error_network">Impossibile connettersi alla rete, verificare lo state della rete.</string>
     <string name="progress_error_waiting">Non ancora aggiornato, riprovare più tardi!</string>
+    <string name="progress_error_auth">Errore di autenticazione, provare di nuovo.</string>
     <string name="progress_warning_contact_server">"Il messaggio non è stato inviato ma sarà inoltrato tra poco:
    1. Contatta il Servizio Clienti a: %1$s
    2. Comunica questo numero seriale: %2$s"</string>
@@ -206,9 +227,11 @@
     <string name="recharge_record">Cronologia Ricariche</string>
     <string name="pay_record">Cronologia Pagamenti</string>
     <string name="btn_mili_center_recharge">Ricarica Crediti MI</string>
+    <string name="btn_voucher">Carta Crediti MI (%1$s)</string>
     <string name="fee">%1$s Crediti MI</string>
     <string name="recharge_record_empty">cronologia ricariche vuota</string>
     <string name="pay_record_empty">Cronologia pagamenti vuota</string>
+    <string name="progress_downloading">Download in corso...</string>
     <string name="mibi_license_title">Accordo Utente Crediti MI</string>
     <string name="mibi_license_message">"Servizio Mi Credit Xiaomi. Premendo OK dichiari di essere d'accordo con %1$s".</string>
     <string name="mibi_license_message_span">Accordo Utente Crediti MI</string>
@@ -218,9 +241,6 @@
     <string name="bind_sina_weibo">AutorizzaSina Weibo</string>
     <string name="bind_weibo_description">Trova contatti, amici ed altre informazioni su tuo telefono direttamente dal tuo account</string>
     <string name="binding_behavior_error">Errore di autorizzazione !</string>
-    <string name="error_frozen_summary">Il tuo account è stato bloccato</string>
-    <string name="error_frozen_title">Account bloccato!</string>
-    <string name="frozen">(Bloccato)</string>
     <string name="imported_contacts">%s contatti importati</string>
     <string name="nobind">Non autorizzato</string>
     <string name="sina_weibo">Sina Weibo</string>
