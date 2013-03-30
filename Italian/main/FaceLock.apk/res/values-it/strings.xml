@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Face Unlock</string>
-    <string name="setup_app_name">Imposta Sblocco col Sorriso</string>
+    <string name="setup_app_name">Imposta sblocco col sorriso</string>
     <string name="enrollment_continue_label">Continua</string>
     <string name="enrollment_done_label">Fatto</string>
     <string name="enrollment_initializing">Avvio...</string>
-    <string name="enrollment_initialization_error">Impossibile avviare Sblocco col sorriso</string>
+    <string name="enrollment_initialization_error">Impossibile avviare sblocco col sorriso</string>
     <string name="enrollment_start_message">Metti il viso qui.</string>
     <string name="error_no_face">Mostra il tuo volto</string>
     <string name="enrollment_missing_landmarks">Mostra occhi, naso e bocca.</string>
@@ -14,11 +14,11 @@
     <string name="enrollment_face_found">Non muoverti...</string>
     <string name="enrollment_face_found_status">%d</string>
     <string name="enrollment_done">Il volto è stato acquisito.</string>
-    <string name="tutorial_app_name">Informazioni su Sblocco col sorriso</string>
+    <string name="tutorial_app_name">Informazioni su sblocco col sorriso</string>
     <string name="tutorial_header">Sblocca il telefono con uno sguardo.</string>
     <string name="tutorial_info_text">"Tieni presente quanto segue:
 
- "<li><ul>"Lo Sblocco col Sorriso è meno sicuro di una sequenza, di un PIN o di una password password.
+ "<li><ul>"Lo Sblocco col sorriso è meno sicuro di una sequenza, di un PIN o di una password password.
 
  "<li>Una persona che ti assomiglia potrebbe sbloccare il telefono.</li>"
 
@@ -50,8 +50,8 @@
  "</ul></li>"
 Tieni il telefono all\'altezza degli occhi. "</string>
     <string name="addtosetup_continue_label">Continua</string>
-    <string name="service_app_name">Servizio Sblocco col sorriso</string>
-    <string name="service_starting_up">Avvio Sblocco col sorriso...</string>
+    <string name="service_app_name">Servizio sblocco col sorriso</string>
+    <string name="service_starting_up">Avvio sblocco col sorriso...</string>
     <string name="service_default_info">Sblocco col sorriso</string>
     <string name="service_identify">Identificazione...</string>
     <string name="service_match_no_me">Bentornato!</string>

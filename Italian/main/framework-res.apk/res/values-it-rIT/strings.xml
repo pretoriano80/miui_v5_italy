@@ -28,7 +28,7 @@
     <string name="config_tether_apndata" />
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
     <string name="default_wallpaper_component">@null</string>
-    <string name="config_networkLocationProvider">com.google.android.location.NetworkLocationProvider</string>
+    <string name="config_networkLocationProvider1">com.google.android.location.NetworkLocationProvider</string>
     <string name="config_networkLocationProvider2">com.android.location.service.NetworkLocationProvider</string>
     <string name="config_geocodeProvider">com.android.location.service.GeocodeProvider</string>
     <string name="config_geofenceProvider">com.qualcomm.services.location</string>
@@ -125,9 +125,9 @@
     <string name="day_of_week_shortest_saturday">S</string>
     <string name="am">am</string>
     <string name="pm">pm</string>
-    <string name="yesterday">ieri</string>
-    <string name="today">oggi</string>
-    <string name="tomorrow">domani</string>
+    <string name="yesterday">Ieri</string>
+    <string name="today">Oggi</string>
+    <string name="tomorrow">Domani</string>
     <string name="hour_minute_24" formatted="false">%H:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
@@ -760,12 +760,12 @@ Tentativi rimasti:"</string>
     <string name="sipAddressTypeWork">Lavoro</string>
     <string name="sipAddressTypeOther">Altro</string>
     <string name="keyguard_password_enter_pin_code">Inserisci il PIN</string>
-    <string name="keyguard_password_enter_pin_code_for_subscription">Inserisci codice PIN per Sottoscrizione</string>
     <string name="keyguard_password_enter_puk_code">Inserisci il PUK e il nuovo codice PIN</string>
+    <string name="keyguard_password_enter_pin_code_for_subscription">Inserisci codice PIN per Sottoscrizione</string>
     <string name="keyguard_password_enter_puk_code_for_subscription">Inserisci codice PUK e nuovo PIN per Sottoscrizione</string>
     <string name="keyguard_password_enter_puk_prompt">Codice PUK</string>
     <string name="keyguard_password_enter_pin_prompt">Nuovo codice PIN</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Tocca e inserisci password</font></string>
+      <string name="keyguard_password_entry_touch_hint" />
     <string name="keyguard_password_enter_password_code">Inserisci password per sbloccare</string>
     <string name="keyguard_password_enter_pin_password_code">Inserisci PIN per sbloccare</string>
     <string name="keyguard_password_wrong_pin_code">Codice PIN errato.</string>
@@ -1093,7 +1093,7 @@ Vuoi chiuderla?"</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="select_character">Inserisci carattere</string>
     <string name="sms_control_title">Invio SMS</string>
-    <string name="sms_control_message">"È in corso l'invio di numerosi SMS. Seleziona \"OK\" per continuare, oppure \"Annulla\" per interrompere l'invio."</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> sta inviando un gran numero di SMS. Vuoi consentire il proseguimento di questa attività?</string>
     <string name="sms_control_yes">OK</string>
     <string name="sms_control_no">Annulla</string>
     <string name="sim_removed_title">Scheda SIM rimossa</string>
@@ -1109,9 +1109,9 @@ Vuoi chiuderla?"</string>
     <string name="default_permission_group">Predefinito</string>
     <string name="permissions_format">%1$s, %2$s</string>
     <string name="no_permissions">Nessuna autorizzazione richiesta</string>
-    <string name="perms_hide"><b>Nascondi</b></string>
-    <string name="perms_show_all"><b>Mostra tutto</b></string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">NUOVO: </font></string>
+    <string name="perms_hide" />
+    <string name="perms_show_all" />
+    <string name="perms_new_perm_prefix" />
     <string name="perms_description_app">Fornito da %1$s.</string>
     <string name="usb_storage_activity_title">Archivio di massa USB</string>
     <string name="usb_storage_title">USB collegata</string>
@@ -1149,7 +1149,7 @@ Vuoi chiuderla?"</string>
     <string name="select_keyboard_layout_notification_message">Tocca per selezionare un layout tastiera.</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style"><u>candidates</u></string>
+    <string name="candidates_style" />
     <string name="ext_media_checking_notification_title">Preparazione archivio USB</string>
     <string name="ext_media_checking_notification_message">Ricerca errori.</string>
     <string name="ext_media_nofs_notification_title">Archivio USB vuoto</string>

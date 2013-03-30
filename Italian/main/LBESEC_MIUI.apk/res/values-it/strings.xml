@@ -84,9 +84,9 @@
     <string name="HIPS_Perm_CallLog_Desc">Accesso al registro chiamate</string>
     <string name="HIPS_Perm_CallLog_Hint">%1$s applicazioni possono accedere al tuo registro chiamate</string>
     <string name="HIPS_Perm_ROOT">ROOT</string>
-    <string name="HIPS_Perm_ROOT_Desc">Richieste Permessi di ROOT</string>
+    <string name="HIPS_Perm_ROOT_Desc">Richieste permessi di ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc_Stable">Non disponibile nella versione MIUI Stable</string>
-    <string name="HIPS_Perm_ROOT_Hint">%1$s applicazioni possono avere i Permessi di ROOT</string>
+    <string name="HIPS_Perm_ROOT_Hint">%1$s applicazioni possono avere i permessi di ROOT</string>
     <string name="HIPS_Perm_SendSMS_Recipient">Destinatario:</string>
     <string name="HIPS_Perm_SendSMS_Content">Contenuto:</string>
     <string name="HIPS_Perm_SendSMS_SMSC">Centro SMS:</string>
@@ -113,7 +113,7 @@
     <string name="HIPS_Perm_AllowAll">Permetti tutto</string>
     <string name="HIPS_Perm_PromptAll">Chiedi per tutto</string>
     <string name="HIPS_Perm_RejectAll">Nega tutto</string>
-    <string name="HIPS_Perm_ROOT_Title">ottenere i Permessi di ROOT</string>
+    <string name="HIPS_Perm_ROOT_Title">ottenere i permessi di ROOT</string>
     <string name="HIPS_Perm_ListenCallState">controllare lo stato delle chiamate</string>
     <string name="HIPS_Perm_GetCallState">ottenere lo stato chiamate attuale</string>
     <string name="HIPS_Perm_EndCall">riagganciare la chiamata in corso</string>
@@ -142,8 +142,8 @@
     <string name="Dashboard_Perm_Header">Controllo di %1$d apps</string>
     <string name="Dashboard_Perm_Header_Disabled">Controllo autorizzazioni disattivato</string>
     <string name="Dashboard_Perm_SU_Switch">Permessi di ROOT</string>
-    <string name="Dashboard_Perm_SU">Gestisci Permessi di ROOT</string>
-    <string name="Dashboard_Perm_SU_Desc">Controllo di %1$d apps per i Permessi di ROOT</string>
+    <string name="Dashboard_Perm_SU">Gestisci permessi di ROOT</string>
+    <string name="Dashboard_Perm_SU_Desc">Controllo di %1$d apps per i permessi di ROOT</string>
     <string name="Dashboard_Perm_SU_Disabled">Permessi di ROOT disabilitati</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">I permessi di ROOT non sono disponibili nelle versioni MIUI Stable</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Concedere i permessi di ROOT ad applicazioni di terze parti potrebbe causare instabilità di sistema, perdite di dati personali, danni al sistema o hardware. Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string>
@@ -162,7 +162,7 @@
     <string name="Dashboard_HIPS_Disable_Title">Controllo Autorizzazioni</string>
     <string name="Dashboard_HIPS_Disable_Content">Disabilitando questo servizio MIUI smetterà di controllare le richieste delle applicazioni e non proteggerà più la tua sicurezza e la tua privacy.Sei sicuro di volerlo disattivare?</string>
     <string name="Dashboard_Su_Enable_Title">Permessi di ROOT</string>
-    <string name="Dashboard_Su_Enable_Content">Attivando questo servizio si permetterà alle applicazioni di richiedere i Permessi di ROOT. Nota: Applicazioni con i permessi potrebbero causare instabilità di sistema, anche perdita di dati personali, danni hardware o di sistema, si prega di fare attenzione. Sicuro di volerlo abilitare?</string>
+    <string name="Dashboard_Su_Enable_Content">Attivando questo servizio si permetterà alle applicazioni di richiedere i permessi di ROOT. Nota: Applicazioni con i permessi potrebbero causare instabilità di sistema, anche perdita di dati personali, danni hardware o di sistema, si prega di fare attenzione. Sicuro di volerlo abilitare?</string>
     <string name="Dashboard_Log_Clear_Title">Cancella Registri</string>
     <string name="Dashboard_Log_Clear_Content">Tutti i registri verranno cancellati. Sei sicuro di voler procedere?</string>
     <string name="Privacy_Perm_Count">Autorizzati: %1$d Negati: %2$d</string>
@@ -183,7 +183,7 @@
     <string name="SysOpt_Boost_Receiver">Background</string>
     <string name="SysOpt_Boost_AutoStart_Group">Avvio Automatico</string>
     <string name="SysOpt_Boost_AutoStart">Permessi avvio automatico</string>
-    <string name="Su_Enable_Dialog">%1$s sta richiedendo i Permessi di ROOT che sono stati disabilitati di default per la sicurezza del sistema. Se vuoi abilitarli vai nelle impostazioni di Gestione Autorizzazioni.</string>
-    <string name="Su_Unavailable">I permessi di ROOT sono disabilitati nella versione stable di MIUI (JBL). Installa la versione MIUI developer (www.miui.it) per avere i Permessi di ROOT attivi.</string>
+    <string name="Su_Enable_Dialog">%1$s sta richiedendo i permessi di ROOT che sono stati disabilitati di default per la sicurezza del sistema. Se vuoi abilitarli vai nelle impostazioni di Gestione Autorizzazioni.</string>
+    <string name="Su_Unavailable">I permessi di ROOT sono disabilitati nella versione stable di MIUI (JBL). Installa la versione MIUI developer (www.miui.it) per avere i permessi di ROOT attivi.</string>
     <string name="HIPS_Perm_Title">Titolo</string>
 </resources>

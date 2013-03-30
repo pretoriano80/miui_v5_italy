@@ -183,10 +183,10 @@
     <string name="no_network_connected">Nessuna connessione di rete disponibile</string>
     <string name="modify_cloud_settings">Impostazioni MiCloud</string>
     <string name="initial_cloud_text">In ogni momento e ovunque tu sia · Guarda e organizza le tue foto</string>
-    <string name="initial_cloud_button_text">Start to use cloud album</string>
+    <string name="initial_cloud_button_text">"Inizia ad utilizzare l'album cloud"</string>
     <string name="storage_no_space">Spazio di archiviazione esaurito</string>
-    <string name="add_to_cloud_album">Aggiungi in Cloud</string>
-    <string name="move_to_cloud_album">Sposta in Cloud</string>
+    <string name="add_to_cloud_album">Aggiungi al Cloud</string>
+    <string name="move_to_cloud_album">Sposta nel Cloud</string>
     <string name="cant_delete_system_album">%s è un album di sistema e non può essere eliminato!</string>
     <string name="click_to_enter_camera">Apri fotocamera</string>
     <string name="camera_view_none_message">Le foto scattate verranno mostrate qui.</string>
@@ -235,8 +235,8 @@
     <string name="slideshow_interval_dialog_title">"L'intervallo deve essere maggiore di 0 secondi"</string>
     <string name="slideshow_interval_invalid">"Intervallo non valido, deve essere 1~3600. Verrà ripristinato l'intervallo predefinito"</string>
     <string name="slideshow_repeat_mode">Ripeti</string>
-    <string name="clear_thumbnail_cache">Cancella cache anteprime</string>
-    <string name="clear_thumbnail_cache_summary">LConsultando la galleria verranno create delle anteprime. Cancellando la cahce aumenterà lo spazio libero.</string>
+    <string name="clear_thumbnail_cache">Cancella cache delle anteprime</string>
+    <string name="clear_thumbnail_cache_summary">Consultando la galleria verranno create delle anteprime. Cancellando la cache aumenterà lo spazio libero.</string>
     <string name="clear_thumbnail_cache_confirm">La cache delle anteprime verrà cancellata. La Galleria eseguirà una nuova scansione media e ricreerà le anteprimen.</string>
     <string name="cleaning_cache">Cancellazione cache...</string>
     <string name="seconds">secondi</string>
@@ -271,8 +271,8 @@
     <string name="error_should_not_select_image">Attenzione: non selezionare un file immagine.</string>
     <string name="error_should_not_select_video">Attenzione: non selezionare un file video.</string>
     <string name="storage_all_volumes">Tutte le unità di memoria</string>
-    <string name="settings_i_xiaomi_com">Accedi su i.xiaomi.com per vedere i tuoi album cloud in qualsiasi momento</string>
-    <string name="cloud_album_more_settings">Album cloud e caricamento auomatico</string>
+    <string name="settings_i_xiaomi_com">Accedi a i.xiaomi.com per vedere i tuoi album su cloud in qualsiasi momento</string>
+    <string name="cloud_album_more_settings">Album cloud e caricamento automatico</string>
     <string name="browse_category">Gestione Foto</string>
     <string name="photo_page_save_image">Salva</string>
     <string name="photo_page_save_uri_image_ok">La foto è stata salvata nella cartella delle immagini fotocamera.</string>

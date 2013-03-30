@@ -828,13 +828,23 @@
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Mai</item>
-        <item>Solo su WiFi</item>
+        <item>Solo su Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
     <string-array name="pref_data_preload_values">
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Mai</item>
+        <item>Solo Wi-Fi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Mai</item>
+        <item>Solo Wi-Fi</item>
+        <item>Sempre</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
@@ -882,6 +892,36 @@
         <item>@raw/zh_favicon_163</item>
         <item>@raw/zh_thumb_163</item>
     </array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google_list_item</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo_list_item</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing_list_item</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="baidu_in_list">
+        <item>search_baidu</item>
+        <item>ic_search_engine_baidu_list_item</item>
+        <item>baidu</item>
+    </string-array>
+    <string-array name="sogou_in_list">
+        <item>search_sogou</item>
+        <item>ic_search_engine_sogou_list_item</item>
+        <item>sogou</item>
+    </string-array>
+    <string-array name="bing_zh_CN_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing_list_item</item>
+        <item>bing_zh_CN</item>
+    </string-array>
     <string-array name="bookmarks_zh">
         <item>小米论坛</item>
         <item>http://bbs.xiaomi.com/</item>

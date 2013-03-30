@@ -118,7 +118,7 @@
     <string name="button_retry">Riprova</string>
     <string name="button_pay">Paga</string>
     <string name="button_recharge">Ricarica</string>
-    <string name="balance">Balance: %1$s Crediti MI</string>
+    <string name="balance">Saldo: %1$s Crediti MI</string>
     <string name="frozen">(Bloccato)</string>
     <string name="mili_center">Crediti MI</string>
     <string name="error_mili_title">Crediti MI insufficienti</string>

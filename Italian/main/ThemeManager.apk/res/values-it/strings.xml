@@ -27,6 +27,7 @@
     <string name="theme_component_title_ringtone">Suonerie</string>
     <string name="theme_component_title_notification">Notifiche</string>
     <string name="theme_component_title_alarm">Suonerie Sveglia</string>
+	<string name="theme_component_title_alarmstyle">Stili sveglia</string>
     <string name="theme_component_title_contact">Tastiere Telefono</string>
     <string name="theme_component_title_lockstyle">Lockscreen</string>
     <string name="theme_component_title_statusbar">Barre di stato</string>
@@ -147,6 +148,7 @@
     <string name="resource_downloading">Download in corso</string>
     <string name="resource_apply">Applica</string>
     <string name="resource_update">Aggiorna</string>
+    <string name="restore_default_theme_alert">Potresti essere vittima di una contraffazione del tema, si prega di visitare il marketper acquistarne uno nuovo o scaricarlo nuovamente.</string>
     <string name="resource_select">Seleziona</string>
     <string name="resource_buy">Acquista</string>
     <string name="resource_importing">Importazione</string>

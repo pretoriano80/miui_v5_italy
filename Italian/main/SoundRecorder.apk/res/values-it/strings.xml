@@ -55,6 +55,8 @@
     <string name="status_bar_recording_pause">"Recording has been paused. "</string>
     <string name="record_saving">Saving recording, please wait!</string>
     <string name="record_loading">Caricamento registrazione, attendere prego.</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute">min</string>
     <string name="low_battery_message_title">Batteria scarica</string>
     <string name="low_battery_warning">Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
     <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimeto improvviso la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>

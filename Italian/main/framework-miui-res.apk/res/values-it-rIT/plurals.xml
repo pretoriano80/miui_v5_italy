@@ -53,7 +53,7 @@
         <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d oggetti verificati</item>
-        <item quantity="one">%1$d oggetto verificato</item>
+        <item quantity="other">%1$d file selezionati</item>
+        <item quantity="one">%1$d file selezionato</item>
     </plurals>
 </resources>

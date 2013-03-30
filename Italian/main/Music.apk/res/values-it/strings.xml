@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="complete">Complete</string>
+    <string name="complete">Completa</string>
     <string name="confirm">Conferma</string>
     <string name="cancel">Annulla</string>
     <string name="save">Salva</string>
@@ -23,13 +23,13 @@
     <string name="music_settings">Impostazioni</string>
     <string name="mobile_connect_settings">Rete mobile</string>
     <string name="download_album_settings">Download automatico copertine</string>
-    <string name="download_album_summary">"Può comportare un maggiore utilizzo di banda, considera l'utilizzo di Wi-Fi"</string>
+    <string name="download_album_summary">"Può comportare un utilizzo eccessivo di dati, considera l'utilizzo di Wi-Fi"</string>
     <string name="download_lyric_settings">Download automatico testi</string>
-    <string name="download_lyric_summary">Il download dei testi non comporta un grande consumo di banda, puoi comunque disattivare questa impostazione per risparmiare banda.</string>
+    <string name="download_lyric_summary">Il download dei testi non comporta un utilizzo eccessivo dei dati, puoi comunque disattivare questa opzione per risparmiare banda.</string>
     <string name="listen_to_music_online_settings">Ascolta musica online</string>
-    <string name="listen_to_online_summary">Ascolta musica tramite conessione di rete mobile o Wi-Fi</string>
-    <string name="correct_id3_settings">Impostazioni correzione ID3</string>
-    <string name="correct_id3_summary">"Il metodo di correzione potrebbe comportare un elevato traffico dati mobili. Non lasciare attivo dopo l'utilizzo"</string>
+    <string name="listen_to_online_summary">Ascolta musica attraverso la connessione dati o wi-fi</string>
+    <string name="correct_id3_settings">Autocorrezione tag ID3</string>
+    <string name="correct_id3_summary">"Può comportare un utilizzo eccessivo di dati. Utilizzare preferibilmente in wi-fi."</string>
     <string name="player_display_settings">Impostazioni Riproduzione</string>
     <string name="lyric_display_settings">Mostra Testi</string>
     <string name="lyric_display_summary">"Mosta testi nell'interfaccia di riproduzione. (Consigliato)"</string>
@@ -38,14 +38,14 @@
     <string name="lyric_and_album">Testi e Album</string>
     <string name="android_album_settings">Usa copertine integrate</string>
     <string name="android_album_summary">"L'utilizzo automatico delle copertine potrebbe causare errori."</string>
-    <string name="auto_correct_id3_settings">Impostazioni autocorrezione ID3</string>
-    <string name="auto_correct_id3_summary">"L'algoritmo di impronta digitale audio correggerà i dati durante la riproduzione."</string>
+    <string name="auto_correct_id3_settings">Autocorrezione tag ID3</string>
+    <string name="auto_correct_id3_summary">"La correzione automatica dei dati avverrà tramite l'analisi dell'impronta audio"</string>
     <string name="music_filter">Filtra file</string>
     <string name="filter_by_size">Filtra per dimensione</string>
     <string name="filter_by_size_summary">Filtra i file più piccoli del valore impostato</string>
     <string name="filter_by_size_prefix">Dimensione</string>
     <string name="filter_by_duration">Filtra i file per durata</string>
-    <string name="filter_by_duration_summary">Filtra i file più brevi valore impostato</string>
+    <string name="filter_by_duration_summary">Nasconde i file più brevi del valore impostato</string>
     <string name="filter_by_duration_prefix">"Durata: "</string>
     <string name="filter_by_duration_min">0sec</string>
     <string name="filter_by_duration_max">5min</string>
@@ -54,14 +54,14 @@
     <string name="filter_by_folder_summary_on">Già attivo，premi Modifica Filtro</string>
     <string name="filter_by_folder_summary_off">Non attivo, premi sulla cartella per filtrare</string>
     <string name="select_folder">Seleziona cartella</string>
-    <string name="shake_and_skip">Muovi e salta</string>
-    <string name="shake_settings">Muovi e Salta</string>
-    <string name="shake_summary">Squoti il telefono per saltare alla traccia successiva</string>
+    <string name="shake_and_skip">Scuoti e avanza</string>
+    <string name="shake_settings">Scuoti e avanza</string>
+    <string name="shake_summary">Scuoti il telefono per saltare alla traccia successiva</string>
     <string name="shake_degree_desc">Sensibilità movimento</string>
     <string name="shake_degree_low">Basso</string>
     <string name="shake_degree_high">Alto</string>
     <string name="shake_while_screen_on_title">Salta solo con schermo attivo</string>
-    <string name="shake_while_screen_on_title_summary">Muovi e salta quando lo schermo è attivo. Disattivato quando si cammina etc.</string>
+    <string name="shake_while_screen_on_title_summary">Scuoti e avanza quando lo schermo è attivo. Disattivo quando lo schermo è spento.</string>
     <string name="other_settings">Altro</string>
     <string name="play_and_download">Ascolta e scarica</string>
     <string name="play_and_download_summary">Ascolta la musica in streaming mentre scarichi</string>
@@ -69,12 +69,12 @@
     <string name="screen_bright_wake_summary">La retroilluminazione resta attiva con questa opzione</string>
     <string name="keep_quit_position_settings">"Memorizza l'ultima posizione"</string>
     <string name="keep_quit_position_summary">"Memorizza l'ultima posizione della traccia dopo il riavvio dell'applicazione"</string>
-    <string name="fade_effect_settings">Impostazioni Dissolvenza</string>
+    <string name="fade_effect_settings">Impostazioni dissolvenza</string>
     <string name="fade_effect_summary">Abilita la dissolvenza tra due brani</string>
     <string name="filter_notification">Il filtro è stato impostato, puoi modificarlo nelle impostazioni filtro.</string>
     <string name="delete_item">Elimina</string>
     <string name="remove_item">Rimuovi</string>
-    <string name="delete_song_desc">Sicuro di voler eliminare %s ?</string>
+    <string name="delete_song_desc">\"%s\" sarà eliminato permanentemente dalla scheda SD.</string>
     <string name="scanning">Scansione scheda SD...</string>
     <string name="scanning_nosdcard">Scansione archiviazione SD...</string>
     <string name="search_title">Cerca</string>
@@ -90,8 +90,7 @@
     <string name="frequentlyplayed_title">Frequenti</string>
     <string name="sdcard_missing_message">Il tuo telefono non ha una scheda SD inserita.</string>
     <string name="sdcard_missing_message_nosdcard">"Il tuo telefono non ha un'archiviazione USB."</string>
-    <string name="sdcard_busy_message">"Spiacente, la tua scheda SD è occupata. 
-Verifica lo stato della scheda SD"</string>
+    <string name="sdcard_busy_message">"Spiacente, la tua scheda SD è occupata. Verifica lo stato della scheda SD"</string>
     <string name="sdcard_busy_message_nosdcard">Spiacente, la tua archiviazione USB è occupata.</string>
     <string name="sdcard_error_message">Si è verificato un errore con la tua scheda SD.</string>
     <string name="sdcard_error_message_nosdcard">Si è verificato un errore con la tua archiviazione USB.</string>
@@ -225,8 +224,7 @@ Verifica lo stato della scheda SD"</string>
     <string name="album_search_online_descript">Online | %1$d x %2$d</string>
     <string name="album_select">Seleziona copertina</string>
     <string name="no_song_downloaded">Nessun brano può essere scaricato.</string>
-    <string name="albumsongseparator">"
-"</string>
+    <string name="albumsongseparator" />
     <string name="notification_artist_album">"%2$s
 %1$s"</string>
     <string name="durationformatshort">%2$d:%5$02d</string>

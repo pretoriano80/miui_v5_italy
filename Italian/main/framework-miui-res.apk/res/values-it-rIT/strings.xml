@@ -4,7 +4,7 @@
     <string name="activate_fail_notification_title">Si prega di riattivare il servizio Sincronizzazione Xiaomi</string>
     <string name="activating">Attivazione...</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
-    <string name="alwaysUsePrompt">Imposta come predefinito (non chiedere più)</string>
+    <string name="alwaysUsePrompt">Imposta come predefinito</string>
     <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
@@ -349,6 +349,8 @@
     <string name="payphone">Chiamata in addebito</string>
     <string name="peace_day" />
     <string name="perm_auto_backup">Backup automatico</string>
+    <string name="perm_data_update_dspt">"Consentire l'aggiornamento dei dati"</string>
+    <string name="perm_data_update_lab">Data aggiornamento</string>
     <string name="perm_payment_dspt">"Consenti all'applicazione di utilizzare il servizio di pagaento Xiaomi"</string>
     <string name="perm_payment_lab">Servizio pagamento Xiaomi</string>
     <string name="perm_send_push_dspt">"Consenti l'invio di messagi push Xiaomi"</string>

@@ -341,8 +341,8 @@
     <string name="empty_snapshots_folder">Nessuna pagina salvata.</string>
     <string name="remove_snapshot">Elimina pagina salvata</string>
     <string name="snapshot_go_live">Carica pagina live</string>
-    <string name="accessibility_button_back">Torna indietro</string>
-    <string name="accessibility_button_forward">Procedi</string>
+    <string name="accessibility_button_back">Indietro</string>
+    <string name="accessibility_button_forward">Avanti</string>
     <string name="accessibility_button_refresh">Aggiorna la pagina</string>
     <string name="accessibility_button_stop">Interrompi caricamento della pagina</string>
     <string name="accessibility_button_addbookmark">Pagina Segnalibri</string>
@@ -415,6 +415,7 @@
     <string name="pref_developer_options_summary">Debugging o rapporto bug</string>
     <string name="add_xiaomi_account_warning">"Si prega di accedere prima all'account Xiaomi"</string>
     <string name="report_reading_mode_issue">Segnala errori in modalità lettura a MIUI</string>
+	<string name="return_to_homepage">Ritorna alla homepage</string>
     <string name="pref_key_gesture_title">Tasti e gesture</string>
     <string name="pref_key_title">Impostazioni tasti</string>
     <string name="pref_volume_key_enabled">Tasti volume</string>

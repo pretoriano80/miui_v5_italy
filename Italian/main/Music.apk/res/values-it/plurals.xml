@@ -68,8 +68,8 @@
         <item quantity="other">%1$d brani eliminati.</item>
         <item quantity="one">1 brano eliminato.</item>
     </plurals>
-    <plurals name="Nnowplaying">
-        <item quantity="other">brani in riproduzione</item>
-        <item quantity="one">brano in riproduzione</item>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d brani che verranno scaricati.</item>
+        <item quantity="one">1 brano che verrà scaricato..</item>
     </plurals>
 </resources>
