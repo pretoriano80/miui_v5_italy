@@ -125,7 +125,7 @@ Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
     <string name="restore_failed">Ripristino fallito!</string>
     <string name="local_select_sysdata">Sistema</string>
     <string name="local_select_userapp">Applicazioni</string>
-    <string name="local_select_account_contact">Account / Contactti</string>
+    <string name="local_select_account_contact">Account / Contatti</string>
     <string name="local_no_backup">Nessun backup locale</string>
     <string name="auto_backup_setting">Impostazioni Backup Automatico</string>
     <string name="auto_backup_open">Abilita backup automatico</string>

@@ -90,7 +90,7 @@
         <item>Mostra ora di ricezione messaggio</item>
         <item>Mostra ora di invio (Usa orario server)</item>
     </string-array>
-    <string-array name="resent_via_entries">
+    <string-array name="resent_via_entries_sms">
         <item>Via messaggio</item>
         <item>Via messaggio Cloud</item>
     </string-array>
