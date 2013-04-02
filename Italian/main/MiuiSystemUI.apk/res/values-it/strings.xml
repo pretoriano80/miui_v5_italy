@@ -250,6 +250,9 @@
     <string name="mdb_entering">Avvio</string>
     <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
     <string name="status_bar_recording_pause">La registrazione è stata messa in pausa.</string>
+    <string name="ext_media_mountable_notification_title">Dispositivo di archiviazione USB connesso</string>
+    <string name="ext_media_mountable_notification_message">Media montato, puoi accedervi tramite File Explorer</string>
+    <string name="ext_media_safe_remove">Safely Remove media</string>
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Lumin.</string>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="category_default_number_text">(0)</string>
+    <string name="download_current_progress">%1$d/100</string>
     <string name="app_name">File Explorer</string>
     <string name="confirm">Ok</string>
     <string name="menu_item_ftp">FTP</string>
+    <string name="menu_item_cleanup">Pulizia file</string>
     <string name="menu_item_search">Ricerca</string>
     <string name="operation_create_folder">Nuova cartella</string>
     <string name="menu_item_sort">Ordina</string>
@@ -124,6 +126,9 @@
     <string name="kuaipan_over_space">Il tuo MiDrive ha esaurito lo spazio.</string>
     <string name="kuaipan_tech_support">Supporto tecnico offerto da Kingsoft Kuaipan</string>
     <string name="no_tasks">Nessuna attività</string>
+    <string name="no_more_space">Spazio esaurito</string>
+    <string name="sd_full">La scheda SD è piena</string>
+    <string name="file_too_large">Il file è troppo grande e non può essere caricato</string>
     <string name="create_new_folder_failed">Impossibile creare cartella %1$s</string>
     <string name="user_guide_kuaipan_copy">Accedi ai tuoi file da vari dispositivi utilizzando MiDrive</string>
     <string name="user_guide_upload_to_kuaipan">Dal tuo telefono,copia e incolla semplicemente nel MiDrive</string>
@@ -193,6 +198,9 @@
     <string name="uploading">In upload…</string>
     <string name="downloading">In download…</string>
     <string name="waiting">In attesa…</string>
+    <string name="wait_wifi">In attesa di connessione Wi-Fi</string>
+    <string name="wait_net">In attesa della rete</string>
+    <string name="wait_sdcard">In attesa del montaggio della scheda SD</string>
     <string name="paused">In pausa</string>
     <string name="upload_failed">Upload fallito!</string>
     <string name="download_failed">Download fallito!</string>
@@ -207,6 +215,8 @@
     <string name="des_running_trans">Restano %1$d file da trasferire</string>
     <string name="trans_task_delete_confirm_message">Sicuro di voler cancellare i %1$d processi selezionati ?</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Clicca qui&lt;/a>per aprire il cestino cloud</string>
+    <string name="scanning">Scansione...</string>
+    <string name="clean_complete">Pulizia completata correttamente</string>
     <string name="storage_internal">Archivio interno</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
@@ -217,10 +227,18 @@
     <string name="binding_accout_title">Aggiungi un account KuaiPan già esistente</string>
     <string name="kingsoft_account">Account Kingsoft KuaiPan</string>
     <string name="binded_accout_warning">Attenzione: questa operazione è irreversibile, vuoi continuare?</string>
+    <string name="cleanup_tab_garbage">Pulizia di sistema</string>
+    <string name="cleanup_tab_app">Pulizia applicazioni</string>
+    <string name="start_cleanup">Avvia pulizia</string>
     <string name="cancel_cleanup">Annulla pulizia</string>
     <string name="cleanup_help">Rimuovi file indesiderati nel sistema per liberare spazio</string>
-    <string name="cleanup_tab_app">Pulizia</string>
-    <string name="cleanup_tab_garbage">Pulizia Sistema</string>
-    <string name="menu_item_cleanup">Pulizia File</string>
-    <string name="start_cleanup">Avvi apulizia</string>
+    <string name="account_bind_prompt">Migrazione dati utente, il tuo account verrà temporaneamente bloccato, attendere prego...</string>
+    <string name="migrate_announcement_title">Migrazione Account</string>
+    <string name="migrate_announcement_msg">Se hai un account puoi collegarlo nelle impostazioni e preferenze di accesso.</string>
+    <string name="query_bind_state">Verifica stato collegamente, attendere prego...</string>
+    <string name="operation_deleting_detail">Eliminazione (%1$d/%2$d)</string>
+    <string name="operation_moving_detail">Spostamento (%1$d/%2$d)</string>
+    <string name="operation_copying">Copia...</string>
+    <string name="operation_copying_detail">Copia file (%1$d/%2$d)</string>
+    <string name="name_illegal">File name cannot be empty</string>
 </resources>

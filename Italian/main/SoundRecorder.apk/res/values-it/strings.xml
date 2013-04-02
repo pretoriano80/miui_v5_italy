@@ -14,6 +14,7 @@
     <string name="audio_db_playlist_name">Le mie registrazioni</string>
     <string name="error_sdcard_access">Impossibile accedere alla scheda SD</string>
     <string name="error_app_internal">"Errore interno dell'applicazione"</string>
+    <string name="error_app_internal_title">Errore Registratore</string>
     <string name="error_mediadb_new_record">Impossibile salvare registrazione</string>
     <string name="default_record_name">Registrazione</string>
     <string name="menu_view_record_list">Lista registrazioni</string>
@@ -52,14 +53,14 @@
     <string name="status_bar_anti_disturb">Il telefono è stato silenziato, modifica il volume per riattivarlo.</string>
     <string name="status_bar_recording">Registrazione...</string>
     <string name="status_bar_back">Premi per tornare al Registratore</string>
-    <string name="status_bar_recording_pause">"Recording has been paused. "</string>
+    <string name="status_bar_recording_pause">"Recording has been paused."</string>
     <string name="record_saving">Saving recording, please wait!</string>
     <string name="record_loading">Caricamento registrazione, attendere prego.</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute">min</string>
     <string name="low_battery_message_title">Batteria scarica</string>
     <string name="low_battery_warning">Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
     <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimeto improvviso la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute">min</string>
     <string name="menu_setting">Impostazioni</string>
     <string name="notification_playback_paused">Riproduzione sospesa...</string>
     <string name="prefDefault_recordType">audio/3gpp</string>

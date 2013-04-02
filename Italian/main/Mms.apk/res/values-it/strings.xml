@@ -45,7 +45,6 @@
     <string name="add_video">Aggiungi video</string>
     <string name="remove_video">Rimuovi video</string>
     <string name="subject_hint">Oggetto</string>
-    <string name="add_subject">Aggiungi oggetto</string>
     <string name="discard">Ignora</string>
     <string name="view">Visualizza</string>
     <string name="replace">Sostituisci</string>
@@ -321,7 +320,6 @@
     <string name="batch_deleting_progress_message">Eliminazione conversazioni selezionate</string>
     <string name="batch_deleting_message_progress_message">Eliminazione messaggi selezionati</string>
     <string name="attach_subject">Oggetto</string>
-    <string name="delete_subject">Cancella soggetto</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="prepare_send">Preparazione invio...</string>
     <string name="activity_not_found">Impossibile aprire allegato</string>
@@ -397,10 +395,16 @@
     <string name="private_protect">Protezione Privata</string>
     <string name="private_new_notification">Notifica nuovo messaggio privato</string>
     <string name="enable_password_protect">Abilita protezione password</string>
+    <string name="enable_visible_pattern_title">Rendi visibile la sequenza</string>
     <string name="importing_progress_private_message">"Importazione messaggi nell'Archivio Messaggi Privati"</string>
     <string name="exporting_progress_private_message">"Esportazione messaggi dall'Archivio Messaggi Privati"</string>
     <string name="confirm_export_dialog_title">Rimuovi contatto privato</string>
     <string name="confirm_export_dialog_description">Rimuovere il contatto privato selezionato e ripristinare la conversazione alla modalità normale. Continuare ?</string>
+    <string name="number_add_hint">Inserisci numero da aggiungere al Contatto Privato</string>
+    <string name="menu_new_manual">Inserisci numero manualmente</string>
+    <string name="menu_pick_from_contact">Seleziona dai contatti</string>
     <string name="select_local_audio">Seleziona audio locale</string>
     <string name="select_local_video">Seleziona video locale</string>
+    <string name="add_subject">Aggiungi oggetto</string>
+    <string name="delete_subject">Elimina oggetto</string>
 </resources>
