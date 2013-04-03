@@ -108,7 +108,7 @@
     <string name="puk_unlock_success">PUK unlock successful.</string>
     <string name="labelGSMMore">GSM call Settings</string>
     <string name="labelCDMAMore">CDMA call Settings</string>
-    <string name="apn_settings">Nomi Punti di Accesso</string>
+    <string name="apn_settings">Nomi Punti di Accesso (APN)</string>
     <string name="settings_label">Impostazioni di Rete</string>
     <string name="voicemail">Segreteria</string>
     <string name="voicemail_abbreviated">VM:</string>
@@ -1064,7 +1064,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="sum_select_automatically_option_miui">Seleziona automaticamente la rete preferita, %s</string>
     <string name="register_network_failed_title_miui">Servizio non disponibile</string>
     <string name="register_network_failed_message_miui">Impossibile registrare alla rete selezionata, vuoi selezionare automaticamente la rete preferita?</string>
-    <string name="next_miui">Prossimo</string>
+    <string name="next_miui">Avanti</string>
     <string name="turn_off_miui">Disattiva</string>
     <string name="back_miui">Indietro</string>
     <string name="missed_call_notify_times_title_miui">Ripetizione avviso chiamate perse</string>
