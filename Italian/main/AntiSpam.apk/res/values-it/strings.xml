@@ -70,7 +70,7 @@
     <string name="fw_import_blacklist_confirm">%d numeri selezionati, importarli nella blacklist?</string>
     <string name="fw_import_whitelist_confirm">%d numeri selezionati, importarli nella whitelist?</string>
     <string name="fw_blacklist_hint">Inserisci qui il numero da bloccare. Chiamate e messaggi verranno bloccati automaticamente se aggiunti alla blacklist</string>
-    <string name="fw_whitelist_hint">Inserisci qui il numero whitelist.I contatti della Whitelist non saranno bloccati</string>
+    <string name="fw_whitelist_hint">Inserisci qui il numero whitelist. I contatti della Whitelist non saranno bloccati</string>
     <string name="fw_no_effect">La modalità Guard non è attiva</string>
     <string name="fw_call_muted">Chiamata silenziata</string>
     <string name="fw_call_rejected">Chiamata rifiutata</string>
@@ -130,5 +130,5 @@
     <string name="blacklist_tab_title">Blacklist</string>
     <string name="whitelist_tab_title">Whitelist</string>
     <string name="log_count">(%d)</string>
-    <string name="new_bw_list_button">Add contatti</string>
+    <string name="new_bw_list_button">Aggiungi contatti</string>
 </resources>
