@@ -139,6 +139,8 @@
     <string name="error_verify_summary">"L'applicazione non ha i permessi per richiedere questo servizio"</string>
     <string name="error_frozen_title">Account bloccato!</string>
     <string name="error_frozen_summary">Il tuo account è stato bloccato</string>
+    <string name="error_account_changed_title">Account aggiornato</string>
+    <string name="error_account_changed_summary">Il tuo account Xiaomi è stato aggiornato. Controlla i dettagli e prova di nuovo</string>
     <string name="title_recharge">Ricarica Crediti MI</string>
     <string name="recharge_prepaid_title">Carte di ricarica prepagate</string>
     <string name="recharge_prepaid_summary">Sono supportate carte prepagate di China Mobile, China Unicom e China Telecom</string>
@@ -209,11 +211,7 @@
     <string name="progress_success_title">La ricarica di %1$s Crediti MI è stata completata</string>
     <string name="progress_success_summary">Credito account: %1$s Crediti MI</string>
     <string name="progress_error_title">Ricarica fallita</string>
-    <string name="progress_error_common">Ricarica fallita, riprovare più tardi.</string>
-    <string name="progress_error_server">Errore server, riprovare più tardi.</string>
-    <string name="progress_error_network">Impossibile connettersi alla rete, verificare lo state della rete.</string>
-    <string name="progress_error_waiting">Non ancora aggiornato, riprovare più tardi!</string>
-    <string name="progress_error_auth">Errore di autenticazione, provare di nuovo.</string>
+    <string name="progress_warning_waiting">"I cambiamente dell'account sono ancora in fase di aggiornamento, riprovare più tardi!"</string>
     <string name="progress_warning_contact_server">"Il messaggio non è stato inviato ma sarà inoltrato tra poco:
    1. Contatta il Servizio Clienti a: %1$s
    2. Comunica questo numero seriale: %2$s"</string>
@@ -243,6 +241,11 @@
     <string name="binding_behavior_error">Errore di autorizzazione !</string>
     <string name="imported_contacts">%s contatti importati</string>
     <string name="nobind">Non autorizzato</string>
+    <string name="progress_error_auth">Errore di autenticazione, provare di nuovo.</string>
+    <string name="progress_error_common">Ricarica fallita, riprovare più tardi.</string>
+    <string name="progress_error_network">Impossibile connettersi alla rete, verificare lo state della rete.</string>
+    <string name="progress_error_server">Errore server, riprovare più tardi.</string>
+    <string name="progress_error_waiting">Non ancora aggiornato, riprovare più tardi!</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="unbind">revoca autorizzazione</string>
     <string name="update_contacts">Aggiorna contatti</string>

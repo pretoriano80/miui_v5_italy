@@ -89,6 +89,10 @@ Sicuro di voler eliminare %d backup selezionato(i)?"</string>
     <string name="data_no_enough_space_message">Spazio interno inferiore a 30 Mb, il ripristino potrebbe non andare a buon fine, liberare spazio nella memoria</string>
     <string name="task_running_hint">Il servizio è attivo in background, provare di nuovo il ripristino!</string>
     <string name="task_running_dialog">Backup e ripristino sono in corso in background, premere Ok per visualizzarli</string>
+    <string name="task_running_backup_hint">Servizio in esecuzione in background, provare di nuovo!</string>
+    <string name="task_running_restore_hint">Servizio in esecuzione in background, provare di nuovo!</string>
+    <string name="task_running_backup_dialog">Backup in esecuzione in background, premi OK aprire.</string>
+    <string name="task_running_restore_dialog">Il ripristino in background è in esecuzione, premi OK per aprire.</string>
     <string name="task_service_not_launched">Servizio non avviato, attendere prego!</string>
     <string name="task_local_backup_cancel_dialog">"Backup non ancora completato
 Premi OK per annullare il processo"</string>

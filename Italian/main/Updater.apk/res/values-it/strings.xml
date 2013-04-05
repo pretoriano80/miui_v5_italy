@@ -7,6 +7,9 @@
     <string name="download_whole_rom">Scarica full ROM (%s)</string>
     <string name="download_ota_rom">Scarica aggiornamento OTA (%s)</string>
     <string name="apply_later_button_text">Installa dopo</string>
+    <string name="apply_update_timer">Aggiornamento completato，il terminale verrà riavviato entro %d secondi</string>
+    <string name="reboot_now">Riavvia adesso</string>
+    <string name="reboot_later">Riavvia dopo</string>
     <string name="start_update">Inizia aggiornamento</string>
     <string name="applying_update">Installazione aggiornamento...%s</string>
     <string name="apply_update_fail">Aggiornamento di sistema fallito</string>
@@ -46,7 +49,10 @@
     <string name="system_backup_button_text">Esegui un backup di sistema prima di aggiornare</string>
     <string name="system_backup_cancel_text">Riavvia per aggiornare</string>
     <string name="system_backup_ok_text">Backup</string>
-    <string name="sytemt_backup_helper">L\'aggiornamento di sistema non cancellerà i dati utente. E\' comunque consigliato di eseguire un backup dei propri dati prima di aggiornare</string>
+    <string name="system_backup_download_helper">Il terminale verrà riavviato automaticamente appena il download sarà completato</string>
+    <string name="system_backup_apply_helper">Il terminale si riavvierà automaticamente e inizierà il processo di aggiornamento</string>
+    <string name="system_backup_helper">L\'aggiornamento di sistema non cancellerà i dati utente. E\' comunque consigliato di eseguire un backup dei propri dati prima di aggiornare</string>
+    <string name="system_backup_ask">Ask again</string>
     <string name="system_backup_error_message">MIUI backup non è stato trovato, esegui manualmente il backup</string>
     <string name="md5_check_cancelled">Verifica MD5 annullata</string>
     <string name="no_updatecheck_executed">Verifica aggiornaemnto non eseguita</string>
@@ -99,6 +105,7 @@
     <string name="update_monthly_build_only">Aggiorna solo con build Mensile</string>
     <string name="install_file_explorer">Si preg di installare File Explorer</string>
     <string name="share_update">Condividi informazioni di aggiornamento</string>
+    <string name="share">Condividi</string>
     <string name="share_update_content_unsign">Ho aggiornato MIUI alla %1$s! Per il changelog dettagliato visita %2$s</string>
     <string name="share_update_content_sign">Ho aggiornato MIUI alla %1$s! La mia posizione utente adesso è %2$s. Per il changelog dettagliato visita %3$s</string>
     <string name="share_sina">Posta tramite Sina weibo</string>

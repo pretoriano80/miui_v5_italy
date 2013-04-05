@@ -49,4 +49,7 @@
     <string name="loading_video_netplay_label_v5">Caricamento stream, attendere prego...</string>
     <string name="buffering_video_netplay_label_v5">Buffering...</string>
     <string name="to_be_play_label_v5">Inizio riproduzione</string>
+    <string name="about_version_label">Versione:</string>
+    <string name="about_developer_label">Sviluppatore</string>
+    <string name="about_developer_name">MIUI</string>
 </resources>

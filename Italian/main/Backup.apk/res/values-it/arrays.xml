@@ -9,9 +9,10 @@
         <item>File Explorer</item>
         <item>Galleria</item>
         <item>Permessi</item>
-        <item>Archivio Meteo</item>
         <item>Fotocamera</item>
         <item>Monitor di Rete</item>
+        <item>Archivio Meteo</item>
+        <item>Meteo</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contatti</item>

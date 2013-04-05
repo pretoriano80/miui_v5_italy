@@ -17,7 +17,8 @@
     <string name="dialog_failed_body">Vuoi provare a scaricarlo più tardi oppure cancellarlo dalla coda ?</string>
     <string name="dialog_title_queued_body">File non ancora disponibile</string>
     <string name="dialog_queued_body">Questo file è in coda per il prossimo download.</string>
-    <string name="dialog_file_missing_body">Impossibile trovare il file scaricato.</string>
+    <string name="dialog_file_missing_title">Impossibile aprire il file</string>
+    <string name="dialog_file_missing_body">Il file scaricato non è stato trovato.</string>
     <string name="dialog_insufficient_space_on_external">Impossibile completare il download. Spazio insufficiente nella memoria esterna.</string>
     <string name="dialog_insufficient_space_on_cache">Impossibile completare il download. Spazio insufficiente nella memoria cache.</string>
     <string name="dialog_cannot_resume">Download interrotto. Non può essere recuperato.</string>
