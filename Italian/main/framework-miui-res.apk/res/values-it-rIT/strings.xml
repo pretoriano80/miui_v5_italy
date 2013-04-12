@@ -349,8 +349,6 @@
     <string name="payphone">Chiamata in addebito</string>
     <string name="peace_day" />
     <string name="perm_auto_backup">Backup automatico</string>
-    <string name="perm_data_update_dspt">"Consentire l'aggiornamento dei dati"</string>
-    <string name="perm_data_update_lab">Data aggiornamento</string>
     <string name="perm_payment_dspt">"Consenti all'applicazione di utilizzare il servizio di pagaento Xiaomi"</string>
     <string name="perm_payment_lab">Servizio pagamento Xiaomi</string>
     <string name="perm_send_push_dspt">"Consenti l'invio di messagi push Xiaomi"</string>
