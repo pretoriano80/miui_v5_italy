@@ -465,4 +465,8 @@
     <string name="unlockscreen_low_battery">Collega il caricabatteria</string>
     <string name="send">Invia</string>
     <string name="share">Condividi</string>
+    <string name="perm_data_update_lab">Aggiornamento dati</string>
+    <string name="perm_data_update_dspt">Consenti di aggiornare i dati</string>
+    <string name="device_xiaomi">Telefono Xiaomi</string>
+    <string name="miui_device_name">Android</string>
 </resources>

@@ -4,9 +4,9 @@
         <item>Yahoo! UK &amp;amp; Ireland</item>
         <item>uk.yahoo.com</item>
         <item>http://uk.search.yahoo.com/favicon.ico</item>
-        <item>http://uk.search.yahoo.com/search?ei={inputEncoding}&amp;amp;amp;fr=crmas&amp;amp;amp;p={searchTerms}</item>
+        <item>http://uk.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://uk-sayt.ff.search.yahoo.com/gossip-uk-sayt?output=fxjson&amp;amp;amp;command={searchTerms}</item>
+        <item>http://uk-sayt.ff.search.yahoo.com/gossip-uk-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="yahoo_jp">
         <item>Yahoo! JAPAN</item>
@@ -172,7 +172,7 @@
         <item>Google</item>
         <item>google.com</item>
         <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/m/search?q={searchTerms}</item>
+        <item>http://www.google.com/search?hl={language}&amp;amp;ie={inputEncoding}&amp;amp;source=android-browser&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
@@ -759,17 +759,11 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Pagina corrente</item>
-        <item>MIUI home</item>
-        <item>Pagina vuota</item>
-        <item>Pagina default</item>
         <item>Siti più visitati</item>
         <item>Altro</item>
     </string-array>
     <string-array name="pref_homepage_values">
-        <item>current</item>
         <item>miui_home</item>
-        <item>blank</item>
-        <item>default</item>
         <item>most_visited</item>
         <item>other</item>
     </string-array>

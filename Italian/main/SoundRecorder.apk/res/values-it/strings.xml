@@ -47,7 +47,7 @@
     <string name="rename_dialog_title">Rinomina questa registrazione</string>
     <string name="rename_illegal">Nome non valido, inserire di nuovo:</string>
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
-    <string name="record_picker_title">Scegl iuna registrazione</string>
+    <string name="record_picker_title">Registrazione</string>
     <string name="dialog_title_storage_full">Mancanza di spazio di archiviazione, eliminare alcuni file ?</string>
     <string name="dialog_content_storage_full">A causa dell amancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file tramite File Manager, procedere adesso ?</string>
     <string name="status_bar_anti_disturb">Il telefono è stato silenziato, modifica il volume per riattivarlo.</string>

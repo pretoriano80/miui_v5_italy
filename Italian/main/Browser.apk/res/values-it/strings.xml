@@ -461,4 +461,7 @@
     <string name="pref_setting_title">Impostazioni pagina</string>
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="return_to_homepage">Ritorna alla pagina iniziale</string>
+    <string name="notif_install_successful">Download completato</string>
+    <string name="in_incognito">La modalità incognito è attivata, non verrà salvata nessuna cronologia.</string>
+    <string name="tab_opened_background_in_incognito">Aperta nuova finestra incognito</string>
 </resources>

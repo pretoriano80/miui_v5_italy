@@ -24,6 +24,8 @@
     <string name="menu_delete">Elimina</string>
     <string name="menu_discard">Rimuovi</string>
     <string name="menu_move">Sposta in cartella</string>
+    <string name="menu_stick">Incolla</string>
+    <string name="menu_unstick">Non incollare</string>
     <string name="menu_font_size">Dimensione testo</string>
     <string name="menu_folder_change_name">Cambia nome cartella</string>
     <string name="folder_exist">La cartella %1$s è già esistente, rinominarla</string>
@@ -39,8 +41,6 @@
     <string name="alert_message_delete_note">Sicuro di voler eliminare questa nota ?</string>
     <string name="alert_title_discard">Annulla</string>
     <string name="alert_message_discard_changes">"Confermi l'annullamento di tutte le modifiche ?"</string>
-    <string name="alert_title_exceed_image_limit">Raggiunt oil limite di immagini !</string>
-    <string name="alert_message_exceed_image_limit">Ad una nota possono essere aggiunei fino ad un massimo di 15 immagini, crea una nuova nota per aggiungere altre immagini</string>
     <string name="format_move_notes_to_folder">%1$d nota(e) spostata(e) nella cartella %2$s</string>
     <string name="error_sdcard_unmounted">Scheda SD card occupata e non disponibile</string>
     <string name="error_sdcard_export">Esportazione fallita, controllare scheda SD</string>
@@ -82,4 +82,6 @@
     <string name="pref_title_data_export">Esportazioen dati</string>
     <string name="pref_title_data_export_to_sdcard">Esporta note su scheda SD</string>
     <string name="close">Chiudi</string>
+    <string name="alert_message_exceed_image_limit">Ad una nota possono essere aggiunei fino ad un massimo di 15 immagini, crea una nuova nota per aggiungere altre immagini</string>
+    <string name="alert_title_exceed_image_limit">Raggiunt oil limite di immagini !</string>
 </resources>

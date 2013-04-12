@@ -167,7 +167,7 @@
     <string name="copy_failed">Impossibile copiare</string>
     <string name="delete_failed">Eliminazione fallita</string>
     <string name="toast_file_not_can_read">Il file non è leggibile.</string>
-    <string name="server_control_settings">Impostazioni Server</string>
+    <string name="server_control_settings">Impostazioni</string>
     <string name="server_control_advanced_settings">Impostazioni avanzate</string>
     <string name="server_control_charset">Codifica trasferimento</string>
     <string name="utf8_title">UTF-8</string>

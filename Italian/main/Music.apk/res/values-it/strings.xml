@@ -111,7 +111,7 @@
     <string name="sort_by_track">Brani</string>
     <string name="sort_by_album">Album</string>
     <string name="sort_by_artist">Artisti</string>
-    <string name="music_picker_title">Seleziona brano</string>
+    <string name="music_picker_title">Brano</string>
     <string name="search_settings_description">Artisti, album, e brani</string>
     <string name="search_hint">Cerca Musica</string>
     <string name="all_tracks">Tutti i Brani</string>
