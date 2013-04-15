@@ -243,7 +243,7 @@
     <string name="slideshow_repeat_mode">Ripeti</string>
     <string name="clear_thumbnail_cache">Cancella cache delle anteprime</string>
     <string name="clear_thumbnail_cache_summary">Consultando la galleria verranno create delle anteprime. Cancellando la cache aumenterà lo spazio libero.</string>
-    <string name="clear_thumbnail_cache_confirm">La cache delle anteprime verrà cancellata. La Galleria eseguirà una nuova scansione media e ricreerà le anteprimen.</string>
+    <string name="clear_thumbnail_cache_confirm">La cache delle anteprime verrà cancellata. La Galleria eseguirà una nuova scansione media e ricreerà le anteprime.</string>
     <string name="cleaning_cache">Cancellazione cache...</string>
     <string name="seconds">secondi</string>
     <string name="rename_failed">Rinominazione fallita</string>
@@ -277,7 +277,7 @@
     <string name="error_should_not_select_video">Attenzione: non selezionare un file video.</string>
     <string name="storage_all_volumes">Tutte le unità di memoria</string>
     <string name="settings_i_xiaomi_com">Accedi a i.xiaomi.com per vedere i tuoi album su cloud in qualsiasi momento</string>
-    <string name="cloud_album_more_settings">Album cloud e caricamento automatico</string>
+    <string name="cloud_album_more_settings">Album cloud</string>
     <string name="browse_category">Gestione Foto</string>
     <string name="photo_page_save_image">Salva</string>
     <string name="photo_page_save_uri_image_ok">La foto è stata salvata nella cartella delle immagini fotocamera.</string>

@@ -14,7 +14,7 @@
     <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della Fotocamera ?</string>
     <string name="confirm_change_mode_title">Cambia modalità</string>
     <string name="confirm_change_to_expert_mode_message">Passare a modalità professionale ?</string>
-    <string name="confirm_change_to_simple_mode_message">PassarePassare a modalità semplice ?</string>
+    <string name="confirm_change_to_simple_mode_message">Passare a modalità semplice ?</string>
     <string name="confirm_location_message">MI-2 può registrare le informazioni sulla tua posizione, vuoi attivare i servizi di localizzazione?</string>
     <string name="open">Apri</string>
     <string name="skip">Salta</string>
@@ -42,7 +42,7 @@
     <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_entry_vga">VGA</string>
     <string name="pref_video_quality_entry_wqvga">WQVGA</string>
-    <string name="pref_video_time_lapse_frame_interval_title">Durata intervallo</string>
+    <string name="pref_video_time_lapse_frame_interval_title">Intervallo time-lapse</string>
     <string name="pref_video_time_lapse_frame_interval_default">0</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2x</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4x</string>
@@ -116,7 +116,7 @@
     <string name="pref_camera_coloreffect_title">Effetti colore</string>
     <string name="pref_camera_coloreffect_entry_none">Nessuno</string>
     <string name="pref_camera_coloreffect_entry_mono">Mono</string>
-    <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
+    <string name="pref_camera_coloreffect_entry_sepia">Seppia</string>
     <string name="pref_camera_coloreffect_entry_negative">Negativo</string>
     <string name="pref_camera_coloreffect_entry_posterize">Posterizza</string>
     <string name="pref_camera_coloreffect_entry_aqua">Acqua</string>

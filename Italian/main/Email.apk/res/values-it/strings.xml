@@ -356,7 +356,7 @@ CC: %4$s
     <string name="account_settings_ringtone">Scegli suoneria</string>
     <string name="account_settings_servers">Impostazioni server</string>
     <string name="account_delete_dlg_title">Rimuovi account</string>
-    <string name="account_delete_dlg_instructions_fmt">"L'account \"%s\" verrà rimosso da Email."</string>
+    <string name="account_delete_dlg_instructions_fmt">"L'account \"%s\" verrà rimosso."</string>
     <string name="account_settings_category_delete_account">Rimuovi account</string>
     <string name="account_settings_delete_account_label">Rimuovi account</string>
     <string name="mailbox_settings_activity_title">Opzioni di sincronizzazione</string>
@@ -581,5 +581,5 @@ CC: %4$s
     <string name="account_setup_basic_description_label">Nome account (opzionale)</string>
     <string name="add_quick_responses_action">Crea nuovo</string>
     <string name="account_security_waiting_policy_key_message">%s ha bisogno delle informazioni di sicurezza dalle impostazioni del server，attendere prego...</string>
-    <string name="cleared_trusted_senders_message">"Cancella \"mostra le immagini\", le immagini all'interno dei messaggi non verranno mostrate automaticamente."</string>
+    <string name="cleared_trusted_senders_message">"Le immagini all'interno dei messaggi non verranno mostrate automaticamente."</string>
 </resources>

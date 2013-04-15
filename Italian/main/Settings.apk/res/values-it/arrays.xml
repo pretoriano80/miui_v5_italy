@@ -768,16 +768,16 @@
         <item>0</item>
     </string-array>
     <string-array name="perm_hips_action">
-        <item>Allow</item>
-        <item>Ask</item>
-        <item>Deny</item>
+        <item>Consenti</item>
+        <item>Chiedi</item>
+        <item>Nega</item>
     </string-array>
     <string-array name="startup_hips_values">
         <item>2</item>
         <item>0</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>Allow</item>
-        <item>Deny</item>
+        <item>Consenti</item>
+        <item>Nega</item>
     </string-array>
 </resources>

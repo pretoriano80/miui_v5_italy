@@ -82,7 +82,7 @@
     <string name="fw_keyword_list">Lista parole</string>
     <string name="fw_keyword_list_hint">Le parole inserite saranno usate per bloccare alcuni messaggi in arrivo</string>
     <string name="menu_edit">Modifica</string>
-    <string name="fw_add_keyword">Aggiungi parole al monitor</string>
+    <string name="fw_add_keyword">Aggiungi parole al filtro</string>
     <string name="fw_edit_keyword">Modifica parole</string>
     <string name="fw_clear_all_keyword">Cancella tutte le parole</string>
     <string name="fw_add_keyword_existing">Parola chiave: %s già presente</string>

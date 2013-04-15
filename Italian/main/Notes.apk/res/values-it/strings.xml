@@ -48,9 +48,9 @@
     <string name="error_note_empty_for_clock">Spiacente, impossibile impostare orario su note vuote</string>
     <string name="error_note_empty_for_send_to_desktop">Spiacente, impossibile inviare un nota vuota sulla home</string>
     <string name="error_widget_exist_for_send_to_desktop">Questa nota è già presente sul desktop</string>
-    <string name="success_sdcard_export">Esportazione cmpletata</string>
+    <string name="success_sdcard_export">Esportazione completata</string>
     <string name="failed_sdcard_export">Esportaziopne fallita</string>
-    <string name="format_exported_file_location">Esportati (%1$s) nella cartella (%2$s) scheda SD</string>
+    <string name="format_exported_file_location">%1$s esportato nella cartella %2$s della scheda SD</string>
     <string name="preferences_title">Impostazioni</string>
     <string name="preferences_bg_random_appear_title">Colori delle note a caso</string>
     <string name="call_record_folder_name">Registro chiamate</string>
@@ -79,7 +79,7 @@
     <string name="pref_title_note_style">Stile note</string>
     <string name="pref_desc_mode_list">Lista</string>
     <string name="pref_desc_mode_grid">Griglia</string>
-    <string name="pref_title_data_export">Esportazioen dati</string>
+    <string name="pref_title_data_export">Esportazione dati</string>
     <string name="pref_title_data_export_to_sdcard">Esporta note su scheda SD</string>
     <string name="close">Chiudi</string>
     <string name="alert_message_exceed_image_limit">Ad una nota possono essere aggiunei fino ad un massimo di 15 immagini, crea una nuova nota per aggiungere altre immagini</string>

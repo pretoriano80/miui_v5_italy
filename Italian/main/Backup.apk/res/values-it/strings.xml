@@ -27,7 +27,7 @@
 Sicuro di voler eliminare %d backup selezionato(i)?"</string>
     <string name="start_restore">Ripristina</string>
     <string name="backup_file_error">Errore con il backup, operazione non valida.</string>
-    <string name="unit_byte">" Byte"</string>
+    <string name="unit_byte">"Byte"</string>
     <string name="unit_piece">" Elemento(i)"</string>
     <string name="restore_finished">Ripristino completato</string>
     <string name="restore_report">Rapporto Recovery</string>

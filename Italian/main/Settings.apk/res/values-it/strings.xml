@@ -2277,7 +2277,7 @@ prova in questo modo:
     <string name="screen_saturation_adjust">Regolazione saturazione colore</string>
     <string name="finish_application">Fine</string>
     <string name="header_category_accounts">ACCOUNT</string>
-    <string name="auto_startup_application_manage">Gestione avvio automatico applicazioni</string>
+    <string name="auto_startup_application_manage">Avvio automatico app</string>
     <string name="auto_startup_count">Consenti a %d applicazioni di avviarsi automaticamente</string>
     <string name="man_add_application">Aggiungi applicazioni manualmente</string>
     <string name="application_item_disable">Disabilita</string>

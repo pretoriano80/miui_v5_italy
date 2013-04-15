@@ -39,7 +39,7 @@
     <string name="menu_display_system_app">Mostra apps di sistema</string>
     <string name="menu_hide_system_app">Nascondi apps di sistema</string>
     <string name="adjust_traffic_title">Regola traffico dati</string>
-    <string name="month_traffic_settings_title">Impostazioni Traffico mensile</string>
+    <string name="month_traffic_settings_title">Impostazioni traffico mensile</string>
     <string name="sort_dialog_title">Ordina</string>
     <string name="current_warning_value">Valore soglia: %s</string>
     <string name="batch_connect_control">Gestisci Connessioni Apps</string>
@@ -60,7 +60,7 @@
     <string name="daily_limit_result_no_disconnect">Avvisami quando il traffico giornaliero supera i %dMB</string>
     <string name="daily_limit_result">Avvisami e disconnetti Internet quando il traffico giornaliero supera i %dMB</string>
     <string name="edit_frame_free_traffic_title">Modifica traffico disponibile</string>
-    <string name="edit_frame_warning_title">Soglia Avviso</string>
+    <string name="edit_frame_warning_title">Soglia avviso </string>
     <string name="edit_frame_month_start_title">Giorno inizio addebito</string>
     <string name="carrier_query_number_title">Imposta numero operatori e supporto</string>
     <string name="carrier_query_number_location">Attribuzione</string>
@@ -117,7 +117,7 @@
     <string name="app_traffic_detail">" traffico (%s)"</string>
     <string name="sms_match_fail">Corrispondenza SMS fallita</string>
     <string name="pref_network_status_bar">Barra di stato</string>
-    <string name="pref_network_speed_settings">Mostra velocità nella barra di stato</string>
+    <string name="pref_network_speed_settings">Velocità nella barra di stato</string>
     <string name="pref_network_speed_internal_title">Intervallo velocità rete</string>
     <string name="pref_netwotk_speed_internal_summary">Aggiorna velocità rete ogni %d s</string>
     <string name="force_stop_dlg_title">Forzare chiusura?</string>

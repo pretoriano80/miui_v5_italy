@@ -77,8 +77,8 @@
     <string name="stable_build">Build Stabile</string>
     <string name="about_device">Informazioni</string>
     <string name="emegency_build">Build:</string>
-    <string name="wifi_not_available_title">WLAN non connessa</string>
-    <string name="wifi_not_available_body">E\' consigliato utilizzare la WLAN per scaricare aggiornamenti con file di grandi dimensioni. Non stai utilizzando la WLAN adesso, sicuro di voler continuare?</string>
+    <string name="wifi_not_available_title">Wi-Fi non connessa</string>
+    <string name="wifi_not_available_body">E\' consigliato utilizzare la Wi-Fi per scaricare aggiornamenti con file di grandi dimensioni. Non stai utilizzando la Wi-Fi adesso, sicuro di voler continuare?</string>
     <string name="paused_queued_for_network">In attesa della connessione di rete</string>
     <string name="paused_queued_for_wifi">In attesa di connessione Wi-Fi</string>
     <string name="boot_recovery">Riavvia in Recovery</string>
@@ -101,7 +101,7 @@
     <string name="finish_download">Download completato</string>
     <string name="install_whole_rom">E\' consigliato il download del pacchetto full ROM</string>
     <string name="check_update_policy">Verifica impostazioni di aggiornamento</string>
-    <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo WLAN</string>
+    <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo Wi-Fi</string>
     <string name="update_monthly_build_only">Aggiorna solo con build Mensile</string>
     <string name="install_file_explorer">Si preg di installare File Explorer</string>
     <string name="share_update">Condividi informazioni di aggiornamento</string>

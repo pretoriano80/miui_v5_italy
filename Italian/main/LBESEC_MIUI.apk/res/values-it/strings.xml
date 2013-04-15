@@ -156,7 +156,7 @@
     <string name="Dashboard_Perm_HIPS_Disabled">Controllo Autorizzazioni disattivato</string>
     <string name="Dashboard_Perm_HIPS_Risky">Permessi a Rischio (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Permessi Normali (%1$d)</string>
-    <string name="Dashboard_Perm_AutoStart_Switch">Gestione Avvio Automatico</string>
+    <string name="Dashboard_Perm_AutoStart_Switch">Avvio Automatico</string>
     <string name="Dashboard_Perm_AutoStart">Gestisci Avvio Automatico App</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Abilita o disabilita la funzione di avvio automatico</string>
     <string name="Dashboard_HIPS_Disable_Title">Controllo Autorizzazioni</string>
