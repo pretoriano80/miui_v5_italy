@@ -60,7 +60,7 @@
     <string name="daily_limit_result_no_disconnect">Avvisami quando il traffico giornaliero supera i %dMB</string>
     <string name="daily_limit_result">Avvisami e disconnetti Internet quando il traffico giornaliero supera i %dMB</string>
     <string name="edit_frame_free_traffic_title">Modifica traffico disponibile</string>
-    <string name="edit_frame_warning_title">Soglia avviso </string>
+    <string name="edit_frame_warning_title">Soglia avviso\u0020</string>
     <string name="edit_frame_month_start_title">Giorno inizio addebito</string>
     <string name="carrier_query_number_title">Imposta numero operatori e supporto</string>
     <string name="carrier_query_number_location">Attribuzione</string>

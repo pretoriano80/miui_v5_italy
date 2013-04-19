@@ -702,7 +702,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="select_show_contacts">Mostra contatto</string>
     <string name="rebuild_t9_index_dialog_message">Ricostruzione indice dati in corso…</string>
     <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice dati</string>
-    <string name="pref_key_rebuild_t9_index_message">Consenti di correggere gli errori nella ricerca contatti </string>
+    <string name="pref_key_rebuild_t9_index_message">Consente di correggere gli errori nella ricerca contatti </string>
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_title">Impostazione automatica foto</string>
     <string name="pref_key_photo_word_summary">Imposta automaticamente le foto per i contatti che ne sono privi</string>
@@ -713,7 +713,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="preference_simple_mode_description">Mostra elementi senza immagine, informazioni e società</string>
     <string name="preference_contacts">Contatto</string>
     <string name="preference_contacts_display">Visualizza contatto</string>
-    <string name="preference_contacts_more">Altre impostazioni Contatti</string>
+    <string name="preference_contacts_more">Altre impostazioni contatti</string>
     <string name="preference_contacts_filter">Contatti da visualizzare</string>
     <string name="preference_telocation_title">Posizione</string>
     <string name="preference_telocation_summary_teloc_on">Mostra posizione</string>
@@ -725,7 +725,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="preference_auto_ip_title">IP automatico</string>
     <string name="preference_auto_ip_summary_disable">Non abilitato</string>
     <string name="preference_auto_ip_summary_on">Prefisso IP operatore: %s</string>
-    <string name="preference_phone_more_title">Altre impostazioni Telefono</string>
+    <string name="preference_phone_more_title">Altre impostazioni telefono</string>
     <string name="preference_dial_pad_touch_tone_switch">Toni tastiera</string>
     <string name="preference_tone_title">Tono</string>
     <string name="preference_dial_pad_touch_tone_default">Predefinito</string>

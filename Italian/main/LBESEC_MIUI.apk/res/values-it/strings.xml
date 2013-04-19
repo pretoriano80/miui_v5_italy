@@ -162,7 +162,7 @@
     <string name="Dashboard_HIPS_Disable_Title">Controllo Autorizzazioni</string>
     <string name="Dashboard_HIPS_Disable_Content">Disabilitando questo servizio MIUI smetterà di controllare le richieste delle applicazioni e non proteggerà più la tua sicurezza e la tua privacy.Sei sicuro di volerlo disattivare?</string>
     <string name="Dashboard_Su_Enable_Title">Permessi di ROOT</string>
-    <string name="Dashboard_Su_Enable_Content">Attivando questo servizio si permetterà alle applicazioni di richiedere i permessi di ROOT. Nota: Applicazioni con i permessi potrebbero causare instabilità di sistema, anche perdita di dati personali, danni hardware o di sistema, si prega di fare attenzione. Sicuro di volerlo abilitare?</string>
+    <string name="Dashboard_Su_Enable_Content">"Attivando questo servizio si permetterà alle applicazioni di richiedere i permessi di ROOT. Nota: Applicazioni con i permessi potrebbero causare instabilità di sistema, anche perdita di dati personali, danni all'hardware o di sistema, si prega di fare attenzione. Sicuro di volerlo abilitare?"</string>
     <string name="Dashboard_Log_Clear_Title">Cancella Registri</string>
     <string name="Dashboard_Log_Clear_Content">Tutti i registri verranno cancellati. Sei sicuro di voler procedere?</string>
     <string name="Privacy_Perm_Count">Autorizzati: %1$d Negati: %2$d</string>

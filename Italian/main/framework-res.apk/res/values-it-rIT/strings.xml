@@ -394,7 +394,7 @@ Tentativi rimasti:"</string>
     <string name="permlab_setDebugApp">attivazione debug delle applicazioni</string>
     <string name="permdesc_setDebugApp">"Consente a un'applicazione di attivare il debug per un'altra applicazione. Le applicazioni dannose possono sfruttare questa possibilità per interrompere altre applicazioni."</string>
     <string name="permlab_changeConfiguration">modifica impostazioni UI</string>
-    <string name="permdesc_changeConfiguration">"Consente a un'applicazione di modificare la configurazione corrente, come le dimensioni dei caratteri locali o complessive."</string>
+    <string name="permdesc_changeConfiguration">"Consente ad un'applicazione di modificare la configurazione corrente, come le dimensioni dei caratteri locali o complessive."</string>
     <string name="permlab_enableCarMode">abilitazione modalità auto</string>
     <string name="permdesc_enableCarMode">"Consente a un'applicazione di abilitare la modalità auto."</string>
     <string name="permlab_killBackgroundProcesses">interruzione processi in background</string>

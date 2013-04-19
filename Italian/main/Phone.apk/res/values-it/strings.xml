@@ -1088,6 +1088,9 @@ Passare comunque al nuovo operatore?"</string>
     <string name="sms_sender">Da</string>
     <string name="sms_content">Contenuto del messaggio</string>
     <string name="readingSimContacts">Lettura informazioni SIM (potrebbe impiegare fino ad un minuto)…</string>
+    <string name="antispam_marked_title">%1$s</string>
+    <string name="antispam_marked_count">Rifiutate: %1$d</string>
+    <string name="antispam_notification_title">Sconosciuto</string>
     <string name="sim_missing_continueView_text">Continua senza SIM</string>
     <string name="sim_missing_msg_text">Nessuna SIM card trovata. Inserisci una SIM nel telefono.</string>
 </resources>

@@ -140,6 +140,7 @@
     <string name="load_audio_failed">Impossibile caricare lista audio, provare di nuovo</string>
     <string name="load_album_artist_in_process">Caricamento lista album e artista...</string>
     <string name="load_album_artist_failed">Impossibile caricare lista album e artista. Riprovare.</string>
+    <string name="retry">Riprova</string>
     <string name="lrc_search_failed">Testi non trovati</string>
     <string name="lrc_searching">Ricerca testi...</string>
     <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione su rete mobile</string>
@@ -226,6 +227,7 @@
     <string name="no_song_downloaded">Nessun brano può essere scaricato.</string>
     <string name="dirac_enabled">Dirac abilitato</string>
     <string name="dirac_disabled">Dirac disabilitato</string>
+    <string name="powered_by">Powered by</string>
     <string name="albumsongseparator" />
     <string name="notification_artist_album">%2$s %1$s</string>
     <string name="durationformatshort">%2$d:%5$02d</string>

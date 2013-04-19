@@ -91,7 +91,7 @@
     <string name="i_know">OK</string>
     <string name="find_device_disabled_title">Localizzazione terminale disabilitata</string>
     <string name="find_device_disabled_notice">Puoi riaprire Trova il Tuo Telefono da Impostazioni -> Account e Sinc.-> xiaomi account</string>
-    <string name="user_agreement_p1">Accedendo accetti</string>
+    <string name="user_agreement_p1">Accedendo accetti\u0020</string>
     <string name="user_agreement_p2">Termini e Condizioni del servizio Xiaomi</string>
     <string name="user_agreement_p3"> e </string>
     <string name="user_agreement_p4">la Regolamentazione sulla Privacy</string>

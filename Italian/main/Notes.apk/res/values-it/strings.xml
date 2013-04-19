@@ -71,8 +71,8 @@
     <string name="snippet_image_stub">[Image]</string>
     <string name="snippet_image_template">[Image %1$s]</string>
     <string name="select_account_prompt">Abilita sincronizzazione note</string>
-    <string name="enable_sync_desc">Le note possono essere soncronizzate con il tuo account Xiaomi %1$s, sincronizzare adesso ?</string>
-    <string name="add_account_desc">Le note possono essere soncronizzate con il tuo account Xiaomi, accedere e sincronizzare adesso ?</string>
+    <string name="enable_sync_desc">Le note possono essere sincronizzate con il tuo account Xiaomi %1$s, sincronizzare adesso ?</string>
+    <string name="add_account_desc">Le note possono essere sincronizzate con il tuo account Xiaomi, accedere e sincronizzare adesso ?</string>
     <string name="not_now">Non adesso</string>
     <string name="enable_sync">Sincronizza</string>
     <string name="login_sync">Accedi e sincronizza</string>

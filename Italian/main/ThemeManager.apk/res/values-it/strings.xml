@@ -114,7 +114,7 @@
     <string name="resource_comment_edit_text_default">Scrivi un commento</string>
     <string name="resource_comment_publish">Invia</string>
     <string name="resource_comment_description">%1$s commenta alle %2$s:%3$s:%4$s</string>
-    <string name="resource_comment_count">%1$s ha una valutazione di %2$s e commenti (versione %3$s)</string>
+    <string name="resource_comment_count">%1$s valutazioni e %2$s commenti(versione %3$s)</string>
     <string name="resource_comment_name_default">Utente %1$s</string>
     <string name="resource_comment_account_need_activitied">Il tuo account non è attivato, vuoi attivarlo adesso?</string>
     <string name="resource_comment_rate">Valutazione:</string>

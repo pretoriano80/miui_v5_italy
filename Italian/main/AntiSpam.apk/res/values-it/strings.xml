@@ -131,4 +131,12 @@
     <string name="whitelist_tab_title">Whitelist</string>
     <string name="log_count">(%d)</string>
     <string name="new_bw_list_button">Aggiungi contatti</string>
+    <string name="mark_number_dialog_maintitle">Segna il numero sconosciuto e salva</string>
+    <string name="mark_number_dialog_subtitle">Sviluppato con Sogou</string>
+    <string name="custom_mark_category">Personalizza</string>
+    <string name="smart_antispam">Antispam intelligente</string>
+    <string name="turn_on_smart_antispam_hint">"I numeri verranno controllati e contrassegnati, consentendo l'identificazione delle chiamate indesiderate."</string>
+    <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>
+    <string name="turn_on_smart_antispam_summary_on">Utilizza Wi-Fi e rete 3G</string>
+    <string name="turn_on_smart_antispam_summary_off">Utilizza il database locale</string>
 </resources>

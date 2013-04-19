@@ -92,7 +92,6 @@
     <string name="favorite_screen_cap">Screenshot MIUI</string>
     <string name="favorite_ringtone">Suoneria</string>
     <string name="file_loading">Caricamento...</string>
-    <string name="remote_management">FTP</string>
     <string name="multi_select_title">Seleziona %1$s elemento(i)</string>
     <string name="tab_networkdisk">MiDrive</string>
     <string name="operation_download_link">Genera li download</string>
@@ -100,7 +99,6 @@
     <string name="show_message">Il file non può essere aperto se non scaricato</string>
     <string name="ui_main_progress_txt_open_file">Download in corso...</string>
     <string name="networkView_notConnected">rete non disponibile</string>
-    <string name="networkView_offline">Modalità Offline, aggiornamento cartelle temporaneamente disabilitato</string>
     <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>
     <string name="ui_main_toast_operation_failed">Rimozione preferito %1$s fallita.</string>
     <string name="user_guide">Guida Utente</string>
@@ -143,7 +141,6 @@
     <string name="trash_box_message1">Puoi eliminare file non necessari per liberare spazio</string>
     <string name="trash_box_message2">Puoi eliminare file o svuotare il cestino per liberare spazio</string>
     <string name="close">Chiudi</string>
-    <string name="clean_trash_box_failed">Elimina i file falliti da più di 30 giorni dal cestino</string>
     <string name="space_info">Spazio di rete: %1$s disponibile，totale: %2$s</string>
     <string name="trash_box_capacity">Spazio cestino: %1$s</string>
     <string name="data_capacity">Spazio: %1$s</string>
@@ -173,7 +170,7 @@
     <string name="utf8_title">UTF-8</string>
     <string name="utf8_summary">Tipo di codifica predefinito</string>
     <string name="gbk_title">GBK</string>
-    <string name="gbk_summary">Se stai utilizzando la codifica GBK, ad esempio Windows Explorer, scegli questo tipo di codifica per evitare testo cinese confuso</string>
+    <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
     <string name="stay_awake_title">Mantieni attivo</string>
     <string name="stay_awake_summary">"Mantiene lo schermo attivo durante l'utilizzo di FTP"</string>
     <string name="ftp_transfer_secure">Trasferimento FTP sicuro</string>
@@ -204,8 +201,6 @@
     <string name="paused">In pausa</string>
     <string name="upload_failed">Upload fallito!</string>
     <string name="download_failed">Download fallito!</string>
-    <string name="upload_successful">Upload avvenuto con successo</string>
-    <string name="download_successful">Download avvenuto con successo</string>
     <string name="operation_pause">Pausa</string>
     <string name="operation_resume">Riprendi</string>
     <string name="operation_pause_all">Sospendi tutti</string>
@@ -215,8 +210,6 @@
     <string name="des_running_trans">Restano %1$d file da trasferire</string>
     <string name="trans_task_delete_confirm_message">Sicuro di voler cancellare i %1$d processi selezionati ?</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Clicca qui&lt;/a>per aprire il cestino cloud</string>
-    <string name="scanning">Scansione...</string>
-    <string name="clean_complete">Pulizia completata correttamente</string>
     <string name="storage_internal">Archivio interno</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
@@ -224,14 +217,47 @@
     <string name="bind_account_summary">Se hai già un account KuaiPan puoi aggiungerlo per recuperare i tuoi dati</string>
     <string name="binded_accout_title">Account KuaiPan</string>
     <string name="binded_accout_description">Account collegati, utilizza il tuo account Xiaomi o quello KuaiPan per accedere, entrambi possono accedere ai tuoi dati</string>
-    <string name="binding_accout_title">Aggiungi un account KuaiPan già esistente</string>
-    <string name="kingsoft_account">Account Kingsoft KuaiPan</string>
-    <string name="binded_accout_warning">Attenzione: questa operazione è irreversibile, vuoi continuare?</string>
-    <string name="cleanup_tab_garbage">Pulizia di sistema</string>
-    <string name="cleanup_tab_app">Pulizia applicazioni</string>
+    <string name="scanning_on_going">Scansione...</string>
+    <string name="scanning">Scansione...</string>
+    <string name="sys_size_title">Spazio totale</string>
+    <string name="sys_size">Spazio totale %1$s</string>
+    <string name="application_size_label">App</string>
+    <string name="data_size_label">Dati</string>
+    <string name="cache_size_label">Cache</string>
+    <string name="sd_size_label">Spazio SD</string>
+    <string name="version_text">versione %1$s</string>
+    <string name="uninstall_app_data">Elimina App e dati</string>
     <string name="start_cleanup">Avvia pulizia</string>
-    <string name="cancel_cleanup">Annulla pulizia</string>
-    <string name="cleanup_help">Rimuovi file indesiderati nel sistema per liberare spazio</string>
+    <string name="header_text_scanning">Scansione file eliminabili…</string>
+    <string name="header_text_scanned">Trovati filerovati</string>
+    <string name="header_text_cleaning">Pulizia non eseguita</string>
+    <string name="header_text_cleaned">File eliminati</string>
+    <string name="waiting_for_cleaning">In attesa della pulizia</string>
+    <string name="item_name">Nessun nome</string>
+    <string name="waiting_for_scanning">In attesa della scansione</string>
+    <string name="temp_file_title">File temporanei</string>
+    <string name="thumbnail_title">File di anteprima</string>
+    <string name="app_cache_title">Cache app</string>
+    <string name="empty_dir_title">Cartelle vuote</string>
+    <string name="app_garbage_title">App eliminabili</string>
+    <string name="temp_file_cleanup_indication">%s file temporanei</string>
+    <string name="thumbnail_cleanup_indication">%s anteprime</string>
+    <string name="app_cache_cleanup_indication">%s cache</string>
+    <string name="empty_dir_cleanup_indication">%s file eliminabili</string>
+    <string name="app_garbage_cleanup_indication">%s app elimianbili</string>
+    <string name="no_temp_file_indication">Nessun file temporaneo</string>
+    <string name="no_thumbnail_indication">Nessun file di anteprima</string>
+    <string name="no_app_cache_indication">Nessuna app eliminabile</string>
+    <string name="no_empty_dir_indication">Nessuna cartella vuota</string>
+    <string name="no_app_garbage_indication">Nessuna app inutile</string>
+    <string name="cancel_app_garbage_cleanup">Annulla pulizia app</string>
+    <string name="clean_app_garbage">%d elemento(i) eliminato(i)</string>
+    <string name="app_garbage_path">Posizione:</string>
+    <string name="give_up_cleaning">Annulla pulizia</string>
+    <string name="restart_cleaning">Riavvia</string>
+    <string name="cleanup_complete">Pulizia completata</string>
+    <string name="garbage_size_metric">"%s
+Spazzatura"</string>
     <string name="account_bind_prompt">Migrazione dati utente, il tuo account verrà temporaneamente bloccato, attendere prego...</string>
     <string name="migrate_announcement_title">Migrazione Account</string>
     <string name="migrate_announcement_msg">Se hai un account puoi collegarlo nelle impostazioni e preferenze di accesso.</string>
@@ -241,4 +267,10 @@
     <string name="operation_copying">Copia...</string>
     <string name="operation_copying_detail">Copia file (%1$d/%2$d)</string>
     <string name="name_illegal">File name cannot be empty</string>
+    <string name="open_changed_file_title">File modificati</string>
+    <string name="open_changed_file_message">"Il file che stai cercando di aprire è stato modificato, puoi:
+1. Scaricare (aggiornamento del file locale)
+2. Caricare (aggiornamento del file remoto)"</string>
+    <string name="ui_filechange_btn_upload">Carica file</string>
+    <string name="release_space_indication">Elimina file spazzatura</string>
 </resources>

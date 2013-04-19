@@ -599,7 +599,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_tether_enabled_subtext">Hotspot portatile %1$s attivo</string>
     <string name="wifi_tether_failed_subtext">Errore hotspot Wi-Fi portatile</string>
     <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
-    <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s%2$s portatile</string>
+    <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s portatile</string>
     <string name="wifi_tether_configure_ssid_default">HotspotAndroid</string>
     <string name="testing_wifi_info">Informazioni Wi-Fi</string>
     <string name="disableNetwork">disableNetwork</string>
@@ -886,10 +886,10 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="usb_tethering_unavailable_subtext">USB non connessa</string>
     <string name="usb_tethering_errored_subtext">Errore tethering USB</string>
     <string name="bluetooth_tether_checkbox_text">Tethering Bluetooth</string>
-    <string name="bluetooth_tethering_available_subtext">Connessione Internet di questo telefono condivisa</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Connessione Internet telefono condivisa con 1 dispositivo</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Connessione Internet telefono condivisa con %1$d dispositivi</string>
-    <string name="bluetooth_tethering_off_subtext">Connessione Internet del telefono non condivisa</string>
+    <string name="bluetooth_tethering_available_subtext">Connessione Internet condivisa</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Connessione Internet condivisa con 1 dispositivo</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Connessione Internet condivisa con %1$d dispositivi</string>
+    <string name="bluetooth_tethering_off_subtext">Connessione Internet non condivisa</string>
     <string name="bluetooth_tethering_errored_subtext">Senza tethering</string>
     <string name="bluetooth_tethering_overflow_error">Tethering impossibile con più di %1$d dispositivi.</string>
     <string name="bluetooth_untether_blank">Sarà annullato il tethering per %1$s.</string>
@@ -897,7 +897,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="network_settings_title">Reti mobili</string>
     <string name="location_title">La mia posizione</string>
     <string name="location_network_based">Servizio localizzazione Google</string>
-    <string name="location_neighborhood_level">Consenti alle applicazioni di utilizzare dati di fonti come reti Wi-Fi/mobili per determinare la tua posizione approssimativa</string>
+    <string name="location_neighborhood_level">Consenti alle applicazioni di utilizzare dati da fonti come reti Wi-Fi/mobili per determinare la tua posizione approssimativa</string>
     <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
     <string name="location_gps">Satelliti GPS</string>
     <string name="location_street_level">Consenti alle applicazioni di utilizzare il GPS per individuare la tua posizione</string>
@@ -1011,15 +1011,15 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="show_running_services">Mostra servizi in esecuzione</string>
     <string name="show_background_processes">Mostra processi nella cache</string>
     <string name="reset_app_preferences">Cancella preferenze</string>
-    <string name="reset_app_preferences_title">Cancellare preferenze app?</string>
+    <string name="reset_app_preferences_title">Cancellare preferenze applicazioni ?</string>
     <string name="reset_app_preferences_desc">"Questo cancellerà le preferenze per:
  "<li>Applicazioni disabilitate</li>"
  "<li>Notifiche applicazioni disabilitate</li>"
- "<li>Applicazioni definite per le operazioni</li>"
+ "<li>Applicazioni predefinite per le operazioni</li>"
  "<li>Restrizioni dati in backgrouund per le applicazioni</li>"
 
  Non perderai nessun dato delle applicazioni."</string>
-    <string name="reset_app_preferences_button">Reset apps</string>
+    <string name="reset_app_preferences_button">Cancella</string>
     <string name="manage_space_text">Gestisci spazio</string>
     <string name="filter">Filtra</string>
     <string name="filter_dlg_title">Scegli opzioni di filtro</string>
@@ -1202,7 +1202,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="enforce_read_external_confirm_title">Proteggere archivio USB?</string>
     <string name="enforce_read_external_confirm_message">"Quando l'archivio USB è protetto, le applicazioni devono richiedere i permessi per leggere i dati sull'archivio esterno.
 
-Alcune applicazioni potrebbero non funzionare fino all'aggiornaemento da parte del proprio sviluppatore"</string>
+Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte del proprio sviluppatore"</string>
     <string name="gadget_picker_title">Scegli gadget</string>
     <string name="widget_picker_title">Scegli widget</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">"Creare widget e consentire l'accesso?"</string>
@@ -1538,7 +1538,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornaemento da parte d
     <string name="force_hw_ui">Forza rendering GPU</string>
     <string name="force_hw_ui_summary">Usa accelerazione hardware 2D nelle applicazioni</string>
     <string name="track_frame_time">Profilo rendering GPU</string>
-    <string name="track_frame_time_summary">Misura il tempo di rendering time in adb shell dumpsys gfxinfo</string>
+    <string name="track_frame_time_summary">Misura il tempo di rendering in adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Scala animazione finestra</string>
     <string name="transition_animation_scale_title">Scala animazione transizione</string>
     <string name="animator_duration_scale_title">Durata animazione</string>
@@ -1772,7 +1772,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_root">ROOT</string>
     <string name="perm_hips_root_desc">Richiesta Permessi ROOT</string>
     <string name="perm_hips_root_desc_stable">Non disponibili su MIUI Stable</string>
-    <string name="perm_hips_root_hint">%1$s applicazioni hanno i Permessi di ROOT</string>
+    <string name="perm_hips_root_hint">%1$s applicazioni hanno i permessi di ROOT</string>
     <string name="perm_hips_send_sms_recipient">destinatario:</string>
     <string name="perm_hips_send_sms_content">Contenuto:</string>
     <string name="perm_hips_send_sms_smsc">Centro SMS:</string>
@@ -1805,7 +1805,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_end_call">terminare chiamata in corso</string>
     <string name="perm_hips_answer_call">rispondere alla chiamata in arrivo</string>
     <string name="perm_hips_silence_ringer">silenziare la suoneria</string>
-    <string name="perm_hips_cancel_missed_calls">cancellare notifiche chiamate perse</string>
+    <string name="perm_hips_cancel_missed_calls">Cancellare notifiche chiamate perse</string>
     <string name="perm_hips_adjust_volume_incall">regolare volume in chiamata</string>
     <string name="perm_hips_adjust_ringer_volume">regolare volume suoneria</string>
     <string name="perm_hips_security_prompt_caption">Avviso di Sicurezza</string>
@@ -1816,8 +1816,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_security_prompt_accept_root">Consenti</string>
     <string name="perm_hips_security_prompt_next">Avanti</string>
     <string name="perm_hips_security_prompt_root_caption">Avviso importante</string>
-    <string name="perm_hips_security_prompt_root_step1">Vuoi consentire a %1$s di avere i Permessi di ROOT ?</string>
-    <string name="perm_hips_security_prompt_root_step2">Concedere i Permessi di ROOT potrebbe causare instabilità di sistema</string>
+    <string name="perm_hips_security_prompt_root_step1">Vuoi consentire a %1$s di avere i permessi di ROOT ?</string>
+    <string name="perm_hips_security_prompt_root_step2">Concedere i permessi di ROOT potrebbe causare instabilità di sistema</string>
     <string name="perm_hips_security_prompt_root_step3">I tuoi dati privati come account, password e messaggi, potrebbero essere compromessi</string>
     <string name="perm_hips_security_prompt_root_step4">Si potrebbero verificare anche danni hardware permaenti</string>
     <string name="perm_hips_security_prompt_root_step5">Utilizza con attenzione!</string>
@@ -1829,12 +1829,12 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_header_disabled">Monitor permessi disabilitato</string>
     <string name="perm_su_switch">Permessi di ROOT</string>
     <string name="perm_su">Gestisci permessi di ROOT</string>
-    <string name="perm_su_desc">%1$d applicazioni monitorate per i Permessi di ROOT</string>
+    <string name="perm_su_desc">%1$d applicazioni monitorate per i permessi di ROOT</string>
     <string name="perm_su_desc1">Gestisci Permessi ROOT</string>
     <string name="perm_su_disabled">Permessi di ROOT disabilitati</string>
     <string name="perm_su_disabled_in_stable">Permessi di ROOT non disponibili su MIUI Stable</string>
-    <string name="perm_su_disabled_in_stable_desc">Concedere Permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni hardware o di sistema.Passa alla versione MIUI Developer per abilitare i Permessi di ROOT.</string>
-    <string name="perm_su_disabled_desc">Concedere Permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni hardware o di sistema. Accertati di conoscere il funzionamento dei Permessi di ROOT.</string>
+    <string name="perm_su_disabled_in_stable_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema.Passa alla versione MIUI Developer per abilitare i permessi di ROOT."</string>
+    <string name="perm_su_disabled_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema. Accertati di conoscere il funzionamento dei permessi di ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Scarica MIUI</string>
     <string name="perm_hips_switch">Monitor Permessi</string>
     <string name="perm_hips">Gestisci permessi applicazioni</string>
@@ -1848,7 +1848,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_disable_title">Monitor Permessi</string>
     <string name="perm_hips_disable_content">Disabilitando questa funzione MIUI smetterà di monitorare le richieste delle applicazioni limitando così la protezione della sicurezza e della privacy. Sicuro di volerla disabilitare ?</string>
     <string name="perm_su_enable_title">Permessi di ROOT</string>
-    <string name="perm_su_enable_content">"Abilitando qusta funzione consentirai alle applicazioni di richiedere i Permessi di ROOT. Nota: Applicazioni con i permessi di ROOT possono causare instabilità di sistema, perdita di dati personali, danni hardware o di sistema, procedere con precauzione. Sicuro di voler procedere ?</string>
+    <string name="perm_su_enable_content">"Abilitando questa funzione consentirai alle applicazioni di richiedere i permessi di ROOT. Nota: Applicazioni con i permessi di ROOT possono causare instabilità di sistema, perdita di dati personali, danni all'hardware o di sistema, procedere con precauzione. Sicuro di voler procedere ?"</string>
     <string name="perm_log_clear_title">Cancella log</string>
     <string name="perm_log_clear_content">Tutti i rapporti verranno cancellati. Sicuro di voler procedere ?</string>
     <string name="perm_privacy_count">Consentiti: %1$d Negati: %2$d</string>
@@ -1870,7 +1870,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_sysopt_boost_auto_start_group">Avvio Autom.</string>
     <string name="perm_sysopt_boost_auto_start">Permessi Avvio Autom.</string>
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
-    <string name="perm_su_enable_dialog">%1$s sta cercando di ottenre i Permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
+    <string name="perm_su_enable_dialog">%1$s sta cercando di ottenre i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
     <string name="perm_notice">Avviso Sicurezza</string>
     <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza da parte di questa applicazione. Ricorda bene questo avviso.
 Rendere affibile questa applicazione ?"</string>
@@ -2004,9 +2004,9 @@ Conentire avvio automatico ?"</string>
     <string name="no_nearby_wifi">Nessuna rete Wi-Fi rilevata</string>
     <string name="manually_add_network">Aggiungi Rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
-    <string name="incoming_call_vibrate_abbreviation">Chiamate</string>
-    <string name="notification_vibrate_abbreviation">Notifiche</string>
-    <string name="mms_vibrate_abbreviation">MMS</string>
+    <string name="incoming_call_vibrate_abbreviation">Chiamate\u0020</string>
+    <string name="notification_vibrate_abbreviation">Notifiche\u0020</string>
+    <string name="mms_vibrate_abbreviation">MMS\u0020</string>
     <string name="breathing_light_color_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>
     <string name="breathing_light_freq_title">Intermittenza LED</string>
@@ -2104,7 +2104,7 @@ Conentire avvio automatico ?"</string>
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
     <string name="sound_category_calls_and_notification_title">Suoneria &amp; notifiche</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">"Regola la dimensione dei caratteri o layout delle applicazioni come Telefono, Messaggi, Contatti etc, in alcuni casi può migliorare la leggibilità e l'utilizzo".</string>
+    <string name="font_size_summary">"Regola la dimensione dei caratteri o del layout di applicazioni come Telefono, Messaggi, Contatti etc, in alcuni casi può migliorare la leggibilità e l'utilizzo".</string>
     <string name="font_size_small">Piccolo</string>
     <string name="font_size_normal">Normale</string>
     <string name="font_size_medium">Medio</string>
@@ -2237,7 +2237,7 @@ prova in questo modo:
     <string name="vpn_configure">Configura VPN</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
     <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
-    <string name="sync_wifi_label">Impostazioni Sincronizzazione Wi-Fi</string>
+    <string name="sync_wifi_label">Reti Wi-Fi</string>
     <string name="wifi_enable">Abilita Wi-Fi</string>
     <string name="bluetooth_enable">Abilita bluetooth</string>
     <string name="sync_enable">Abilita sincronizzazione</string>
@@ -2285,7 +2285,9 @@ prova in questo modo:
     <string name="application_item_already_permission">Consentita</string>
     <string name="application_forbid_auto_startup">"Disabilita %s dall'abilitazione in background"</string>
     <string name="floating_window_switch_label">Mostra finestra pop-up</string>
-    <string name="app_floating_window_dlg">Permetti a\"%1$s\" di aprire finestre pop-up</string>
+    <string name="floating_window_switch_label_disable">Nascondi finestra pop-up</string>
+    <string name="app_floating_window_dlg_enable">"Per abilitare le impostazioni della finestra di %1$s dovrai riavviare l'applicazione. Sicuro di voler procedere ?"</string>
+    <string name="app_floating_window_dlg_disable">"Disabilitando le impostazioni della finestra di %1$s l'applicazione verrà chiusa. Sicuro di voler procedere ?"</string>
     <string name="wps_category">Sicurezza WPS</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router possa gestire il protocollo WPS</string>
@@ -2296,9 +2298,11 @@ prova in questo modo:
     <string name="private_sms_reset_by_account">Accedi al tuo account Xiaomi per ripristinare la password degli SMS privati</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza per creare la password di blocco</string>
     <string name="dirac_control">Controllo Dirac</string>
-    <string name="cancel_alert">Annullare sveglia?</string>
+    <string name="cancel_alert">Annullare ?</string>
     <string name="android_beam_witch_label">Abilita Android Beam</string>
+    <string name="sim_management_title">Gestione SIM</string>
     <string name="safe_relative">Permessi sicurezza</string>
+    <string name="app_floating_window_dlg">Consenti a\"%1$s\" di mostrare finestre pop-up</string>
     <string name="bluetooth_profile_name">Telefono Xiaomi di%1$s</string>
     <string name="device_default_name">Telefono Xiaomi</string>
     <string name="mdb_entering">Entra</string>
