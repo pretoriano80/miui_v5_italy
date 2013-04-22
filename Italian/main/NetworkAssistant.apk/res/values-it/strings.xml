@@ -13,7 +13,7 @@
     <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
     <string name="widget_color_used_all">\#C00203</string>
     <string name="app_name">Monitor</string>
-    <string name="used_flux">Utilizzo Traffico</string>
+    <string name="used_flux">Utilizzo traffico</string>
     <string name="sorted_flux">Statistiche</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_traffic_adjust">Regola Traffico</string>
@@ -70,7 +70,7 @@
     <string name="adjust_traffic_auto_adjust_open_hint">La regolazione automatica è attivata e modificherà regolarmente il traffico dati</string>
     <string name="unknown_free_traffic_text">Non conosci il tuo traffico dati disponibile?</string>
     <string name="unknown_free_traffic_title">Traffico disponibile sconosciuto</string>
-    <string name="unknown_free_traffic_hint">Se non conosci il tuo traffico dati disponibile, rivolgiti al tuo operatore mobile per ricevere assistenza</string>
+    <string name="unknown_free_traffic_hint">Se non conosci le soglie del tuo piano tariffario rivolgiti al tuo operatore mobile per ricevere assistenza</string>
     <string name="i_known_button">OK</string>
     <string name="traffic_none">Niente</string>
     <string name="disable_background_mobile_connect">Disattiva connessione dati in background</string>

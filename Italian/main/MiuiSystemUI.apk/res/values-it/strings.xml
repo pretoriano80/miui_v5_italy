@@ -133,7 +133,7 @@
     <string name="usb_notification_ptp_ticker_text">USB Connessa (Modalità Foto)</string>
     <string name="move_data_to_sdcard_title">Esporta dati interni su scheda SD</string>
     <string name="move_data_to_sdcard_message">"Sposterà dati come screenshot, immagini ed altro dalla memoria interna alla scheda SD. Per assicurare un utilizzo fluido e stabile, si consiglia di mantenere la scheda SD inserita durante l'uso quotidiano."</string>
-    <string name="user_guide_for_notification">Ricevuta una nuova notifica，spostarla in basso la barra di stato per vedere i dettagli</string>
+    <string name="user_guide_for_notification">Hai ricevuto una nuova notifica, trascina in basso la barra di stato per vedere i dettagli</string>
     <string name="user_guide_for_toggle">La lista comandi può essere spostata lateralmente</string>
     <string name="user_guide_for_toggle_list">Premi qui per personalizzare la lista comandi</string>
     <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
@@ -145,7 +145,7 @@
     <string name="settings_toggle_layout_style_applying">Modifica stile comandi...</string>
     <string name="settings_toggle">Comandi</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
-    <string name="settings_toggle_position_divider_page">I %1$d comandi sopra questa barra sono attivi</string>
+    <string name="settings_toggle_position_divider_page">I comandi sopra questa barra sono attivi (%1$d)</string>
     <string name="settings_toggle_position_divider_list">I comandi sopra questa barra saranno visibili</string>
     <string name="settings_toggle_position_reset">Ripristina comandi</string>
     <string name="settings_toggle_collapse_after_clicked">Chiudi quando premuto</string>

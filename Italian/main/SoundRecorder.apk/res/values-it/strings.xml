@@ -62,8 +62,8 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Impostazioni di registrazione</string>
     <string name="menu_settings">Impostazioni</string>
-    <string name="preference_led_indicator">Indicatore di registrazione quando lo schermo è bloccato</string>
-    <string name="preference_led_indicator_prompt">Mostra LED e indicatore barra di stato durante la registrazione a schermo bloccato</string>
+    <string name="preference_led_indicator">Notifica a schermo spento</string>
+    <string name="preference_led_indicator_prompt">Notifica la registrazione in corso a schermo spento</string>
     <string name="record_name_minute">min</string>
     <string name="notification_playback_paused">Riproduzione sospesa...</string>
     <string name="prefDefault_recordType">audio/3gpp</string>

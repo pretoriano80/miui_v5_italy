@@ -1240,7 +1240,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_service_disable_warning_summary">Se tocchi OK %1$s verrà interrotto.</string>
     <string name="accessibility_no_services_installed">Nessun servizio installato</string>
     <string name="accessibility_service_no_apps_title">Hai bisogno di uno screen reader?</string>
-    <string name="accessibility_service_no_apps_message">"TalkBack fornisce commenti vocali per utenti non vedenti o con problemi di vista. Vuoi installare gratuitamente l'applicazione da Android Market?"</string>
+    <string name="accessibility_service_no_apps_message">"TalkBack fornisce commenti vocali per utenti non vedenti o con problemi di vista. Vuoi installare gratuitamente l'applicazione da Google Play?"</string>
     <string name="accessibility_script_injection_security_warning_summary">Vuoi che le applicazioni installino script di Google per rendere più accessibili i relativi contenuti web?</string>
     <string name="accessibility_service_default_description">Nessuna descrizione fornita.</string>
     <string name="settings_button">Impostazioni</string>
@@ -1848,7 +1848,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_disable_title">Monitor Permessi</string>
     <string name="perm_hips_disable_content">Disabilitando questa funzione MIUI smetterà di monitorare le richieste delle applicazioni limitando così la protezione della sicurezza e della privacy. Sicuro di volerla disabilitare ?</string>
     <string name="perm_su_enable_title">Permessi di ROOT</string>
-    <string name="perm_su_enable_content">"Abilitando questa funzione consentirai alle applicazioni di richiedere i permessi di ROOT. Nota: Applicazioni con i permessi di ROOT possono causare instabilità di sistema, perdita di dati personali, danni all'hardware o di sistema, procedere con precauzione. Sicuro di voler procedere ?"</string>
+    <string name="perm_su_enable_content">"Abilitando questa funzione consentirai alle applicazioni di richiedere i permessi di ROOT. Nota: concedendo i permessi di ROOT potresti causare perdita di dati, instabilità del sistema e danni all'hardware. Sicuro di volere procedere?"</string>
     <string name="perm_log_clear_title">Cancella log</string>
     <string name="perm_log_clear_content">Tutti i rapporti verranno cancellati. Sicuro di voler procedere ?</string>
     <string name="perm_privacy_count">Consentiti: %1$d Negati: %2$d</string>
@@ -1863,19 +1863,19 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_privacy_app_installed">Installazione completata !</string>
     <string name="perm_privacy_app_finish">Chiudi</string>
     <string name="perm_privacy_app_launch">Lancia</string>
-    <string name="perm_privacy_app_trust_dialog_title">Fidati di questa applicazione</string>
-    <string name="perm_privacy_app_trust_dialog_content">MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza da parte di questa applicazione.</string>
+    <string name="perm_privacy_app_trust_dialog_title">"Rendi l'applicazione attendibile"</string>
+    <string name="perm_privacy_app_trust_dialog_content">MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione.</string>
     <string name="perm_sysopt_boost_boot">Avvia</string>
     <string name="perm_sysopt_boost_receiver">Background</string>
-    <string name="perm_sysopt_boost_auto_start_group">Avvio Autom.</string>
-    <string name="perm_sysopt_boost_auto_start">Permessi Avvio Autom.</string>
+    <string name="perm_sysopt_boost_auto_start_group">Avvio autom.</string>
+    <string name="perm_sysopt_boost_auto_start">Permessi avvio autom.</string>
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
     <string name="perm_su_enable_dialog">%1$s sta cercando di ottenre i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
     <string name="perm_notice">Avviso Sicurezza</string>
-    <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza da parte di questa applicazione. Ricorda bene questo avviso.
-Rendere affibile questa applicazione ?"</string>
+    <string name="trust_switch_dialog_msg">"MIUI consentirà a quest'applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
+Consentire l'avvio automatico ?"</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà di avviare automaticamente quasta applicazoine senza richiederlo all'utente. Questo potrebbe comportare aumento del consumo di batteria e del traffico dati.
-Conentire avvio automatico ?"</string>
+Consentire l'avvio automatico ?"</string>
     <string name="search_airplane">Aereo</string>
     <string name="search_network">Rete</string>
     <string name="search_wifi">WiFi</string>
@@ -2002,7 +2002,7 @@ Conentire avvio automatico ?"</string>
     <string name="unlock_set_enter_system_summary">"Il tema lockscreen di sistema non verrà utilizzato dopo l'abilitazione di questa opzione. Attiva lo schermo per accedere direttamente al sistema"</string>
     <string name="forget_wifi_message">Dimenticare questa rete Wi-Fi ? Potresti dover aver bisogno di reinserire la password alla prossima connessione</string>
     <string name="no_nearby_wifi">Nessuna rete Wi-Fi rilevata</string>
-    <string name="manually_add_network">Aggiungi Rete manualmente</string>
+    <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
     <string name="incoming_call_vibrate_abbreviation">Chiamate\u0020</string>
     <string name="notification_vibrate_abbreviation">Notifiche\u0020</string>
@@ -2104,7 +2104,7 @@ Conentire avvio automatico ?"</string>
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
     <string name="sound_category_calls_and_notification_title">Suoneria &amp; notifiche</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">"Regola la dimensione dei caratteri o del layout di applicazioni come Telefono, Messaggi, Contatti etc, in alcuni casi può migliorare la leggibilità e l'utilizzo".</string>
+    <string name="font_size_summary">"Regola la dimensione dei caratteri o del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc.".</string>
     <string name="font_size_small">Piccolo</string>
     <string name="font_size_normal">Normale</string>
     <string name="font_size_medium">Medio</string>
@@ -2263,7 +2263,7 @@ prova in questo modo:
     <string name="drive_mode_auto_sms_reply_content_title">Contenuto messaggio di risposta</string>
     <string name="clear_activities_summary">Abilita questo programma per alcune operazioni predefinite</string>
     <string name="permission_detail_info">Dettagli permessi</string>
-    <string name="permission_detail_info_summary">Tutti i permessi: Sicurezza%1$d，Privati %2$d，Altri%3$d</string>
+    <string name="permission_detail_info_summary">Tutti i permessi: %1$d di Sicurezza，%2$d di Privacy，%3$d altro</string>
     <string name="permission_manage">Gestione permessi</string>
     <string name="permission_manage_summary">Gestione dei permessi per avvio automatico, privacy, sicurezza.</string>
     <string name="security_relative">Sicurezza</string>
@@ -2278,7 +2278,7 @@ prova in questo modo:
     <string name="finish_application">Fine</string>
     <string name="header_category_accounts">ACCOUNT</string>
     <string name="auto_startup_application_manage">Avvio automatico app</string>
-    <string name="auto_startup_count">Consenti a %d applicazioni di avviarsi automaticamente</string>
+    <string name="auto_startup_count">Consenti a %d app di avviarsi automaticamente</string>
     <string name="man_add_application">Aggiungi applicazioni manualmente</string>
     <string name="application_item_disable">Disabilita</string>
     <string name="application_item_permission">Consenti</string>

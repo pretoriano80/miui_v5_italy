@@ -8,7 +8,7 @@
     <string name="deselect_all">Deseleziona tutto</string>
     <string name="network_error">Nessuna connessione, verificare le impostazioni di rete</string>
     <string name="artist_details_format">%1$s, %2$s</string>
-    <string name="enter_sleep_mode">Attiva Spegnimento Automatica</string>
+    <string name="enter_sleep_mode">Attiva spegnimento automatico</string>
     <string name="cancel_sleep_mode">Auto-spegnimento interrotto</string>
     <string name="select_quit_time">"Imposta il tempo per l'auto-spegnimento (in minuti)"</string>
     <string name="quit_warining">La riproduzione verrà interrotta tra %d minuto(i)</string>
@@ -43,7 +43,7 @@
     <string name="music_filter">Filtra file</string>
     <string name="filter_by_size">Filtra per dimensione</string>
     <string name="filter_by_size_summary">Filtra i file più piccoli del valore impostato</string>
-    <string name="filter_by_size_prefix">Dimensione</string>
+    <string name="filter_by_size_prefix">Dimensione\u0020</string>
     <string name="filter_by_duration">Filtra i file per durata</string>
     <string name="filter_by_duration_summary">Nasconde i file più brevi del valore impostato</string>
     <string name="filter_by_duration_prefix">"Durata: "</string>
@@ -51,8 +51,8 @@
     <string name="filter_by_duration_max">5min</string>
     <string name="filter_by_duration_format">%2$d:%5$02d</string>
     <string name="filter_by_folder">Filtra per cartella</string>
-    <string name="filter_by_folder_summary_on">Già attivo，premi Modifica Filtro</string>
-    <string name="filter_by_folder_summary_off">Non attivo, premi sulla cartella per filtrare</string>
+    <string name="filter_by_folder_summary_on">Seleziona le cartelle da filtrare</string>
+    <string name="filter_by_folder_summary_off">Seleziona le cartelle da filtrare</string>
     <string name="select_folder">Seleziona cartella</string>
     <string name="shake_and_skip">Scuoti e avanza</string>
     <string name="shake_settings">Scuoti e avanza</string>
@@ -60,8 +60,8 @@
     <string name="shake_degree_desc">Sensibilità movimento</string>
     <string name="shake_degree_low">Basso</string>
     <string name="shake_degree_high">Alto</string>
-    <string name="shake_while_screen_on_title">Salta solo con schermo attivo</string>
-    <string name="shake_while_screen_on_title_summary">Scuoti e avanza quando lo schermo è attivo. Disattivo quando lo schermo è spento.</string>
+    <string name="shake_while_screen_on_title">Avanzare solo con schermo attivo</string>
+    <string name="shake_while_screen_on_title_summary">La funzione sarà attiva solo con lo schermo attivo.</string>
     <string name="other_settings">Altro</string>
     <string name="play_and_download">Ascolta e scarica</string>
     <string name="play_and_download_summary">Ascolta la musica in streaming mentre scarichi</string>

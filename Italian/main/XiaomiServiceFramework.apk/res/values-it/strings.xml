@@ -32,7 +32,7 @@
     <string name="micloud_active_email_visit">Visita %s</string>
     <string name="micloud_click_email_to_valid">Fare clic sul link di attivazione nel messaggio inviato alla tua casella di posta</string>
     <string name="micloud_resend_active_email">Invia di nuovo Email di attivazione</string>
-    <string name="micloud_delete_account">Elimina Account</string>
+    <string name="micloud_delete_account">Elimina account</string>
     <string name="micloud_active_email_sent_1">Abbiamo inviato un link di attivazione al tuo indirizzo e-mail:</string>
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">"Premi nel link dell'Email per attivare il tuo Account Xiaomi"</string>
@@ -55,8 +55,8 @@
     <string name="account_name">Account: %1$s</string>
     <string name="input_password_hint">Inserire la password</string>
     <string name="confirm">Conferma</string>
-    <string name="alert_title_remove_account">Elimina Account</string>
-    <string name="remove_account_notice">Cosa vorresti fare con i messaggi precedentemente sincronizzati, contatti, registro delle chiamate e le note del tuo dispositivo?</string>
+    <string name="alert_title_remove_account">Elimina account</string>
+    <string name="remove_account_notice">cosa vuoi fare con i dati precedentemente sincronizzati (contatti, registro delle chiamate e note) ?</string>
     <string name="data_keep_in_phone">Mantieni i dati sul telefono</string>
     <string name="data_wipe_from_phone">Elimina i dati dal telefono</string>
     <string name="login_notice">Accesso...</string>
@@ -96,8 +96,8 @@
     <string name="user_agreement_p3"> e </string>
     <string name="user_agreement_p4">la Regolamentazione sulla Privacy</string>
     <string name="user_agreement_p5">Iscrivendoti, accetti</string>
-    <string name="skip_setup_account_title">Salta le impostazioni account</string>
-    <string name="skip_setup_account_msg">utilizzando il tuo Account Xiaomi, puoi sincronizzare e salvare i tuoi SMS, Contatti, foto, note, etc. Continuare ed impostare più tardi?</string>
+    <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
+    <string name="skip_setup_account_msg">utilizzando il tuo Account Xiaomi, puoi sincronizzare e salvare i tuoi SMS, Contatti, foto, note, etc. Continuare ed impostarlo più tardi?</string>
     <string name="account_dspt">"L'Account Xiaomi può sincronizzare e salvare i tuoi messaggi, contatti, immagini, etc"</string>
     <string name="remove_unactivated_account_notice">"L'account Xiaomi non è attivato, rimuoverlo adesso ?"</string>
     <string name="remove_confirm">Elimina</string>

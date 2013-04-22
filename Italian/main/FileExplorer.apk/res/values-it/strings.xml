@@ -45,10 +45,10 @@
     <string name="category_log">Log</string>
     <string name="operation_rename_message">Inserire un nome</string>
     <string name="operation_create_folder_message">Inserire nome cartella</string>
-    <string name="operation_delete_confirm_message">Confermare eliminazione?</string>
-    <string name="operation_delete_confirm_message_folder">"L'eliminazione della cartella cancellerà anche tutti i file al suo interno".</string>
-    <string name="delete_folder">Sicuro di volere eliminare questa cartella?</string>
-    <string name="delete_folders">Sicuro di voler eliminare le %1$d cartelle selezionate?</string>
+    <string name="operation_delete_confirm_message">"Confermare l'eliminazione?"</string>
+    <string name="operation_delete_confirm_message_folder">"L'eliminazione della cartella cancellerà anche tutti i file al suo interno."</string>
+    <string name="delete_folder">\u0020Sicuro di volere eliminare questa cartella?</string>
+    <string name="delete_folders">\u0020Sicuro di voler eliminare le %1$d cartelle selezionate?</string>
     <string name="delete_file">Eliminare?</string>
     <string name="delete_files">Sicuro di voler eliminare i %1$d file selezionati?</string>
     <string name="delete_files_and_folders">Sei sicuro di voler eliminare %1$d file e %2$d cartella(e)?</string>

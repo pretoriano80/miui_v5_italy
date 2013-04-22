@@ -668,8 +668,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="dirty_contacts_notification_message">(Puoi disabilitare il promemoria nell eimpostazioni dei Contatti)</string>
     <string name="remind_btn_sync_now">Sincronizza Adesso</string>
     <string name="remind_btn_ignore">Ignora</string>
-    <string name="display_only_phones">Mostra contatti solo con numero telefonico</string>
-    <string name="display_sim_contacts">Mostrare contatti SIM</string>
+    <string name="display_only_phones">Mostra solo contatti con numero</string>
+    <string name="display_sim_contacts">Mostra contatti SIM</string>
     <string name="preference_remove_duplicate">Unisci contatti doppi</string>
     <string name="scan_merge">Ricerca contatti doppi…</string>
     <string name="scan_duplicate_message">Contatti con dati completamente duplicati %1$d</string>
@@ -683,7 +683,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="preference_import_export_title">Importa/Esporta contatti</string>
     <string name="import_vcard_description">Importa contatti dal tuo archivio</string>
     <string name="export_vcard_description">Esporta vCard nel tuo archivio</string>
-    <string name="export_to_sim">Eesporta su SIM</string>
+    <string name="export_to_sim">Esporta su SIM</string>
     <string name="export_to_sim_title">Esportazione su SIM...…</string>
     <string name="sim_card_no_free_space_title">SIM piena</string>
     <string name="sim_card_no_free_space_message">La capacità della tusa SIM è esaurita, impossibile importare nuovi contatti. Libera spazio e prova di nuovo.</string>
@@ -732,7 +732,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="preference_dial_pad_touch_tone_piano">Pianoforte</string>
     <string name="preference_dial_pad_touch_tone_human">Voce umana</string>
     <string name="ic_menu_done">Ok</string>
-    <string name="cloud_antispam_title">controllo Cloud</string>
+    <string name="cloud_antispam_title">Controllo Cloud</string>
     <string name="account_default">Telefono</string>
     <string name="account_sim">Solo salvati su SIM</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno Lunare</string>
@@ -774,8 +774,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="phone_primary">Principale</string>
     <string name="phone_info_divider">"  |  "</string>
     <string name="menu_bar_group_add">Aggiungi</string>
-    <string name="menu_group_sms">SMS di gruppo</string>
-    <string name="menu_group_ringtone">Suoneria gruppo</string>
+    <string name="menu_bar_group_sms">SMS di gruppo</string>
+    <string name="menu_bar_group_ringtone">Suoneria gruppo</string>
     <string name="menu_bar_group_rename">Rinomina</string>
     <string name="menu_bar_group_delete">Elimina</string>
     <string name="group_rename_dialog_title">Rinomina gruppo</string>
@@ -815,9 +815,9 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="pkgLabel">Contatti e tastiera telefono</string>
     <string name="preference_smart_group_title">Raggruppamento intelligente</string>
     <string name="preference_smart_group_company_title">Per società</string>
-    <string name="preference_smart_group_company_summary">Raggruppa i contatti per società</string>
+    <string name="preference_smart_group_company_summary">Raggruppa per società</string>
     <string name="preference_smart_group_location_title">Per posizione</string>
-    <string name="preference_smart_group_location_summary">Raggruppamento in base al prefisso internazionale</string>
+    <string name="preference_smart_group_location_summary">Raggruppa in base al prefisso</string>
     <string name="preference_smart_group_frequency_title">Per contatto recente</string>
     <string name="preference_smart_group_frequency_summary">Raggruppa in base alle ultime chiamte ed SMS</string>
     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>

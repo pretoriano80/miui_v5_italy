@@ -165,7 +165,7 @@ CC: %4$s
     <string name="attachment_info_malware">Impossibile salvare o aprire il file perché questo tipo di allegato potrebbe contenere software dannoso.</string>
     <string name="attachment_info_policy">"Impossibile salvare o aprire questo allegato a causa delle norme di sicurezza dell'account in uso."</string>
     <string name="attachment_info_wifi_only">Questo allegato è troppo grande per il download su una rete mobile. Puoi scaricarlo la prossima volta che ti connetti a una rete Wi-Fi.</string>
-    <string name="attachment_info_no_intent">"Impossibile aprire questo allegato con le applicazioni installate. Prova a scaricare un'applicazione adeguata da Android Market."</string>
+    <string name="attachment_info_no_intent">"Impossibile aprire questo allegato con le applicazioni installate. Prova a scaricare un'applicazione adeguata da Google Play."</string>
     <string name="attachment_info_sideload_disabled">"Questo allegato è un'applicazione. Per poterla installare, devi selezionare l'opzione \"Origini sconosciute\" in Impostazioni > Applicazioni."</string>
     <string name="attachment_info_apk_install_disabled">"Non è possibile installare applicazioni direttamente dalla posta elettronica. Salva l'applicazione, quindi installala utilizzando l'applicazione Download."</string>
     <string name="attachment_not_found">"Impossibile scaricare l'allegato."</string>
