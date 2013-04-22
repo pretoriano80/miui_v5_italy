@@ -349,7 +349,7 @@
     <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Messaggi cloud</string>
     <string name="mx_enable">Abilita messaggi cloud</string>
-    <string name="mx_warning_notice">"Verrà inviato un SMS per attivare i messaggi cloud. Saranno applicate le tariffe prefiste dall'operatore"</string>
+    <string name="mx_warning_notice">"Verrà inviato un SMS per attivare i messaggi cloud. Saranno applicate le tariffe previste dall'operatore"</string>
     <string name="mx_btn_enable">Abilita</string>
     <string name="ex_type_sms">SMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>

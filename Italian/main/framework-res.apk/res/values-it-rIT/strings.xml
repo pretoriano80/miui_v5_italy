@@ -1010,7 +1010,7 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="whichApplication">"Completa l'azione con"</string>
     <string name="alwaysUse">Usa come predefinita per questa azione.</string>
     <string name="clearDefaultHintMsg">Cancella predefinita in Home > Impostazioni > Applicazioni > Gestisci applicazioni.</string>
-    <string name="chooseActivity">"Seleziona un'azione"</string>
+    <string name="chooseActivity">"Seleziona un'applicazione"</string>
     <string name="chooseUsbActivity">"Seleziona un'applicazione per il dispositivo USB"</string>
     <string name="noApplications">Nessuna applicazione è in grado di svolgere questa azione.</string>
     <string name="aerr_title" />
