@@ -20,7 +20,7 @@
     <string name="check_phone_io_error">Errore di rete</string>
     <string name="childrens_day" />
     <string name="chinese_youth_day" />
-    <string name="christmas_dad">Giorno di Natale</string>
+    <string name="christmas_day">Giorno di Natale</string>
     <string name="clear_and_bright" />
     <string name="cold_dews" />
     <string name="country_name_ac">AC</string>
@@ -420,7 +420,7 @@
     <string name="volume_icon_description_media">Media</string>
     <string name="volume_icon_description_notification">Notifica</string>
     <string name="volume_icon_description_ringer">Suoneria</string>
-    <string name="wake_alarm_message">Sospendi sveglia. Ricorda tra %s</string>
+    <string name="wake_alarm_message">Sospendi sveglia. Riattiva %s</string>
     <string name="white_dews" />
     <string name="winter_begins" />
     <string name="winter_solstice" />

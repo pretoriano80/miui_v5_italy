@@ -334,8 +334,9 @@
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="message_too_big_for_audio">Messaggio troppo grande per allegare audio.</string>
     <string name="add_timing">Programma</string>
-    <string name="pref_title_system_mms_priority">Priorità applicazione Messaggi di sistema</string>
+    <string name="pref_title_system_mms_priority">Priorità messaggi</string>
     <string name="pref_summary_on_system_mms_priority">"L'applicazione Messaggi di sistema riceverà per prima i messaggi"</string>
+    <string name="pref_summary_off_system_mms_priority">"Altre app potrebbero ricevere messaggi prima dell'app di sistema"</string>
     <string name="title_timed_message_dialog">"Programma l'orario per questo messaggio"</string>
     <string name="error_timed_msg">Impossibile programmare un orario antecedente</string>
     <string name="to_send_wrapper">Sarà inviato alle %s</string>

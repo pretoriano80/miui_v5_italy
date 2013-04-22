@@ -1508,7 +1508,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="debug_app_not_set">Nessuna applicazione debug impostata</string>
     <string name="debug_app_set">Applicazione debug: %1$s</string>
     <string name="select_application">Seleziona applicazione</string>
-    <string name="no_application">Niente</string>
+    <string name="no_application">Nessuna</string>
     <string name="wait_for_debugger">Aspetta debugger</string>
     <string name="wait_for_debugger_summary">"L'applicazione debug è in attesa del debugger da allegare prima dell'esecuzione"</string>
     <string name="debug_input_category">Inserimento</string>
