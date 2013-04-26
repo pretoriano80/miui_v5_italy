@@ -713,7 +713,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="contactUpdateSuccess">Contatto aggiornato correttamente sulla SIM</string>
     <string name="contactUpdateFailed">Impossibile aggiornare contatto sulla SIM!</string>
     <string name="contactdeleteSuccess">Contatto eliminato correttamente sulla SIM</string>
-    <string name="contactdeleteFailed">Impossibile eliminar eil contatto dalla SIM !</string>
+    <string name="contactdeleteFailed">Impossibile eliminare il contatto dalla SIM !</string>
     <string name="allContactdeleteSuccess">Tutti i contatti sono stati eliminati correttamente dalla SIM</string>
     <string name="allContactdeleteFailed">Impossibile eliminar eetutti i contatti dalla SIM !</string>
     <string name="exportAllcontatsSuccess">Tutti i contatti sono stati esportati correttamente sulla SIM</string>
@@ -981,7 +981,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">Solo 2G (risparmio energia)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Solo 3G</string>
     <string name="preferred_network_type_pref_entries_global_miui">Globale</string>
-    <string name="preferred_network_type_3g_only_warning_miui">Hai selezionato Solo 3G come rete predefinita, perciò il telefono non avrà segnale se non sei sotto copertura 3G ! Premi OK per continuare.</string>
+    <string name="preferred_network_type_3g_only_warning_miui">Hai selezionato Solo 3G come rete predefinita, perciò il telefono non avrà segnale se non sei sotto copertura 3G! Premi OK per continuare.</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
     <string name="preferred_network_type_title_miui">Seleziona tipo di rete</string>

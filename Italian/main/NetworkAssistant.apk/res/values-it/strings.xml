@@ -19,7 +19,7 @@
     <string name="menu_traffic_adjust">Regola Traffico</string>
     <string name="menu_traffic_settings">Imposta soglia</string>
     <string name="powered_by">Supporto tecnico fornito da MIUI.com</string>
-    <string name="pref_traffic_settings">Impostazioni</string>
+    <string name="pref_traffic_settings">Imposta soglia</string>
     <string name="pref_traffic_adjust_title">Regola traffico dati</string>
     <string name="pref_traffic_daily_limit_settings">Impostazioni limite giornaliero</string>
     <string name="pref_connect_settings_title">Impostazioni monitor di rete</string>
@@ -42,7 +42,7 @@
     <string name="month_traffic_settings_title">Impostazioni traffico mensile</string>
     <string name="sort_dialog_title">Ordina</string>
     <string name="current_warning_value">Valore soglia: %s</string>
-    <string name="batch_connect_control">Gestisci Connessioni Apps</string>
+    <string name="batch_connect_control">Gestisci connessioni app</string>
     <string name="pref_category_adjust_traffic">Impostazioni Regolazione Traffico</string>
     <string name="adjust_traffic_manual_adjust">Inserisci manualmente</string>
     <string name="adjust_traffic_carrier_adjust">Recupera da operatore</string>
@@ -59,7 +59,7 @@
     <string name="daily_limit_result_no_limit">Avvisami quando il traffico giornaliero viene superato</string>
     <string name="daily_limit_result_no_disconnect">Avvisami quando il traffico giornaliero supera i %dMB</string>
     <string name="daily_limit_result">Avvisami e disconnetti Internet quando il traffico giornaliero supera i %dMB</string>
-    <string name="edit_frame_free_traffic_title">Modifica traffico disponibile</string>
+    <string name="edit_frame_free_traffic_title">Modifica soglia</string>
     <string name="edit_frame_warning_title">Soglia avviso\u0020</string>
     <string name="edit_frame_month_start_title">Giorno inizio addebito</string>
     <string name="carrier_query_number_title">Imposta numero operatori e supporto</string>
@@ -68,7 +68,7 @@
     <string name="carrier_query_number_brand">Marchio servizio</string>
     <string name="unknown_location">Posizione sconosciuta</string>
     <string name="adjust_traffic_auto_adjust_open_hint">La regolazione automatica è attivata e modificherà regolarmente il traffico dati</string>
-    <string name="unknown_free_traffic_text">Non conosci il tuo traffico dati disponibile?</string>
+    <string name="unknown_free_traffic_text">Non conosci le soglie del tuo traffico?</string>
     <string name="unknown_free_traffic_title">Traffico disponibile sconosciuto</string>
     <string name="unknown_free_traffic_hint">Se non conosci le soglie del tuo piano tariffario rivolgiti al tuo operatore mobile per ricevere assistenza</string>
     <string name="i_known_button">OK</string>

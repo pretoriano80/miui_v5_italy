@@ -626,7 +626,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="calllog_menu_send_sms">Invia un messaggio</string>
     <string name="menu_call_ip_number">Componi chiamata IP (componi %s)</string>
     <string name="delete_contact_calllog_title">Sicuro di voler cancellare il registro chiamate dei contatti ?</string>
-    <string name="delete_unknown_contact_calllog_title">Sicuro di voler cancellar eil registro chiamate per i numeri sconosciuti ?</string>
+    <string name="delete_unknown_contact_calllog_title">Sicuro di voler cancellare il registro chiamate per i numeri sconosciuti ?</string>
     <string name="edit_contact_card_title">Modifica scheda contatto</string>
     <string name="preview_contact_card_title">Importazione contatti…</string>
     <string name="import_contact_card_button">Importa contatto</string>
@@ -692,7 +692,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="export_sim_contact_finish">Esportazione su SIM completata</string>
     <string name="sim_export_loading">Lettura informazioni SIM (potrebbe impiegare un minuto…</string>
     <string name="pref_title_account_import">Importa da account</string>
-    <string name="pref_title_import_from_account">Import da account Xiaomi</string>
+    <string name="pref_title_import_from_account">Importa da account Xiaomi</string>
     <string name="pref_summary_import_from_account">Importa i contatti degli account Google ed Exchange nel mio account Xiaomi</string>
     <string name="import_to_xiaomi_account_confirm">Importa</string>
     <string name="import_to_xiaomi_account_progress_title">"Importa contatti nell'account Xiaomi"</string>

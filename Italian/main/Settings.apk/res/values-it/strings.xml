@@ -1699,10 +1699,10 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="user_discard_user_menu">Elimina</string>
     <string name="user_remove_user_menu">Rimuovi utente</string>
     <string name="user_new_user_name">Pesky kid</string>
-    <string name="user_confirm_remove_title">Remove user?</string>
-    <string name="user_confirm_remove_message">Are you sure you want to remove the user and all associated data from the device?</string>
+    <string name="user_confirm_remove_title">Rimuovere utente?</string>
+    <string name="user_confirm_remove_message">"Sicuro di voler rimuovere l'utente e tutti i dati associati al dispositivo ?"</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
-    <string name="help_label">Help</string>
+    <string name="help_label">Aiuto</string>
     <string name="help_url_wifi" />
     <string name="help_url_bluetooth" />
     <string name="help_url_data_usage" />
@@ -1714,7 +1714,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="help_url_choose_lockscreen" />
     <string name="help_url_backup_reset" />
     <string name="help_url_tether" />
-    <string name="cell_broadcast_settings">Cell broadcasts</string>
+    <string name="cell_broadcast_settings">Trasmissione cella</string>
     <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display.</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
@@ -1872,10 +1872,10 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
     <string name="perm_su_enable_dialog">%1$s sta cercando di ottenre i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
     <string name="perm_notice">Avviso Sicurezza</string>
-    <string name="trust_switch_dialog_msg">"MIUI consentirà a quest'applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
-Consentire l'avvio automatico ?"</string>
-    <string name="auto_startup_dialog_msg">"MIUI consentirà di avviare automaticamente quasta applicazoine senza richiederlo all'utente. Questo potrebbe comportare aumento del consumo di batteria e del traffico dati.
-Consentire l'avvio automatico ?"</string>
+    <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione.
+Rendere attendibile questa applicazione ?"</string>
+    <string name="auto_startup_dialog_msg">"Miui consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e dei traffico dati.
+	Consentire l'avvio automatico?"</string>
     <string name="search_airplane">Aereo</string>
     <string name="search_network">Rete</string>
     <string name="search_wifi">WiFi</string>
@@ -1952,14 +1952,18 @@ Consentire l'avvio automatico ?"</string>
     <string name="preferred_launcher_warning_use_system">Use default launcher</string>
     <string name="key_settings_title">Impostazioni Tasti</string>
     <string name="key_settings">Tasto</string>
+    <string name="screen_key_long_press">Long press tasti schermo</string>
+    <string name="screen_key_long_press_action">Funzione scatto</string>
     <string name="menu_key">Tasto Menu</string>
-    <string name="enable_assist_key_long_press">"Tieni premuto per l'ass.vocale"</string>
-    <string name="back_long_press">Tasto Indietro</string>
-    <string name="enable_back_long_press">Tieni premuto per chiudere</string>
-    <string name="back_long_press_timeout">Ritardo</string>
-    <string name="enable_snapshot_screenlock">Tieni premuto indietro per effettuare uno screenshot in lockscreen</string>
-    <string name="power_key">Tasto Accensione</string>
+    <string name="home_key">Tasto Home</string>
+    <string name="back_key">Tasto indieto</string>
+    <string name="screen_key_long_press_timeout">Long press scaduto</string>
+    <string name="under_keyguard">Su lockscreen</string>
+    <string name="enable_snapshot_screenlock">Tieni premuto il tasto sul lockscreen per eseguire uno screenshot</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita su lockscreen</string>
+    <string name="trackball_wake_title">Trackball wake</string>
+    <string name="pref_volume_wake_title">Riattiva con tasti volume</string>
+    <string name="pref_volume_wake_summary">Riattiva il telefono premendo i tasti volume su/giù. Pensato per terminali in cui il tasto accensione si preme con difficoltà</string>
     <string name="media_button">Tasto Media</string>
     <string name="preferred_media_app_summary">Scegli app Musica</string>
     <string name="no_media_button_receiver">No</string>
@@ -1977,11 +1981,7 @@ Consentire l'avvio automatico ?"</string>
     <string name="camera_key_action_shortcut_wake">Blocca/Riattiva terminale</string>
     <string name="multi_touch_points_category_title">Punti multi-touch</string>
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
-    <string name="trackball_wake_title">Trackball wake</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="pref_volume_category_title">Volume</string>
-    <string name="pref_volume_wake_title">Riattiva con tasti volume</string>
-    <string name="pref_volume_wake_summary">Riattiva il telefono premendo i tasti volume su/giù. Pensato per terminali in cui il tasto accensione si preme con difficoltà</string>
     <string name="status_bar_settings">Impostazioni Barra di Stato</string>
     <string name="complete_settings">Complete</string>
     <string name="common_settings">Frequenti</string>
@@ -2104,7 +2104,7 @@ Consentire l'avvio automatico ?"</string>
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
     <string name="sound_category_calls_and_notification_title">Suoneria &amp; notifiche</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">"Regola la dimensione dei caratteri o del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc.".</string>
+    <string name="font_size_summary">"Regola la dimensione dei caratteri e del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc.".</string>
     <string name="font_size_small">Piccolo</string>
     <string name="font_size_normal">Normale</string>
     <string name="font_size_medium">Medio</string>
@@ -2182,6 +2182,9 @@ Consentire l'avvio automatico ?"</string>
     <string name="dolby_preset_select">Seleziona preselezione</string>
     <string name="dolby_eq_enter_alert_title">Apri modalità EQ Dolby</string>
     <string name="dolby_eq_enter_alert_msg">Vuoi aprire la modalità Equalizzatore Dolby ?</string>
+    <string name="dirac_mode_off">Dirac disattivato</string>
+    <string name="dirac_mode_earbuds">Auricolari</string>
+    <string name="dirac_mode_earphones">Cuffie</string>
     <string name="wifi_menu_wfd">Visualizzazione  Wi-Fi</string>
     <string name="wfd_settings_title">Impostazioni visualizzazione Wi-Fi</string>
     <string name="wfd_menu_search">Cerca dispositivi</string>
@@ -2263,7 +2266,7 @@ prova in questo modo:
     <string name="drive_mode_auto_sms_reply_content_title">Contenuto messaggio di risposta</string>
     <string name="clear_activities_summary">Abilita questo programma per alcune operazioni predefinite</string>
     <string name="permission_detail_info">Dettagli permessi</string>
-    <string name="permission_detail_info_summary">Tutti i permessi: %1$d di Sicurezza，%2$d di Privacy，%3$d altro</string>
+    <string name="permission_detail_info_summary">Tutti i permessi: %1$d di Sicurezza, %2$d di Privacy, %3$d altro</string>
     <string name="permission_manage">Gestione permessi</string>
     <string name="permission_manage_summary">Gestione dei permessi per avvio automatico, privacy, sicurezza.</string>
     <string name="security_relative">Sicurezza</string>
@@ -2303,8 +2306,12 @@ prova in questo modo:
     <string name="sim_management_title">Gestione SIM</string>
     <string name="safe_relative">Permessi sicurezza</string>
     <string name="app_floating_window_dlg">Consenti a\"%1$s\" di mostrare finestre pop-up</string>
+    <string name="back_long_press">tasto indietro</string>
+    <string name="back_long_press_timeout">Ritardo</string>
     <string name="bluetooth_profile_name">Telefono Xiaomi di%1$s</string>
     <string name="device_default_name">Telefono Xiaomi</string>
+    <string name="enable_assist_key_long_press">"Tieni premuto per attivare l'assistente vocale"</string>
+    <string name="enable_back_long_press">"Tieni premuto per chiudere l'applicazione"</string>
     <string name="mdb_entering">Entra</string>
     <string name="mdb_restore_cancel">Annulla</string>
     <string name="mdb_restore_info1">I tuoi dati verranno ripristinati</string>
@@ -2313,5 +2320,7 @@ prova in questo modo:
     <string name="mdb_restore_mode">Modalità Ripristino</string>
     <string name="mdb_usb_disconnection_exit">USB disconnessa, ripristino interrotto</string>
     <string name="miui_device_default_name">Android</string>
+    <string name="power_key">Tasto accensione</string>
+    <string name="pref_volume_category_title">Volume</string>
     <string name="show_rounded_corners_summary">"E' necessario riavviare per applicare le modifiche"</string>
 </resources>

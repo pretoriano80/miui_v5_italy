@@ -108,14 +108,14 @@
     <string name="ui_bar_txt_upload_progress">%1$d da caricare</string>
     <string name="ui_main_menu_option_task_manage">Gestione Trasferimenti</string>
     <string name="login_reg_content0">KuaiPan è il tuo archivio Cloud</string>
-    <string name="login_reg_content">KuaiPan ti permette di archiviare file e sincronizzarli con vari terminali come coputer, telefoni ed altro.</string>
+    <string name="login_reg_content">KuaiPan ti permette di archiviare file e sincronizzarli con vari terminali come computer, telefoni ed altro.</string>
     <string name="start_use_xiaomi_account">Accedi</string>
     <string name="pan_settting">Impostazioni MiDrive</string>
     <string name="xiaomi_account">Account Xiaomi</string>
     <string name="space_usage">Utilizzo</string>
     <string name="local_cache">Cache Locale</string>
     <string name="clear_cache">Cancella Cache</string>
-    <string name="used">Utilizzato</string>
+    <string name="used">Utilizzato:\u0020</string>
     <string name="loading">Caricamento…</string>
     <string name="load_err">Caricamento fallito</string>
     <string name="local_cache_size">Dimensione cache locale: %s</string>
@@ -229,8 +229,8 @@
     <string name="uninstall_app_data">Elimina App e dati</string>
     <string name="start_cleanup">Avvia pulizia</string>
     <string name="header_text_scanning">Scansione file eliminabili…</string>
-    <string name="header_text_scanned">Trovati filerovati</string>
-    <string name="header_text_cleaning">Pulizia non eseguita</string>
+    <string name="header_text_scanned">File eliminabili</string>
+    <string name="header_text_cleaning">Pulizia in corso...</string>
     <string name="header_text_cleaned">File eliminati</string>
     <string name="waiting_for_cleaning">In attesa della pulizia</string>
     <string name="item_name">Nessun nome</string>

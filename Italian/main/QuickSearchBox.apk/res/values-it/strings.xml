@@ -16,8 +16,8 @@
     <string name="corpus_label_apps">Apps</string>
     <string name="corpus_description_apps">Nomi di applicazioni installate</string>
     <string name="corpus_hint_apps">Cerca Apps</string>
-    <string name="menu_settings">Cerca Impostazioni</string>
-    <string name="search_settings">Cerca Impostazioni</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="search_settings">Impostazioni</string>
     <string name="google_settings_category_title">Ricerca Google</string>
     <string name="device_settings_category_title">Cancella collegamenti</string>
     <string name="system_search_category_title">Telefono</string>

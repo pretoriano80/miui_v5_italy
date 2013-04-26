@@ -4,4 +4,9 @@
     <string name="sms_provider_label">SMS</string>
     <string name="mms_provider_label">MMS</string>
     <string name="mms_sms_provider_label">Messaggi</string>
+    <string name="default_cateogry_fraudulent">Pericoloso</string>
+    <string name="default_cateogry_sales">Vendite</string>
+    <string name="default_cateogry_intermediary">Intermediazione</string>
+    <string name="default_cateogry_meal_delivery">Consegna pasti</string>
+    <string name="default_cateogry_courier">Corriere</string>
 </resources>

@@ -467,4 +467,8 @@
     <string name="perm_data_update_dspt">Consenti di aggiornare i dati</string>
     <string name="device_xiaomi">Telefono Xiaomi</string>
     <string name="miui_device_name">Android</string>
+    <string name="sim_unavailable">SIM non disponibile</string>
+    <string name="sim_locked">SIM bloccata</string>
+    <string name="sim_not_ready">SIM in uso, provare di nuovo.</string>
+    <string name="sim_in_airplane_mode">Disattiva modalità Aereo.</string>
 </resources>

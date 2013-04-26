@@ -68,7 +68,7 @@
     <string name="set_image">Imposta foto come</string>
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
-    <string name="confirm_delete">Confermare la cancellazione di %s file ?</string>
+    <string name="confirm_delete">Confermare la cancellazione di %s ?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">%s immagine(i) in %s album, sicuro di voler eliminare ?</string>
     <string name="delete_fail_too_many_items">Impossibile eliminare, troppi elementi selezionati</string>
     <string name="action_fail_unknown_error">Operazione fallita a causa di un errore sconosciuto.</string>
@@ -76,7 +76,7 @@
     <string name="confirm_delete_album" formatted="false">Sicuro di voler eliminare %s album (contenenti %s elementi)?</string>
     <string name="confirm_delete_system_album">%s è un album di sistema, sicuro di volerlo eliminare?</string>
     <string name="confirm_delete_folders_and_pictures">Sicuro di voler eliminare %s?</string>
-    <string name="confirm_delete_pictures">%s immagini</string>
+    <string name="confirm_delete_pictures">%s file</string>
     <string name="confirm_delete_items">%s elementi</string>
     <string name="confirm_delete_folders_including" formatted="false">%s cartelle (contenenti %s elementi)</string>
     <string name="confirm_delete_videos">%s video</string>

@@ -50,11 +50,11 @@
     <string name="uninstall_failed_retained_app_msg">Le applicazioni personalizzate dagli operatori non possono essere disinstallate</string>
     <string name="Parse_error_dlg_title">Errore di analisi</string>
     <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
-    <string name="caller_app">Chiamante:%1$s</string>
+    <string name="caller_app">Richiedente:%1$s</string>
     <string name="safe_guard_support">Supporto tecnio fornito da %1$s</string>
     <string name="safe_relative">Permessi sicurezza</string>
     <string name="privacy_relative">Permessi privacy</string>
-    <string name="other_relative">Apltri permessi</string>
+    <string name="other_relative">Altri permessi</string>
     <string name="perm_notice">Avviso di sicurezza</string>
     <string name="trust_switch_dialog_msg">MIUI non chiederà per operazioni relative a sicurezza o privacy per questa applicazione. Vupoi fidarti ?</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà all'applicazione di avviarsi automaticamente senza domandare all'utente. Questo può portare a consumo di batteria e/o di traffico dati. Consentire l'avvio automatico ?"</string>

@@ -351,6 +351,7 @@
     <string name="mx_msg">Messaggi cloud</string>
     <string name="mx_enable">Abilita messaggi cloud</string>
     <string name="mx_warning_notice">"Verrà inviato un SMS per attivare i messaggi cloud. Saranno applicate le tariffe previste dall'operatore"</string>
+    <string name="mx_int_warning_notice">Verrà inviato un SMS internazionale per attivare i Messaggi Cloud, verranno applicate le tariffe previste dal proprio operatore</string>
     <string name="mx_btn_enable">Abilita</string>
     <string name="ex_type_sms">SMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>
@@ -381,7 +382,8 @@
     <string name="loading_all_messages">Caricamento di tutti i messaggi...</string>
     <string name="mx_online">In linea</string>
     <string name="mx_offline">Non in linea</string>
-    <string name="mx_enable_popup_msg">"Il servizio Cloud ti consente di inviare messaggi tramite MIUI. E' necessario l'invio i un SMS normale  per attivar eil servizio, potrebbero essere applicate tariffe specifiche del tuo operatore. Vuoi attivarlo adesso?"</string>
+    <string name="mx_enable_popup_msg">"Il servizio Cloud ti consente di inviare messaggi tramite MIUI. E' necessario l'invio i un SMS normale  per attivare il servizio, potrebbero essere applicate tariffe specifiche del tuo operatore. Vuoi attivarlo adesso?"</string>
+    <string name="mx_enable_int_popup_msg">"I Messaggi Cloud consentono di inviare messaggi tra utenti MIUI. Per l'attivazione è necessario l'invio di un SMS internazionale, il costo dipende dalle tariffe previste dall'operatore".</string>
     <string name="loading_mms">Caricamento MMS…</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>
     <string name="unknown_num">Numero sconosciuto</string>
@@ -407,6 +409,7 @@
     <string name="select_local_audio">Seleziona audio locale</string>
     <string name="select_local_video">Seleziona video locale</string>
     <string name="mx_recommend_msg">Abilita i Messaggi Cloud per inviare messaggi gratuitamente</string>
+    <string name="add_attachment">Allega</string>
     <string name="add_subject">Aggiungi oggetto</string>
     <string name="delete_subject">Elimina oggetto</string>
 </resources>
