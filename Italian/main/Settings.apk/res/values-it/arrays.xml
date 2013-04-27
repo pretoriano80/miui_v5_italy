@@ -607,7 +607,7 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nessuna</item>
-        <item>Lancia Pannello Recenti</item>
+        <item>Lancia Task Manager</item>
         <item>Lancia Assistente Vocale</item>
         <item>Lancia Google Now</item>
         <item>Chiudi applicazione attuale</item>
