@@ -100,6 +100,6 @@
     <string name="button_next">Avanti</string>
     <string name="button_last">Inizia adesso</string>
     <string name="support_tip">MiShare ti fornirà le istruzioni</string>
-    <string name="share_text">MIUI V5 supporta il trasferimento dati senza l'utilizzo di rete dati mobile. Per gli utenti che non utilizzano MIUI V5 si prega di scaricare: %1$s</string>
+    <string name="share_text">"MIUI V5 supporta il trasferimento dati senza l'utilizzo di rete dati mobile. Per gli utenti che non utilizzano MIUI V5 si prega di scaricare: %1$s"</string>
     <string name="trasfer_list">Lista trasferimenti</string>
 </resources>
