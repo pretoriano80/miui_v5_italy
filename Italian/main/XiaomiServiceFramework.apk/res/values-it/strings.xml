@@ -100,7 +100,7 @@
     <string name="user_agreement_p4">la Regolamentazione sulla Privacy</string>
     <string name="user_agreement_p5">Iscrivendoti, accetti</string>
     <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
-    <string name="skip_setup_account_msg">utilizzando il tuo Account Xiaomi, puoi sincronizzare e salvare i tuoi SMS, Contatti, foto, note, etc. Continuare ed impostarlo più tardi?</string>
+    <string name="skip_setup_account_msg">Con il tuo account Xiaomi puoi sincronizzare le tue foto, i tuoi sms, le tue chiamate, le tue note etc. Continuare ed impostarlo più tardi?</string>
     <string name="account_dspt">"L'Account Xiaomi può sincronizzare e salvare i tuoi messaggi, contatti, immagini, etc"</string>
     <string name="remove_unactivated_account_notice">"L'account Xiaomi non è attivato, rimuoverlo adesso ?"</string>
     <string name="remove_confirm">Elimina</string>

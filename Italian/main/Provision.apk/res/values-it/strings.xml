@@ -27,7 +27,7 @@
     <string name="traffic_protection_summary">Riceverai un avviso prima di raggiungere la soglia prevista dal tuo piano dati, così da evitare costi imprevisti.</string>
     <string name="traffic_protection_unknown">Premi qui per inserire in un secondo momento.</string>
     <string name="traffic_protection_text_hint">Soglia dati.</string>
-    <string name="data_usage_summary">"Se non hai una tarrifazione a pacchetto per i dati, consigliamo di disattivare l'utilizzo dei dati da rete mobile, altrimenti il tuo operatore potrebbe addebitarti costi non previsti."</string>
+    <string name="data_usage_summary">"Se non hai una tariffazione a pacchetto per i dati, consigliamo di disattivare l'utilizzo dei dati da rete mobile, altrimenti il tuo operatore potrebbe addebitarti costi non previsti."</string>
     <string name="use_data">Dati abilitati</string>
     <string name="input_method_category">Scegli il Metodo di Inserimento Predefinito</string>
     <string name="input_method">Metodo Inserimento</string>

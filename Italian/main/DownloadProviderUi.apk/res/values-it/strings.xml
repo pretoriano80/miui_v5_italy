@@ -39,7 +39,7 @@
     <string name="download_paused">Download in pausa</string>
     <string name="download_pending">Download in attesa</string>
     <string name="download_info_start_deleted_tasks">Cancella i download</string>
-    <string name="download_info_count_deleted_tasks">%s download cancellati</string>
+    <string name="download_info_count_deleted_tasks">%s download cancellato(i)</string>
     <string name="menu_preferences">Impostazioni</string>
     <string name="menu_enter_edit_mode">Editor</string>
     <string name="delete_downloads_records">Cancella i download</string>
@@ -47,7 +47,7 @@
     <string name="resume_download">Riprendi</string>
     <string name="restart_download">Inizia di nuovo</string>
     <string name="open_download">Apri</string>
-    <string name="paused_by_app">In pausa dall\'applicazione</string>
+    <string name="paused_by_app">In pausa</string>
     <string name="paused_queued_for_wifi">Pausa, In attesa di connessione Wi-Fi</string>
     <string name="paused_waiting_for_network">Pausa, in attesa di connessione di rete</string>
     <string name="paused_waiting_to_retry">Pausa, in attesa di nuovo tentativo</string>

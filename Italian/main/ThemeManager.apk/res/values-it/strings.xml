@@ -3,7 +3,7 @@
     <string name="app_name">Temi</string>
     <string name="theme_import_activity_label">Aggiorna tema</string>
     <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere prego..</string>
-    <string name="theme_changed_message">%1$s installato con successo!</string>
+    <string name="theme_changed_message">%1$s applicato con successo!</string>
     <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
     <string name="backup_preference_title">Impostazioni Backup</string>
     <string name="backup_theme_dialog_ok">Backup</string>

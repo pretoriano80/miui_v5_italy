@@ -1947,9 +1947,9 @@ Rendere attendibile questa applicazione ?"</string>
     <string name="screen_on_proximity_sensor_summary">Disabilita le funzioni del telefono quando, ad esempio, il telefono viene tenuto in tasca (attivazione tramite sensore di prossimità).</string>
     <string name="preferred_launcher_title">Launcher preferito</string>
     <string name="preferred_launcher_warning_title">Sostituzione launcher predefinito</string>
-    <string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
-    <string name="preferred_launcher_warning_replace">Replace Launcher</string>
-    <string name="preferred_launcher_warning_use_system">Use default launcher</string>
+    <string name="preferred_launcher_warning_message">Sostituendo il launcher predefinito si potrebbe verificare ricontrare un impegno maggiore della memoria. Sicuro di voler continuare?</string>
+    <string name="preferred_launcher_warning_replace">Cambia Launcher</string>
+    <string name="preferred_launcher_warning_use_system">Usa predefinito</string>
     <string name="key_settings_title">Impostazioni Tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Long press tasti schermo</string>
@@ -2199,8 +2199,8 @@ Rendere attendibile questa applicazione ?"</string>
     <string name="power_mode">Modalità Consumo</string>
     <string name="skip_step">Salta questo passaggio</string>
     <string name="msd_help_title">Aiuto MTP</string>
-    <string name="msd_help_summary">"Hai difficoltà ad accede alla memoria del telefono tramite il computer?
-Seleziona il Sistema Operativo utilizzato:"</string>
+    <string name="msd_help_summary">"Hai difficoltà ad accedere alla memoria del telefono tramite il computer?
+Seleziona il sistema operativo utilizzato:"</string>
     <string name="msd_install_succeed">Driver già installati</string>
     <string name="msd_install_next">Avanti</string>
     <string name="msd_install">Installa di nuovo i driver</string>

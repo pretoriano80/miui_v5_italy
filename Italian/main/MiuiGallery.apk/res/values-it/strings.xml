@@ -181,7 +181,7 @@
     <string name="sync_album">Sincronizza album</string>
     <string name="sync_album_summary">Carica le foto e gli screenshot nel tuo spazio di archiviazione MiCloud</string>
     <string name="open_sync_title">Sincronizzazione necessaria</string>
-    <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi aprire la sincronizzazione adesso?"</string>
+    <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi sincronizzare adesso?"</string>
     <string name="open">Apri sincronizzazione</string>
     <string name="alert_message_initial_cloud">Il sistema caricherà automaticamente le foto, vecchie e nuove, e gli screenshoot solo in presenza di connessione Wi-Fi.</string>
     <string name="cloud_gallery_no_pictures">Nessuna immagine trovata su MiCloud</string>
@@ -259,11 +259,11 @@
     <string name="menu_item_sort_name_asc">Per nome (A-Z)</string>
     <string name="menu_item_sort_name_desc">Per nome (Z-A)</string>
     <string name="menu_item_sort_size_asc">Dimensione crescente</string>
-    <string name="menu_item_sort_size_desc">Dimensione decrescente</string>
+    <string name="menu_item_sort_size_desc">Dimensione discendente</string>
     <string name="menu_item_sort_visit_asc">Frequenza crescente</string>
-    <string name="menu_item_sort_visit_desc">Frequenza decrescente</string>
+    <string name="menu_item_sort_visit_desc">Frequenza discendente</string>
     <string name="menu_item_sort_date_asc">Data ascendente</string>
-    <string name="menu_item_sort_date_desc">Data decrescente</string>
+    <string name="menu_item_sort_date_desc">Data discendente</string>
     <string name="operation_rename">Rinomina</string>
     <string name="operation_refresh">Aggiorna</string>
     <string name="how_many_videos">%d Video</string>

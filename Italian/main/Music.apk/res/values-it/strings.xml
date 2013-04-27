@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="complete">Completa</string>
-    <string name="confirm">Conferma</string>
+    <string name="confirm">OK</string>
     <string name="cancel">Annulla</string>
     <string name="save">Salva</string>
     <string name="select_all">Seleziona tutto</string>
@@ -159,10 +159,10 @@
     <string name="album_picker_not_found">Galleria non trovata sul dispositivo</string>
     <string name="id3_edit_failed">Impossibile modificare informazioni ID3</string>
     <string name="album_search_failed">Copertina non trovata</string>
-    <string name="start_to_download_album">Download copertina per la libreria brani</string>
-    <string name="start_to_download_avatar">Download immagine artista per la tua libreria</string>
-    <string name="download_all_album">Download copertina</string>
-    <string name="download_all_avatar">Download Immagine Artista</string>
+    <string name="start_to_download_album">scarica copertina per la libreria brani</string>
+    <string name="start_to_download_avatar">Scarica immagine artista per la tua libreria</string>
+    <string name="download_all_album">Scarica copertina</string>
+    <string name="download_all_avatar">Scarica immagine artista</string>
     <string name="download_all_track">Scarica tutti i brani</string>
     <string name="lrc_progress_modify">Regola velocità testo</string>
     <string name="lrc_progress_modify_helper">Regola la velocità di scorrimento dei testi spostandoli in alto o in basso</string>

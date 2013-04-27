@@ -162,8 +162,8 @@
     <string name="cit_sd_mp3_not_existed">The music.mp3 file could not be found in the root of your SD card, add the file and try the playback test again.</string>
     <string name="cit_playing_sd_mp3">music.mp3 is being played...</string>
     <string name="cit_display_continue">Click on the screen to begin testing</string>
-    <string name="cit_vga_camera_capture">Capture photo</string>
-    <string name="cit_vga_camera_delete">Delete photo</string>
+    <string name="cit_vga_camera_capture">Scata foto</string>
+    <string name="cit_vga_camera_delete">Elimina foto</string>
     <string name="cit_vga_camera_deleted">Photo has been deleted</string>
     <string name="cit_vga_camera_capture_fail">Failed to capture photo</string>
     <string name="cit_gps_disabled">GPS is not enabled, turn on GPS from the toggle menu</string>

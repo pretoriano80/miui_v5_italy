@@ -373,8 +373,8 @@ ed esci dall'inquadratura"</string>
     <string name="toast_start_audio_capture">Riproduci un suono al momento dello scatto</string>
     <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
     <string name="can_not_play_video">Sblocca lo schermo per riprodurre</string>
-    <string name="toast_burst_snap_finished_start">Scatto multiplo terminato</string>
-    <string name="toast_burst_snap_finished_end">Foto scattate</string>
+    <string name="toast_burst_snap_finished_start">Scatto multiplo terminato,</string>
+    <string name="toast_burst_snap_finished_end">foto scattate</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Lo scatto multiplo non è supportato quando la modalità HDR è attivata.</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Lo scatto multiplo non è supportato quando la registrazione audio è attivata.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Lo scatto multiplo non è supportato quando ISO non è impostato su Auto </string>

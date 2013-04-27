@@ -402,7 +402,7 @@
     <string name="user_agreement2">" Accordo utente"</string>
     <string name="user_agreement3">" e "</string>
     <string name="user_agreement4">Termini Privacy</string>
-    <string name="user_agreement5">"，Premendo OK si manifesta l'accettazione dei termini sopra riportati, premi Annulla per uscire."</string>
+    <string name="user_agreement5">"，Premendo OK si manifesta l'accettazione dei termini sopra riportati, premi Annulla per tornare insietro."</string>
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
