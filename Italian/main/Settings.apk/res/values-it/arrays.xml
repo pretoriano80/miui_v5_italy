@@ -605,13 +605,27 @@
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
     </string-array>
-    <string-array name="back_long_press_timeout">
+    <string-array name="screen_key_long_press_action">
+        <item>Nessuna</item>
+        <item>Lancia Pannello Recenti</item>
+        <item>Lancia Assistente Vocale</item>
+        <item>Lancia Google Now</item>
+        <item>Chiudi applicazione attuale</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action_value">
+        <item>none</item>
+        <item>recent_panel</item>
+        <item>voice_assistant</item>
+        <item>google_now</item>
+        <item>close_app</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
         <item>1 secondo</item>
-        <item>1.5 secondi</item>
+        <item>1.5 secondii</item>
         <item>2 secondi</item>
     </string-array>
-    <string-array name="back_long_press_timeout_value">
+    <string-array name="screen_key_long_press_timeout_value">
         <item>500</item>
         <item>1000</item>
         <item>1500</item>
@@ -643,7 +657,7 @@
         <item>0.86</item>
         <item>1.0</item>
         <item>1.2</item>
-        <item>1.21</item>>
+        <item>1.21</item>
     </string-array>
     <integer-array name="font_size_preference_row_height">
         <item>75</item>
@@ -656,7 +670,7 @@
         <item>18</item>
         <item>22</item>
         <item>27</item>
-        </integer-array>
+    </integer-array>
     <string-array name="dolby_mode_entries">
         <item>@string/dolby_mode_off</item>
         <item>@string/dolby_mode_music</item>

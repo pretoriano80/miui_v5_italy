@@ -50,7 +50,7 @@
     <string name="pref_video_time_lapse_frame_interval_entry_2">Intervallo di 0.06 secondi(2 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">Intervallo di 0.12 secondi(4 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi(10 volte)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">Intervallo di 1 second(30 volte)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">Intervallo di 1 secondo(30 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_60">Intervallo di 2 secondi(60 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_90">Intervallo di 3 secondi(90 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">Intervallo di 4 secondi(120 volte)</string>
