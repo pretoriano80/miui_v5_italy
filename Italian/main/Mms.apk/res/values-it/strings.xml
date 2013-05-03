@@ -255,7 +255,7 @@
     <string name="refresh">Aggiorna</string>
     <string name="refresh_failed">Aggiornamento fallito</string>
     <string name="database_corruption">Database corrotto, ricostruzione database</string>
-    <string name="send_to">A: %1$s</string>
+    <string name="send_to">A:</string>
     <string name="send_to_count">Messaggi inviati: %1$s</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="message_received">Ricevuto</string>
@@ -382,7 +382,7 @@
     <string name="loading_all_messages">Caricamento di tutti i messaggi...</string>
     <string name="mx_online">In linea</string>
     <string name="mx_offline">Non in linea</string>
-    <string name="mx_enable_popup_msg">"Il servizio Cloud ti consente di inviare messaggi tramite MIUI. E' necessario l'invio i un SMS normale  per attivare il servizio, potrebbero essere applicate tariffe specifiche del tuo operatore. Vuoi attivarlo adesso?"</string>
+    <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, potrebbero essere applicati dei costi dal tuo operatore. Continuare?"</string>
     <string name="mx_enable_int_popup_msg">"I Messaggi Cloud consentono di inviare messaggi tra utenti MIUI. Per l'attivazione è necessario l'invio di un SMS internazionale, il costo dipende dalle tariffe previste dall'operatore".</string>
     <string name="loading_mms">Caricamento MMS…</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>

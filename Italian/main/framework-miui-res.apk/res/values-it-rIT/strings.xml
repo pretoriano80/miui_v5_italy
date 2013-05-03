@@ -5,7 +5,7 @@
     <string name="activating">Attivazione...</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
     <string name="alwaysUsePrompt">Imposta come predefinito</string>
-    <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
+    <string name="android_lockscreen_glogin_instructions">Accedi con il tuo account per sbloccare</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
     <string name="yesterday">Ieri</string>
@@ -269,7 +269,7 @@
     <string name="experimental_validate_username">ID Xiaomi</string>
     <string name="experimental_validate_warning">Ogni tuo contributo aiuta MIUI a migliorare !</string>
     <string name="find_device_check_sim">Controllo SIM...</string>
-    <string name="find_device_sim_change_instructions">Il tuo terminale è stato bloccato. Inserisci SIM o digita la password del tuo account Xiaomi</string>
+    <string name="find_device_sim_change_instructions">Il tuo terminale è stato bloccato. Inserisci SIM o digita la password del tuo account</string>
     <string name="find_device_sim_change_instructions_no_network">Il tuo telefono è stato bloccato. Inserire la SIM orginale</string>
     <string name="find_device_turn_off_flight_mode">Disattiva modalità aereo</string>
     <string name="find_device_turn_off_flight_mode_instructions">Il tuo dispositivo è stato bloccato. Disattiva la modalità aereo</string>
@@ -435,11 +435,11 @@
     <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
     <string name="lockscreen_transport_prev_description">Traccia precedente</string>
     <string name="lockscreen_transport_play_description">Avvio</string>
-    <string name="lockscreen_emergency_call">Chiamata di emergenza</string>
+    <string name="lockscreen_emergency_call">Chiamata emergenza</string>
     <string name="unlockscreen_recharging_message">In carica %d%%</string>
     <string name="unlockscreen_recharge_completed">Carica completa</string>
     <string name="emergency_call_string">Emergenza</string>
-    <string name="forget_password_string">Password dimenticata</string>
+    <string name="forget_password_string">Recupera</string>
     <string name="miui_unlockscreen_password_wrong">Prova di nuovo</string>
     <string name="contact_carrier_message">"Contatta l'operatore per qualsiasi domanda"</string>
     <string name="input_puk_code">Inserisci PUK</string>

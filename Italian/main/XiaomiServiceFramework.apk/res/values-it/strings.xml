@@ -155,7 +155,7 @@
     <string name="recharge_voucher_summary">Ricarica con voucher</string>
     <string name="recharge_hint">1 RMB equivale a 1 Credito MI</string>
     <string name="title_prepaid">Ricarica con carta</string>
-    <string name="title_paytool">Top-up via %1$s</string>
+    <string name="title_paytool">Ricarica con %1$s</string>
     <string name="title_voucher">Ricarica usando Voucher per Crediti MI</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
@@ -164,7 +164,7 @@
     <string name="recharge_other">Seleziona un altro metodo di pagamento</string>
     <string name="paytool_picker_hint">Totale Crediti MI da ricaricare</string>
     <string name="paytool_edit_hint">Totale ricarica (RMB):</string>
-    <string name="paytool_edit_limit">Meo di %1$s</string>
+    <string name="paytool_edit_limit">Meno di %1$s</string>
     <string name="paytool_error_install">Installazione plugin sicurezza mobile %1$s fallita</string>
     <string name="paytool_error_denomination">Inserire il totale della ricarica in modo corretto</string>
     <string name="paytool_error_msp">Aggiunta della nuova ricarica %1$s fallita</string>
@@ -237,7 +237,7 @@
     <string name="mibi_license_message">"Servizio Mi Credit Xiaomi. Premendo OK dichiari di essere d'accordo con %1$s".</string>
     <string name="mibi_license_message_span">Accordo Utente Crediti MI</string>
     <string name="sina_weibo">Sina Weibo</string>
-    <string name="bind_sina_weibo">AutorizzaSina Weibo</string>
+    <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti, amici ed altre informazioni su tuo telefono direttamente dal tuo account</string>
     <string name="add_weibo_account">Aggiungi account</string>
     <string name="binded">Associato</string>

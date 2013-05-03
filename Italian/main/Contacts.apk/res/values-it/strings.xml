@@ -692,7 +692,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="export_sim_contact_finish">Esportazione su SIM completata</string>
     <string name="sim_export_loading">Lettura informazioni SIM (potrebbe impiegare un minuto…</string>
     <string name="pref_title_account_import">Importa da account</string>
-    <string name="pref_title_import_from_account">Importa da account Xiaomi</string>
+    <string name="pref_title_import_from_account">"Importa nell'account Xiaomi"</string>
     <string name="pref_summary_import_from_account">Importa i contatti degli account Google ed Exchange nel mio account Xiaomi</string>
     <string name="import_to_xiaomi_account_confirm">Importa</string>
     <string name="import_to_xiaomi_account_progress_title">"Importa contatti nell'account Xiaomi"</string>

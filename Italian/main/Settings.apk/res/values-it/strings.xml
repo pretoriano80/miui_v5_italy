@@ -1874,8 +1874,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_notice">Avviso Sicurezza</string>
     <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione.
 Rendere attendibile questa applicazione ?"</string>
-    <string name="auto_startup_dialog_msg">"Miui consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e dei traffico dati.
-	Consentire l'avvio automatico?"</string>
+    <string name="auto_startup_dialog_msg">"MIUI consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
+Consentire l'avvio automatico?"</string>
     <string name="search_airplane">Aereo</string>
     <string name="search_network">Rete</string>
     <string name="search_wifi">WiFi</string>
@@ -1947,7 +1947,7 @@ Rendere attendibile questa applicazione ?"</string>
     <string name="screen_on_proximity_sensor_summary">Disabilita le funzioni del telefono quando, ad esempio, il telefono viene tenuto in tasca (attivazione tramite sensore di prossimità).</string>
     <string name="preferred_launcher_title">Launcher preferito</string>
     <string name="preferred_launcher_warning_title">Sostituzione launcher predefinito</string>
-    <string name="preferred_launcher_warning_message">Sostituendo il launcher predefinito si potrebbe verificare ricontrare un impegno maggiore della memoria. Sicuro di voler continuare?</string>
+    <string name="preferred_launcher_warning_message">Sostituendo il launcher predefinito si potrebbe verificare riscontrare un impegno maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_launcher_warning_replace">Cambia Launcher</string>
     <string name="preferred_launcher_warning_use_system">Usa predefinito</string>
     <string name="key_settings_title">Impostazioni Tasti</string>
@@ -1956,7 +1956,7 @@ Rendere attendibile questa applicazione ?"</string>
     <string name="screen_key_long_press_action">Funzione scatto</string>
     <string name="menu_key">Tasto Menu</string>
     <string name="home_key">Tasto Home</string>
-    <string name="back_key">Tasto indieto</string>
+    <string name="back_key">Tasto indietro</string>
     <string name="screen_key_long_press_timeout">Long press scaduto</string>
     <string name="under_keyguard">Su lockscreen</string>
     <string name="enable_snapshot_screenlock">Tieni premuto il tasto sul lockscreen per eseguire uno screenshot</string>
@@ -2207,11 +2207,11 @@ Seleziona il sistema operativo utilizzato:"</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_windows_xp_step_2_1">"1.Se compare il Setup Wizard, 
 segui i passaggi per completare l'installazione"</string>
-    <string name="msd_install_retry_windows_xp">"Se il tuo computer non rilev correttamente il MI-2,
+    <string name="msd_install_retry_windows_xp">"Se il tuo computer non rileva correttamente il MI-2,
 prova in questo modo:
 "<li>Disconnetti e riconnetti il cavo USB del MI-2 dal computer.</li>"
 "<li>Installa di nuovo i driver.</li></string>
-    <string name="msd_install_retry_windows_vista">"Se il tuo computer non rilev correttamente il MI-2,
+    <string name="msd_install_retry_windows_vista">"Se il tuo computer non rileva correttamente il MI-2,
 prova in questo modo:
 "<li>Disconnetti e riconnetti il cavo USB del MI-2 dal computer.</li></string>
     <string name="msd_install_retry_mac">"Se il tuo computer non rileva correttamente il MI-2,

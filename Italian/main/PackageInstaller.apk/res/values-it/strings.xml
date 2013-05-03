@@ -20,7 +20,7 @@
     <string name="install_failed_msg">Impossibile installare %1$s sul cellulare.</string>
     <string name="launch">Apri</string>
     <string name="unknown_apps_dlg_title">Installazione bloccata</string>
-    <string name="unknown_apps_dlg_text">"Per motivi di sicurezza, il telefono è impostato per bloccare l'installazione di applicazioni non ottenute da Android Market. Superando questo blocco puoi installare applicazioni con altre origini ma il tuo telefono ed i tuoi dati personali potrebbero essere compromessi da applicazioni con origini sconosciute, in questo caso dovrai assumerti la piena responsabilità delle possibili conseguenze. Puoi modificare queste impostazioni in Impostazioni->Sicurezza->Origini sconosciute."</string>
+    <string name="unknown_apps_dlg_text">Per motivi di sicurezza, il telefono è impostato per bloccare le applicazioni non provenienti da Google Play Store. Rimuovendo questo blocco potrai installare applicazioni provenienti da altre fonti ma il telefono ed i tuoi dati potrebbero essere a rischio. Procedendo dichiari di essere a conoscenza dei rischi. Puoi modificare queste impostazioni in Impostazioni > Sicurezza > Origini sconosciute.</string>
     <string name="ok">OK</string>
     <string name="settings">Impostazioni</string>
     <string name="allow_source_dlg_title">Consentire nuova origine per applicazioni?</string>
@@ -51,14 +51,14 @@
     <string name="Parse_error_dlg_title">Errore di analisi</string>
     <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
     <string name="caller_app">Richiedente:%1$s</string>
-    <string name="safe_guard_support">Supporto tecnio fornito da %1$s</string>
+    <string name="safe_guard_support">Supporto tecnico fornito da %1$s</string>
     <string name="safe_relative">Permessi sicurezza</string>
     <string name="privacy_relative">Permessi privacy</string>
     <string name="other_relative">Altri permessi</string>
     <string name="perm_notice">Avviso di sicurezza</string>
-    <string name="trust_switch_dialog_msg">MIUI non chiederà per operazioni relative a sicurezza o privacy per questa applicazione. Vupoi fidarti ?</string>
+    <string name="trust_switch_dialog_msg">"MIUI non chiederà l'autorizzazione per operazioni relative a sicurezza o privacy per questa applicazione. Vuoi rendere l'applicazione attendibile?"</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà all'applicazione di avviarsi automaticamente senza domandare all'utente. Questo può portare a consumo di batteria e/o di traffico dati. Consentire l'avvio automatico ?"</string>
-    <string name="low_risk_perms">Permissi a basso rischio</string>
+    <string name="low_risk_perms">Permessi a basso rischio</string>
     <string name="high_risk_perms">Permessi ad alto rischio</string>
     <string name="perm_privacy_app_finish">Chiudi</string>
     <string name="perm_privacy_app_launch">Apri</string>

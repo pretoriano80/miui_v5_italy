@@ -780,7 +780,7 @@ Tentativi rimasti:"</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Premi Menu per sbloccare o effettuare chiamate di emergenza.</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
     <string name="lockscreen_pattern_instructions">Traccia la sequenza di sblocco</string>
-    <string name="lockscreen_emergency_call">Chiamata di emergenza</string>
+    <string name="lockscreen_emergency_call">Chiamata emergenza</string>
     <string name="lockscreen_return_to_call">Torna a chiamata</string>
     <string name="lockscreen_pattern_correct">Corretta.</string>
     <string name="lockscreen_pattern_wrong">Riprova</string>

@@ -47,7 +47,8 @@
     <string name="receive_from">Ricezione da:</string>
     <string name="receive_store">Salva file in:</string>
     <string name="receive_finish_tip">$1%d file ricevuto(i):</string>
-    <string name="about_to_send">Invia file</string>
+    <string name="about_to_send">Invio file</string>
+	<string name="about_to_receive">Ricezione file</string> 
     <string name="receive_cancel_tip">Ricezione non completata. Sicuro di voler interrompere il trasferimento ed uscire?</string>
     <string name="receive_cancel_tip2">annulla ricezione. Ricevuto(i) %1$d / %2$d file</string>
     <string name="cancel_send">Annulla</string>
