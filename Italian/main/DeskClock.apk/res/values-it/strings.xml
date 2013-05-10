@@ -103,6 +103,7 @@ Puoi anche annullare questa sveglia."</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">Tempo scaduto!</string>
     <string name="dialog_confirm_abort">Vuoi annullare i cambiamenti?</string>
+    <string name="confirm_abort">Annulla</string>
     <string name="remind_ringtone">Suoneria</string>
     <string name="keep_screen_on">Mantieni schermo attivo</string>
     <string name="start_up">Avvia</string>
@@ -125,10 +126,8 @@ Puoi anche annullare questa sveglia."</string>
     <string name="legal_workday_invalidate">Data scaduta (Attualmente la sveglia suona da Luna Ven)</string>
     <string name="legal_workday_invalidate_message">(Data scaduta, aggiorna in Impostazioni)</string>
     <string name="legal_workday_message">(escluse le festività)</string>
-    <string name="update_legal_workday_toast">Aggiorna festività cinesi nelle Impostazioni</string>
-    <string name="holiday_update_pref_title">Aggiornamento dati giorni feriali</string>
-    <string name="holiday_update_pref_invalidate_title">Aggiornamento dati giorni feriali (scaduto)</string>
-    <string name="holiday_update_pref_summary">Cerca aggiornamenti</string>
+    <string name="holiday_update_title">"L'aggiornamento dei giorni richiede una connessione Internet"</string>
+    <string name="holiday_update_summary">Cerca aggiornamenti</string>
     <string name="holiday_data_updating">Aggiornamento...</string>
     <string name="holiday_data_update_failed">Ricerca aggiornamenti fallita, riprovare più tardi.</string>
     <string name="holiday_data_update_succeed">Ricerca aggiornamenti completata</string>
@@ -157,6 +156,9 @@ Puoi anche annullare questa sveglia."</string>
     <string name="description_version">Versione:</string>
     <string name="download_failed">Download fallito</string>
     <string name="download_preview_failed">Caricamento anteprima fallito</string>
+    <string name="holiday_update_pref_invalidate_title">Aggiornamento dati giorni lavorativi (scaduto)</string>
+    <string name="holiday_update_pref_summary">Cerca aggiornamenti</string>
+    <string name="holiday_update_pref_title">Dati giorni lavorativi aggiornati</string>
     <string name="loading">Caricamento...</string>
     <string name="loading_resource_detail_info">Caricamento delle informazioni...</string>
     <string name="online_no_network">Impossibile connettersi alla rete</string>
@@ -202,4 +204,5 @@ Puoi anche annullare questa sveglia."</string>
     <string name="resource_update">Aggiorna</string>
     <string name="sdcard_status_changed_dialog_message">"L'applicazione verrà chiusa. Aprila di nuovo per aggiornare le risorse."</string>
     <string name="sdcard_status_changed_dialog_title">Stato SD Card modificato.</string>
+    <string name="update_legal_workday_toast">Aggiorna le festività cinesi nelle Impostazioni</string>
 </resources>

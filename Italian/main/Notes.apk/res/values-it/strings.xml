@@ -67,6 +67,9 @@
     <string name="alert_edit_action_update">Modifica</string>
     <string name="alert_edit_action_delete">Rimuovi</string>
     <string name="time_picker_dialog_title">Imposta orario promemoria</string>
+    <string name="notify_alarm_title">Promemoria sveglia</string>
+    <string name="notify_alarm_action_view">Mostra</string>
+    <string name="notify_alarm_action_mute">Silenzia</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine!</string>
     <string name="snippet_image_stub">[Image]</string>
     <string name="snippet_image_template">[Image %1$s]</string>

@@ -2304,6 +2304,8 @@ prova in questo modo:
     <string name="cancel_alert">Annullare ?</string>
     <string name="android_beam_witch_label">Abilita Android Beam</string>
     <string name="sim_management_title">Gestione SIM</string>
+    <string name="sim_status_title">Stato SIM</string>
+    <string name="slot_status_title">Informazioni IMEI</string>
     <string name="safe_relative">Permessi sicurezza</string>
     <string name="app_floating_window_dlg">Consenti a\"%1$s\" di mostrare finestre pop-up</string>
     <string name="back_long_press">tasto indietro</string>

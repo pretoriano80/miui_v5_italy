@@ -93,8 +93,10 @@
     <string name="traffic_remain">Rimanenti</string>
     <string name="apply_rules_failed_known">OK</string>
     <string name="apply_rules_failed">Impossibile impostare il firewall, provare di nuovo. (%s)</string>
-    <string name="traffic_total">Totale: %s</string>
-    <string name="traffic_used_status">Utilizzati:%s</string>
+    <string name="traffic_total">"Totale: 
+%s"</string>
+    <string name="traffic_used_status">"Utilizzati:
+%s"</string>
     <string name="unknown_traffic_hint">Traffico disponibile sconosciuto, vuoi impostarlo adesso?</string>
     <string name="finish_traffic_settings_hint">Impostazioni salvate!</string>
     <string name="finish_traffic_settings_title">Regola traffico dati</string>
