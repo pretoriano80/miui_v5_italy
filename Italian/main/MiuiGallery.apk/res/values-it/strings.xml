@@ -68,7 +68,7 @@
     <string name="set_image">Imposta foto come</string>
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
-    <string name="confirm_delete">Confermare la cancellazione di %s immagini?</string>
+    <string name="confirm_delete">Confermare la cancellazione di %s ?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">%s immagine(i) in %s album, sicuro di voler eliminare ?</string>
     <string name="delete_fail_too_many_items">Impossibile eliminare, troppi elementi selezionati</string>
     <string name="action_fail_unknown_error">Operazione fallita a causa di un errore sconosciuto.</string>
@@ -76,7 +76,7 @@
     <string name="confirm_delete_album" formatted="false">Sicuro di voler eliminare %s album (contenenti %s elementi)?</string>
     <string name="confirm_delete_system_album">%s è un album di sistema, sicuro di volerlo eliminare?</string>
     <string name="confirm_delete_folders_and_pictures">Sicuro di voler eliminare %s?</string>
-    <string name="confirm_delete_pictures">%s file</string>
+    <string name="confirm_delete_pictures">%s immagini</string>
     <string name="confirm_delete_items">%s elementi</string>
     <string name="confirm_delete_folders_including" formatted="false">%s cartelle (contenenti %s elementi)</string>
     <string name="confirm_delete_videos">%s video</string>
@@ -255,14 +255,14 @@
     <string name="internal_sd_card">Scheda SD interna</string>
     <string name="external_sd_card">Scheda SD</string>
     <string name="external_usb_device">Terminale USB</string>
-    <string name="menu_item_sort">Ordine</string>
+    <string name="menu_item_sort">Ordina</string>
     <string name="menu_item_sort_name_asc">Per nome (A-Z)</string>
     <string name="menu_item_sort_name_desc">Per nome (Z-A)</string>
     <string name="menu_item_sort_size_asc">Dimensione crescente</string>
     <string name="menu_item_sort_size_desc">Dimensione decrescente</string>
     <string name="menu_item_sort_visit_asc">Frequenza crescente</string>
     <string name="menu_item_sort_visit_desc">Frequenza decrescente</string>
-    <string name="menu_item_sort_date_asc">Data ascendente</string>
+    <string name="menu_item_sort_date_asc">Data crescente</string>
     <string name="menu_item_sort_date_desc">Data decrescente</string>
     <string name="operation_rename">Rinomina</string>
     <string name="operation_refresh">Aggiorna</string>

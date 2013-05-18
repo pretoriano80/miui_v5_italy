@@ -12,7 +12,7 @@
     <string name="airplane_error_title">Modalità Aeroplano</string>
     <string name="airplane_error_msg">Non è possibile usare il Bluetooth quando il telefono è in modalità Aereo.</string>
     <string name="bt_enable_title" />
-    <string name="bt_enable_line1">Per utilizzare i servizi Bluetooth,è necessario attivare il Bluetooth.</string>
+    <string name="bt_enable_line1">Per utilizzare i servizi Bluetooth, è necessario attivare il Bluetooth.</string>
     <string name="bt_enable_line2">Attivare ora il Bluetooth?</string>
     <string name="bt_enable_cancel">Cancella</string>
     <string name="bt_enable_ok">Attiva</string>

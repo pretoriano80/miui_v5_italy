@@ -146,7 +146,7 @@
     <string name="bluetooth_connection_dialog_text">Vuoi connetterti con \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Richiesta rubrica</string>
     <string name="bluetooth_pb_acceptance_dialog_text">"%1$s vorrebbe accedere ai tuoi contatti e alla tua cronologia chiamate. Consentire l'accesso a %2$s?"</string>
-    <string name="bluetooth_pb_remember_choice">Non chiedermelo più</string>
+    <string name="bluetooth_pb_remember_choice">Non chiedere più</string>
     <string name="bluetooth_ftp_request">Richiesta Ftp</string>
     <string name="bluetooth_ftp_acceptance_dialog_text">"%1$s vorrebbe accedere ai tuoi file e cartelle. Consentire l'accesso a %2$s?"</string>
     <string name="bluetooth_ftp_remember_choice">Non chiedere più</string>
@@ -1615,7 +1615,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="data_usage_metered_mobile">Reti mobili</string>
     <string name="data_usage_metered_wifi">Reti Wi-Fi</string>
     <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili attiva la connessione Wi-Fi.</string>
-    <string name="cryptkeeper_emergency_call">Chiamata di emergenza</string>
+    <string name="cryptkeeper_emergency_call">Chiamata emergenza</string>
     <string name="cryptkeeper_return_to_call">Torna a chiamata</string>
     <string name="vpn_name">Nome</string>
     <string name="vpn_type">Tipo</string>
@@ -1810,7 +1810,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_adjust_ringer_volume">regolare volume suoneria</string>
     <string name="perm_hips_security_prompt_caption">Avviso di Sicurezza</string>
     <string name="perm_hips_security_prompt_title">%1$s sta tentando di %2$s</string>
-    <string name="perm_hips_security_prompt_remember">Ricord ala mia scelta</string>
+    <string name="perm_hips_security_prompt_remember">Ricorda la mia scelta</string>
     <string name="perm_hips_security_prompt_accept">Consenti (%d)</string>
     <string name="perm_hips_security_prompt_reject">Nega (%d)</string>
     <string name="perm_hips_security_prompt_accept_root">Consenti</string>
@@ -1947,7 +1947,7 @@ Consentire l'avvio automatico?"</string>
     <string name="screen_on_proximity_sensor_summary">Disabilita le funzioni del telefono quando, ad esempio, il telefono viene tenuto in tasca (attivazione tramite sensore di prossimità).</string>
     <string name="preferred_launcher_title">Launcher preferito</string>
     <string name="preferred_launcher_warning_title">Sostituzione launcher predefinito</string>
-    <string name="preferred_launcher_warning_message">Sostituendo il launcher predefinito si potrebbe verificare riscontrare un impegno maggiore della memoria. Sicuro di voler continuare?</string>
+    <string name="preferred_launcher_warning_message">Sostituendo il launcher predefinito si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_launcher_warning_replace">Cambia Launcher</string>
     <string name="preferred_launcher_warning_use_system">Usa predefinito</string>
     <string name="key_settings_title">Impostazioni Tasti</string>
@@ -2178,7 +2178,7 @@ Consentire l'avvio automatico?"</string>
     <string name="dolby_preset_create">Crea</string>
     <string name="dolby_preset_rename">Rinomina</string>
     <string name="dolby_preset_format">Personalizza %d</string>
-    <string name="dolby_preset_hint">Inserisce nome preselezione</string>
+    <string name="dolby_preset_hint">Inserisci il nome</string>
     <string name="dolby_preset_select">Seleziona preselezione</string>
     <string name="dolby_eq_enter_alert_title">Apri modalità EQ Dolby</string>
     <string name="dolby_eq_enter_alert_msg">Vuoi aprire la modalità Equalizzatore Dolby ?</string>

@@ -53,7 +53,7 @@
     <string name="about_developer_label">Sviluppatore</string>
     <string name="about_developer_name">MIUI</string>
     <string name="nowifi_alert_dialog_title">Avviso Traffico</string>
-    <string name="nowifi_alert_dialog_message">Us ala rete mobile per lo stream video, vuoi continuare ?</string>
+    <string name="nowifi_alert_dialog_message">Stai per usare la rete mobile per lo stream video. Continuare?</string>
     <string name="nowifi_alert_dialog_continue">Continua</string>
     <string name="nowifi_alert_dialog_exit">Esci</string>
 </resources>

@@ -124,9 +124,9 @@
     <string name="HIPS_Perm_AdjustRingerVolume">regolare volume suoneria</string>
     <string name="HIPS_SecurityPrompt_Caption">Avviso di Sicurezza</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s sta tentando di %2$s</string>
-    <string name="HIPS_SecurityPrompt_Remember">Ricorda selezione</string>
-    <string name="HIPS_SecurityPrompt_Accept">Consentito (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject">Negato (%d)</string>
+    <string name="HIPS_SecurityPrompt_Remember">Ricorda la selezione</string>
+    <string name="HIPS_SecurityPrompt_Accept">Consenti (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject">Nega (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Consenti</string>
     <string name="HIPS_SecurityPrompt_Next">Avanti</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Avviso Importante</string>
