@@ -622,7 +622,7 @@
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
         <item>1 secondo</item>
-        <item>1.5 secondii</item>
+        <item>1.5 secondi</item>
         <item>2 secondi</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout_value">

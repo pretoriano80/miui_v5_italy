@@ -1952,12 +1952,12 @@ Consentire l'avvio automatico?"</string>
     <string name="preferred_launcher_warning_use_system">Usa predefinito</string>
     <string name="key_settings_title">Impostazioni Tasti</string>
     <string name="key_settings">Tasto</string>
-    <string name="screen_key_long_press">Long press tasti schermo</string>
+    <string name="screen_key_long_press">Pressione prolungata tasti</string>
     <string name="screen_key_long_press_action">Funzione scatto</string>
     <string name="menu_key">Tasto Menu</string>
     <string name="home_key">Tasto Home</string>
     <string name="back_key">Tasto indietro</string>
-    <string name="screen_key_long_press_timeout">Long press scaduto</string>
+    <string name="screen_key_long_press_timeout">Durata pressione</string>
     <string name="under_keyguard">Su lockscreen</string>
     <string name="enable_snapshot_screenlock">Tieni premuto il tasto sul lockscreen per eseguire uno screenshot</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita su lockscreen</string>
