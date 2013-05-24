@@ -86,4 +86,7 @@
     <string name="pref_title_data_export">Esportazione dati</string>
     <string name="pref_title_data_export_to_sdcard">Esporta note su scheda SD</string>
     <string name="close">Chiudi</string>
+    <string name="alert_message_edit_anyway">La nota contiene elementi non supportati, la modifica potrebbe causare perdita di dati.</string>
+    <string name="alert_title_edit_anyway">Conferma la modifica della nota, questo potrebbe causare perdita di dati, vuoi procedere?</string>
+    <string name="error_unsupport_content">Questa nota contiene elementi non supportati, premi per aggiornamento di sistema</string>
 </resources>

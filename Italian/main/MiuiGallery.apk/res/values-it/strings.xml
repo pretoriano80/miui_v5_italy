@@ -289,7 +289,4 @@
     <string name="cloud_tab_locations">Posizioni</string>
     <string name="cloud_album_set_create">Nuovo</string>
     <string name="big_screen_alertdialog_title">Proiettore</string>
-    <string name="group_by_size">Per dimensione</string>
-    <string name="modify_cloud_settings">Impostazioni MiCloud</string>
-    <string name="no_file">Nessun file trovato</string>
 </resources>

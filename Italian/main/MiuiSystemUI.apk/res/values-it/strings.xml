@@ -212,6 +212,9 @@
     <string name="ext_media_safe_unmount_notification_message">"E' possibile rimuovere l'archiviazione USB."</string>
     <string name="ext_media_nomedia_notification_title">Archiviazione USB rimossa</string>
     <string name="ext_media_nomedia_notification_message">Archiviazione USB rimossa.</string>
+    <string name="ext_media_mountable_notification_title">Archiviazione USB connessa</string>
+    <string name="ext_media_mountable_notification_message">Apri media esterno con File Explorer</string>
+    <string name="ext_media_safe_remove">Rimozione sicura</string>
     <string name="screen_button_custom">Modifica posizione tasti schermo</string>
     <string name="recent_apps_key">Tasto App Recenti</string>
     <string name="recent_apps_key_show">Mostra tasto App Recenti</string>
@@ -250,6 +253,7 @@
     <string name="mdb_entering">Avvio</string>
     <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
     <string name="status_bar_recording_pause">La registrazione è stata messa in pausa.</string>
+    <string name="toast_rotation_locked">Schermo bloccato in landscape</string>
     <string name="ext_media_mountable_notification_title">Dispositivo di archiviazione USB connesso</string>
     <string name="ext_media_mountable_notification_message">Media montato, puoi accedervi tramite File Explorer</string>
     <string name="ext_media_safe_remove">Safely Remove media</string>

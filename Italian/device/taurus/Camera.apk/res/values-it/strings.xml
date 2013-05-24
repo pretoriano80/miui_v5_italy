@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_error_title">Errore Fotocamera</string>
-    <string name="cannot_connect_camera">Impossibile avviare fotocamera</string>
+    <string name="cannot_connect_camera_once">Impossibile avviare fotocamera</string>
+    <string name="cannot_connect_camera_twice">Impossibile avviare fotocamera, riavviare il telefono</string>
     <string name="camera_disabled">La Fotocamera è stata disabilitata in base alle norme di sicurezza.</string>
     <string name="camera_label">Fotocamera</string>
     <string name="video_camera_label">Videocamera</string>

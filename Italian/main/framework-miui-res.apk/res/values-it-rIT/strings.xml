@@ -20,7 +20,7 @@
     <string name="check_phone_io_error">Errore di rete</string>
     <string name="childrens_day" />
     <string name="chinese_youth_day" />
-    <string name="christmas_day">Giorno di Natale</string>
+    <string name="christmas_day">Natale</string>
     <string name="clear_and_bright" />
     <string name="cold_dews" />
     <string name="country_name_ac">AC</string>
@@ -471,4 +471,11 @@
     <string name="sim_locked">SIM bloccata</string>
     <string name="sim_not_ready">SIM in uso, provare di nuovo.</string>
     <string name="sim_in_airplane_mode">Disattiva modalità Aereo.</string>
+    <string name="sim_changed_reactivate_int_notice">"Questa SIM non è attivata. E' richiesto l'invio di un SMS internazionale per l'attivazione, vuoi procedere?"</string>
+    <string name="days">giorni</string>
+    <string name="hours">%d ore</string>
+    <string name="minutes">%d minuti</string>
+    <string name="shutdown_confirm_title">Sicuro di voler spegnere il telefono?</string>
+    <string name="reboot_confirm_title">Sicuro di voler riavviar eil telefono?</string>
+    <string name="alarm_message_12_hour_formate">aah:mm</string>
 </resources>

@@ -46,10 +46,10 @@
     <string name="filter_by_size_prefix">Dimensione\u0020</string>
     <string name="filter_by_duration">Filtra i file per durata</string>
     <string name="filter_by_duration_summary">Nasconde i file più brevi del valore impostato</string>
-    <string name="filter_by_duration_prefix">"Durata: "</string>
-    <string name="filter_by_duration_min">0sec</string>
-    <string name="filter_by_duration_max">5min</string>
-    <string name="filter_by_duration_format">%2$d:%5$02d</string>
+    <string name="filter_by_duration_prefix">"Durata minima: "</string>
+    <string name="filter_by_duration_min">0 sec</string>
+    <string name="filter_by_duration_max">5 min</string>
+    <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
     <string name="filter_by_folder">Filtra per cartella</string>
     <string name="filter_by_folder_summary_on">Seleziona le cartelle da filtrare</string>
     <string name="filter_by_folder_summary_off">Seleziona le cartelle da filtrare</string>

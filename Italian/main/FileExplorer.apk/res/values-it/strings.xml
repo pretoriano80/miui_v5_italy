@@ -105,6 +105,7 @@
     <string name="user_guide_summary">Come usare MiDrive</string>
     <string name="rename_failed">Rinominazione《%1$s》fallita</string>
     <string name="directory_no_item">Cartella vuota</string>
+    <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="ui_bar_txt_download_progress">%1$d file da scaricare</string>
     <string name="ui_bar_txt_upload_progress">%1$d da caricare</string>
