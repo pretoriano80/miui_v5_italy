@@ -3,7 +3,7 @@
     <string name="activate">Attiva</string>
     <string name="activate_fail_notification_title">Si prega di riattivare il servizio Sincronizzazione Xiaomi</string>
     <string name="activating">Attivazione...</string>
-    <string name="alarm_message_12_hour_formate">aah:mm</string>
+    <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Imposta come predefinito</string>
     <string name="android_lockscreen_glogin_instructions">Accedi con il tuo account per sbloccare</string>
     <string name="today">Oggi</string>
