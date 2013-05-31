@@ -79,7 +79,6 @@
     <string name="scanning_nosdcard">Scansione archiviazione SD...</string>
     <string name="search_title">Cerca</string>
     <string name="delete_playlist_menu">Cancella</string>
-    <string name="edit_playlist_menu">Modifica</string>
     <string name="rename_playlist_menu">Rinomina</string>
     <string name="rename_album_menu">Rinomina album</string>
     <string name="rename_artist_menu">Rinomina artista</string>
@@ -195,13 +194,12 @@
     <string name="buffering">Buffering</string>
     <string name="music_browser_label">Musica</string>
     <string name="mediaplaybacklabel">Musica</string>
-    <string name="online_music">Musica Online</string>
     <string name="artists_title">Artisti</string>
     <string name="albums_title">Album</string>
     <string name="folders_title">Cartelle</string>
     <string name="tracks_title">Tutti i Brani</string>
     <string name="playlists_title">Playlist</string>
-    <string name="playlist_new">Crea nuova playlist</string>
+    <string name="online_title">Online</string>
     <string name="playlist_recently_added">Aggiunti di recente</string>
     <string name="playlist_recently_played">Recenti</string>
     <string name="playlist_frequently_played">Frequenti</string>
@@ -212,6 +210,7 @@
     <string name="add_tracks">Aggiungi brano</string>
     <string name="correct_id3_by_internet">Autocorrezione ID3 utilizzando Internet Mobile</string>
     <string name="correct_id3_start">Inizio correzione dati ID3</string>
+    <string name="correct_id3_in_processing">Correzione dati ID3</string>
     <string name="correct_id3_success">Dati ID3 corretti con successo</string>
     <string name="correct_id3_failed">Correzione dati ID3 fallita!</string>
     <string name="correct_id3_open_other_connect">"Si prega di attivare la correzione dati ID3 utilizzando l'impostazione Internet Mobile"</string>
@@ -225,8 +224,6 @@
     <string name="album_search_online_descript">Online | %1$d x %2$d</string>
     <string name="album_select">Seleziona copertina</string>
     <string name="no_song_downloaded">Nessun brano può essere scaricato.</string>
-    <string name="dirac_enabled">Dirac abilitato</string>
-    <string name="dirac_disabled">Dirac disabilitato</string>
     <string name="powered_by">Powered by</string>
     <string name="albumsongseparator" />
     <string name="notification_artist_album">%2$s %1$s</string>

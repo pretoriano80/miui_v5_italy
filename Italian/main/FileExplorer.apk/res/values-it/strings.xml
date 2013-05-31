@@ -70,6 +70,7 @@
     <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
     <string name="fail_to_create_folder">Impossibile creare la cartella, la cartella è già esistente.</string>
     <string name="fail_to_rename">Impossibile rinominare il file o la cartella è già esistente.</string>
+    <string name="error_filename_too_long">Nome troppo lungo</string>
     <string name="enable_sd_card">Abilita SD Card</string>
     <string name="start_server">Avvia</string>
     <string name="stop_server">Interrompi</string>
