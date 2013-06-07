@@ -2318,58 +2318,58 @@ Se il dispositivo ha più di un utente, utilizzando questa scorciatoia sul locks
     <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
     <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
-While zoomed in, you can:
-&lt;ul>&lt;li>Pan: Drag two or more fingers across the screen.
-&lt;li>Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li>&lt;/li>&lt;/ul>
+Durante lo zoom puoi:
+&lt;ul>&lt;li>Pan: Sposta due o più dita sullo schermo.
+&lt;li>Regolare il livello di zoom: Pizzica con due o più dita oppure allargale.&lt;/li>&lt;/li>&lt;/ul>
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+Puoi anche ingrandire temporaneamente ciò che sta sotto il tuo dito con un triplo tap e mantenendo il contatto dopo il terzo. In questa modalità puoi spostare le dita per guardare altre parti dello schermo. Distaccca le dita dallo schermo per tornare alla normale funzione precedente.
 
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
-    <string name="accessibility_screen_magnification_title">Magnification gestures</string>
-    <string name="accessibility_toggle_large_text_preference_title">Large text</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
-    <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
-    <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
-    <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
-    <string name="activity_not_found">Application is not installed on your phone.</string>
-    <string name="allow">Allow</string>
-    <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
-    <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
-    <string name="audio_profile_settings_title">Audio profiles</string>
-    <string name="battery_desc_users">Battery used by user</string>
+Nota: Il triplo tap per la lente di ingrandimento funziona ovunque tranne sull atastiera e la barra di navigazione."</string>
+    <string name="accessibility_screen_magnification_title">Gesture lente di ingrandimento</string>
+    <string name="accessibility_toggle_large_text_preference_title">Testo grande</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Aggiorna lente di ingrandimento sulle transizioni delle app</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Aggiorna automaticamente la lente di ingrandimento</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Lente di ingrandimento</string>
+    <string name="accessibility_toggle_script_injection_preference_title">"Migliora l'accessibilità web"</string>
+    <string name="accessibility_toggle_speak_password_preference_title">Password parlate</string>
+    <string name="activity_not_found">"L'applicazione non è installata sul tuo telefono."</string>
+    <string name="allow">Consenti</string>
+    <string name="app_special_disable_dlg_text">"Se disabiliti un'app integrata potresti causare il malfunzionamento di altre applicazioni. Inoltre i tuoi dati verranno cancellati."</string>
+    <string name="app_special_disable_dlg_title">Cancellare dati e disabilitare applicazione?</string>
+    <string name="audio_profile_settings_title">Profili audio</string>
+    <string name="battery_desc_users">"Batteria utilizzata dall'utente"</string>
     <string name="battery_info_power_wireless">wireless</string>
     <string name="battery_info_status_charging_wireless">(wireless)</string>
-    <string name="bugreport_in_power">Power menu bug reports</string>
-    <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
-    <string name="bugreport_tool_log_toast">Log saved to %s</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
-    <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network.
+    <string name="bugreport_in_power">Rapporto errori menu alimentazione</string>
+    <string name="bugreport_in_power_summary">Include opzioni del menù alimentazione per la registrazione di errori</string>
+    <string name="bugreport_tool_log_toast">Registrazione salvata in %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Generazione rapporti di errore, impiegherà circa 1 minuto</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti la connessione ai dati della rete mobile, alcune applicazioni e servizi non funzioneranno se non connessi ad una rete Wi-Fi.
 
-This setting affects all users on this phone."</string>
-    <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
-    <string name="deny">Deny</string>
-    <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
-    <string name="enable_wifi_display">Enable Wireless display</string>
-    <string name="force_msaa">Force 4x MSAA</string>
-    <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
+Queste impostazioni sono valide per tutti gli utenti di questo telefono."</string>
+    <string name="data_usage_uninstalled_apps_users">Applicazioni e utenti rimossi</string>
+    <string name="deny">Nega</string>
+    <string name="enable_opengl_traces_title">Abilita tracce OpenGL</string>
+    <string name="enable_wifi_display">Abilità visualizzazione Wifi Display</string>
+    <string name="force_msaa">Forza 4x MSAA</string>
+    <string name="force_msaa_summary">Abilita 4x MSAA nelle applicazioni OpenGL ES 2.0</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_brightness_state_auto">auto</string>
-    <string name="gadget_brightness_state_full">full</string>
-    <string name="gadget_brightness_state_half">half</string>
-    <string name="gadget_brightness_state_off">off</string>
-    <string name="gadget_brightness_template">Brightness %1$s</string>
+    <string name="gadget_brightness_state_full">totale</string>
+    <string name="gadget_brightness_state_half">metà</string>
+    <string name="gadget_brightness_state_off">disattivata</string>
+    <string name="gadget_brightness_template">Luminosità %1$s</string>
     <string name="gadget_gps">GPS</string>
-    <string name="gadget_state_off">off</string>
-    <string name="gadget_state_on">on</string>
+    <string name="gadget_state_off">disattivato</string>
+    <string name="gadget_state_on">attivato</string>
     <string name="gadget_state_template">%1$s %2$s</string>
-    <string name="gadget_state_turning_off">turning off</string>
-    <string name="gadget_state_turning_on">turning on</string>
-    <string name="gadget_sync">Sync</string>
+    <string name="gadget_state_turning_off">disattivazione</string>
+    <string name="gadget_state_turning_on">attivazione</string>
+    <string name="gadget_sync">Sincronizza</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="global_change_warning">This setting affects all users on this phone.</string>
-    <string name="global_font_change_title">Change font size</string>
-    <string name="global_locale_change_title">Change language</string>
+    <string name="global_font_change_title">Cambia dimensione carattere</string>
+    <string name="global_locale_change_title">Cambi alingua</string>
     <string name="help_url_dreams" />
     <string name="help_url_location_access" />
     <string name="help_url_security" />
@@ -2377,24 +2377,24 @@ This setting affects all users on this phone."</string>
     <string name="install_text">Install</string>
     <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
     <string name="location_access_title">Access to my location</string>
-    <string name="location_sources_heading">Location sources</string>
-    <string name="memory_available_read_only">Available (read-only)</string>
-    <string name="memory_clear_cache_message">This will clear cached data for all apps.</string>
-    <string name="memory_clear_cache_title">Clear cached data?</string>
-    <string name="memory_media_cache_usage">Cached data</string>
-    <string name="not_installed">Not installed</string>
+    <string name="location_sources_heading">Fonti per la posizione</string>
+    <string name="memory_available_read_only">Disponibile (solo lettura)</string>
+    <string name="memory_clear_cache_message">Questo cancellerà i dati cache per tutte le applicazioni.</string>
+    <string name="memory_clear_cache_title">cancellare dati cache?</string>
+    <string name="memory_media_cache_usage">Dati cache</string>
+    <string name="not_installed">Non installato</string>
     <string name="overlay_display_devices_title">Simulate secondary displays</string>
     <string name="radio_info_cellinfo_label">CellInfo:</string>
     <string name="regulatory_information">Regulatory information</string>
     <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
 
 This setting affects all users on this phone."</string>
-    <string name="running_process_item_removed_user_label">Removed user</string>
-    <string name="running_process_item_user_label">User: %1$s</string>
-    <string name="screensaver_settings_button">Settings</string>
-    <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
-    <string name="screensaver_settings_dream_start">Start now</string>
-    <string name="screensaver_settings_summary_dock">While docked</string>
+    <string name="running_process_item_removed_user_label">Utente rimossor</string>
+    <string name="running_process_item_user_label">Utente: %1$s</string>
+    <string name="screensaver_settings_button">Impostazioni</string>
+    <string name="screensaver_settings_disabled_prompt">Per controllare cosa succede quando il telefono è nella dock e/o in modalità sleep, attiva Daydream.</string>
+    <string name="screensaver_settings_dream_start">Avvia desso</string>
+    <string name="screensaver_settings_summary_dock">Mentre è in dock</string>
     <string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
     <string name="screensaver_settings_summary_either_short">Either</string>
     <string name="screensaver_settings_summary_sleep">While charging</string>
@@ -2412,15 +2412,15 @@ This setting affects all users on this phone."</string>
     <string name="show_hw_overdraw">Show GPU overdraw</string>
     <string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
     <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
-    <string name="status_latest_area_info">Operator info</string>
-    <string name="storage_other_users">Other users</string>
-    <string name="uninstall_all_users_text">Uninstall for all users</string>
-    <string name="user_account_title">Account for content</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+    <string name="status_latest_area_info">Informazioni operatore</string>
+    <string name="storage_other_users">Altri utenti</string>
+    <string name="uninstall_all_users_text">Disinstalla per tutti gli utenti</string>
+    <string name="user_account_title">Account per contenuto</string>
+    <string name="user_add_user_message_long">"Puoi condividere questo account con altre persone creando utenti aggiuntivi. Ogni utente avrà il suo spazio personale che potrà personalizzare con applicazioni, sfondi, etc. Gli utenti potranno inoltre regolare le impostazioni del tablet come Wi-Fi che saranno valide anche per tutti gli altri utenti.
 
-After you create a new user, that person needs to go through a setup process.
+Dopo aver creato un nuovo utente, quell'utente dovrà eseguire un passaggio di configurazione.
 
-Any user can accept updated app permissions on behalf of all other users."</string>
+Ogni utente può accettare permessi di aggiornamento di applicazioni per conto anche di tutti gli altri utenti."</string>
     <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
 
 Any user can accept updated app permissions on behalf of all other users."</string>
