@@ -23,6 +23,7 @@
     <string name="resource_title">Dettagli risorsa</string>
     <string name="resource_download">Download</string>
     <string name="resource_downloading">In Download...</string>
+    <string name="resource_waiting_download">In attesa del download...</string>
     <string name="resource_apply">Applica</string>
     <string name="resource_update">Aggiorna</string>
     <string name="resource_select">Seleziona</string>
@@ -55,6 +56,7 @@
     <string name="resource_title_select_ringtone">Seleziona suoneria</string>
     <string name="resource_tip_select_ringtone">Nessuna suoneria selezionata</string>
     <string name="loading_resource_detail_info">Caricamento delle informazioni...</string>
+    <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="account_abnormal_state">Informazioni account irregolari,si prega di entrare nuovamente o riprovare più tardi!</string>
     <string name="config_import_vcard_type">default</string>
     <string name="config_export_vcard_type">default</string>

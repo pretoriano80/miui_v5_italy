@@ -840,6 +840,16 @@
         <item>@string/pref_link_prefetch_value_wifi_only</item>
         <item>@string/pref_link_prefetch_value_always</item>
     </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Mai</item>
+        <item>Solo in Wi-Fi</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="pref_video_preload_values">
+        <item>@string/pref_video_preload_value_never</item>
+        <item>@string/pref_video_preload_value_wifi_only</item>
+        <item>@string/pref_video_preload_value_always</item>
+    </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
@@ -871,11 +881,19 @@
         <item>http://www.bbc.co.uk/</item>
     </string-array>
     <string-array name="sogou">
-        <item>搜狗</item>
+        <item>Sogou</item>
         <item>sogou.com</item>
         <item>http://wap.sogou.com/favicon.ico</item>
         <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;amp;amp;pid=xiaomiyidong</item>
         <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="s139">
+        <item>Baidu</item>
+        <item>139.com</item>
+        <item>http://s.139.com/favicon.ico</item>
+        <item>http://s.139.com/search.do?q={searchTerms}&amp;amp;amp;category=downloadable|web|browserable&amp;amp;amp;tid=2123,2124,2125,2126&amp;amp;amp;fr=portalcustom2</item>
+        <item>GB2312</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;amp;amp;wd={searchTerms}</item>
     </string-array>
     <array name="bookmark_preloads_zh">
@@ -956,15 +974,5 @@
     <string-array name="pref_fling_on_border_values">
         <item>0</item>
         <item>1</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Mai</item>
-        <item>Solo Wi-Fi</item>
-        <item>Sempre</item>
-    </string-array>
-    <string-array name="pref_video_preload_values">
-        <item>@string/pref_video_preload_value_never</item>
-        <item>@string/pref_video_preload_value_wifi_only</item>
-        <item>@string/pref_video_preload_value_always</item>
     </string-array>
 </resources>

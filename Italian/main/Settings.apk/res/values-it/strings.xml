@@ -1013,12 +1013,8 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="reset_app_preferences">Cancella preferenze</string>
     <string name="reset_app_preferences_title">Cancellare preferenze applicazioni ?</string>
     <string name="reset_app_preferences_desc">"Questo cancellerà le preferenze per:
- "<li>Applicazioni disabilitate</li>"
- "<li>Notifiche applicazioni disabilitate</li>"
- "<li>Applicazioni predefinite per le operazioni</li>"
- "<li>Restrizioni dati in backgrouund per le applicazioni</li>"
 
- Non perderai nessun dato delle applicazioni."</string>
+ "</string>
     <string name="reset_app_preferences_button">Cancella</string>
     <string name="manage_space_text">Gestisci spazio</string>
     <string name="filter">Filtra</string>
@@ -2306,23 +2302,189 @@ prova in questo modo:
     <string name="sim_management_title">Gestione SIM</string>
     <string name="sim_status_title">Stato SIM</string>
     <string name="slot_status_title">Informazioni IMEI</string>
-    <string name="safe_relative">Permessi sicurezza</string>
-    <string name="app_floating_window_dlg">Consenti a\"%1$s\" di mostrare finestre pop-up</string>
-    <string name="back_long_press">tasto indietro</string>
-    <string name="back_long_press_timeout">Ritardo</string>
-    <string name="bluetooth_profile_name">Telefono Xiaomi di%1$s</string>
-    <string name="device_default_name">Telefono Xiaomi</string>
-    <string name="enable_assist_key_long_press">"Tieni premuto per attivare l'assistente vocale"</string>
-    <string name="enable_back_long_press">"Tieni premuto per chiudere l'applicazione"</string>
-    <string name="mdb_entering">Entra</string>
-    <string name="mdb_restore_cancel">Annulla</string>
-    <string name="mdb_restore_info1">I tuoi dati verranno ripristinati</string>
-    <string name="mdb_restore_info2">Non interrompere la connessione USB</string>
-    <string name="mdb_restore_label">Ripristino Mdb</string>
-    <string name="mdb_restore_mode">Modalità Ripristino</string>
-    <string name="mdb_usb_disconnection_exit">USB disconnessa, ripristino interrotto</string>
-    <string name="miui_device_default_name">Android</string>
-    <string name="power_key">Tasto accensione</string>
-    <string name="pref_volume_category_title">Volume</string>
-    <string name="show_rounded_corners_summary">"E' necessario riavviare per applicare le modifiche"</string>
+    <string name="accessibility_feature_state_off">Disattivato</string>
+    <string name="accessibility_feature_state_on">Attivato</string>
+    <string name="accessibility_global_gesture_preference_description">"Quando questa funzione è attivata puoi abilitare le funzioni di accessibilità in due passaggi:
+
+Passo 1: Premi e mantieni premuto il tasto accensione finchè non senti una vibrazione.
+
+Passo 2: Tocca con due dita e mantieni il contatto finchè non sentirai il segnale audio di confema.
+
+If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Off</string>
+    <string name="accessibility_global_gesture_preference_summary_on">On</string>
+    <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
+    <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
+    <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+
+While zoomed in, you can:
+&lt;ul>&lt;li>Pan: Drag two or more fingers across the screen.
+&lt;li>Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li>&lt;/li>&lt;/ul>
+
+You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+
+Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
+    <string name="accessibility_screen_magnification_title">Magnification gestures</string>
+    <string name="accessibility_toggle_large_text_preference_title">Large text</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
+    <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
+    <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
+    <string name="activity_not_found">Application is not installed on your phone.</string>
+    <string name="allow">Allow</string>
+    <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
+    <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
+    <string name="audio_profile_settings_title">Audio profiles</string>
+    <string name="battery_desc_users">Battery used by user</string>
+    <string name="battery_info_power_wireless">wireless</string>
+    <string name="battery_info_status_charging_wireless">(wireless)</string>
+    <string name="bugreport_in_power">Power menu bug reports</string>
+    <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
+    <string name="bugreport_tool_log_toast">Log saved to %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
+    <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network.
+
+This setting affects all users on this phone."</string>
+    <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
+    <string name="deny">Deny</string>
+    <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
+    <string name="enable_wifi_display">Enable Wireless display</string>
+    <string name="force_msaa">Force 4x MSAA</string>
+    <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
+    <string name="gadget_bluetooth">Bluetooth</string>
+    <string name="gadget_brightness_state_auto">auto</string>
+    <string name="gadget_brightness_state_full">full</string>
+    <string name="gadget_brightness_state_half">half</string>
+    <string name="gadget_brightness_state_off">off</string>
+    <string name="gadget_brightness_template">Brightness %1$s</string>
+    <string name="gadget_gps">GPS</string>
+    <string name="gadget_state_off">off</string>
+    <string name="gadget_state_on">on</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
+    <string name="gadget_state_turning_off">turning off</string>
+    <string name="gadget_state_turning_on">turning on</string>
+    <string name="gadget_sync">Sync</string>
+    <string name="gadget_wifi">Wi-Fi</string>
+    <string name="global_change_warning">This setting affects all users on this phone.</string>
+    <string name="global_font_change_title">Change font size</string>
+    <string name="global_locale_change_title">Change language</string>
+    <string name="help_url_dreams" />
+    <string name="help_url_location_access" />
+    <string name="help_url_security" />
+    <string name="help_url_users" />
+    <string name="install_text">Install</string>
+    <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
+    <string name="location_access_title">Access to my location</string>
+    <string name="location_sources_heading">Location sources</string>
+    <string name="memory_available_read_only">Available (read-only)</string>
+    <string name="memory_clear_cache_message">This will clear cached data for all apps.</string>
+    <string name="memory_clear_cache_title">Clear cached data?</string>
+    <string name="memory_media_cache_usage">Cached data</string>
+    <string name="not_installed">Not installed</string>
+    <string name="overlay_display_devices_title">Simulate secondary displays</string>
+    <string name="radio_info_cellinfo_label">CellInfo:</string>
+    <string name="regulatory_information">Regulatory information</string>
+    <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
+
+This setting affects all users on this phone."</string>
+    <string name="running_process_item_removed_user_label">Removed user</string>
+    <string name="running_process_item_user_label">User: %1$s</string>
+    <string name="screensaver_settings_button">Settings</string>
+    <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
+    <string name="screensaver_settings_dream_start">Start now</string>
+    <string name="screensaver_settings_summary_dock">While docked</string>
+    <string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
+    <string name="screensaver_settings_summary_either_short">Either</string>
+    <string name="screensaver_settings_summary_sleep">While charging</string>
+    <string name="screensaver_settings_when_to_dream">When to daydream</string>
+    <string name="security_settings_billing_desc">This app may charge you money:</string>
+    <string name="security_settings_premium_sms_desc">Send premium SMS</string>
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="show_dev_already">No need, you are already a developer.</string>
+    <string name="show_dev_on">You are now a developer!</string>
+    <string name="show_hw_layers_updates">Show hardware layers updates</string>
+    <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
+    <string name="show_hw_overdraw">Show GPU overdraw</string>
+    <string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
+    <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
+    <string name="status_latest_area_info">Operator info</string>
+    <string name="storage_other_users">Other users</string>
+    <string name="uninstall_all_users_text">Uninstall for all users</string>
+    <string name="user_account_title">Account for content</string>
+    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+
+After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users."</string>
+    <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users."</string>
+    <string name="user_add_user_title">Add new user</string>
+    <string name="user_adding_new_user">Adding new user…</string>
+    <string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
+    <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
+    <string name="user_confirm_remove_self_title">Delete yourself?</string>
+    <string name="user_delete_button">Delete</string>
+    <string name="user_info_settings_title">User info</string>
+    <string name="user_nickname">Nickname</string>
+    <string name="user_owner">Owner</string>
+    <string name="user_picture_title">Photo ID</string>
+    <string name="user_setup_button_setup_later">Not now</string>
+    <string name="user_setup_button_setup_now">Set up now</string>
+    <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
+    <string name="user_setup_dialog_title">Set up user now?</string>
+    <string name="user_summary_active">Active</string>
+    <string name="user_summary_inactive">Not active</string>
+    <string name="user_summary_not_set_up">Not set up</string>
+    <string name="user_you_section">You</string>
+    <string name="verify_applications">Verify apps</string>
+    <string name="verify_applications_summary">Disallow or warn before installation of apps that may cause harm</string>
+    <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
+    <string name="verify_apps_over_usb_title">Verify apps over USB</string>
+    <string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
+    <string name="vpn_lockdown_none">None</string>
+    <string name="vpn_lockdown_summary">Select a VPN profile to always remain connected to. Network traffic will only be allowed when connected to this VPN.</string>
+    <string name="vpn_menu_lockdown">Always-on VPN</string>
+    <string name="wifi_and_mobile_skipped_message">"WARNING: The phone won't be able to verify that your software is up to date."</string>
+    <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
+    <string name="wifi_display_available_devices">Available devices</string>
+    <string name="wifi_display_details">Display settings</string>
+    <string name="wifi_display_disconnect_text">This will end your connection with:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="wifi_display_disconnect_title">Disconnect?</string>
+    <string name="wifi_display_no_devices_found">No nearby wireless displays were found.</string>
+    <string name="wifi_display_options_done">Done</string>
+    <string name="wifi_display_options_forget">Forget</string>
+    <string name="wifi_display_options_name">Name</string>
+    <string name="wifi_display_options_title">Wireless display options</string>
+    <string name="wifi_display_paired_devices">Paired displays</string>
+    <string name="wifi_display_search_for_devices">Search for displays</string>
+    <string name="wifi_display_searching_for_devices">Searching…</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is off.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">To see devices, turn wireless display on.</string>
+    <string name="wifi_display_settings_title">Wireless display</string>
+    <string name="wifi_display_status_available">Available</string>
+    <string name="wifi_display_status_connected">Connected</string>
+    <string name="wifi_display_status_connecting">Connecting</string>
+    <string name="wifi_display_summary_disabled">Disabled</string>
+    <string name="wifi_display_summary_off">Off</string>
+    <string name="wifi_display_summary_on">On</string>
+    <string name="wifi_dont_skip">"Don't skip"</string>
+    <string name="wifi_menu_more_options">More options</string>
+    <string name="wifi_p2p_delete_group_message">Forget this group?</string>
+    <string name="wifi_p2p_remembered_groups">Remembered groups</string>
+    <string name="wifi_required_info_text">To complete setup, your tablet needs access to WLAN. After setup, you can switch between mobile data and WLAN.</string>
+    <string name="wifi_skip_anyway">Skip anyway</string>
+    <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
+
+Phone setup can require significant network activity."</string>
+    <string name="wifi_suspend_optimizations">WLAN optimization</string>
+    <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
+    <string name="wifi_tether_setting_title">Basic settings</string>
+    <string name="wifi_tether_starting">Turning hotspot on…</string>
+    <string name="wifi_tether_stopping">Turning off hotspot…</string>
 </resources>

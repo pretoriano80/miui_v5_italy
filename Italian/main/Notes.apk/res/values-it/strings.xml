@@ -42,6 +42,9 @@
     <string name="alert_title_discard">Annulla</string>
     <string name="alert_message_discard_changes">"Confermi l'annullamento di tutte le modifiche ?"</string>
     <string name="format_move_notes_to_folder">%1$d nota(e) spostata(e) nella cartella %2$s</string>
+    <string name="alert_title_edit_anyway">Conferma modifica della nota, potrebbe causare perdita di dati, vuoi continuare?</string>
+    <string name="alert_message_edit_anyway">Nella nota è presente un contenuto non supportato, la modifica potrebbe comportare perdita di dati.</string>
+    <string name="alert_action_edit_anyway">Continua la modifica</string>
     <string name="error_sdcard_unmounted">Scheda SD card occupata e non disponibile</string>
     <string name="error_sdcard_export">Esportazione fallita, controllare scheda SD</string>
     <string name="error_note_not_exist">La nota è inesistente</string>
@@ -51,6 +54,7 @@
     <string name="success_sdcard_export">Esportazione completata</string>
     <string name="failed_sdcard_export">Esportaziopne fallita</string>
     <string name="format_exported_file_location">%1$s esportato nella cartella %2$s della scheda SD</string>
+    <string name="error_unsupport_content">Nella nota è presente un contenuto non supportato, premi per aggiornare il sistema</string>
     <string name="preferences_title">Impostazioni</string>
     <string name="preferences_bg_random_appear_title">Colori delle note a caso</string>
     <string name="call_record_folder_name">Registro chiamate</string>
@@ -86,7 +90,4 @@
     <string name="pref_title_data_export">Esportazione dati</string>
     <string name="pref_title_data_export_to_sdcard">Esporta note su scheda SD</string>
     <string name="close">Chiudi</string>
-    <string name="alert_message_edit_anyway">La nota contiene elementi non supportati, la modifica potrebbe causare perdita di dati.</string>
-    <string name="alert_title_edit_anyway">Conferma la modifica della nota, questo potrebbe causare perdita di dati, vuoi procedere?</string>
-    <string name="error_unsupport_content">Questa nota contiene elementi non supportati, premi per aggiornamento di sistema</string>
 </resources>
