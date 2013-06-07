@@ -2310,9 +2310,9 @@ Passo 1: Premi e mantieni premuto il tasto accensione finchè non senti una vibr
 
 Passo 2: Tocca con due dita e mantieni il contatto finchè non sentirai il segnale audio di confema.
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-    <string name="accessibility_global_gesture_preference_summary_on">On</string>
+Se il dispositivo ha più di un utente, utilizzando questa scorciatoia sul lockscreen, verrà abilitato temporaneamente abilitata l'accessibilità finchè il dispositivo sarà sbloccato."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
     <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>

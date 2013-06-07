@@ -28,7 +28,7 @@
     <string name="manage_applications">Gestisci applicazioni</string>
     <string name="dlg_app_replacement_title">Sostituisci applicazione</string>
     <string name="dlg_app_replacement_statement">"L'applicazione da installare sostituirà un'altra applicazione. Tutti i dati utente precedenti verranno salvati."</string>
-    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) sostituirà la versione attuale (%3$s). I contenuti dell'utente verranno mantenuti. Sei sicuro di volerlo installare?"</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà la versione attuale (%3$s). I contenuti dell'utente verranno mantenuti. Sei sicuro di volerlo installare?"</string>
     <string name="dlg_sys_app_replacement_statement">"Applicazione di sistema. Sostituirla comunque? Tutti i dati utente precedenti verranno salvati.</string>
     <string name="lift_ban">Rimuovi divieto</string>
     <string name="out_of_space_dlg_title">Spazio esaurito</string>
