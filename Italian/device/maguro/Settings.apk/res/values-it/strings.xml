@@ -1955,8 +1955,8 @@ Consentire l'avvio automatico?"</string>
     <string name="back_key">Tasto indietro</string>
     <string name="screen_key_long_press_timeout">Durata pressione</string>
     <string name="under_keyguard">Su lockscreen</string>
-    <string name="enable_snapshot_screenlock">Tieni premuto il tasto sul lockscreen per eseguire uno screenshot</string>
-    <string name="disable_power_key_long_press_under_keyguard">Disabilita su lockscreen</string>
+    <string name="enable_snapshot_screenlock">Long-press Indietro per Fotocamera</string>
+    <string name="disable_power_key_long_press_under_keyguard">Disabilita tasto Accensione</string>
     <string name="trackball_wake_title">Trackball wake</string>
     <string name="pref_volume_wake_title">Riattiva con tasti volume</string>
     <string name="pref_volume_wake_summary">Riattiva il telefono premendo i tasti volume su/giù. Pensato per terminali in cui il tasto accensione si preme con difficoltà</string>
