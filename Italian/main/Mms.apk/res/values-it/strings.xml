@@ -128,7 +128,7 @@
     <string name="stick">Evidenzia</string>
     <string name="unstick">Non evidenziare</string>
     <string name="stick_conversation">Evidenzia la conversazione attuale</string>
-    <string name="unstick_conversation">Non evidenzaiare la conversazione attuale</string>
+    <string name="unstick_conversation">Non evidenziare la conversazione attuale</string>
     <string name="sticked_conversation">La conversazione attuale è già evidenziata</string>
     <string name="unsticked_conversation">La conversazione attuale è già non evidenziata</string>
     <string name="no_conversations">Nessuna conversazione.</string>

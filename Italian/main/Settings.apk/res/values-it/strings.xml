@@ -1996,7 +1996,7 @@ Consentire l'avvio automatico?"</string>
     <string name="nearby_wifi">Seleziona rete Wi-Fi</string>
     <string name="unlock_set_enter_system">Accedi direttamente al sistema</string>
     <string name="unlock_set_enter_system_summary">"Il tema lockscreen di sistema non verrà utilizzato dopo l'abilitazione di questa opzione. Attiva lo schermo per accedere direttamente al sistema"</string>
-    <string name="forget_wifi_message">Dimenticare questa rete Wi-Fi ? Potresti dover aver bisogno di reinserire la password alla prossima connessione</string>
+    <string name="forget_wifi_message">Dimenticare questa rete Wi-Fi ? Potresti aver bisogno di reinserire la password alla prossima connessione</string>
     <string name="no_nearby_wifi">Nessuna rete Wi-Fi rilevata</string>
     <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
@@ -2282,7 +2282,7 @@ prova in questo modo:
     <string name="application_item_disable">Disabilita</string>
     <string name="application_item_permission">Consenti</string>
     <string name="application_item_already_permission">Consentita</string>
-    <string name="application_forbid_auto_startup">"Disabilita %s dall'abilitazione in background"</string>
+    <string name="application_forbid_auto_startup">"Disabilita l'avvio automatico per %s"</string>
     <string name="floating_window_switch_label">Mostra finestra pop-up</string>
     <string name="floating_window_switch_label_disable">Nascondi finestra pop-up</string>
     <string name="app_floating_window_dlg_enable">"Per abilitare le impostazioni della finestra di %1$s dovrai riavviare l'applicazione. Sicuro di voler procedere ?"</string>
@@ -2436,7 +2436,7 @@ Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per co
     <string name="user_picture_title">Foto ID</string>
     <string name="user_setup_button_setup_later">Non adesso</string>
     <string name="user_setup_button_setup_now">Imposta adesso</string>
-    <string name="user_setup_dialog_message">Assicurati che la persona si disponibile a prender eil tablet ed impostare il proprio spazio</string>
+    <string name="user_setup_dialog_message">Assicurati che la persona si disponibile a prendere il tablet ed impostare il proprio spazio</string>
     <string name="user_setup_dialog_title">Impostare un nuovo utente adesso?</string>
     <string name="user_summary_active">Attivo</string>
     <string name="user_summary_inactive">Non attivo</string>

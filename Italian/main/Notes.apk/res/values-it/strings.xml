@@ -36,7 +36,7 @@
     <string name="info_note_enter_desktop">Nota inserita sulla home</string>
     <string name="alert_title_delete">Elimina le note selezionate</string>
     <string name="alert_message_delete_notes">Confermi di voler eliminare questa(e) %d nota(e) ?</string>
-    <string name="alert_message_delete_folders">Eliminare le %1$s cartelel selezionate?</string>
+    <string name="alert_message_delete_folders">Eliminare %1$s cartella(e)?</string>
     <string name="alert_message_delete_folders_notes">Eliminare le %1$s cartelle e le %2$s note?</string>
     <string name="alert_message_delete_note">Sicuro di voler eliminare questa nota ?</string>
     <string name="alert_title_discard">Annulla</string>

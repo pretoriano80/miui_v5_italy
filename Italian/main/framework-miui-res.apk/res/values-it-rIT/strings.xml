@@ -476,6 +476,6 @@
     <string name="hours">%d ore</string>
     <string name="minutes">%d minuti</string>
     <string name="shutdown_confirm_title">Sicuro di voler spegnere il telefono?</string>
-    <string name="reboot_confirm_title">Sicuro di voler riavviar eil telefono?</string>
+    <string name="reboot_confirm_title">Sicuro di voler riavviare il telefono?</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
 </resources>
