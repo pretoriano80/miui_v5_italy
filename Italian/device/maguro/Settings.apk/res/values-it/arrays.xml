@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nessuno</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nessuno</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafici)</item>
+        <item>Richiama gruppo su glGetError</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Nessuna</item>
+        <item>Lancia Task Manager</item>
+        <item>Lancia Assistente Vocale</item>
+        <item>Lancia Google Now</item>
+        <item>Chiudi applicazione</item>
+    </string-array>
+</resources>
