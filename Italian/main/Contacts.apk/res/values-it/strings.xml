@@ -910,4 +910,6 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="starred_contacts">Preferiti</string>
     <string name="other_contacts">Altri</string>
     <string name="set_photo_failed_msg">Impossibile impotare avatar</string>
+	<string name="redirect_calls_to_vm_confirm_message">Se non hai fatto richiesta di un servizio per questo, non attivare. Altrimenti potresti non essere in grado di ricevere chiamate da questo contatto.</string>
+    <string name="redirect_calls_to_vm_confirm_text">Attiva</string> 
 </resources>
