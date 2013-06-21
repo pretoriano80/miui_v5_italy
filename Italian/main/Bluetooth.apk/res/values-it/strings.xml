@@ -103,6 +103,9 @@
     <string name="sharedUserId" />
     <string name="process" />
     <string name="share_prepare">Preparazione Condivisione Bluetooth</string>
+    <string name="miui_transfer_history_title">CronologiaBluetooth</string>
+    <string name="miui_transfer_inbound_title">Ricevuti</string>
+    <string name="miui_transfer_outbound_title">Inviati</string>
     <string name="bpp_main">Stampa Bluetooth</string>
     <string name="app_name_bpp">Bluetooth BPP</string>
     <string name="bpp_printing_button_text">Stampa</string>

@@ -64,15 +64,8 @@
     <string name="menu_settings">Impostazioni</string>
     <string name="preference_led_indicator">Notifica a schermo spento</string>
     <string name="preference_led_indicator_prompt">Notifica la registrazione in corso a schermo spento</string>
-    <string name="record_name_minute">min</string>
-    <string name="notification_playback_paused">Riproduzione sospesa...</string>
-    <string name="prefDefault_recordType">audio/3gpp</string>
-    <string name="prefDialogTitle_recordType">Selezionare tipo di file</string>
-    <string name="pref_summary_enable_high_quality">Il file in alta qualità potrebbe avere grandi dimensioni</string>
-    <string name="pref_summary_enable_sound_effect">"Riproduci effetti sonori durante l'utilizzo"</string>
-    <string name="pref_title_enable_high_quality">Abilita alta qualità</string>
-    <string name="pref_title_enable_sound_effect">Abilita effetti sonori</string>
-    <string name="pref_title_record_type">Tipo registrazione</string>
-    <string name="preferences_title">Impostazioni</string>
-    <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
+    <string name="preference_record_type_title">Tipo di registrazione</string>
+    <string name="preference_record_type_dialog_title">Seleziona un tipo di registrazione</string>
+    <string name="preference_silent_mode">Registrazione silenzioa</string>
+    <string name="preference_silent_mode_summary">Impostalal registrazione silenzioa</string>
 </resources>

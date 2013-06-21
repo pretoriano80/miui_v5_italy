@@ -159,4 +159,6 @@
     <string name="text_day" />
     <string name="text_done">Ok</string>
     <string name="text_save">Salva</string>
+    <string name="adjust_no_network_update_data_fail">Impossibile aggiornare i dati, prova di nuovo dopo aver controllato le impostazioni di connessione.</string>
+    <string name="app_has_deleted">%s è stato eliminato.</string>
 </resources>

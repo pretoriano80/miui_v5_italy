@@ -246,9 +246,6 @@
     <string name="pref_link_prefetch_summary">Consenti il precaricamento delle pagine in background</string>
     <string name="pref_link_prefetch_dialogtitle">Precaricamento pagine</string>
     <string name="pref_video_preload_title">Precaricamento video</string>
-    <string name="pref_video_preload_value_never">NEVER</string>
-    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_video_preload_value_always">ALWAYS</string>
     <string name="pref_video_preload_summary">Consenti il precaricamento dei video se il server lo consente</string>
     <string name="pref_video_preload_dialogtitle">Precaricamento video...</string>
     <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
@@ -471,6 +468,17 @@
     <string name="url_copy_done">Url copiata</string>
     <string name="pref_setting_title">Impostazioni pagina</string>
     <string name="pref_general_setting_title">Impostazioni</string>
+    <string name="pref_images_preload_summary">" Consenti al browser di pre-caricare le immagini quando il server lo permette"</string>
+    <string name="pref_images_preload_title">Pre-caricamento immagini</string>
+    <string name="pref_content_preload_title">Pre-caricamento contenuto</string>
+    <string name="pref_image_display_control">Controllo visualizzazione immagine</string>
+    <string name="pref_images_preload_dialogtitle">Immagini in pre-caricamento...</string>
+    <string name="pref_images_preload_value_never_summary">Non pre-caricare mai le immagini</string>
+    <string name="pref_images_preload_value_wifi_only_summary">Pre-carica le immagini solo con Wi-Fi</string>
+    <string name="pref_images_preload_value_always_summary">Consente sempre il pre-caricamento delle immagini quando il server lo permette</string>
+    <string name="pref_data_preload_value_never_summary">Impedisce al browser di aprire risultati di ricerca sensibile in background</string>
+    <string name="pref_link_prefetch_value_never_summary">Impedisce al browser di pre-caricare link in background</string>
+    <string name="pref_video_preload_value_never_summary">Impedisce al browser di pre-caricare i video</string>
     <string name="return_to_homepage">Ritorna alla pagina iniziale</string>
     <string name="notif_install_successful">Download completato</string>
     <string name="in_incognito">La modalità incognito è attivata, non verrà salvata nessuna cronologia.</string>
@@ -495,4 +503,9 @@
     <string name="filename_empty_alert_message">Il nome del file non può essere vuoto</string>
     <string name="filename_illegal_alert_message">Il nome del file contiene caretteri non ammessi ed è stato rimosso automaticamente.</string>
     <string name="quicklinks_management">Link veloci</string>
+    <string name="download_failed">Download fallito</string>
+    <string name="download_complete">Download completato</string>
+    <string name="app_update_install">"Nuova versione scaricata e pronta per l'installazione"</string>
+    <string name="app_new_version">"Hai già scaricato l'ultima versione disponibile"</string>
+    <string name="clip_dialog_title">Aprire il link copiato?</string>
 </resources>

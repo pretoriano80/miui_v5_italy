@@ -262,4 +262,5 @@ sarà impossibile utilizzarli se scaduti"</string>
     <string name="updated_contacts">%s contatti aggiornati</string>
     <string name="process_result">Risultato:</string>
     <string name="account_detail">Account Xiaomi: %1$s</string>
+    <string name="memu_refresh">Aggiorna</string>
 </resources>

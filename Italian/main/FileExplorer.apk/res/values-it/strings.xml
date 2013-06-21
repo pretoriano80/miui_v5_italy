@@ -8,7 +8,6 @@
     <string name="menu_item_cleanup">Pulizia file</string>
     <string name="menu_item_search">Ricerca</string>
     <string name="operation_create_folder">Nuova cartella</string>
-	<string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
     <string name="menu_item_sort">Ordina</string>
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_size">Dimensione</string>
@@ -70,6 +69,7 @@
     <string name="confirm_know">Conferma</string>
     <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
     <string name="fail_to_create_folder">Impossibile creare la cartella, la cartella è già esistente.</string>
+    <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
     <string name="fail_to_rename">Impossibile rinominare il file o la cartella è già esistente.</string>
     <string name="error_filename_too_long">Nome troppo lungo</string>
     <string name="enable_sd_card">Abilita SD Card</string>
@@ -108,10 +108,15 @@
     <string name="rename_failed">Rinominazione《%1$s》fallita</string>
     <string name="directory_no_item">Cartella vuota</string>
     <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
+    <string name="no_enough_space">Spazio insufficiente</string>
     <string name="directory_info_divider">"  |  "</string>
-    <string name="ui_bar_txt_download_progress">%1$d file da scaricare</string>
-    <string name="ui_bar_txt_upload_progress">%1$d da caricare</string>
+    <string name="no_enough_storage_title">Spazio insufficiente</string>
+    <string name="no_enough_storage_indication">Spazio insufficiente, impossibile incollare. Cancella i file non necessari e riprova, oppure usa lo Strumento di Pulizia per liberare spazio.</string>
+    <string name="ui_bar_txt_download_progress">Download in corso...</string>
+    <string name="ui_bar_txt_upload_progress">upload in corso...</string>
     <string name="ui_main_menu_option_task_manage">Gestione Trasferimenti</string>
+    <string name="kuaipan_label">Kuaipan</string>
+    <string name="create_kuaipan_shortcut_pref">Crea collegamento sulla Home</string>
     <string name="login_reg_content0">KuaiPan è il tuo archivio Cloud</string>
     <string name="login_reg_content">KuaiPan ti permette di archiviare file e sincronizzarli con vari terminali come computer, telefoni ed altro.</string>
     <string name="start_use_xiaomi_account">Accedi</string>
@@ -153,7 +158,7 @@
     <string name="operation_compress">Comprimi</string>
     <string name="compress_title">Comprimi</string>
     <string name="compress_message">Comprimi in:</string>
-	<string name="compress_fail">Compressione fallia, destinazione già esistente</string>
+    <string name="compress_fail">Compressione fallia, destinazione già esistente</string>
     <string name="operation_compressing">Compressione...</string>
     <string name="operation_decompressing">Decompressione...</string>
     <string name="decompress_success">Decompressione completata</string>
@@ -164,7 +169,6 @@
     <string name="decompress_cancel">Annulla</string>
     <string name="kuaipan_prompt">Aiuto MiDrive</string>
     <string name="kuaipan_prompt_message">Il server è momentaneamente non accessibile, si prega di riprovare più tardi</string>
-    <string name="create_kuaipan_shortcut_pref">Crea collegamento sulla Home</string>
     <string name="move_failed">Impossibile spostare</string>
     <string name="copy_failed">Impossibile copiare</string>
     <string name="delete_failed">Eliminazione fallita</string>
@@ -176,6 +180,8 @@
     <string name="utf8_summary">Tipo di codifica predefinito</string>
     <string name="gbk_title">GBK</string>
     <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
+    <string name="big5_title">BIG5</string>
+    <string name="big5_summary">The default encoding of the traditional Chinese version Windows system</string>
     <string name="stay_awake_title">Mantieni attivo</string>
     <string name="stay_awake_summary">"Mantiene lo schermo attivo durante l'utilizzo di FTP"</string>
     <string name="ftp_transfer_secure">Trasferimento FTP sicuro</string>
@@ -218,7 +224,6 @@
     <string name="storage_internal">Archivio interno</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
-	<string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Rprova più tardi.</string>
     <string name="bind_account">Collega ad un account KuaiPan</string>
     <string name="bind_account_summary">Se hai già un account KuaiPan puoi aggiungerlo per recuperare i tuoi dati</string>
     <string name="binded_accout_title">Account KuaiPan</string>
@@ -281,7 +286,6 @@ Spazzatura"</string>
 2. Caricare (aggiornamento del file remoto)"</string>
     <string name="ui_filechange_btn_upload">Carica file</string>
     <string name="folder_exist">Cartella già esistente</string>
-	<string name="no_enough_space">No enough storage</string>
-    <string name="no_enough_storage_indication">Spazio insufficiente, impossibile incollare. Cancella i file non necessari e riprova, oppure usa lo Strumento di Pulizia per liberare spazio.</string>
-    <string name="no_enough_storage_title">Spazio insufficiente</string> 
+    <string name="unmount_inform_text">"L'archivio uSB verrà smontato.</string>
+    <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Rprova più tardi.</string>
 </resources>
