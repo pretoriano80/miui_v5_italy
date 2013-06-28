@@ -378,7 +378,7 @@
     <string name="mx_activate_hint_malformed_info">Operazione interrotta, è necessario riattivare i messaggi cloud. Attivarli adesso?</string>
     <string name="mx_activate_int_hint_malformed_info">"Richiesta elaborazione errore. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
     <string name="mx_activate_hint_server">Attivazione server fallita per attivazione Messagi Cloud. Attivare adesso?</string>
-    <string name="mx_activate_hint_server">Attivazione server dei messaggi cloud fallita. Attivare adesso?</string>
+    <string name="mx_activate_int_hint_server">"Attivazione server dei messaggi cloud fallita. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
     <string name="need_download">Sincronizzazione in corso...</string>
     <string name="found_wild_messages_title">Scarica Messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite MiCloud, vuoi scaricarli ?</string>
