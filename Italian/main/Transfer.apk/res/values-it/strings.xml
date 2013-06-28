@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="picker_title">Seleziona apk</string>
+    <string name="shortmessage">Meggarrio breve</string>
+    <string name="send_sound">Invi con audio</string>
+    <string name="send_2d_code">Invia codice2D</string>
+    <string name="send_nfc">Invia tramite NFC</string>
+    <string name="scan_title">Metti a fuoo il codice 2D</string>
+    <string name="recv_sound">Ricezione audio</string>
+    <string name="scan_2d_code">Scansione codice 2D</string>
     <string name="app_name">Transfer</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
@@ -48,7 +55,6 @@
     <string name="receive_store">Salva file in:</string>
     <string name="receive_finish_tip">$1%d file ricevuto(i):</string>
     <string name="about_to_send">Invio file</string>
-	<string name="about_to_receive">Ricezione file</string> 
     <string name="receive_cancel_tip">Ricezione non completata. Sicuro di voler interrompere il trasferimento ed uscire?</string>
     <string name="receive_cancel_tip2">annulla ricezione. Ricevuto(i) %1$d / %2$d file</string>
     <string name="cancel_send">Annulla</string>
@@ -62,10 +68,18 @@
     <string name="noti_receiving">%1$s: ricezione %2$d/%3$d file</string>
     <string name="noti_completed">Completato, %1$d/%2$d file trasferito(i)</string>
     <string name="connect_confirm">%1$s sta richiedendo la connessione</string>
+    <string name="about_to_receive">Ricezione file</string> 
     <string name="receive_canceled">Annullato</string>
     <string name="sdcard_unavailable">Scheda SD non disponibile</string>
     <string name="receive_cannot_created_file">Impossibile creare file</string>
     <string name="error_transmit">Errore di trasferimento</string>
+    <string name="error_bad_file">File corrotto</string>
+    <string name="error_download">Download fallito</string>
+    <string name="error_general">Errore generico</string>
+    <string name="error_network">Errore di rete</string>
+    <string name="error_not_enough_space">Spazio insufficiente sul dispositivo</string>
+    <string name="error_peer_disconnected">Peer disconnesso</string>
+    <string name="error_upload">Caricamento fallito</string>
     <string name="error_not_selected">Nessun file selezionato</string>
     <string name="error_select">Errore file o nessun elemento selezionato</string>
     <string name="device_default_name">Telefono Xiaomi</string>
@@ -102,5 +116,4 @@
     <string name="button_last">Inizia adesso</string>
     <string name="support_tip">MiShare ti fornirà le istruzioni</string>
     <string name="share_text">"MIUI V5 supporta il trasferimento dati senza l'utilizzo di rete dati mobile. Per gli utenti che non utilizzano MIUI V5 si prega di scaricare: %1$s"</string>
-    <string name="trasfer_list">Lista trasferimenti</string>
 </resources>

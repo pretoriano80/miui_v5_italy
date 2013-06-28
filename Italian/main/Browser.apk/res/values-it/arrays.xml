@@ -977,7 +977,7 @@
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Mai</item>
-        <item>Slo Wi-Fi</item>
+        <item>Solo Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
 </resources>

@@ -169,9 +169,9 @@
     <string name="display_font_size_label">Dimensioni carattere:</string>
     <string name="intent_sender_data_label">Dati:</string>
     <string name="intent_sender_sendbroadcast_text">Invia broadcast</string>
-    <string name="intent_sender_action_label">Action:</string>
-    <string name="intent_sender_startactivity_text">Inizia activity</string>
-    <string name="intent_sender_resource_label">Resource:</string>
+    <string name="intent_sender_action_label">Azione:</string>
+    <string name="intent_sender_startactivity_text">Inizia attività</string>
+    <string name="intent_sender_resource_label">Risorsa:</string>
     <string name="intent_sender_account_label">Account:</string>
     <string name="proxy_settings_title">Impostazioni proxy</string>
     <string name="proxy_clear_text">Cancella</string>
@@ -292,7 +292,7 @@
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare in schermo blocco</string>
+    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare in lockscreen</string>
     <string name="location_settings_title">Servizi di localizzazione</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
@@ -465,7 +465,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">"Quando questa funzione è attiva, puoi trasferire contenuti di applicazioni su un altro dispositivo che supporta la tecnologia NFC tenendo vicini i due dispositivi. Puoi trasferire, ad esempio, pagine dell'applicazione Browser, video di YouTube, contatti di Persone e altri dati. È sufficiente avvicinare i dispositivi (generalmente mettendo a contatto le due parti posteriori), quindi toccare lo schermo. L'applicazione stabilisce i dati da trasferire."</string>
     <string name="nsd_quick_toggle_title">Servizio scoperta rete</string>
-    <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
+    <string name="nsd_quick_toggle_summary">Permetti alle app su un altro dispositivo di trovare le app su questo dispositivo</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_quick_toggle_summary">Attiva Wi-Fi</string>
     <string name="wifi_settings">Wi-Fi</string>
@@ -498,20 +498,20 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi…</string>
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">More</string>
-    <string name="wifi_setup_wps">Automatic setup (WPS)</string>
+    <string name="wifi_setup_wps">Configurazione automatica (WPS)</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Impostazione WPS</string>
     <string name="wifi_wps_setup_msg">Inizio WPS…</string>
-    <string name="wifi_wps_onstart_pbc">Premere il pulsante di protezione Wi-Fi sul router.Di solito viene indicato con la scritta \"WPS\" o contiene questo simbolo:</string>
+    <string name="wifi_wps_onstart_pbc">Premere il pulsante di protezione Wi-Fi sul router. Di solito viene indicato con la scritta \"WPS\" o contiene questo simbolo:</string>
     <string name="wifi_wps_onstart_pin">"Inserisci il codice pin %1$s del tuo router Wi-Fi. L'installazione può impiegare due minuti per essere completata."</string>
     <string name="wifi_wps_complete">Installazione WPS riuscita. Connessione alla rete in corso…</string>
     <string name="wifi_wps_connected">Connesso alla rete Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">WPS già in corso. Il completamento potrebbe richiedere qualche decina di secondi.</string>
     <string name="wifi_wps_failed_generic">WPS fallito. Riprova tra qualche minuto.</string>
     <string name="wifi_wps_failed_wep">"L'impostazione di sicurezza del router Wi-Fi(WEP) non è supportata"</string>
-    <string name="wifi_wps_failed_tkip">"L'impostazione di sicurezza del router Wi-Fi((TKIP) non è supportata"</string>
-    <string name="wifi_wps_failed_auth">Autenticazione fallita.Si prega di riprovare più tardi</string>
-    <string name="wifi_wps_failed_overlap">"E' stata rilavata wn'altra sessione WPS.Si prega di riprovare tra qualche minuto"</string>
+    <string name="wifi_wps_failed_tkip">"L'impostazione di sicurezza del router Wi-Fi(TKIP) non è supportata"</string>
+    <string name="wifi_wps_failed_auth">Autenticazione fallita. Si prega di riprovare più tardi</string>
+    <string name="wifi_wps_failed_overlap">"E' stata rilavata wn'altra sessione WPS. Si prega di riprovare tra qualche minuto"</string>
     <string name="wifi_ssid">SSID rete</string>
     <string name="wifi_security">Sicurezza</string>
     <string name="wifi_signal">Intensità segnale</string>
@@ -586,7 +586,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_p2p_menu_rename">Rinomina dispositivo</string>
     <string name="wifi_p2p_menu_create_group">Creaa gruppo</string>
     <string name="wifi_p2p_menu_remove_group">Rimuovi gruppo</string>
-    <string name="wifi_p2p_menu_advanced">Advanced</string>
+    <string name="wifi_p2p_menu_advanced">Avanzate</string>
     <string name="wifi_p2p_peer_devices">Condividi dispositivo</string>
     <string name="wifi_p2p_failed_connect_message">Impossibile connettersi</string>
     <string name="wifi_p2p_failed_rename_message">Impossibile rinominare il dispositivo.</string>
@@ -793,8 +793,8 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="unmount_inform_text">"L'archivio USB verrà smontato."</string>
     <string name="sd_ejecting_title">Smontaggio in corso</string>
     <string name="sd_ejecting_summary">Smontaggio in corso</string>
-    <string name="storage_low_title">Storage space is running out</string>
-    <string name="storage_low_summary">Some system functions, such as syncing, may not work correctly. Try to free space by deleting or unpinning items, such as apps or media content.</string>
+    <string name="storage_low_title">Lo spazio di archiviazione si sta esaurendo</string>
+    <string name="storage_low_summary">Alcune funzioni di sistema, come la sincronizzazione potrebbero non funzionare correttamente. Prova a liberare spazio eliminando applicazioni o elementi multimediali.</string>
     <string name="storage_menu_usb">Connessione computer USB</string>
     <string name="storage_title_usb">Connessione computer USB</string>
     <string name="usb_connection_category">Connetti come</string>
@@ -863,7 +863,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="internal_media_format_desc">Cancellare la memoria interna? Perderai tutti i dati come musica e foto</string>
     <string name="internal_media_format_button_text">Cancella Interna</string>
     <string name="internal_media_format_final_desc">"Cancellando la memoria interna eliminerai tutti i file archiviati! E' un'azione irreversibile! Il telefono verrà riavviato una volta terminata la procedura di cancellazione"</string>
-    <string name="media_format_title">Erase SD card</string>
+    <string name="media_format_title">Formatta Scheda SD</string>
     <string name="media_format_summary">"Cancella i dati sulla SD"</string>
     <string name="media_format_desc">"Cancellare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
     <string name="media_format_button_text">Cancella archivio USB</string>
@@ -999,7 +999,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="clear_user_data_text">Cancella dati</string>
     <string name="app_factory_reset">Disinstalla aggiornamenti</string>
     <string name="auto_launch_enable_text">Hai scelto di avviare questa applicazione per impostazione predefinita per alcune azioni.</string>
-    <string name="always_allow_bind_appwidgets_text">"You've chosen to allow this app to create widgets and access their data."</string>
+    <string name="always_allow_bind_appwidgets_text">Hai scelto di permettere a questa applicazione di creare widget e di accedere ai propri dati.</string>
     <string name="auto_launch_disable_text">Nessuna applicazione predefinita impostata.</string>
     <string name="clear_activities">Cancella predefinite</string>
     <string name="screen_compatibility_text">Questa applicazione potrebbe non essere stata ideata per il tuo schermo. Puoi stabilire come adattarla al tuo schermo qui.</string>
@@ -1040,7 +1040,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="clear_failed_dlg_title">Cancella dati</string>
     <string name="clear_failed_dlg_text">"Impossibile cancellare i dati dell'applicazione."</string>
     <string name="security_settings_desc">"Contenuti a cui può accedere l'applicazione sul telefono:"</string>
-    <string name="security_settings_desc_multi">This app can access the following on your phone. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
+    <string name="security_settings_desc_multi">"Quest'app può accedere ai seguenti permessi sul tuo telefono. Per incrementare le performance e ridurre l'uso della memoria, alcuni di questi permessi sono disponibili in %1$s perché viene eseguito nello stesso processo di %2$s:"</string>
     <string name="join_two_items">%1$s e %2$s</string>
     <string name="join_many_items_last">%1$s e %2$s</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
@@ -1396,7 +1396,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="local_backup_password_title">Password di backup desktop</string>
     <string name="local_backup_password_summary_none">I backup desktop completi non sono attualmente protetti.</string>
     <string name="local_backup_password_summary_change">Seleziona per modificare o rimuovere la password per i backup desktop completi</string>
-    <string name="local_backup_password_toast_success">Nuva password backup impostata</string>
+    <string name="local_backup_password_toast_success">Nuova password backup impostata</string>
     <string name="local_backup_password_toast_confirmation_mismatch">La nuova password e quella di conferma non coincidono</string>
     <string name="local_backup_password_toast_validation_failure">Impossibile impostare password backup</string>
     <string name="backup_erase_dialog_title" />
@@ -1605,7 +1605,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="data_usage_uninstalled_apps">Applicazioni rimosse</string>
     <string name="data_usage_received_sent">%1$s ricevuti, %2$s inviati</string>
     <string name="data_usage_total_during_range">%2$s: circa %1$s utilizzati</string>
-    <string name="data_usage_total_during_range_mobile">"%2$s: about %1$s used, as measured by your phone. Your carrier's data usage accounting may differ."</string>
+    <string name="data_usage_total_during_range_mobile">"%2$s: circa %1$s usati, come misurato dal tuo telefono. Il conteggio dei dati fatto dal tuo operatore potrebbe essere differente."</string>
     <string name="data_usage_metered_title">Hotspot Mobili</string>
     <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hospot mobili. Alcune applicazioni potrebbero avere restrizioni per l'utilizzo di queste reti in background. Potresti anche ricevere avvisi per l'utilizzo di queste reti con download di grandi dimensioni.</string>
     <string name="data_usage_metered_mobile">Reti mobili</string>
@@ -1711,7 +1711,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="help_url_backup_reset" />
     <string name="help_url_tether" />
     <string name="cell_broadcast_settings">Trasmissione cella</string>
-    <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display.</string>
+    <string name="cell_broadcast_settings_summary">"Scegli il tipo di segnale d'emergenza da mostrare."</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">mass_storage</string>
@@ -1725,7 +1725,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_monitored_app">Applicazioni monitorate (%1$d)</string>
     <string name="perm_trusted_app">Applicazioni fidate (%1$d)</string>
     <string name="perm_show_system_app">Mostra applicazioni di sistema</string>
-    <string name="perm_hide_system_app">Nscond iapplicazioni di sistema</string>
+    <string name="perm_hide_system_app">Nascondi applicazioni di sistema</string>
     <string name="perm_loading">Caricamento...</string>
     <string name="perm_operating">Esecuzione...</string>
     <string name="perm_canceling">Annullamento...</string>
@@ -2014,7 +2014,7 @@ Consentire l'avvio automatico?"</string>
     <string name="show_rounded_corners">Mostra angoli arrotondati</string>
     <string name="pref_operational_key">Tasti funzionali</string>
     <string name="pref_button_light">Tasti luminosi</string>
-    <string name="pref_button_light_summary">Tasti Menu,Home e Indietro</string>
+    <string name="pref_button_light_summary">Tasti Menu, Home e Indietro</string>
     <string name="button_light_timeout">Timeout tasti luminosi</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
@@ -2048,14 +2048,14 @@ Consentire l'avvio automatico?"</string>
     <string name="wifi_wapi_cert_delet_subdir">Seleziona un certificato adatto</string>
     <string name="wifi_wapi_as_cert">Certificato WAPI AS</string>
     <string name="wifi_wapi_user_cert">Certificato Utente WAPI</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Please input the directory name you would like to create!</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_exist">Please input another directory name, selected name already exists!</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Failed to create directory</string>
-    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the WAPI AS certificate name</string>
-    <string name="wifi_wapi_cert_mgmt_as_dont_exist">The SD card does not contain a WAPI AS certificate, please check and retry</string>
-    <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The WAPI AS certificate format is invalid! Please install a valid WAPI AS certificate</string>
-    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">The WAPI user certificate format is invalid! Please install a valid WAPI user certificate</string>
-    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Please input the WAPI user certificate name</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Inserisci il nome della cartella che vuoi creare!</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_exist">Scegli un altro nome, il nome scelto è già esistente!</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Creazione della cartella fallita</string>
+    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Scegli il nome del certificato WAPI AS</string>
+    <string name="wifi_wapi_cert_mgmt_as_dont_exist">La scheda SD non contiene nessun certificato WAPI AS, controlla e riprova</string>
+    <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Il formato del certificato WAPI AS non è valido! Installa un certificato WAPI AS valido</string>
+    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Il formato del certificato utente WAPI non è valido! Installa un certificato utente WAPI valido</string>
+    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Inserisci il nome del certificato utente WAPI</string>
     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Inserisci il nome del certificato utente WAPI</string>
     <string name="wifi_context_menu_connect">Connetti alla rete Wi-Fi</string>
     <string name="wifi_context_menu_forget">Cancella rete</string>
@@ -2094,7 +2094,7 @@ Consentire l'avvio automatico?"</string>
     <string name="input_settings">Impostazioni tastiera</string>
     <string name="show_magnifier_when_input">Mostra lente di ingrandimento</string>
     <string name="volume_voice_description">Volume voce</string>
-    <string name="volume_system_description">System volume, for camera shutter, lock screen and other system notifications</string>
+    <string name="volume_system_description">"Volume di sistema, dell'otturatore fotocamera, della lockscreen e altre notifiche di sistema"</string>
     <string name="volume_bluetooth_description">Volume bluetooth</string>
     <string name="volume_restore">Ripristina volume</string>
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
@@ -2313,18 +2313,18 @@ Passo 2: Tocca con due dita e mantieni il contatto finchè non sentirai il segna
 Se il dispositivo ha più di un utente, utilizzando questa scorciatoia sul lockscreen, verrà abilitato temporaneamente abilitata l'accessibilità finchè il dispositivo sarà sbloccato."</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
-    <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-    <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
-    <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+    <string name="accessibility_global_gesture_preference_title">Scorciatoie accessibilità</string>
+    <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Il pulsante accensione termina la chiamata</string>
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è abilitata, puoi zoommare con un  triplo tocco.
 
 Durante lo zoom puoi:
 &lt;ul>&lt;li>Pan: Sposta due o più dita sullo schermo.
 &lt;li>Regolare il livello di zoom: Pizzica con due o più dita oppure allargale.&lt;/li>&lt;/li>&lt;/ul>
 
-Puoi anche ingrandire temporaneamente ciò che sta sotto il tuo dito con un triplo tap e mantenendo il contatto dopo il terzo. In questa modalità puoi spostare le dita per guardare altre parti dello schermo. Distaccca le dita dallo schermo per tornare alla normale funzione precedente.
+Puoi anche ingrandire temporaneamente ciò che sta sotto il tuo dito con un triplo tocco e mantenendo il contatto dopo il terzo. In questa modalità puoi spostare le dita per guardare altre parti dello schermo. Distaccca le dita dallo schermo per tornare alla normale funzione precedente.
 
-Nota: Il triplo tap per la lente di ingrandimento funziona ovunque tranne sull atastiera e la barra di navigazione."</string>
+Nota: Il triplo tocco per la lente di ingrandimento funziona ovunque tranne sulla tastiera e la barra di navigazione."</string>
     <string name="accessibility_screen_magnification_title">Gesture lente di ingrandimento</string>
     <string name="accessibility_toggle_large_text_preference_title">Testo grande</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Aggiorna lente di ingrandimento sulle transizioni delle app</string>
@@ -2367,51 +2367,51 @@ Queste impostazioni sono valide per tutti gli utenti di questo telefono."</strin
     <string name="gadget_state_turning_on">attivazione</string>
     <string name="gadget_sync">Sincronizza</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="global_change_warning">This setting affects all users on this phone.</string>
+    <string name="global_change_warning">Questa impostazione avrà effetto su tutti gli utenti del telefono</string>
     <string name="global_font_change_title">Cambia dimensione carattere</string>
     <string name="global_locale_change_title">Cambi alingua</string>
     <string name="help_url_dreams" />
     <string name="help_url_location_access" />
     <string name="help_url_security" />
     <string name="help_url_users" />
-    <string name="install_text">Install</string>
-    <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
-    <string name="location_access_title">Access to my location</string>
+    <string name="install_text">Installa</string>
+    <string name="location_access_summary">Lascia alle app che hanno chiesto il permesso di usare le informazioni sulla posizione</string>
+    <string name="location_access_title">Accesso alla mia posizione</string>
     <string name="location_sources_heading">Fonti per la posizione</string>
     <string name="memory_available_read_only">Disponibile (solo lettura)</string>
     <string name="memory_clear_cache_message">Questo cancellerà i dati cache per tutte le applicazioni.</string>
     <string name="memory_clear_cache_title">cancellare dati cache?</string>
     <string name="memory_media_cache_usage">Dati cache</string>
     <string name="not_installed">Non installato</string>
-    <string name="overlay_display_devices_title">Simulate secondary displays</string>
+    <string name="overlay_display_devices_title">Simula un display secondario</string>
     <string name="radio_info_cellinfo_label">CellInfo:</string>
-    <string name="regulatory_information">Regulatory information</string>
-    <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
+    <string name="regulatory_information">Informazioni della regolamentazione</string>
+    <string name="roaming_warning_multiuser">"Quando permetti il roaming dati i costi potrebbero essere elevati!
 
-This setting affects all users on this phone."</string>
-    <string name="running_process_item_removed_user_label">Utente rimossor</string>
+Questa impostazione avrà effetto su tutti gli utenti del telefono."</string>
+    <string name="running_process_item_removed_user_label">Utente rimosso</string>
     <string name="running_process_item_user_label">Utente: %1$s</string>
     <string name="screensaver_settings_button">Impostazioni</string>
     <string name="screensaver_settings_disabled_prompt">Per controllare cosa succede quando il telefono è nella dock e/o in modalità sleep, attiva Daydream.</string>
     <string name="screensaver_settings_dream_start">Avvia desso</string>
-    <string name="screensaver_settings_summary_dock">Mentre è in dock</string>
-    <string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
-    <string name="screensaver_settings_summary_either_short">Either</string>
-    <string name="screensaver_settings_summary_sleep">While charging</string>
-    <string name="screensaver_settings_when_to_dream">When to daydream</string>
-    <string name="security_settings_billing_desc">This app may charge you money:</string>
-    <string name="security_settings_premium_sms_desc">Send premium SMS</string>
-    <string name="selinux_status">SELinux status</string>
-    <string name="selinux_status_disabled">Disabled</string>
+    <string name="screensaver_settings_summary_dock">Mentre è nella dock</string>
+    <string name="screensaver_settings_summary_either_long">Quando è nella dock o addormentato ed in carica</string>
+    <string name="screensaver_settings_summary_either_short">Entrambi</string>
+    <string name="screensaver_settings_summary_sleep">Mentre è in carica</string>
+    <string name="screensaver_settings_when_to_dream">Quando è attivo il daydream</string>
+    <string name="security_settings_billing_desc">Quest'app potrebbe comportare dei costi:</string>
+    <string name="security_settings_premium_sms_desc">Invia SMS premium</string>
+    <string name="selinux_status">Stato SELinux</string>
+    <string name="selinux_status_disabled">Disabilitato</string>
     <string name="selinux_status_enforcing">Enforcing</string>
     <string name="selinux_status_permissive">Permissive</string>
-    <string name="show_dev_already">No need, you are already a developer.</string>
-    <string name="show_dev_on">You are now a developer!</string>
-    <string name="show_hw_layers_updates">Show hardware layers updates</string>
-    <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
-    <string name="show_hw_overdraw">Show GPU overdraw</string>
-    <string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
-    <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
+    <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
+    <string name="show_dev_on">Adesso sei uno sviluppatore!</string>
+    <string name="show_hw_layers_updates">Aggiornamenti livelli hardware</string>
+    <string name="show_hw_layers_updates_summary">Lampeggia verde se aggiornamenti hardware</string>
+    <string name="show_hw_overdraw">Mostra overdraw GPU</string>
+    <string name="show_hw_overdraw_summary">Dal migliore al peggiore: blu, verde, rosso chiaro, rosso</string>
+    <string name="show_user_info_on_lockscreen_label">Mostra informazioni utente nella lockscreen</string>
     <string name="status_latest_area_info">Informazioni operatore</string>
     <string name="storage_other_users">Altri utenti</string>
     <string name="uninstall_all_users_text">Disinstalla per tutti gli utenti</string>
@@ -2421,7 +2421,7 @@ This setting affects all users on this phone."</string>
 Dopo aver creato un nuovo utente, quell'utente dovrà eseguire un passaggio di configurazione.
 
 Ogni utente può accettare permessi di aggiornamento di applicazioni per conto anche di tutti gli altri utenti."</string>
-    <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
+    <string name="user_add_user_message_short">"Dopo aver creato un nuovo utente, è necessario andare direttamente al setup.
 
 Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per conto degli altri utenti."</string>
     <string name="user_add_user_title">Aggiungi nuovi utenti</string>

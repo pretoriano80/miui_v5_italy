@@ -258,6 +258,7 @@
     <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pano_review_saving_indication_str">Salvataggio...</string>
     <string name="tap_to_focus">Tocca per mettere a fuoco</string>
+    <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale".</string>
     <string name="pref_video_effect_default">nessuno</string>
     <string name="effect_none">Nessuno</string>
     <string name="effect_goofy_face_squeeze">Spremi</string>
@@ -491,6 +492,8 @@ ed esci dall'inquadratura"</string>
     <string name="secure_access_web_url">Accesso web sicuro</string>
     <string name="download_by_browser">Scaric con il browaser</string>
     <string name="launch_market">Lancia PlayStore</string>
+    <string name="launch_wechat">Lancia WeChat</string>
+    <string name="download_wechat">Scarica WeChat</string>
     <string name="see_app_details">Dettagli applicazione</string>
     <string name="copy_text">Copia testo</string>
     <string name="copy_text_success">Testo copiato correttamente</string>
@@ -507,9 +510,17 @@ ed esci dall'inquadratura"</string>
     <string name="success_message_import_from_account">Importato correttaemnte</string>
     <string name="web_url_warning">Il sito web aperto con il QR code potrebbe essere pericoloso, il browser MIUI eseguirà un controllo del QR code per te.</string>
     <string name="web_url_apk_warning">"Il QR code selezionato contiene un'applicazione potenzialmente dannosa, cerca quasta applicazione all'interno del PlayStore"</string>
+    <string name="pref_camera_watermark_title">Aggiungi data</string>
+    <string name="pref_camera_watermark_entry_off">Disattvato</string>
+    <string name="pref_camera_watermark_entry_on">Attivato</string>
+    <string name="pref_camera_watermark_default">Off</string>
+    <string name="pref_camera_watermark_entryvalue_off">Off</string>
+    <string name="pref_camera_watermark_entryvalue_on">On</string>
     <string name="cannot_connect_camera">Impossibile collegarsi alla fotocamera</string>
+    <string name="find_weixin_qrcode">Troca QR code weixin</string>
     <string name="open">Si</string>
     <string name="skip">No</string>
+    <string name="weixin_details">"Dettagli weixin: "</string>
     <string name="pref_camera_id_entry_back">Retro</string>
     <string name="pref_camera_id_entry_front">Frontale</string>
     <string name="pref_camera_picturesize_entry_1024x768">8 Megapixel</string>
