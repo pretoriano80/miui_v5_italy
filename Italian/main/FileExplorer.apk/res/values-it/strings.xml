@@ -228,6 +228,7 @@
     <string name="bind_account_summary">Se hai già un account KuaiPan puoi aggiungerlo per recuperare i tuoi dati</string>
     <string name="binded_accout_title">Account KuaiPan</string>
     <string name="binded_accout_description">Account collegati, utilizza il tuo account Xiaomi o quello KuaiPan per accedere, entrambi possono accedere ai tuoi dati</string>
+    <string name="file_cleanup">Pulizia file</string>
     <string name="scanning_on_going">Scansione...</string>
     <string name="scanning" formatted="false">Scansione %d app ... (totale %d app)</string>
     <string name="sys_size_title">Spazio totale</string>
@@ -246,6 +247,10 @@
     <string name="waiting_for_cleaning">In attesa della pulizia</string>
     <string name="item_name">Nessun nome</string>
     <string name="waiting_for_scanning">In attesa della scansione</string>
+    <string name="scanned">Scansione completata</string>
+    <string name="cleaning">Pulizia in corso...</string>
+    <string name="cleaned">Pulizia completata</string>
+    <string name="cleanup_stopped">Pulizia interotta</string>
     <string name="temp_file_title">File temporanei</string>
     <string name="thumbnail_title">File di anteprima</string>
     <string name="app_cache_title">Cache app</string>
@@ -267,6 +272,8 @@
     <string name="give_up_cleaning">Annulla pulizia</string>
     <string name="restart_cleaning">Riavvia</string>
     <string name="cleanup_complete">Pulizia completata</string>
+    <string name="count_down_time">SAvvia dopo %d secondi</string>
+    <string name="cancel_with_count_down">Annulla (%d)</string>
     <string name="garbage_size_metric">"%s
 Spazzatura"</string>
     <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>

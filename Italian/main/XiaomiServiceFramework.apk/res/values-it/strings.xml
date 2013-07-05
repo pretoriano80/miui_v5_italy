@@ -2,6 +2,7 @@
 <resources>
     <string name="xmpp_server_addr" />
     <string name="app_name">Servizi Xiaomi</string>
+    <string name="show_password">Mostra password</string>
     <string name="account">Account</string>
     <string name="account_hint_text">Email/Numero di telefono</string>
     <string name="login">Accedi</string>
@@ -25,11 +26,21 @@
     <string name="micloud_password_confirm_hint">Conferma password</string>
     <string name="micloud_password_req_notice">8~16 caratteri, contenente numeri, lettere, maiuscole e minuscole</string>
     <string name="micloud_password_error_inconsistent">Password non corrispondente</string>
+    <string name="micloud_active_alert_title">Attiva il tuo account</string>
     <string name="micloud_via_sms_alert">Ti verrà inviato un SMS per convalidare il tuo numero di telefono, continuare?</string>
     <string name="micloud_via_int_sms_alert">Verrà inviato un SMS dal tuo telefono applicando le tariffe previste dal tuo operatore. Continuare ?</string>
     <string name="micloud_error_email">Email non valida</string>
-    <string name="micloud_account">Account Xiaomi</string>
-    <string name="micloud_activing_account">Attivazione account in corso...</string>
+    <string name="micloud_account">XiaoMi account</string>
+    <string name="micloud_activing_account">Attivazione account</string>
+    <string name="micloud_activing_account_delayed">"Il tempo di attivazione è di circa 30 secondi.
+Nel frattempo tu puoi fare qualcos'altro..."</string>
+    <string name="micloud_activing_account_failed">Impossibile attivare il tuo account</string>
+    <string name="micloud_activating_account_notify_title">Attivazione account in corso...</string>
+    <string name="micloud_activate_account_success_notify_title">Xiaomi account attivato con successo</string>
+    <string name="micloud_activate_account_fail_notify_title">Impossibile attivar eil tuo account Xiaomi</string>
+    <string name="micloud_activating_account_notify_info">Stai attivando il tuo account Xiaomi</string>
+    <string name="micloud_activate_back_btn">Annulla</string>
+    <string name="micloud_activate_retry_btn">"Riprova l'attivazione"</string>
     <string name="micloud_account_not_actived">"L'account non è stato attivato"</string>
     <string name="micloud_active_email_visit">Visita %s</string>
     <string name="micloud_click_email_to_valid">Fare clic sul link di attivazione nel messaggio inviato alla tua casella di posta</string>
@@ -47,6 +58,8 @@
     <string name="reg_by_email_failure">Registrazione fallita: %1$s</string>
     <string name="unactivated_user">Disattivato</string>
     <string name="reg_failed">Registrazione fallita</string>
+    <string name="login_instead_reg">Accedi utilizzando questo numero di telefono</string>
+    <string name="get_back_pwd">Recupera password account</string>
     <string name="login_failed">Accesso fallito</string>
     <string name="error_network">Problemi con connessione di rete</string>
     <string name="error_dup_phone">Il telefono è stato registrato</string>
@@ -72,6 +85,8 @@
     <string name="failed_to_send_activate_email">Invio Email di attivazione fallito</string>
     <string name="access_denied">Accesso negato</string>
     <string name="reging">Registrazione in corso, attendere prego...</string>
+    <string name="reg_success">Registrazione completata</string>
+    <string name="reg_success_summary">Il tuo numero %1$s è già assegnato a MiLock, puoi utilizzarlo per accedere e recuperare la password.</string>
     <string name="sync_on">On</string>
     <string name="sync_off">Off</string>
     <string name="btn_activate">Attivare</string>
@@ -95,14 +110,22 @@
     <string name="i_know">OK</string>
     <string name="find_device_disabled_title">Localizzazione terminale disabilitata</string>
     <string name="find_device_disabled_notice">Puoi riaprire Trova il Tuo Telefono da Impostazioni -> Account e Sinc.-> xiaomi account</string>
-    <string name="user_agreement_p1">Accedendo accetti\u0020</string>
+    <string name="activate_phone_send_sms_fail">Impossibile inviare SMS di attivazione, impossibile aprire i servizi di sincronizzazione</string>
+    <string name="activate_phone_server_error">Errore server，impossibile aprire il servizio di sincronizzazione</string>
+    <string name="activate_phone_failed_notif_title">Impossibile attivare il servizio MiCloud</string>
+    <string name="activate_phone_send_sms_failed_notif">Impossibile inviare SMS di attivazione</string>
+    <string name="activate_phone_server_error_notif">Errore del server</string>
+    <string name="user_agreement_p1">"Accedendo accetti\u0020
+"</string>
     <string name="user_agreement_p2">Termini e Condizioni del servizio Xiaomi</string>
     <string name="user_agreement_p3"> e </string>
     <string name="user_agreement_p4">la Regolamentazione sulla Privacy</string>
-    <string name="user_agreement_p5">Iscrivendoti, accetti</string>
+    <string name="user_agreement_p5">"Iscrivendoti, accetti
+"</string>
     <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
     <string name="skip_setup_account_msg">Con il tuo account Xiaomi puoi sincronizzare le tue foto, i tuoi sms, le tue chiamate, le tue note etc. Continuare ed impostarlo più tardi?</string>
-    <string name="account_dspt">"L'Account Xiaomi può sincronizzare e salvare i tuoi messaggi, contatti, immagini, etc"</string>
+    <string name="account_dspt">"L'Account Xiaomi può sincronizzare e salvare i tuoi messaggi, contatti,
+immagini, etc"</string>
     <string name="remove_unactivated_account_notice">"L'account Xiaomi non è attivato, rimuoverlo adesso ?"</string>
     <string name="remove_confirm">Elimina</string>
     <string name="find_password_on_web_msg">Visita account.xiaomi.com per recuperare la password</string>
@@ -146,7 +169,8 @@
     <string name="error_frozen_title">Account bloccato!</string>
     <string name="error_frozen_summary">Il tuo account è stato bloccato</string>
     <string name="error_account_changed_title">Account aggiornato</string>
-    <string name="error_account_changed_summary">Il tuo account Xiaomi è stato aggiornato. Controlla i dettagli e prova di nuovo</string>
+    <string name="error_account_changed_summary">"Il tuo account Xiaomi è stato aggiornato.
+Controlla i dettagli e prova di nuovo"</string>
     <string name="error_giftcard_summary">Impossibile recuperare infrmazioni carta regalo</string>
     <string name="title_recharge">Ricarica Crediti MI</string>
     <string name="title_pay">Paga con Crediti MI</string>
@@ -261,6 +285,31 @@ sarà impossibile utilizzarli se scaduti"</string>
     <string name="update_contacts_description">Aggiorna i tuoi contatti ed altre informazioni</string>
     <string name="updated_contacts">%s contatti aggiornati</string>
     <string name="process_result">Risultato:</string>
-    <string name="account_detail">Account Xiaomi: %1$s</string>
+    <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
+    <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
+    <string name="service_error">Service error</string>
+    <string name="enable_micloud">Enable cloud services</string>
+    <string name="micloud_summary">Login to Xiaomi account to sync Contacts, Gallery Albums and other functions.</string>
+    <string name="micloud_is_what">What is MiCloud?</string>
+    <string name="available_functionality">Available functions</string>
+    <string name="internet_message">MiCloud messaging</string>
+    <string name="micloud_more">Learn more</string>
+    <string name="internet_comm">Messaging services</string>
+    <string name="cloud_messaging">MiCloud messaging</string>
+    <string name="xiaomi_cloud_service">MiCloud</string>
+    <string name="current_account">Current account</string>
+    <string name="my_xiaomi_account">My current Xiaomi account</string>
+    <string name="micloud_intro_01_part_01">Save on SMS costs</string>
+    <string name="micloud_intro_01_part_02">MIUI allows you to send free cloud messaging via the network</string>
+    <string name="micloud_intro_02_part_01">Don’t need to do anything</string>
+    <string name="micloud_intro_02_part_02">Cloud services helps you sync up contacts, messages, photos and other data on to various mobile devices.</string>
+    <string name="micloud_intro_03_part_01">Never lose your data again and ensure that contents are secure</string>
+    <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
+    <string name="micloud_dspt">Cloud services include MiCloud messaging, mobile sync, locating device and other features. You can also manage your data online at any time!</string>
+    <string name="start_micloud">Start</string>
+    <string name="account_detail">"Account Xiaomi: 
+%1$s"</string>
     <string name="memu_refresh">Aggiorna</string>
+    <string name="micloud_proceed">Continua</string>
+    <string name="disable_micloud">&lt;u>Non abilitare MiCloud&lt;/u></string>
 </resources>

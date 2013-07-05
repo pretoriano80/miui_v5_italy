@@ -2399,7 +2399,7 @@ Questa impostazione avrà effetto su tutti gli utenti del telefono."</string>
     <string name="screensaver_settings_summary_either_short">Entrambi</string>
     <string name="screensaver_settings_summary_sleep">Mentre è in carica</string>
     <string name="screensaver_settings_when_to_dream">Quando è attivo il daydream</string>
-    <string name="security_settings_billing_desc">Quest'app potrebbe comportare dei costi:</string>
+    <string name="security_settings_billing_desc">"Quest'app potrebbe comportare dei costi:"</string>
     <string name="security_settings_premium_sms_desc">Invia SMS premium</string>
     <string name="selinux_status">Stato SELinux</string>
     <string name="selinux_status_disabled">Disabilitato</string>

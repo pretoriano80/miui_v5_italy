@@ -76,6 +76,8 @@
     <string name="notify_alarm_action_mute">Silenzia</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine!</string>
     <string name="toast_privacy_mode">Impossibile modificare le note in modalità Guard</string>
+    <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perchè troppo lungo.</string>
+    <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
     <string name="snippet_image_stub">[Image]</string>
     <string name="snippet_image_template">[Image %1$s]</string>
     <string name="select_account_prompt">Abilita sincronizzazione note</string>

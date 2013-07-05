@@ -27,12 +27,12 @@
     <string name="theme_component_title_ringtone">Suonerie</string>
     <string name="theme_component_title_notification">Notifiche</string>
     <string name="theme_component_title_alarm">Suonerie Sveglia</string>
-	<string name="theme_component_title_alarmstyle">Stili sveglia</string>
     <string name="theme_component_title_contact">Tastiere Telefono</string>
     <string name="theme_component_title_lockstyle">Lockscreen</string>
     <string name="theme_component_title_statusbar">Barre di stato</string>
     <string name="theme_component_title_launcher">Pagine home</string>
     <string name="theme_component_title_audio_effect">Effetti Audio</string>
+    <string name="theme_component_title_alarmstyle">Stili sveglia</string>
     <string name="theme_component_title_clock">Orologi</string>
     <string name="theme_component_title_photo_frame">Cornici</string>
     <string name="theme_component_title_others">Altro</string>
@@ -89,6 +89,7 @@
     <string name="theme_import_item_not_upgraded">Non aggiornato</string>
     <string name="theme_import_item_waiting">In attesa</string>
     <string name="theme_import_item_importing">Aggiornamento in corso…</string>
+    <string name="theme_import_item_not_exist">Elemento non esistente</string>
     <string name="theme_import_item_delete_request_title">Tema non aggiornato</string>
     <string name="theme_import_item_delete_request_content">Il tema non è stato aggiornato, puoi utilizzarlo dopo averlo aggiornato oppure puoi eliminarlo.</string>
     <string name="theme_import_item_delete_request_button">Elimina</string>
@@ -98,6 +99,14 @@
     <string name="theme_import_new_download">Importazione</string>
     <string name="theme_import_fail">Importazione di %1$s fallita</string>
     <string name="theme_import_data">Importazione dati tema</string>
+    <string name="theme_batch_has_update_text">%1$d temi hanno aggiornamenti disponibili</string>
+    <string name="theme_batch_updating_text">%1$d temi sono stati aggiornati</string>
+    <string name="theme_batch_update_all">Aggiorna tutto</string>
+    <string name="theme_batch_update_dlg_title">Aggiorna</string>
+    <string name="theme_batch_update_dlg_content">Vuoi aggiornare adesso?</string>
+    <string name="theme_current_using_has_update">Il tema attuale è stato aggiornato, premi qui per applicare</string>
+    <string name="theme_immediately_apply_tip">Il tema è stato aggiornato, applicare subito?</string>
+    <string name="theme_name">%1$s</string>
     <string name="resource_comment_sending">Invio commento...</string>
     <string name="resource_comment_upload_failed">Commento non salvato</string>
     <string name="resource_comment_upload_success">Commento inviato! Sarà visibile dopo la moderazione</string>
@@ -123,6 +132,7 @@
     <string name="menu_refresh">Aggiorna</string>
     <string name="mi_wallpaper_title">Sfondo MI</string>
     <string name="mi_wallpaper_loading">Caricamento Sfondo MI...</string>
+    <string name="restore_default_theme_alert">Potresti essere vittima della contraffazione di temi, cerca nel market dei temi o scarica di nuovo il tema.</string>
     <string name="resource_app_name">Gestione Crediti</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">Crediti MI</string>
@@ -146,9 +156,9 @@
     <string name="resource_title">Dettagli</string>
     <string name="resource_download">Download</string>
     <string name="resource_downloading">Download in corso</string>
+    <string name="resource_waiting_download">In attesa del download..</string>
     <string name="resource_apply">Applica</string>
     <string name="resource_update">Aggiorna</string>
-    <string name="restore_default_theme_alert">Potresti essere vittima di una contraffazione del tema, si prega di visitare il marketper acquistarne uno nuovo o scaricarlo nuovamente.</string>
     <string name="resource_select">Seleziona</string>
     <string name="resource_buy">Acquista</string>
     <string name="resource_importing">Importazione</string>
@@ -179,5 +189,6 @@
     <string name="resource_title_select_ringtone">Seleziona suoneria</string>
     <string name="resource_tip_select_ringtone">Nessuna suoneria selezionata</string>
     <string name="loading_resource_detail_info">Caricamento...</string>
+    <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="account_abnormal_state">"Irregolarità nelle informazioni dell'account, prova ad accedere di nuovo o riprova più tardi!"</string>
 </resources>

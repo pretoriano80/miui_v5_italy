@@ -120,6 +120,8 @@
     <string name="menu_set_ring_tone">Imposta suoneria</string>
     <string name="menu_redirect_calls_to_vm">Tutte le chiamate su mail vocale</string>
     <string name="menu_not_redirect_calls_to_vm">Segreteria non utilizzata</string>
+    <string name="redirect_calls_to_vm_confirm_message">Se non hai fatto richiesta di un servizio per questo, non attivare. Altrimenti potresti non essere in grado di ricevere chiamate da questo contatto.</string>
+    <string name="redirect_calls_to_vm_confirm_text">Attiva</string> 
     <string name="readOnlyContactWarning">Non puoi eliminare contatti di account di sola lettura, ma puoi nasconderli nei tuoi elenchi di contatti.</string>
     <string name="readOnlyContactDeleteConfirmation">Il contatto contiene informazioni da più account. Le informazioni provenienti da account di sola lettura verranno nascoste nei tuoi elenchi di contatti, non eliminate.</string>
     <string name="multipleContactDeleteConfirmation">"L'eliminazione di questo contatto causerà l'eliminazione di informazioni da più account."</string>
@@ -776,6 +778,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="default_ringtone">Suoneria predefinita</string>
     <string name="recent_number">Recente</string>
     <string name="cloud_antispam_mark">Spam</string>
+    <string name="antispam_mark_my_contribution">Il mio contributo nel database</string>
+    <string name="antispam_provider_format">Questa segnalazione è inviata da %s</string>
     <string name="menu_new_favorite_action_bar">Nuovo</string>
     <string name="click_close">Tocca lo schermo per chiudere</string>
     <string name="phone_primary">Principale</string>
@@ -785,6 +789,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="menu_bar_group_ringtone">Suoneria gruppo</string>
     <string name="menu_bar_group_rename">Rinomina</string>
     <string name="menu_bar_group_delete">Elimina</string>
+    <string name="menu_bar_group_ringtone_largeui">Suoneria</string>
     <string name="group_rename_dialog_title">Rinomina gruppo</string>
     <string name="group_sms_progress_msg">Preparazione SMS di gruppo…</string>
     <string name="group_create_success_toast">Gruppo creato correttamente</string>
@@ -893,12 +898,17 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="device_import_done_toast">%1$d contatti importati</string>
     <string name="device_import_progress_toast">%1$d contatti appena importati</string>
     <string name="no_contact_in_other_phone">Nessun contatto nel telefono</string>
+    <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Importa contatti sina weibo</string>
     <string name="import_weibo_fetch_followers">Recupero follower Sina Weibo…</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
-    <string name="import_weibo_notification_title">Importazione contatti sina weibo…</string>
-    <string name="import_weibo_notification_title_done">Importazione contatti sina weibo completata</string>
+    <string name="import_weibo_notification_title_done">Importazione completata</string>
+    <string name="import_weibo_error_no_xiaomi_phone">"Problema aggiornamento contatti: nessun numero di telefono trovato all'interno dell'account Xiaomi"</string>
+    <string name="import_weibo_error_no_matched_contacts">Problema aggiornamento contatti: nessun contatto corrispondente</string>
+    <string name="import_weibo_error_no_network">Problema aggiornamento contatti: problemi di rete</string>
+    <string name="import_weibo_error_user_cancel">Problema aggiornamento contatti: utente uscito</string>
+    <string name="import_weibo_error_unknown">Problema aggiornamento contatti: errore sconosciuto</string>
     <string name="add_xiaomi_account_dialog_title">Seleziona account</string>
     <string name="add_xiaomi_account_dialog_msg">"Per un'esperienza ottimale, puoi usare il tuo account Xiaomi per sincronizzare ed eseguire il backup dei contatti e gestirli dal tuo computer."</string>
     <string name="add_xiaomi_account_dialog_btn">Utilizza account Xiaomi</string>
@@ -910,6 +920,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="starred_contacts">Preferiti</string>
     <string name="other_contacts">Altri</string>
     <string name="set_photo_failed_msg">Impossibile impotare avatar</string>
-	<string name="redirect_calls_to_vm_confirm_message">Se non hai fatto richiesta di un servizio per questo, non attivare. Altrimenti potresti non essere in grado di ricevere chiamate da questo contatto.</string>
-    <string name="redirect_calls_to_vm_confirm_text">Attiva</string> 
+    <string name="contact_is_readOnly">Impossibile modificare contatti di sola lettura</string>
+    <string name="profile_name">Il mio profilo</string>
+    <string name="import_weibo_notification_title">Importazione contatti Sina Weibo</string>
 </resources>

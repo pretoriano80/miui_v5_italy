@@ -486,7 +486,6 @@ ed esci dall'inquadratura"</string>
     <string name="app_details">Dettagli app:</string>
     <string name="website_details">"Dettagli sito: "</string>
     <string name="contact_details">Dettagli contatto:</string>
-    <string name="weixin_details">"Dettagli weixin: "</string>
     <string name="qr_code_details">"dettagli QR code: "</string>
     <string name="import_contact">Importa contatto</string>
     <string name="secure_access_web_url">Accesso web sicuro</string>
@@ -517,11 +516,9 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_watermark_entryvalue_off">Off</string>
     <string name="pref_camera_watermark_entryvalue_on">On</string>
     <string name="cannot_connect_camera">Impossibile collegarsi alla fotocamera</string>
-    <string name="find_weixin_qrcode">Troca QR code weixin</string>
     <string name="open">Si</string>
     <string name="skip">No</string>
     <string name="weixin_details">"Dettagli weixin: "</string>
-    <string name="pref_camera_id_entry_back">Retro</string>
     <string name="pref_camera_id_entry_front">Frontale</string>
     <string name="pref_camera_picturesize_entry_1024x768">8 Megapixel</string>
     <string name="enter_expert_mode_title">Modalità professionale</string>
