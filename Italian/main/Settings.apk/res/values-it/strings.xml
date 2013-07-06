@@ -1525,7 +1525,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="enable_traces_title">Abilita tracce</string>
     <string name="enable_traces_dialog_title">Seleziona tracce abilitate</string>
     <string name="enable_traces_summary_none">Nessuna traccia abilitata</string>
-    <string name="enable_traces_summary_num">%1$d tracce abilitate</string>
+    <string name="enable_traces_summary_num">Tracce abilitate: %1$d</string>
     <string name="enable_traces_summary_all">Tutte le tracce abilitate</string>
     <string name="debug_layout">Mostra bordi layout</string>
     <string name="debug_layout_summary">Mostra bordi, margini, etc.</string>

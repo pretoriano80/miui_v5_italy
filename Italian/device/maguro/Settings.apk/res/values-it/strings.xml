@@ -292,7 +292,7 @@
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare nella lockscreen</string>
+    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare in lockscreen</string>
     <string name="location_settings_title">Servizi di localizzazione</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
@@ -497,7 +497,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_empty_list_wifi_off">Per conoscere le reti disponibili, attiva il Wi-Fi.</string>
     <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi…</string>
     <string name="wifi_other_network">Altra rete…</string>
-    <string name="wifi_more">Altro</string>
+    <string name="wifi_more">More</string>
     <string name="wifi_setup_wps">Configurazione automatica (WPS)</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Impostazione WPS</string>
@@ -1525,7 +1525,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="enable_traces_title">Abilita tracce</string>
     <string name="enable_traces_dialog_title">Seleziona tracce abilitate</string>
     <string name="enable_traces_summary_none">Nessuna traccia abilitata</string>
-    <string name="enable_traces_summary_num">%1$d tracce abilitate</string>
+    <string name="enable_traces_summary_num">Tracce abilitate: %1$d</string>
     <string name="enable_traces_summary_all">Tutte le tracce abilitate</string>
     <string name="debug_layout">Mostra bordi layout</string>
     <string name="debug_layout_summary">Mostra bordi, margini, etc.</string>
@@ -2461,7 +2461,7 @@ Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per co
     <string name="wifi_display_options_forget">Non memorizzare</string>
     <string name="wifi_display_options_name">Nome</string>
     <string name="wifi_display_options_title">Opzioni Wi-Fi Display</string>
-    <string name="wifi_display_paired_devices">accoppia schermi</string>
+    <string name="wifi_display_paired_devices">Accoppia schermi</string>
     <string name="wifi_display_search_for_devices">Ricerca schermi</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wi-Fi display è disabilitato perchè la connessione Wi-Fi non è attiva.</string>
