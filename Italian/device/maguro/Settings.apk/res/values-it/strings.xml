@@ -497,7 +497,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_empty_list_wifi_off">Per conoscere le reti disponibili, attiva il Wi-Fi.</string>
     <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi…</string>
     <string name="wifi_other_network">Altra rete…</string>
-    <string name="wifi_more">More</string>
+    <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione automatica (WPS)</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Impostazione WPS</string>

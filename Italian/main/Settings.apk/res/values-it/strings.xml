@@ -2461,7 +2461,7 @@ Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per co
     <string name="wifi_display_options_forget">Non memorizzare</string>
     <string name="wifi_display_options_name">Nome</string>
     <string name="wifi_display_options_title">Opzioni Wi-Fi Display</string>
-    <string name="wifi_display_paired_devices">accoppia schermi</string>
+    <string name="wifi_display_paired_devices">Accoppia schermi</string>
     <string name="wifi_display_search_for_devices">Ricerca schermi</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wi-Fi display è disabilitato perchè la connessione Wi-Fi non è attiva.</string>
