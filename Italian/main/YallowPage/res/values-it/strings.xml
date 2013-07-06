@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">YPagine Gialle</string>
+    <string name="app_label">Pagine Gialle</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="check_network">Mostra impostazioni di rete</string>
     <string name="try_again">Prova di nuovo</string>
