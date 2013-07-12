@@ -67,5 +67,6 @@
     <string name="preference_record_type_title">Tipo di registrazione</string>
     <string name="preference_record_type_dialog_title">Seleziona un tipo di registrazione</string>
     <string name="preference_silent_mode">Registrazione silenzioa</string>
+    <string name="error_filename_too_long">Nome file troppo lungo</string>
     <string name="preference_silent_mode_summary">Impostalal registrazione silenzioa</string>
 </resources>

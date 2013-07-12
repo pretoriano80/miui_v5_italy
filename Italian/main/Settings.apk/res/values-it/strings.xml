@@ -1912,6 +1912,7 @@ Consentire l'avvio automatico?"</string>
     <string name="device_cpu4_info">"Quad-Core "</string>
     <string name="available_size">%s disponibili</string>
     <string name="total_size">%s (totali)</string>
+    <string name="memory_title">Disponibile %1$s\u0009\u0009Totale %2$s</string>
     <string name="xiaomi_account">Account Xiaomi</string>
     <string name="sync_settings">Account e sinc.</string>
     <string name="sms_received_sound_title">Suono SMS ricevuto</string>

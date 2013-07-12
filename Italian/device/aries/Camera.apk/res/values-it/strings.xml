@@ -352,10 +352,9 @@ ed esci dall'inquadratura"</string>
     <string name="pref_grp_advanced_settings">Impostazioni avanzate</string>
     <string name="pref_grp_restore_settings">Ripristina Impostazioni</string>
     <string name="pref_camera_settings_title">Impostazioni</string>
-    <string name="pref_video_continuous_focus">Fuoco continuo</string>
-    <string name="pref_video_continuous_focus_entry_off">Off</string>
-    <string name="pref_video_continuous_focus_entry_on">On</string>
-    <string name="pref_video_continuous_focus_entryvalue_default">caf-off</string>
+    <string name="pref_video_focusmode_title">Modalità fuoco</string>
+    <string name="pref_video_focusmode_entry_continuous">CAF</string>
+    <string name="pref_video_focusmode_entry_auto">Tocca</string>
     <string name="pref_camera_referenceline_entry_off">Off</string>
     <string name="pref_camera_referenceline_entry_on">On</string>
     <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
@@ -486,6 +485,7 @@ ed esci dall'inquadratura"</string>
     <string name="app_details">Dettagli app:</string>
     <string name="website_details">"Dettagli sito: "</string>
     <string name="contact_details">Dettagli contatto:</string>
+    <string name="wechat_details">WeChat details:</string>
     <string name="qr_code_details">"dettagli QR code: "</string>
     <string name="import_contact">Importa contatto</string>
     <string name="secure_access_web_url">Accesso web sicuro</string>
@@ -516,7 +516,12 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_watermark_entryvalue_off">Off</string>
     <string name="pref_camera_watermark_entryvalue_on">On</string>
     <string name="cannot_connect_camera">Impossibile collegarsi alla fotocamera</string>
+    <string name="find_weixin_qrcode">Find weixin QR code</string>
     <string name="open">Si</string>
+    <string name="pref_video_continuous_focus">Fuoo continuo</string>
+    <string name="pref_video_continuous_focus_entry_off">Didattivato</string>
+    <string name="pref_video_continuous_focus_entry_on">Attivato</string>
+    <string name="pref_video_continuous_focus_entryvalue_default">caf-off</string>
     <string name="skip">No</string>
     <string name="weixin_details">"Dettagli weixin: "</string>
     <string name="pref_camera_id_entry_front">Frontale</string>

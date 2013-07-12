@@ -75,6 +75,7 @@
     <string name="internal_build">Build Interna</string>
     <string name="top_secret_build">Bbuild Segreta</string>
     <string name="stable_build">Build Stabile</string>
+    <string name="unstable_build">Build Non Stabile</string>
     <string name="about_device">Informazioni</string>
     <string name="emegency_build">Build:</string>
     <string name="wifi_not_available_title">Wi-Fi non connessa</string>
