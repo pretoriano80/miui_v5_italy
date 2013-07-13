@@ -182,9 +182,6 @@ Nel frattempo tu puoi fare qualcos'altro..."</string>
     <string name="recharge_voucher_title">Voucher Crediti MI</string>
     <string name="recharge_voucher_summary">Ricarica con voucher</string>
     <string name="recharge_hint">1 RMB equivale a 1 Credito MI</string>
-    <string name="title_prepaid">Ricarica con carta</string>
-    <string name="title_paytool">Ricarica con %1$s</string>
-    <string name="title_voucher">Ricarica usando Voucher per Crediti MI</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
     <string name="recharge_denomination">%1$s RMB</string>
@@ -194,7 +191,6 @@ Nel frattempo tu puoi fare qualcos'altro..."</string>
     <string name="btn_recharge_success">Ricarica completata</string>
     <string name="btn_recharge_success_quick">Ricarica veloce completata</string>
     <string name="paytool_error_install">Installazione plugin sicurezza mobile %1$s fallita</string>
-    <string name="paytool_error_denomination">Inserire il totale della ricarica in modo corretto</string>
     <string name="paytool_error_msp">Aggiunta della nuova ricarica %1$s fallita</string>
     <string name="paytool_msp_not_installed">Plugin sicurezza mobile %1$s non installato, installare adesso?</string>
     <string name="progress_paytool_creating">Generazione richiesta %1$s...</string>

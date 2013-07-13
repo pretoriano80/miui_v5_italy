@@ -44,6 +44,6 @@
     <string name="turn_on_smart_antispam_summary_off">Ricerca solo i numeri impostati localmente</string>
     <string name="agree">Acconsento</string>
     <string name="user_notice_identify_summary_format">"L'identificazione dei numeri sconosciuti è un servizio online, leggi %1$s e %2$s prima di utilizzarlo.</string>
-    <string name="user_notice_yp_detail_summary_format">Una parte delle informazioni di queste Pagine Gialle deve essere caricata oline, leggi %1$s e %2$s, premendo \"Acconsento\" dichiari di essere d'accordo con i contenuti sopra indicati e con quanto riportato all'interno dell'accordo, premi \"Annulla\" premi \"Annulla\" per vedere solo le informazioni della cache.</string>
+    <string name="user_notice_yp_detail_summary_format">"Una parte delle informazioni di queste Pagine Gialle deve essere caricata oline, leggi %1$s e %2$s, premendo \"Acconsento\" dichiari di essere d'accordo con i contenuti sopra indicati e con quanto riportato all'interno dell'accordo, premi \"Annulla\" premi \"Annulla\" per vedere solo le informazioni della cache."</string>
     <string name="title_about_yellow_page">Informazioni</string>
 </resources>
