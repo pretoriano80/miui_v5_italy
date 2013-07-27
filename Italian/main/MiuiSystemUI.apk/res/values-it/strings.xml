@@ -253,6 +253,9 @@
     <string name="mdb_entering">Avvio</string>
     <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
     <string name="status_bar_recording_pause">La registrazione è stata messa in pausa.</string>
+    <string name="headset_settings">Cuffie collegate</string>
+    <string name="headset_info">Personalizza tasto funzioni</string>
+    <string name="headset_custom">Personalizza</string>
     <string name="toast_rotation_locked">Schermo bloccato in landscape</string>
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">BT</string>

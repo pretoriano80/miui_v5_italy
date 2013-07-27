@@ -477,5 +477,7 @@
     <string name="minutes">%d minuti</string>
     <string name="shutdown_confirm_title">Sicuro di voler spegnere il telefono?</string>
     <string name="reboot_confirm_title">Sicuro di voler riavviare il telefono?</string>
+    <string name="err_resource_leak">Purtroppo %1$s è stato interrotto a causa di una mancanza di risorse.</string>
+    <string name="device_hongmi">Telefono Hongmi</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
 </resources>

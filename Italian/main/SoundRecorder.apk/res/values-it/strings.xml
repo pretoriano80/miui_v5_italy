@@ -68,5 +68,10 @@
     <string name="preference_record_type_dialog_title">Seleziona un tipo di registrazione</string>
     <string name="preference_silent_mode">Registrazione silenzioa</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
-    <string name="preference_silent_mode_summary">Impostalal registrazione silenzioa</string>
+    <string name="duration_format_hour">%sh</string>
+    <string name="duration_format_minute">%sm</string>
+    <string name="duration_format_second">%ss</string>
+    <string name="toast_max_record_time">App: %1$s tempo di registrazione massima %2$s</string>
+    <string name="message_file_size_error">La registrazione ha raggiunto il tempo massimo supportato da %s</string>
+    <string name="preference_silent_mode_summary">Imposta registrazione silenzioa</string>
 </resources>

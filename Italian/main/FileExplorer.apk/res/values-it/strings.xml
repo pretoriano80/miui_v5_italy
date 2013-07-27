@@ -173,6 +173,14 @@
     <string name="copy_failed">Impossibile copiare</string>
     <string name="delete_failed">Eliminazione fallita</string>
     <string name="toast_file_not_can_read">Il file non è leggibile.</string>
+    <string name="ui_main_menu_option_sign_in">Accedi</string>
+    <string name="sign_description">Accesso in corso...</string>
+    <string name="signin_error">Rete momentaneamente non disponibile, provare di nuovo</string>
+    <string name="signin_success">"Accesso effettuato!
+Ricevi spazio gratuito %1$s"</string>
+    <string name="already_signin_description">"Hai già effettuato l'accesso"</string>
+    <string name="pull_to_signin">Sposta in basso per accedere e ricevere spazio gratuito</string>
+    <string name="release_to_signin">Rilascia per accedere</string>
     <string name="server_control_settings">Opzioni</string>
     <string name="server_control_advanced_settings">Opzioni FTP</string>
     <string name="server_control_charset">Codifica trasferimento</string>

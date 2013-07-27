@@ -800,6 +800,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="contact_unfavorite_toast">Contatto cancellato dai Preferiti</string>
     <string name="group_member_remove_toast">Contatto rimosso dal gruppo</string>
     <string name="contact_delete_toast">Contatto eliminato</string>
+    <string name="duplicate_group_name">Nome gruppo già esistente</string>
     <string name="all_list_empty">Nessun contatto</string>
     <string name="favorites_list_empty">Nessun preferito</string>
     <string name="groups_list_empty">Nessun gruppo</string>
@@ -922,5 +923,24 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="set_photo_failed_msg">Impossibile impotare avatar</string>
     <string name="contact_is_readOnly">Impossibile modificare contatti di sola lettura</string>
     <string name="profile_name">Il mio profilo</string>
+    <string name="profile_name_photo">Io</string>
+    <string name="toast_copying">Copia in corso, attendere prego...</string>
+    <string name="toast_copy_done">Copia completata con successo</string>
+    <string name="activity_not_found_uri">Nessuna applicazione supportata!</string>
+    <string name="importing_sim_contacts_miui">Importazione contatti SIM...</string>
+    <string name="import_all_sim_entries_miui">Imports tutti i contatti</string>
+    <string name="import_sim_entry_miui">Importa da SIM</string>
+    <string name="delete_sim_entry_miui">Elimina contatti SIM</string>
+    <string name="simContacts_airplaneMode">Per importare contatti dalla tua SIM disattiva la modalità Aereo.</string>
+    <string name="readingSimContacts">Lettura informazioni SIM, attendere prego...</string>
+    <string name="confirm_delete_sim_entry_miui">Confermare eliminazione di %d contatti dalla SIM?</string>
+    <string name="simContacts_empty">Nessun contatto trovato su SIM.</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleziona tutto</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Seleziona tutto</string>
+    <string name="delete_selected_sim_entry_miui">Elimianre i contatti selezionati?</string>
+    <string name="import_selected_sim_entries_miui">Importa i contatti selezionati</string>
+    <string name="import_sim_entries_finish">Importazione contatti SIM completata correttamente</string>
+    <string name="delete_sim_entries_finish">i contatti SIM selezionati sono stati eliminati correttamente</string>
+    <string name="deleting_sim_entry_miui">Eliminazione contatti su SIM</string>
     <string name="import_weibo_notification_title">Importazione contatti Sina Weibo</string>
 </resources>

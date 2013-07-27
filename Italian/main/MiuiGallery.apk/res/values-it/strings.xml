@@ -248,6 +248,7 @@
     <string name="other_category">Altre impostazioni</string>
     <string name="show_hidden_album">Mostra album nascosti</string>
     <string name="auto_create_recent_album">Crea automaticamente album preferiti</string>
+    <string name="landscape_mode">Abilità modalità Landscape</string>
     <string name="auto_create_recent_album_over_ten_times">Crea automaticamente album preferiti quando un album viene aperto più di 10 volte</string>
     <string name="not_auto_create_recent_album">Non creare automaticamente album recenti</string>
     <string name="auto_create_recent_album_confirm">"Dopo la disattivazione di questa opzione, Galleria cancellerà i dati degli album recenti. Gli album recenti impostati dall'utente non verranno modificati. In alternativa, puoi impostarlo tramite long-press sull'album."</string>
@@ -286,7 +287,7 @@
     <string name="global_setting">Impostazioni</string>
     <string name="no_storage_disable_cloud_albums">Album cloud disabilitati; riprova quando lo spazio della memoria esterna sarà disponibile.</string>
     <string name="message_no_delete_access">Accesso negato. Impossibile eliminare file o cartella: %s</string>
-  <string name="message_no_delete_access_with_count">Impossibile eliminare %d file or cartella(e). Forse sono protetti/e.</string>
+    <string name="message_no_delete_access_with_count">Impossibile eliminare %d file or cartella(e). Forse sono protetti/e.</string>
     <string name="fail_init_gallery_db_helper">Applicazione chiusa, impossibile aprire il database della galleria; disco pieno.</string>
     <string name="crop_fail_to_load_image">"Impossibile caricare l'immagine da ritagliare".</string>
     <string name="error_should_not_select_image">Attenzione: non selezionare un file immagine.</string>
@@ -344,4 +345,21 @@
     <string name="kick_sharer_failed">Rimozione partecipante fallita</string>
     <string name="share_user_name">Nome</string>
     <string name="album_share_stat_content">Inviti di condivisione album</string>
+    <string name="album_share_kicked">Sei stato rimosso da %1$s</string>
+    <string name="album_share_title_new_album">Nuovo album condiviso</string>
+    <string name="album_share_subtitle_not_ready">Informazioni album non pronte. Premi per scaricare.</string>
+    <string name="album_share_subtitle_requesting">Download informazioni album...</string>
+    <string name="album_share_subtitle_invited">Condiviso da %1$s, accettare o ignorare?</string>
+    <string name="album_share_subtitle_normal">Condiviso da %1$s</string>
+    <string name="album_share_subtitle_accepting">Accettazione invito da %1$s...</string>
+    <string name="album_share_subtitle_denying">Ignoramento invito da %1$s...</string>
+    <string name="album_share_subtitle_quitting">Chiusura invito da %1$s...</string>
+    <string name="album_quota_fulfiled">"Impossibile creare l'album; è stato raggiunto il numero massimo.."</string>
+    <string name="image_quota_fulfiled">Impossibile creare immagine, è stato raggiunto il limite di spazio a disposizione.</string>
+    <string name="sharer_quota_fulfiled">"Impossibile aggiungere partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
+    <string name="gallery_setting">Impostazioni Galleria</string>
+    <string name="error_repeat_apply">Partecipi già alla condivisione di questo album</string>
+    <string name="error_invalid_link">"Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione".</string>
+    <string name="error_socket_timeout">Timout di rete, riprovare più tardi</string>
+    <string name="accept">Accetta</string>
 </resources>

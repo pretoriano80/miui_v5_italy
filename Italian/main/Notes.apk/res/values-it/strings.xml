@@ -55,6 +55,7 @@
     <string name="failed_sdcard_export">Esportaziopne fallita</string>
     <string name="format_exported_file_location">%1$s esportato nella cartella %2$s della scheda SD</string>
     <string name="error_unsupport_content">Nella nota è presente un contenuto non supportato, premi per aggiornare il sistema</string>
+    <string name="error_contact_not_exist">Contatto inesistente</string>
     <string name="preferences_title">Impostazioni</string>
     <string name="preferences_bg_random_appear_title">Colori delle note a caso</string>
     <string name="call_record_folder_name">Registro chiamate</string>
@@ -89,7 +90,12 @@
     <string name="pref_title_note_style">Stile note</string>
     <string name="pref_desc_mode_list">Lista</string>
     <string name="pref_desc_mode_grid">Griglia</string>
-    <string name="pref_title_data_export">Esportazione dati</string>
+    <string name="pref_title_common">Impostazioni frequenti</string>
+    <string name="pref_title_alarm_when_silent">Sveglia in modalità silenziona</string>
+    <string name="pref_desc_alarm_when_silent">La sveglia suonerà anche in modalità silenziosa</string>
     <string name="pref_title_data_export_to_sdcard">Esporta note su scheda SD</string>
+    <string name="dlg_title_confirm_alarm_silent">Vuoi che la svelia non suoni in modalità silenziosa?</string>
+    <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
     <string name="close">Chiudi</string>
+    <string name="pref_title_data_export">Esportazione dati</string>
 </resources>
