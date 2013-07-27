@@ -516,7 +516,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_watermark_entryvalue_off">Off</string>
     <string name="pref_camera_watermark_entryvalue_on">On</string>
     <string name="cannot_connect_camera">Impossibile collegarsi alla fotocamera</string>
-    <string name="find_weixin_qrcode">Find weixin QR code</string>
     <string name="open">Si</string>
     <string name="pref_video_continuous_focus">Fuoo continuo</string>
     <string name="pref_video_continuous_focus_entry_off">Didattivato</string>

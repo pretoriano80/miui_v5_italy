@@ -2292,7 +2292,7 @@ prova in questo modo:
     <string name="wps_connect_summary">Assicurati che il router possa gestire il protocollo WPS</string>
     <string name="retry">Riprova</string>
     <string name="brightness_auto_adjust_off">La luminosità manuale può esser regolata a tuo piacimento spostando lo slider. La luminosità dello schermo rimarrà costante in ogni schermata.</string>
-    <string name="brightness_auto_adjust_on">"L'effetto della regolazione automatica di luminosità può essere regolato spostando lo slider. La luminosità dello schermo varierà in base alla tua regolazione.</string>
+    <string name="brightness_auto_adjust_on">La luminosità automatica può essere regolata spostando lo slider. La luminosità dello schermo varierà in base alla tua regolazione.</string>
     <string name="private_sms_need_to_unlock">Inserire password SMS privati</string>
     <string name="private_sms_reset_by_account">Accedi al tuo account Xiaomi per ripristinare la password degli SMS privati</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza per creare la password di blocco</string>
