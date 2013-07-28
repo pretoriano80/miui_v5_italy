@@ -699,18 +699,10 @@
         <item>24,14,-20,6,12,16,8</item>
     </string-array>
     <string-array name="dolby_equalizer_preset_names">
-        <item>@string/dolby_eq_flat</item>
-        <item>@string/dolby_eq_rock</item>
-        <item>@string/dolby_eq_jazz</item>
-        <item>@string/dolby_eq_pop</item>
-        <item>@string/dolby_eq_classical</item>
-        <item>@string/dolby_eq_rb</item>
-        <item>@string/dolby_eq_hiphop</item>
-        <item>@string/dolby_eq_blues</item>
-        <item>@string/dolby_eq_electronic</item>
-        <item>@string/dolby_eq_country</item>
-        <item>@string/dolby_eq_dance</item>
-        <item>@string/dolby_eq_metal</item>
+        <item>@string/dolby_ieq_flat</item>
+        <item>@string/dolby_ieq_open</item>
+        <item>@string/dolby_ieq_rich</item>
+        <item>@string/dolby_ieq_focused</item>>
     </string-array>
     <string-array name="wfd_status">
         <item>Dispositico connesso, creazione sessione...</item>
