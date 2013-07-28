@@ -197,7 +197,7 @@ Riprova tra cinque minuti"</string>
     <string name="btn_recharge_success">Ricarica completata</string>
     <string name="btn_recharge_success_quick">Ricarica veloce completata</string>
     <string name="btn_prev">Indietro</string>
-    <string name="btn_next">Avanti/string>
+    <string name="btn_next">Avanti</string>
     <string name="recharge_grid_picker_hint">Selezionare il totale di Crediti MI</string>
     <string name="recharge_grid_edit_hint">Totale (RMB)</string>
     <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
