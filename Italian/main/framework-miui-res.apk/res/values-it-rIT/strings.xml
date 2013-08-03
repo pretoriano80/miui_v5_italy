@@ -255,7 +255,6 @@
     <string name="country_name_zw">ZW</string>
     <string name="day_of_month">" %d"</string>
     <string name="delete">Elimina</string>
-    <string name="double_seventh_day" />
     <string name="error_forbidden">Il tuo account riscontra alcuni problemi. Sincronizzazione disabilitata.</string>
     <string name="error_not_acceptable">Errore del server. Sincronizzazione disabilitata.</string>
     <string name="error_title">Errore sincronizzazione per %s</string>
@@ -479,5 +478,13 @@
     <string name="reboot_confirm_title">Sicuro di voler riavviare il telefono?</string>
     <string name="err_resource_leak">Purtroppo %1$s è stato interrotto a causa di una mancanza di risorse.</string>
     <string name="device_hongmi">Telefono Hongmi</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inseritto la tua password in modo sbagliato per %d volte. Dopo altri %d tentativi sbagliati, ti verrà richiesto di sbloccare il telefono con i dettagli del tuo account.
+
+Prova di nuovo tra %d secondi."</string>
+    <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+    <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+    <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+    <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+    <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
 </resources>

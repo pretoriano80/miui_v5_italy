@@ -130,8 +130,6 @@
     <string name="resource_comment_entry_tips">%1$s recensioni, premi per leggere</string>
     <string name="fail_to_add_account">Impossibile aggiungere account</string>
     <string name="menu_refresh">Aggiorna</string>
-    <string name="mi_wallpaper_title">Sfondo MI</string>
-    <string name="mi_wallpaper_loading">Caricamento Sfondo MI...</string>
     <string name="restore_default_theme_alert">Potresti essere vittima della contraffazione di temi, cerca nel market dei temi o scarica di nuovo il tema.</string>
     <string name="resource_app_name">Gestione Crediti</string>
     <string name="resource_price_free">Gratis</string>
@@ -157,6 +155,9 @@
     <string name="resource_download">Download</string>
     <string name="resource_downloading">Download in corso</string>
     <string name="resource_waiting_download">In attesa del download..</string>
+    <string name="resource_import_successful">Download completato.</string>
+    <string name="resource_delta_update_successful">Aggiornamento patch completato，risparmiati %1$s.</string>
+    <string name="resource_delta_update_failed">Aggiornamento patch fallito! Verrà scaricata la risorsa completa</string>
     <string name="resource_apply">Applica</string>
     <string name="resource_update">Aggiorna</string>
     <string name="resource_select">Seleziona</string>
@@ -185,10 +186,13 @@
     <string name="resource_get_auth_exceed_max_limit_tips">"Il tema non può essere avviato sul dispositivo con questo account che consente l'utilizzo fino a 10 terminali l'anno.Prova ad utilizzare un altro account Xiaomi."</string>
     <string name="resource_server_out_of_service">Fuori servizio, riprovare più tardi.</string>
     <string name="resource_switch_account">Cambia</string>
-    <string name="processing">Elaborazione ...</string>
+    <string name="deleting">Eliminazione...</string>
     <string name="resource_title_select_ringtone">Seleziona suoneria</string>
     <string name="resource_tip_select_ringtone">Nessuna suoneria selezionata</string>
     <string name="loading_resource_detail_info">Caricamento...</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="account_abnormal_state">"Irregolarità nelle informazioni dell'account, prova ad accedere di nuovo o riprova più tardi!"</string>
+    <string name="mi_wallpaper_loading">Caricamento Sfondo MI...</string>
+    <string name="mi_wallpaper_title">Sfondo MI</string>
+    <string name="processing">Elaborazione ...</string>
 </resources>

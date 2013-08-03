@@ -123,6 +123,10 @@
     <string name="confirm_delete_group_message">I messaggi di gruppo verranno eliminati.</string>
     <string name="confirm_delete_message">Il messaggio verrà eliminato.</string>
     <string name="confirm_delete_locked_message">Eliminare questo messaggio bloccato?</string>
+    <string name="confirm_no_block_title">Non bloccare numero e ripristinare tutti i messaggi?</string>
+    <string name="confirm_no_block_positive">Non bloccare e rpristina</string>
+    <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>
+    <string name="confirm_restore_positive">Ripristina</string>
     <string name="delete_unlocked">Elimina messaggi bloccati</string>
     <string name="delete">Elimina</string>
     <string name="stick">Evidenzia</string>
@@ -296,7 +300,7 @@
     <string name="phrase_from">Da %1s</string>
     <string name="phrase_empty">Nessuna anteprima</string>
     <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
-    <string name="pref_summary_notification_body_enabled">Messaggi odi anteprima su lockscreen e barra di stato</string>
+    <string name="pref_summary_notification_body_enabled">Messaggio di anteprima su lockscreen e barra di stato</string>
     <string name="pref_summary_notification_body_enabled_when_secure">"L'anteprima dei messaggi è disabilitata quando l'accesso ha restrizioni"</string>
     <string name="pref_title_new_message_popup">SMS Pop-up</string>
     <string name="pref_summary_new_message_popup">Mostra un pop-up alla ricezione di un nuovo SMS</string>
@@ -415,4 +419,6 @@
     <string name="select_local_audio">Seleziona audio locale</string>
     <string name="select_local_video">Seleziona video locale</string>
     <string name="mx_recommend_msg">Abilita i Messaggi Cloud per inviare messaggi gratuitamente</string>
+    <string name="no_block_button_msg">Non bloccare messaggi da questo numero</string>
+    <string name="restore_blocked_message">Ripristina messaggo bloccato</string>
 </resources>

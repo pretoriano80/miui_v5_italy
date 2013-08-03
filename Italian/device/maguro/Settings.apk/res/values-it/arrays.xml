@@ -207,13 +207,13 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Sempre</item>
-        <item>Only when plugged in</item>
-        <item>Never (increases data usage)</item>
+        <item>Solo quando collegato</item>
+        <item>Mai (aumenta il consumo dati)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Always</item>
-        <item>Only when plugged in</item>
-        <item>Never</item>
+        <item>Sempre</item>
+        <item>Solo quando collegato</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="wifi_sleep_policy_values">
         <item>2</item>
@@ -769,7 +769,7 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
     <string-array name="screen_color_title">
         <item>Caldo</item>
         <item>Naturale</item>
-        <item>Fresco</item>
+        <item>Freddo</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillante</item>

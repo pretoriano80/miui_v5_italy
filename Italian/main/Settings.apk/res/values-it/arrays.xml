@@ -761,7 +761,7 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
     <string-array name="screen_color_title">
         <item>Caldo</item>
         <item>Naturale</item>
-        <item>Fresco</item>
+        <item>Freddo</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillante</item>

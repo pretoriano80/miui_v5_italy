@@ -280,7 +280,7 @@ Ricevi spazio gratuito %1$s"</string>
     <string name="give_up_cleaning">Annulla pulizia</string>
     <string name="restart_cleaning">Riavvia</string>
     <string name="cleanup_complete">Pulizia completata</string>
-    <string name="count_down_time">SAvvia dopo %d secondi</string>
+    <string name="count_down_time">Avvia dopo %d secondi</string>
     <string name="cancel_with_count_down">Annulla (%d)</string>
     <string name="garbage_size_metric">"%s
 Spazzatura"</string>

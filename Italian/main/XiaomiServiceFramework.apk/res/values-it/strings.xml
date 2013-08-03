@@ -357,6 +357,8 @@ We will check for you within two working days"</string>
     <string name="start_micloud">Avvia</string>
     <string name="micloud_proceed">Continua</string>
     <string name="disable_micloud">&lt;u>Non abilitare MiCloud&lt;/u></string>
+    <string name="title">Titolo</string>
+    <string name="value">Valore</string>
     <string name="paytool_edit_hint">Importo ricarica (RMB):</string>
     <string name="paytool_edit_limit">Meno di %1$s</string>
     <string name="paytool_error_denomination">Inserisci il top-up amount</string>
