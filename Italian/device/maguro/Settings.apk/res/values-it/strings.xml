@@ -973,7 +973,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="applications_settings_summary">Gestisci le applicazioni, imposta le scorciatoie di avvio rapido</string>
     <string name="applications_settings_header">Impostazioni applicazioni</string>
     <string name="install_applications">Origini sconosciute</string>
-    <string name="install_unknown_applications">"Consenti l'installazione di applicazioni non presenti in Market"</string>
+    <string name="install_unknown_applications">"Consenti l'installazione di applicazioni non presenti nel Play Store"</string>
     <string name="install_all_warning">"Il telefono e i dati personali sono più vulnerabili agli attacchi da parte di applicazioni di origini sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al telefono o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
     <string name="advanced_settings">Impostazioni avanzate</string>
     <string name="advanced_settings_summary">Attiva altre impostazioni</string>
@@ -1952,10 +1952,10 @@ Consentire l'avvio automatico?"</string>
     <string name="screen_key_long_press_action">Funzione scatto</string>
     <string name="menu_key">Tasto Menu</string>
     <string name="home_key">Tasto Home</string>
-    <string name="back_key">Tasto indietro</string>
+    <string name="back_key">Tasto Indietro</string>
     <string name="screen_key_long_press_timeout">Durata pressione</string>
     <string name="under_keyguard">Su lockscreen</string>
-    <string name="enable_snapshot_screenlock">Long-press Indietro per Fotocamera</string>
+    <string name="enable_snapshot_screenlock">"Long-press 'Indietro' per foto"</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita tasto Accensione</string>
     <string name="trackball_wake_title">Trackball wake</string>
     <string name="pref_volume_wake_title">Riattiva con tasti volume</string>
@@ -1996,7 +1996,7 @@ Consentire l'avvio automatico?"</string>
     <string name="nearby_wifi">Seleziona rete Wi-Fi</string>
     <string name="unlock_set_enter_system">Accedi direttamente al sistema</string>
     <string name="unlock_set_enter_system_summary">"Il tema lockscreen di sistema non verrà utilizzato dopo l'abilitazione di questa opzione. Attiva lo schermo per accedere direttamente al sistema"</string>
-    <string name="forget_wifi_message">Dimenticare questa rete Wi-Fi ? Potresti aver bisogno di reinserire la password alla prossima connessione</string>
+    <string name="forget_wifi_message">Eliminare questa rete Wi-Fi? Potresti aver bisogno di reinserire la password alla prossima connessione</string>
     <string name="no_nearby_wifi">Nessuna rete Wi-Fi rilevata</string>
     <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
@@ -2123,11 +2123,11 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scanner_lib_updating">Aggiornamento database...</string>
     <string name="virus_scanner_lib_already_latest">Database virus aggiornato</string>
     <string name="virus_scanner_lib_update_failed">Aggiornamento database virus fallito!</string>
-    <string name="virus_scan_app_safe_scanning">Scanner sicurezza in esecuzione...</string>
+    <string name="virus_scan_app_safe_scanning">Scansione in corso...</string>
     <string name="virus_scan_app_multi_engines">Scegli un motore, il tempo di scansione può essere più lungo</string>
     <string name="virus_scan_app_scanning">Scansione...</string>
     <string name="virus_scan_app_waiting">In attesa di</string>
-    <string name="virus_scan_app_passed">Scan completato con successo</string>
+    <string name="virus_scan_app_passed">Scansione completata</string>
     <string name="virus_scan_app_risk">Minaccia trovata!</string>
     <string name="virus_scan_app_stop_scan">Interrompi scansione</string>
     <string name="virus_scan_app_finish">Completato!</string>

@@ -754,7 +754,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="option_delete_contact">Elimina</string>
     <string name="option_send_to_desktop">Invia sul desktop</string>
     <string name="option_send_to_others">Invia ad altri</string>
-    <string name="option_not_star">Non preferito</string>
+    <string name="option_not_star">Rimuovi dai preferiti</string>
     <string name="option_not_in_group">Rimuovi</string>
     <string name="option_view_group">Mostra</string>
     <string name="option_rename_group">Rinomina</string>
@@ -784,7 +784,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="cloud_antispam_mark">Spam</string>
     <string name="antispam_mark_my_contribution">Il mio contributo nel database</string>
     <string name="antispam_provider_format">Questa segnalazione è inviata da %s</string>
-    <string name="menu_new_favorite_action_bar">Nuovo</string>
+    <string name="menu_new_favorite_action_bar">Aggiungi ai preferiti</string>
     <string name="click_close">Tocca lo schermo per chiudere</string>
     <string name="phone_primary">Principale</string>
     <string name="phone_info_divider">"  |  "</string>

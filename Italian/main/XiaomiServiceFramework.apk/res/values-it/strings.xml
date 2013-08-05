@@ -347,12 +347,12 @@ We will check for you within two working days"</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="current_account">Account attuale</string>
     <string name="my_xiaomi_account">Il mio account Xiaomi attuale</string>
-    <string name="micloud_intro_01_part_01">Risparmi sui costi delgi SMS</string>
+    <string name="micloud_intro_01_part_01">Risparmi sul costo degli SMS</string>
     <string name="micloud_intro_01_part_02">MIUI ti consente di inviare messaggi gratuitamente tramite Internet</string>
     <string name="micloud_intro_02_part_01">"Non devi fare nient'altro"</string>
     <string name="micloud_intro_02_part_02">I servizi cloud ti aiutano a sincronizzare contatti, messaggi, foto ed altri dati sui vari dispositivi mobili.</string>
     <string name="micloud_intro_03_part_01">Non perderai mai più i tuoi dati e li conserverai al sicuro</string>
-    <string name="micloud_intro_03_part_02">Gestisci i tuoi dati e localizza, blocca il tuo telefono o cancella il contenuto su i.xiaomi.com</string>
+    <string name="micloud_intro_03_part_02">Gestisci i tuoi dati online su i.xiaomi.com ed inoltre puoi localizzare, bloccare o cancellare il tuo smartphone da remoto in caso di furto o smarrimento</string>
     <string name="micloud_dspt">I servizi cloud includono i messaggi MiCloud, sincronizzazione mobile, localizzazione dispositivo ed altre funzioni. Puoi anche gestire i tuoi dati online in qualsiasi momento!</string>
     <string name="start_micloud">Avvia</string>
     <string name="micloud_proceed">Continua</string>

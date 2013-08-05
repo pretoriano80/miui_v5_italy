@@ -91,10 +91,10 @@
     <string name="pref_desc_mode_list">Lista</string>
     <string name="pref_desc_mode_grid">Griglia</string>
     <string name="pref_title_common">Impostazioni frequenti</string>
-    <string name="pref_title_alarm_when_silent">Sveglia in modalità silenziona</string>
+    <string name="pref_title_alarm_when_silent">Sveglia in modalità silenziosa</string>
     <string name="pref_desc_alarm_when_silent">La sveglia suonerà anche in modalità silenziosa</string>
     <string name="pref_title_data_export_to_sdcard">Esporta note su scheda SD</string>
-    <string name="dlg_title_confirm_alarm_silent">Vuoi che la svelia non suoni in modalità silenziosa?</string>
+    <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenziosa?</string>
     <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
     <string name="close">Chiudi</string>
     <string name="pref_title_data_export">Esportazione dati</string>

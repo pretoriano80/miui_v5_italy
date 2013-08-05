@@ -59,13 +59,13 @@
     <string name="menu_bl_clear">Cancella blacklist</string>
     <string name="menu_bl_add_manual">Aggiungi</string>
     <string name="menu_bl_add_contact">Contatti</string>
-    <string name="menu_add_new_contact">Nuovo contatto</string>
+    <string name="menu_add_new_contact">Salva</string>
     <string name="menu_add_into_contact">Aggiungi a contatto esistente</string>
     <string name="menu_add_vip_custom">Aggiungi membri whitelist</string>
     <string name="menu_add">Adggiungi</string>
     <string name="menu_edit">Modifica</string>
     <string name="menu_remove">Rimuovi</string>
-    <string name="quiet_mode">Modalità Anti-disturb</string>
+    <string name="quiet_mode">Modalità Anti-disturbo</string>
     <string name="qm_notification">Modalità silenziosa abilitata, non verrai disturbato</string>
     <string name="qm_open">Attiva modalità Anti-disturbo</string>
     <string name="qm_summary">"Dopo l'attivazione della modalità Anti-disturbo, le chiamate ed i messaggi in entrata verranno silenziati e lo schermo non verrà attivato</string>
@@ -92,7 +92,7 @@
     <string name="qm_repeated_call_summary_3min">"La seconda chiamata nell'arco di tre minuti proveniente dallo stesso contatto non verrà silenziata"</string>
     <string name="st_settings_name">Impostazioni</string>
     <string name="st_bl_setting_group">Impostazioni blacklist</string>
-    <string name="st_bl_block_setting_title">Chiedi più tardi</string>
+    <string name="st_bl_block_setting_title">Gestisci avvisi</string>
     <string name="st_block_all">Blocca chiamate e messaggi</string>
     <string name="st_mute_all">Silenzia chiamate e messaggi</string>
     <string name="st_block_mute">Blocca chiamate e silenzia messaggi</string>

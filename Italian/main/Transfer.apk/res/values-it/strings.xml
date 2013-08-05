@@ -104,12 +104,12 @@
     <string name="settings_auto_pair_sender_title">Accoppia automaticamente audio inviante</string>
     <string name="settings_auto_pair_sender_summary">Accoppia automaticamente audio con ricevente/inviante</string>
     <string name="settings_receive_confirm_title">Conferma ricezione</string>
-    <string name="settings_receive_confirm_summary">conferma richiesta trasferimento file</string>
+    <string name="settings_receive_confirm_summary">Conferma richiesta trasferimento file</string>
     <string name="guide_label">Guida Transfer</string>
     <string name="title_step_one">"1. I file possono essere trasferiti facilmente senza l'utilizzo della rete dati mobile"</string>
     <string name="title_step_two">2. MiShare è un protocollo di trasferimento file universale</string>
     <string name="title_step_three">3. Condividi i tuoi file con gli amici</string>
-    <string name="summary_step_one">Invia immagini, musica, contatti e omlti altri file</string>
+    <string name="summary_step_one">Invia immagini, musica, contatti e molti altri file</string>
     <string name="summary_step_two">Invita i tuo iamici ad installare MiShare</string>
     <string name="button_pre">Indietro</string>
     <string name="button_next">Avanti</string>

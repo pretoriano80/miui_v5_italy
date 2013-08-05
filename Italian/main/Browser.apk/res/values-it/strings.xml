@@ -548,7 +548,7 @@
     <string name="pref_file_download_save_title">Scarica e salva file</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Ripristina predefinito</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">RipristinaRestore default download folder path settings</string>
-    <string name="pref_file_download_save_modify_default_path">Modify download folder path</string>
+    <string name="pref_file_download_save_modify_default_path">Modifica la cartella dei download</string>
     <string name="download_dialog_file_length_hint_txt">Dimensione file:</string>
     <string name="download_dialog_file_length_nolength_txt">Calcolo dimensione file</string>
     <string name="download_dialog_file_length_nolength_error_txt">Impossibile calcolare dimensione file</string>

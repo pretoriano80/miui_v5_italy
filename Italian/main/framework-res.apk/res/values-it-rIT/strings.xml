@@ -963,8 +963,8 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="searchview_description_clear">Cancella query</string>
     <string name="searchview_description_submit">Invia query</string>
     <string name="searchview_description_voice">Ricerca vocale</string>
-    <string name="enable_explore_by_touch_warning_title">Enable Explore by Touch?</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s wants to enable Explore by Touch. When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger or perform gestures to interact with the phone."</string>
+    <string name="enable_explore_by_touch_warning_title">"Abilitare Esplora con il Tocco?"</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s vuole attivare Esplora con il Tocco. Quando Esplora con il Tocco è attivato, puoi udire la descrizione di ciò che tocchi o eseguire gesture per interagire con il telefono.</string>
     <string name="oneMonthDurationPast">1 mese fa</string>
     <string name="beforeOneMonthDurationPast">Oltre 1 mese fa</string>
     <string name="last_month">Ultimo mese</string>

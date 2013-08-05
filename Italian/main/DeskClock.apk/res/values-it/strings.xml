@@ -104,7 +104,7 @@ Puoi anche annullare questa sveglia."</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">Tempo scaduto!</string>
     <string name="dialog_confirm_abort">Vuoi annullare i cambiamenti?</string>
-    <string name="confirm_abort">Annulla</string>
+    <string name="confirm_abort">OK</string>
     <string name="remind_ringtone">Suoneria</string>
     <string name="keep_screen_on">Mantieni schermo attivo</string>
     <string name="start_up">Avvia</string>
@@ -137,7 +137,7 @@ Puoi anche annullare questa sveglia."</string>
     <string name="default_alarm_alert">Imposta suoneria predefinita</string>
     <string name="default_alarm_title">Suoneria predefinita</string>
     <string name="alarm_alert">Imposta suoneria</string>
-    <string name="alarm_screen">Imposta suoneria </string>
+    <string name="alarm_screen">Imposta stile sveglia</string>
     <string name="alarm_in_silent_mode_summary">La sveglia suonerà anche in modalità silenziosa</string>
     <string name="alarm_duration">Durata sveglia e intervalli (min)</string>
     <string name="alarm_count">Numero di attivazioni prima della disattivazione (volte)</string>

@@ -300,7 +300,7 @@
     <string name="phrase_from">Da %1s</string>
     <string name="phrase_empty">Nessuna anteprima</string>
     <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
-    <string name="pref_summary_notification_body_enabled">Messaggio di anteprima su lockscreen e barra di stato</string>
+    <string name="pref_summary_notification_body_enabled">"Mostra un'anteprima nella lockscreen e nella barra di stato"</string>
     <string name="pref_summary_notification_body_enabled_when_secure">"L'anteprima dei messaggi è disabilitata quando l'accesso ha restrizioni"</string>
     <string name="pref_title_new_message_popup">SMS Pop-up</string>
     <string name="pref_summary_new_message_popup">Mostra un pop-up alla ricezione di un nuovo SMS</string>

@@ -68,7 +68,7 @@
     <string name="set_image">Imposta foto come</string>
     <string name="camera_setas_wallpaper">Sfondo</string>
     <string name="delete">Elimina</string>
-    <string name="confirm_delete">Confermare la cancellazione di %s file?</string>
+    <string name="confirm_delete">Confermare la cancellazione di %s?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">%s immagine(i) in %s album, sicuro di voler eliminare ?</string>
     <string name="delete_fail_too_many_items">Impossibile eliminare, troppi elementi selezionati</string>
     <string name="action_fail_unknown_error">Operazione fallita a causa di un errore sconosciuto.</string>
@@ -80,7 +80,7 @@
     <string name="delete_folder">"Confermare l'eliminazione di %1$d cartella(e)?"</string>
     <string name="delete_file">"Confermare l'eliminazione di %1$d file?"</string>
     <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
-    <string name="confirm_delete_pictures">%s immagini</string>
+    <string name="confirm_delete_pictures">%s immagine(i)</string>
     <string name="confirm_delete_videos">%s video</string>
     <string name="cancel">Annulla</string>
     <string name="select_all">Seleziona tutti</string>
@@ -250,7 +250,7 @@
     <string name="other_category">Altre impostazioni</string>
     <string name="show_hidden_album">Mostra album nascosti</string>
     <string name="auto_create_recent_album">Crea automaticamente album preferiti</string>
-    <string name="landscape_mode">Abilità modalità Landscape</string>
+    <string name="landscape_mode">Attiva modalità rotazione</string>
     <string name="auto_create_recent_album_over_ten_times">Crea automaticamente album preferiti quando un album viene aperto più di 10 volte</string>
     <string name="not_auto_create_recent_album">Non creare automaticamente album recenti</string>
     <string name="auto_create_recent_album_confirm">"Dopo la disattivazione di questa opzione, Galleria cancellerà i dati degli album recenti. Gli album recenti impostati dall'utente non verranno modificati. In alternativa, puoi impostarlo tramite long-press sull'album."</string>
