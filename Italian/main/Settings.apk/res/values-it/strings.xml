@@ -292,7 +292,7 @@
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare in lockscreen</string>
+    <string name="owner_info_settings_edit_text_hint">Digita il testo da visualizzare su lockscreen</string>
     <string name="location_settings_title">Servizi di localizzazione</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>

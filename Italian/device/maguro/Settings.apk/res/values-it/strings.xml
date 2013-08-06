@@ -292,7 +292,7 @@
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare in lockscreen</string>
+    <string name="owner_info_settings_edit_text_hint">Digita il testo da visualizzare su lockscreen</string>
     <string name="location_settings_title">Servizi di localizzazione</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
@@ -354,7 +354,7 @@ Una volta crittografato il telefono, devi inserire un PIN numerico o una passwor
     <string name="unlock_change_lock_password_title">Cambia password di sblocco</string>
     <string name="lockpassword_password_too_short">La password deve essere lunga almeno %d caratteri</string>
     <string name="lockpassword_pin_too_short">Il PIN deve essere lungo almeno %d caratteri</string>
-    <string name="lockpassword_press_continue">Al termine, tocca Continua</string>
+    <string name="lockpassword_press_continue">"Al termine premi 'Continua'"</string>
     <string name="lockpassword_continue_label">Continua</string>
     <string name="lockpassword_password_too_long">La password deve essere inferiore a %d caratteri</string>
     <string name="lockpassword_pin_too_long">Il codice PIN deve essere inferiore a %d cifre</string>

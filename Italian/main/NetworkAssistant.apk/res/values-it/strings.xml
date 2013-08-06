@@ -68,7 +68,7 @@
     <string name="carrier_query_number_brand">Marchio servizio</string>
     <string name="unknown_location">Posizione sconosciuta</string>
     <string name="adjust_traffic_auto_adjust_open_hint">La regolazione automatica è attivata e modificherà regolarmente il traffico dati</string>
-    <string name="unknown_free_traffic_text">Non conosci le soglie del tuo traffico?</string>
+    <string name="unknown_free_traffic_text">Non conosci le soglie del tuo piano dati?</string>
     <string name="unknown_free_traffic_title">Traffico disponibile sconosciuto</string>
     <string name="unknown_free_traffic_hint">Se non conosci le soglie del tuo piano tariffario rivolgiti al tuo operatore mobile per ricevere assistenza</string>
     <string name="i_known_button">OK</string>

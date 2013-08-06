@@ -61,7 +61,7 @@ Nel frattempo tu puoi fare qualcos'altro..."</string>
     <string name="login_instead_reg">Accedi utilizzando questo numero di telefono</string>
     <string name="get_back_pwd">Recupera password account</string>
     <string name="login_failed">Accesso fallito</string>
-    <string name="error_network">Problemi con connessione di rete</string>
+    <string name="error_network">Problemi con la connessione di rete</string>
     <string name="error_dup_phone">Il telefono è stato registrato</string>
     <string name="error_server">Problemi con il server</string>
     <string name="error_sim_not_ready">La scheda SIM non è pronta</string>
@@ -77,7 +77,7 @@ Nel frattempo tu puoi fare qualcos'altro..."</string>
     <string name="data_wipe_from_phone">Elimina i dati dal telefono</string>
     <string name="login_notice">Accesso...</string>
     <string name="data_sync_notice">Usa il tuo Account Xiaomi per sincronizzare Messaggi, Contatti e altri dati</string>
-    <string name="sync_dspt">Usa il tuo Account Xiaomi per sincronizzare i dati</string>
+    <string name="sync_dspt">Attiva sincronizzazione</string>
     <string name="sync_sub_dspt">Un SMS verrà inviato per attivare il servizio</string>
     <string name="sync_sub_int_dspt">Potrebbe essere inviato un SMS internazionale per attivare il servizio</string>
     <string name="send_sms_for_sync_title">Servizio di sincronizzazione non attivo</string>

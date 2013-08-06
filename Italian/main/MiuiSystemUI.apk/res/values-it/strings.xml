@@ -184,7 +184,7 @@
     <string name="camera_key_action_shortcut_call">Chiama</string>
     <string name="camera_key_action_shortcut_wake">Blocca/Sblocca terminale</string>
     <string name="torch_activity_name">Torcia</string>
-    <string name="torch_activity_hint">Puoi accedere velocemente alla torcia tenendo premuto il tasto [icon] nel lockscreen</string>
+    <string name="torch_activity_hint">Puoi accedere velocemente alla torcia tenendo premuto il tasto [icon] nella lockscreen</string>
     <string name="lockscreen_carrier_default">Nessun servizio.</string>
     <string name="chooseUsbActivity">Seleziona un utilizzo per il collegamento USB</string>
     <string name="usb_storage_title">USB connessa</string>
