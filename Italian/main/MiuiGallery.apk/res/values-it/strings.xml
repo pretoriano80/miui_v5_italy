@@ -80,7 +80,7 @@
     <string name="delete_folder">"Confermare l'eliminazione di %1$d cartella(e)?"</string>
     <string name="delete_file">"Confermare l'eliminazione di %1$d file?"</string>
     <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
-    <string name="confirm_delete_pictures">%s immagine(i)</string>
+    <string name="confirm_delete_pictures">%s immagine</string>
     <string name="confirm_delete_videos">%s video</string>
     <string name="cancel">Annulla</string>
     <string name="select_all">Seleziona tutti</string>
@@ -265,6 +265,7 @@
     <string name="cleaning_cache">Cancellazione cache...</string>
     <string name="seconds">secondi</string>
     <string name="rename_failed">Rinominazione fallita</string>
+    <string name="rename_failed_duplicated_name">Impossibile rinominare, nome già esistente.</string>
     <string name="warn">Avviso</string>
     <string name="send_multiple_files_hint_format">Invia file multipli (%s)</string>
     <string name="send">Invia</string>
@@ -308,6 +309,8 @@
     <string name="cloud_tab_locations">Posizioni</string>
     <string name="cloud_album_set_create">Nuovo</string>
     <string name="big_screen_alertdialog_title">Proiettore</string>
+    <string name="comma">, </string>
+    <string name="quotation">\"%s\"</string>
     <string name="sharer_status_waitting">in attesa</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">E-mail</string>
