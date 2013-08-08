@@ -80,8 +80,8 @@
     <string name="delete_folder">"Confermare l'eliminazione di %1$d cartella(e)?"</string>
     <string name="delete_file">"Confermare l'eliminazione di %1$d file?"</string>
     <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
-    <string name="confirm_delete_pictures">%s immagine</string>
-    <string name="confirm_delete_videos">%s video</string>
+    <string name="confirm_delete_pictures">%s</string>
+    <string name="confirm_delete_videos">%s</string>
     <string name="cancel">Annulla</string>
     <string name="select_all">Seleziona tutti</string>
     <string name="slideshow">Presentazione</string>
