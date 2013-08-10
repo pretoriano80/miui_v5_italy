@@ -421,4 +421,5 @@
     <string name="mx_recommend_msg">Abilita i Messaggi Cloud per inviare messaggi gratuitamente</string>
     <string name="no_block_button_msg">Non bloccare messaggi da questo numero</string>
     <string name="restore_blocked_message">Ripristina messaggo bloccato</string>
+    <string name="overwrite_edited_content">Il contenuto modificato verrà sovrascritto, continuare?</string>
 </resources>

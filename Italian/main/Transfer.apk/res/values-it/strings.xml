@@ -38,7 +38,7 @@
     <string name="send_files">%1$d file in fase di invio</string>
     <string name="scanning">Scansione...</string>
     <string name="connecting">Connessione</string>
-    <string name="scan_tip">Assicurati che il destinatario ha la connessione attivata e può ricevere i file</string>
+    <string name="scan_tip">Assicurati che il destinatario abbia la connessione attivata e possa ricevere i file</string>
     <string name="send_to">Invia a:</string>
     <string name="send_cancel_tip">Trasferimento non completato. Sicuro di voler interrompere il trasferimento ed uscire?</string>
     <string name="send_cancel_tip2">Annulla invio. Inviato(i) %1$d / %2$d file</string>
@@ -80,6 +80,7 @@
     <string name="error_not_enough_space">Spazio insufficiente sul dispositivo</string>
     <string name="error_peer_disconnected">Peer disconnesso</string>
     <string name="error_upload">Caricamento fallito</string>
+    <string name="error_connect_service">Impossibile collegarsi al servizio di trasferimento.</string>
     <string name="error_not_selected">Nessun file selezionato</string>
     <string name="error_select">Errore file o nessun elemento selezionato</string>
     <string name="device_default_name">Telefono Xiaomi</string>
@@ -110,7 +111,7 @@
     <string name="title_step_two">2. MiShare è un protocollo di trasferimento file universale</string>
     <string name="title_step_three">3. Condividi i tuoi file con gli amici</string>
     <string name="summary_step_one">Invia immagini, musica, contatti e molti altri file</string>
-    <string name="summary_step_two">Invita i tuo iamici ad installare MiShare</string>
+    <string name="summary_step_two">Invita i tuoi amici ad installare MiShare</string>
     <string name="button_pre">Indietro</string>
     <string name="button_next">Avanti</string>
     <string name="button_last">Inizia adesso</string>

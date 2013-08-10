@@ -1946,7 +1946,7 @@ Consentire l'avvio automatico?"</string>
     <string name="preferred_launcher_warning_message">Sostituendo il launcher predefinito si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_launcher_warning_replace">Cambia Launcher</string>
     <string name="preferred_launcher_warning_use_system">Usa predefinito</string>
-    <string name="key_settings_title">Impostazioni Tasti</string>
+    <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
     <string name="screen_key_long_press_action">Funzione scatto</string>

@@ -581,10 +581,10 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="add_new_account">Aggiungi nuovo account</string>
     <string name="dialog_phone_call_prohibited_message">Chiamate non inviata</string>
     <string name="dialog_voicemail_not_ready_message">Per impostare la segreteria, vai in Menu > Impostazioni.</string>
-    <string name="dialog_voicemail_airplane_mode_message">To call voicemail, first turn off Airplane mode.</string>
-    <string name="action_menu_overflow_description">More options</string>
+    <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, prima disattiva la modalità Aereo.</string>
+    <string name="action_menu_overflow_description">Altre opzioni</string>
     <string name="summary_kind_title">Indice</string>
-    <string name="callrecordview_item_newcontact">Nuovo contatto</string>
+    <string name="callrecordview_item_newcontact">Salva</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d sec</string>

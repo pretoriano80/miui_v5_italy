@@ -191,6 +191,8 @@
     <string name="miui_menu_create_event">Nuovo evento</string>
     <string name="preferences_category_general_title">Generale</string>
     <string name="preferences_category_account_title">Account</string>
+    <string name="work_day_indication" />
+    <string name="rest_day_indication" />
     <string name="more_string">Altri %1$s...</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero telefonico</string>

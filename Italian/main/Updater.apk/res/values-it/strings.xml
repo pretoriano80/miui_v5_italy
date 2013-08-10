@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sina_share_pendding">Invio in corso...</string>
+    <string name="sina_share_success">Invio completato!</string>
+    <string name="sina_share_fail">Invio fallito!</string>
+    <string name="sina_token_expired_warning">"L'account Weibo è scaduto, si prega di riprovare"</string>
+    <string name="sina_token_invalid_warning">"L'account Weibo non è valido, si prega di riprovare"</string>
     <string name="kernel_upgrade_link" />
     <string name="kernel_upgrade_version" />
     <string name="app_name">Updater</string>
@@ -110,7 +115,6 @@
     <string name="share_update_content_unsign">Ho aggiornato MIUI alla %1$s! Per il changelog dettagliato visita %2$s</string>
     <string name="share_update_content_sign">Ho aggiornato MIUI alla %1$s! La mia posizione utente adesso è %2$s. Per il changelog dettagliato visita %3$s</string>
     <string name="share_sina">Posta tramite Sina weibo</string>
-    <string name="install_sina">Installa app Sina</string>
     <string name="share_qq">Posta tramite Tencent weibo</string>
     <string name="install_qq">Installa app QQ</string>
     <string name="upgrade_kernel">La versione attuale del kernel deve essere aggiornata</string>
@@ -149,4 +153,5 @@
     <string name="next">Prossimo</string>
     <string name="previous">Precedente</string>
     <string name="finish">Fine</string>
+    <string name="install_sina">"Installa l'applicazione Sina"</string>
 </resources>
