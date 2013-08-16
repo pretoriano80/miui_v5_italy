@@ -123,7 +123,7 @@
     <string name="sum_loading_settings">Caricamento impostazioni…</string>
     <string name="sum_hide_caller_id">Nascondi numero nelle chiamate in uscita</string>
     <string name="sum_show_caller_id">Mostra numero nelle chiamate in uscita</string>
-    <string name="sum_default_caller_id">"Usa le impostazioni predefinite dall'operatore per la visualizzaizone del numero nelle chiamate in uscita"</string>
+    <string name="sum_default_caller_id">"Usa le impostazioni predefinite dall'operatore per la visualizzazione del numero nelle chiamate in uscita"</string>
     <string name="labelCW">Call waiting</string>
     <string name="sum_cw_enabled">Notifica le chiamate in arrivo durante una chiamata in corso</string>
     <string name="sum_cw_disabled">Non notificare le chiamate in arrivo durante una chiamata in corso</string>

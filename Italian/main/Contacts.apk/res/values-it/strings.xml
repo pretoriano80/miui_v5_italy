@@ -95,7 +95,7 @@
     <string name="contactDetailUpdates">Aggiornamenti</string>
     <string name="searchHint">Cerca contatti</string>
     <string name="menu_search">Cerca</string>
-    <string name="menu_newContact">Nuovo contatto</string>
+    <string name="menu_newContact">Salva</string>
     <string name="menu_viewContact">Visualizza contatto</string>
     <string name="menu_callNumber">Chiama %s</string>
     <string name="menu_addStar">Preferiti</string>
@@ -662,7 +662,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="contactMultiPickerActivityTitle">Seleziona contatti</string>
     <string name="picker_join_title">Scegli un contatto con cui unire %s</string>
     <string name="picker_contact_title">Seleziona un contatto</string>
-    <string name="picker_number_title">seleziona un nuomero</string>
+    <string name="picker_number_title">Seleziona un numero</string>
     <string name="group_add_fail_toast">Impossibile aggiungere contatti</string>
     <string name="picker_postal_title">Seleziona un indirizzo</string>
     <string name="picker_email_title">Seleziona una email</string>

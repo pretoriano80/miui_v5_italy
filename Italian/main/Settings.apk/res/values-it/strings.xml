@@ -2332,7 +2332,7 @@ prova in questo modo:
     <string name="wifi_share_other_network">Altre reti Wi-Fi</string>
     <string name="wifi_share_know">OK</string>
     <string name="wifi_share_summary1">Gli utenti MIUI possono condividere tra loro le reti Wi-Fi protette da password.</string>
-    <string name="wifi_share_summary2">Se un altro utente MIUI condivide la sua rete puoi collegarti direttamente ad essa senza utilizzare la password.</string>
+    <string name="wifi_share_summary2">" Se un altro utente MIUI condivide la sua rete puoi collegarti direttamente ad essa senza utilizzare la password."</string>
     <string name="wifi_share_summary3">Condividi le reti Wi-Fi con amici e colleghi</string>
     <string name="wifi_share_add">Condividi le mie reti Wi-Fi</string>
     <string name="wifi_share_count">Hai condiviso %d rete(i)</string>
@@ -2344,7 +2344,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="wifi_share_connected_title">Rete connessa tramite condivisione di rete Wi-Fi MIUI</string>
     <string name="wifi_share_connected_summary">Sei collegato ad una rete Wi-Fi condivisa da un altro utente</string>
     <string name="wifi_share_action_turn_on">Attiva condivisione Wi-Fi</string>
-    <string name="wifi_share_action_turn_on_summary">Accedi utilizzato username e password del tuo account Xiaomi</string>
+    <string name="wifi_share_action_turn_on_summary">Accedi utilizzando username e password del tuo account Xiaomi</string>
     <string name="wifi_share_action_turn_off">Disattiva condivisione Wi-Fi</string>
     <string name="wifi_share_list_empty">Nessuna rete Wi-Fi condivisa</string>
     <string name="wifi_share_connect">Connetti</string>

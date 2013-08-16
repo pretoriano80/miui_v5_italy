@@ -356,7 +356,7 @@ We will check for you within two working days"</string>
     <string name="micloud_dspt">I servizi cloud includono i messaggi MiCloud, sincronizzazione mobile, localizzazione dispositivo ed altre funzioni. Puoi anche gestire i tuoi dati online in qualsiasi momento!</string>
     <string name="start_micloud">Avvia</string>
     <string name="micloud_proceed">Continua</string>
-    <string name="disable_micloud">&lt;u>Non abilitare MiCloud&lt;/u></string>
+    <string name="disable_micloud">Non abilitare MiCloud</string>
     <string name="title">Titolo</string>
     <string name="value">Valore</string>
     <string name="paytool_edit_hint">Importo ricarica (RMB):</string>
