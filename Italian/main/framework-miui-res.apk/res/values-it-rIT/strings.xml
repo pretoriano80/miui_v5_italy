@@ -413,7 +413,7 @@
     <string name="v5_time_picker_label_minute" />
     <string name="valentines_day" />
     <string name="vernal_equinox" />
-    <string name="volume_alarm">Alarm</string>
+    <string name="volume_alarm">Sveglia</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_incall">Chiama</string>
     <string name="volume_icon_description_media">Media</string>

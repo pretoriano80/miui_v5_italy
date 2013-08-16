@@ -645,7 +645,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="notification_sound_dialog_title">Scegli suoneria notifica</string>
     <string name="media_volume_title">Applicazioni multimediali</string>
     <string name="media_volume_summary">Imposta il volume di musica e video</string>
-    <string name="alarm_volume_title">Allarme</string>
+    <string name="alarm_volume_title">Sveglia</string>
     <string name="dock_settings_summary">Impostazioni audio per dock collegato</string>
     <string name="dtmf_tone_enable_title">Toni tastierino numerico</string>
     <string name="sound_effects_enable_title">Suona al tocco</string>
@@ -655,7 +655,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="volume_media_description">Musica, video, giochi e altri contenuti multimediali</string>
     <string name="volume_ring_description">Suoneria e notifiche</string>
     <string name="volume_notification_description">Notifiche</string>
-    <string name="volume_alarm_description">Allarmi</string>
+    <string name="volume_alarm_description">Sveglie</string>
     <string name="volume_ring_mute">Silenzia suoneria e notifiche</string>
     <string name="volume_media_mute">Silenzia musica e altri media</string>
     <string name="volume_notification_mute">Silenzia notifiche</string>

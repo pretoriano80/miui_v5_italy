@@ -112,7 +112,7 @@ Puoi anche annullare questa sveglia."</string>
     <string name="timer_minute">minuti</string>
     <string name="timer_hour">ore</string>
     <string name="timer_message_with_hour">timer a %1$d ore e %2$d minuti</string>
-    <string name="timer_message">timer per %1$d minuti</string>
+    <string name="timer_message">%1$d minuti</string>
     <string name="timer_tutorial">Fai scorrere la freccia</string>
     <string name="shutdown_alarm_title">Avviso spegnimento</string>
     <string name="shutdown_alarm_enable_summary">Avviso spegnimento abilitato</string>
