@@ -91,8 +91,6 @@
     <string name="qm_repeated_call_summary_none">"Non creare un'eccezione per le chiamate ripetute"</string>
     <string name="qm_repeated_call_summary_3min">"La seconda chiamata nell'arco di tre minuti proveniente dallo stesso contatto non verrà silenziata"</string>
     <string name="st_settings_name">Impostazioni</string>
-    <string name="st_bl_setting_group">Impostazioni blacklist</string>
-    <string name="st_bl_block_setting_title">Gestisci avvisi</string>
     <string name="st_block_all">Blocca chiamate e messaggi</string>
     <string name="st_mute_all">Silenzia chiamate e messaggi</string>
     <string name="st_block_mute">Blocca chiamate e silenzia messaggi</string>
@@ -112,4 +110,6 @@
     <string name="qm_other_settings_group">Altre impostazioni</string>
     <string name="qm_other_settings_info">Regola le azioni per chiamate e messaggi quando la modalità Anti-disturbo è attivata</string>
     <string name="qm_vip_sms_setting_button">silenzia i messaggi in whitelist</string>
+    <string name="st_bl_block_setting_title">Gestisci avvisi</string>
+    <string name="st_bl_setting_group">Impostazioni blacklist</string>
 </resources>

@@ -590,7 +590,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="sip_edit_title">Dettagli account SIP</string>
     <string name="sip_edit_new_title">Dettagli account SIP</string>
     <string name="domain_address_title">Server</string>
-    <string name="username_title">Username</string>
+    <string name="username_title">Nome utente</string>
     <string name="password_title">Password</string>
     <string name="display_name_title">Mostra nome</string>
     <string name="proxy_address_title">Indirizzo proxy in uscita</string>
@@ -1093,9 +1093,9 @@ Passare comunque al nuovo operatore?"</string>
     <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_marked_count">Rifiutate: %1$d</string>
     <string name="antispam_notification_title">Sconosciuto</string>
-    <string name="phone_info_divider">"  |  "</string>
     <string name="enable_antispam_strange_title">Protezione chiamate sospette</string>
     <string name="enable_antispam_strange_summary">Silenzia la prima chiamata da numero sconosciuto</string>
+    <string name="phone_info_divider">"  |  "</string>
     <string name="sim_missing_continueView_text">Continua senza SIM</string>
     <string name="sim_missing_msg_text">Nessuna SIM card trovata. Inserisci una SIM nel telefono.</string>
 </resources>

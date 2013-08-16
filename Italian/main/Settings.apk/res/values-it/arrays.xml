@@ -299,7 +299,7 @@
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
-        <item>Unspecified</item>
+        <item>Non specificato</item>
     </string-array>
     <string-array name="bearer_values">
         <item>14</item>
@@ -589,6 +589,7 @@
         <item>com.android.providers.userdictionary</item>
         <item>com.miui.providers.userbook</item>
         <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -664,45 +665,37 @@
         <item>@string/dolby_mode_music</item>
         <item>@string/dolby_mode_movie</item>
     </string-array>
-    <string-array name="dolby_bassboost_ranks">
-        <item>@string/dolby_bassboost_low</item>
-        <item>@string/dolby_bassboost_normal</item>
-        <item>@string/dolby_bassboost_high</item>
-    </string-array>
-    <string-array name="dolby_bassboost_rank_valus">
-        <item>0</item>
-        <item>3</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="dolby_roomsize_ranks">
-        <item>@string/dolby_roomsize_low</item>
-        <item>@string/dolby_roomsize_normal</item>
-        <item>@string/dolby_roomsize_high</item>
-    </string-array>
-    <string-array name="dolby_roomsize_rank_valus">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0</item>
-        <item>16,8,0,-8,0,8,16</item>
-        <item>0,0,-4,-8,-8,-4,0</item>
-        <item>-8,-20,4,12,8,8,8</item>
-        <item>4,0,0,-8,-4,0,0</item>
-        <item>16,4,-4,-4,4,4,4</item>
-        <item>16,-4,0,-8,0,-4,-4</item>
-        <item>4,0,-4,-8,0,4,8</item>
-        <item>16,4,-8,-4,-8,-4,0</item>
-        <item>0,-4,-4,-4,-8,-4,-8</item>
-        <item>16,12,-24,-24,-16,12,16</item>
-        <item>24,14,-20,6,12,16,8</item>
-    </string-array>
     <string-array name="dolby_equalizer_preset_names">
         <item>@string/dolby_ieq_flat</item>
         <item>@string/dolby_ieq_open</item>
         <item>@string/dolby_ieq_rich</item>
-        <item>@string/dolby_ieq_focused</item>>
+        <item>@string/dolby_ieq_focused</item>
+    </string-array>
+    <string-array name="dirac_equalizer_preset_values">
+        <item>0,0,0,0,0,0,0,0,0</item>
+        <item>2,1,-1,0,-1,-1,2</item>
+        <item>0,0,0,-1,-1.5,0,0</item>
+        <item>0,-1.5,-2.5,0,0,-1.5,0</item>
+        <item>0,0,0,0,1.5,3,3</item>
+        <item>1.5,1.5,-1.5,0,-1.5,0,1</item>
+        <item>1,2,-3,2,0,0.5,1</item>
+        <item>1.5,1.5,-0.5,0,-1.5,0,0</item>
+        <item>0,0,-1,-1,1,1,0</item>
+        <item>0,2,1,0,-1,-1,2</item>
+        <item>1,0,0,-1,-2,0,0</item>
+    </string-array>
+    <string-array name="dirac_equalizer_preset_names">
+        <item>@string/eq_flat</item>
+        <item>@string/eq_rock</item>
+        <item>@string/eq_jazz</item>
+        <item>@string/eq_pop</item>
+        <item>@string/eq_classical</item>
+        <item>@string/eq_hiphop</item>
+        <item>@string/eq_blues</item>
+        <item>@string/eq_electronic</item>
+        <item>@string/eq_country</item>
+        <item>@string/eq_dance</item>
+        <item>@string/eq_metal</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Dispositico connesso, creazione sessione...</item>
@@ -791,17 +784,18 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>numerical</item>
         <item>mixed</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Sblocca col sorriso</item>
         <item>Sequenza</item>
         <item>Password numerica</item>
         <item>Password mista</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Riduzione rumore a singolo microfono</item>
+        <item>DRiduzione rumore a doppio microfono</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression__values">
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>
