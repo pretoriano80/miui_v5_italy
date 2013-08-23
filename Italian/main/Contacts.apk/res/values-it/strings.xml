@@ -948,6 +948,12 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="deleting_sim_entry_miui">Eliminazione contatti su SIM</string>
     <string name="dlg_add_blacklist">Aggiungere i numeri selezionati alla blacklist?</string>
     <string name="dlg_remove_blacklist">Rimuovere dalla blacklist i numeri selezionati?</string>
+    <string name="close_dial_pad">Chiudi tastiera</string>
+    <string name="dial">Chiama</string>
+    <string name="delete_dial_input">Elimina</string>
+    <string name="clear_digits">Cancella numero</string>
+    <string name="call_record_setting_miui">Impostazioni di registrazione</string>
+    <string name="activity_not_found_uri">Nessuna applicazione supportata!</string>
     <string name="import_weibo_notification_title">Importazione contatti Sina Weibo</string>
     <string name="processing">Elaborazione...</string>
 </resources>

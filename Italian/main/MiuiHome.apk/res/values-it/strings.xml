@@ -154,6 +154,9 @@
     <string name="free_style_drawer_title">Tutte le applicazioni</string>
     <string name="guide_install_app_title">Installa Applicazione</string>
     <string name="guide_install_app_msg">"Applicazione non installata. Cercare adesso l'applicazione su Google Play?"</string>
+    <string name="menu_customize">Personalizza impostazioni</string>
+    <string name="menu_picktheme">Seleziona tema</string>
+    <string name="scroll_tip_format_when_announce_accessibility">Pagina %1$d, %2$d app</string>
     <string name="status_bar_toggle_ac">Controllo accesso</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Lumin.</string>

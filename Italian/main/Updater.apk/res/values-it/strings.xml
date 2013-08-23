@@ -153,5 +153,15 @@
     <string name="next">Prossimo</string>
     <string name="previous">Precedente</string>
     <string name="finish">Fine</string>
+    <string name="comment_publish">Invia</string>
+    <string name="edit_comment_title">modifica commento</string>
+    <string name="edit_comment">Aggiungi commento</string>
+    <string name="edit_text_default">Scrivi commento</string>
+    <string name="comment_sending">Invio in corso...</string>
+    <string name="comment_upload_failed">Impossibile inviare commento</string>
+    <string name="comment_upload_hint">Grazie per il tuo commento</string>
+    <string name="comment_upload_success">Commento inviato correttamente!</string>
+    <string name="comment_invalid">Tocca per commentare</string>
+    <string name="comment_upload_not_logined">Accedi prima di inviare commenti</string>
     <string name="install_sina">"Installa l'applicazione Sina"</string>
 </resources>

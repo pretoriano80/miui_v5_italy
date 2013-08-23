@@ -15,7 +15,7 @@
     <string name="permdesc_downloadWithoutNotification">"Permette all'applicazione di scaricare file tramite il download manager senza mostrare alcuna notifica."</string>
     <string name="permlab_accessAllDownloads">Accesso a tutti i download di sistema</string>
     <string name="permdesc_accessAllDownloads">"Permette all'applicazione di vedere e modificare tutti quelli iniziati da applicazioni di sistema."</string>
-    <string name="download_unknown_title">&lt;Nuovo></string>
+    <string name="download_unknown_title">Nuovo></string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" e %d più"</string>
     <string name="notification_download_complete">Download completato</string>
@@ -26,7 +26,7 @@
     <string name="wifi_required_body" formatted="false">"Devi usare il Wi-Fi per completare questo %s download. 
 
 Tocca %s per iniziare il download di questo file alla prossima connessione Wi-Fi."</string>
-    <string name="wifi_recommended_title">Mettere in coda il download ?</string>
+    <string name="wifi_recommended_title">Mettere in coda il download?</string>
     <string name="wifi_recommended_body" formatted="false">"Stai per scaricare：
 
  %s（%s）

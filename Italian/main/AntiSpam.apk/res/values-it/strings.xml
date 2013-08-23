@@ -44,6 +44,7 @@
     <string name="dlg_retore_ok">Ripristina</string>
     <string name="toast_keyword_blank">Parola chiave vuota</string>
     <string name="toast_keyword_exist">Parola chiave: %s già esistente</string>
+    <string name="toast_keyword_invalid">Parola non valida</string>
     <string name="menu_clear_all_sms">Rimuovere tutti i messaggi bloccati</string>
     <string name="menu_clear_all_call">Rimuovere tutte le chiamate bloccate</string>
     <string name="menu_clear_current_sms">Rimuovere tutti i messaggi bloccati da questo numero</string>
@@ -91,6 +92,8 @@
     <string name="qm_repeated_call_summary_none">"Non creare un'eccezione per le chiamate ripetute"</string>
     <string name="qm_repeated_call_summary_3min">"La seconda chiamata nell'arco di tre minuti proveniente dallo stesso contatto non verrà silenziata"</string>
     <string name="st_settings_name">Impostazioni</string>
+    <string name="st_block_setting_group">Impostazioni Lista blocco</string>
+    <string name="st_block_setting_title">Chiamate e messaggi</string>
     <string name="st_block_all">Blocca chiamate e messaggi</string>
     <string name="st_mute_all">Silenzia chiamate e messaggi</string>
     <string name="st_block_mute">Blocca chiamate e silenzia messaggi</string>
@@ -106,6 +109,11 @@
     <string name="st_filter_keywords_title">Filtra le parole chiavi nei messaggi</string>
     <string name="st_filter_keywords_setting_summary1">I messaggi da numeri sconosciuti verranno bloccati.</string>
     <string name="st_filter_keywords_setting_summary2">Aggiungi più parole separandola con la virgola.</string>
+    <string name="st_advanced_setting_group">Impostazioni avanzate</string>
+    <string name="st_block_unknown_call">Blocca tutte le chiamate sconosciute</string>
+    <string name="st_block_unknown_sms">Blocca tutti i messaggi sconosciuti</string>
+    <string name="st_other_setting_group">Altre impostazioni</string>
+    <string name="st_show_block_notification">Mostra notifiche bloccate</string>
     <string name="qm_other_settings">Avanzate</string>
     <string name="qm_other_settings_group">Altre impostazioni</string>
     <string name="qm_other_settings_info">Regola le azioni per chiamate e messaggi quando la modalità Anti-disturbo è attivata</string>

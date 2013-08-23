@@ -250,7 +250,7 @@
     <string name="other_category">Altre impostazioni</string>
     <string name="show_hidden_album">Mostra album nascosti</string>
     <string name="auto_create_recent_album">Crea automaticamente album preferiti</string>
-    <string name="landscape_mode">Modalità rotazione</string>
+    <string name="photo_page_always_rotate">Rotazione autom. immagini</string>
     <string name="auto_create_recent_album_over_ten_times">Crea automaticamente album preferiti quando un album viene aperto più di 10 volte</string>
     <string name="not_auto_create_recent_album">Non creare automaticamente album recenti</string>
     <string name="auto_create_recent_album_confirm">"Dopo la disattivazione di questa opzione, Galleria cancellerà i dati degli album recenti. Gli album recenti impostati dall'utente non verranno modificati. In alternativa, puoi impostarlo tramite long-press sull'album."</string>
@@ -274,7 +274,6 @@
     <string name="screensaver_no_data">"Nessuna immagine nell'album."</string>
     <string name="slideshow_time_select_title">Seleziona la durata dello slideshow</string>
     <string name="slideshow_time_title">Durata slideshow</string>
-    <string name="rename_failed">Rinominazione fallita</string>
     <string name="rename_failed_duplicated_name">Impossibile rinominare, nome già esistente.</string>
     <string name="warn">Avviso</string>
     <string name="send_multiple_files_hint_format">Invia file multipli (%s)</string>
@@ -294,6 +293,8 @@
     <string name="menu_item_sort_date_desc">Data decrescente</string>
     <string name="operation_rename">Rinomina</string>
     <string name="operation_refresh">Aggiorna</string>
+    <string name="operation_set_as_screensaver">Imposta come salva schermo</string>
+    <string name="operation_unset_as_screensaver">Annulla salva schermo</string>
     <string name="how_many_videos">%d Video</string>
     <string name="how_many_sub_folders">%d Cartelle</string>
     <string name="directory_info_divider">"  |  "</string>
@@ -319,8 +320,6 @@
     <string name="cloud_tab_locations">Posizioni</string>
     <string name="cloud_album_set_create">Nuovo</string>
     <string name="big_screen_alertdialog_title">Proiettore</string>
-    <string name="comma">, </string>
-    <string name="quotation">\"%s\"</string>
     <string name="sharer_status_waitting">in attesa</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">E-mail</string>
@@ -382,4 +381,5 @@
     <string name="confirm_delete_folders_including" formatted="false">%s cartelle (contenenti %s)</string>
     <string name="confirm_delete_including_null">0 file</string>
     <string name="confirm_delete_items">%s file</string>
+    <string name="landscape_mode">Modalità rotazione</string>
 </resources>

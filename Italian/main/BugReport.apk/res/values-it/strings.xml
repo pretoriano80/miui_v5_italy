@@ -43,4 +43,5 @@
     <string name="wlan_unavailable_dialog_button_sent">Invia subito</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
     <string name="packaging_dialog_content">Generazione rapporto, si prega di attendere…</string>
+    <string name="bugreport_feedback_from">Da: %s</string>
 </resources>

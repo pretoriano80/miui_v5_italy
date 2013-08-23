@@ -463,14 +463,14 @@
     <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo</string>
     <string name="search_bing">Bing</string>
-    <string name="search_s139">Search 139</string>
+    <string name="search_s139">139</string>
     <string name="search_taobao">Taobao</string>
     <string name="search_yicha">Yicha</string>
     <string name="search_easou">Easou</string>
     <string name="search_dianping">Cate</string>
     <string name="search_shipin">Video</string>
     <string name="search_tupian">Image</string>
-    <string name="MIUI_startpage">MIUI Home</string>
+    <string name="MIUI_startpage">Pagina iniziale</string>
     <string name="accessibility_button_tabs">Schede</string>
     <string name="accessibility_button_larger">Più grande</string>
     <string name="accessibility_button_smaller">Più piccolo</string>
@@ -563,6 +563,7 @@
     <string name="download_dialog_file_length_nolength_txt">Calcolo dimensione file</string>
     <string name="download_dialog_file_length_nolength_error_txt">Impossibile calcolare dimensione file</string>
     <string name="download_dialog_file_length_lessthan1kb">Meno di 1 Kb</string>
+    <string name="download_dialog_default_path_invalid">Percorso download non valido, verrà utilizzato il percorso predefinito</string>
     <string name="menu_theme_setting">Impostazioni Tema</string>
     <string name="menu_hv_swap">Passa a schermo orizzontale</string>
     <string name="menu_hv_swap2">Passa a schermo verticale</string>
