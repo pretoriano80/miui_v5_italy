@@ -953,7 +953,6 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="delete_dial_input">Elimina</string>
     <string name="clear_digits">Cancella numero</string>
     <string name="call_record_setting_miui">Impostazioni di registrazione</string>
-    <string name="activity_not_found_uri">Nessuna applicazione supportata!</string>
     <string name="import_weibo_notification_title">Importazione contatti Sina Weibo</string>
     <string name="processing">Elaborazione...</string>
 </resources>
