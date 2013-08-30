@@ -520,6 +520,9 @@ ed esci dall'inquadratura"</string>
     <string name="launch_qq">Lancia QQ</string>
     <string name="download_qq">Scarica QQ</string>
     <string name="wifi_warning">Verifica la sicurezza prima di collegarti a questa rete Wi-Fi</string>
+    <string name="cloud_album_details">Dettagli album cloud:</string>
+    <string name="visit_cloud_album">Apri album cloud</string>
+    <string name="find_cloud_album">Trova un album cloud con QR code</string>
     <string name="wifi_connecting">Connessione Wi-Fi...</string>
     <string name="wifi_open_fail">Impossibile aprire connessione Wi-Fi</string>
     <string name="wifi_connect_fail">Connessione scaduta o errore della rete Wi-Fi</string>
