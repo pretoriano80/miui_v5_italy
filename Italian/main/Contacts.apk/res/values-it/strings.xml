@@ -281,7 +281,6 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="select_vcard_title">Seleziona file vCard</string>
     <string name="caching_vcard_title">Salvataggio vCard nella memoria temporanea locale</string>
     <string name="caching_vcard_message">"Il processo di importazione sta memorizzando le vCard nella memoria temporanea. L'importazione inizierà tra poco."</string>
-    <string name="progress_notifier_message" formatted="false">Importazione %s/%s: %s</string>
     <string name="importing_vcard_description">Importazione %s</string>
     <string name="reading_vcard_failed_title">Lettura dati vCard non riuscita</string>
     <string name="reading_vcard_canceled_title">Lettura dati vCard annullata</string>
@@ -930,7 +929,6 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="profile_name_photo">Io</string>
     <string name="toast_copying">Copia in corso, attendere prego...</string>
     <string name="toast_copy_done">Copia completata con successo</string>
-    <string name="activity_not_found_uri">Nessuna applicazione supportata!</string>
     <string name="importing_sim_contacts_miui">Importazione contatti SIM...</string>
     <string name="import_all_sim_entries_miui">Imports tutti i contatti</string>
     <string name="import_sim_entry_miui">Importa da SIM</string>
@@ -953,6 +951,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="delete_dial_input">Elimina</string>
     <string name="clear_digits">Cancella numero</string>
     <string name="call_record_setting_miui">Impostazioni di registrazione</string>
+    <string name="activity_not_found_uri">Nessuna applicazione supportata!</string>
     <string name="import_weibo_notification_title">Importazione contatti Sina Weibo</string>
     <string name="processing">Elaborazione...</string>
+    <string name="progress_notifier_message" formatted="false">Importazione %s/%s: %s</string>
 </resources>

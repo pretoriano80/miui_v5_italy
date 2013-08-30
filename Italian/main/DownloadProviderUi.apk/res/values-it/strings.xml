@@ -34,11 +34,11 @@
     <string name="select_all">Seleziona Tutto</string>
     <string name="selected_count">Seleziona %1$d di %2$d</string>
     <string name="download_share_dialog">Condividi via</string>
-    <string name="pause_download_when_wifi_disconnected">Scarica solo con Wi-Fi</string>
     <string name="download_when_network_connected">Scarica utilizzando Rete Mobile</string>
     <string name="download_paused">Download in pausa</string>
     <string name="download_pending">Download in attesa</string>
     <string name="download_info_start_deleted_tasks">Cancella i download</string>
+    <string name="download_info_count_deleted_tasks">%s download rimossi</string>
     <string name="menu_preferences">Impostazioni</string>
     <string name="menu_enter_edit_mode">Editor</string>
     <string name="delete_downloads_records">Cancella i download</string>
@@ -76,4 +76,5 @@
     <string name="confirm_disable_download_only_in_wifi_message">La disattivazione di “Scarica solo con Wi-Fi” potrebbe generare un consumo del traffico dati addizionale. Sicuro di volerlo disattivare?</string>
     <string name="disable_download_only_in_wifi_title">Disattivazione “Scarica solo con Wi-Fi”</string>
     <string name="might_lead_to_mobile_charge">"Dopo l'annullamento non ci saranno richieste di download dall\'operatore di rete. Questo potrebbe comportare costi per il traffico effettuato"</string>
+    <string name="pause_download_when_wifi_disconnected">Scarica solo con Wi-Fi</string>
 </resources>

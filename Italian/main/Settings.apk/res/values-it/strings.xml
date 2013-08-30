@@ -2193,6 +2193,7 @@ Consentire l'avvio automatico?"</string>
     <string name="dirac_mode_off">Dirac disattivato</string>
     <string name="dirac_mode_in_ear">Cuffie In-Ear Xiaomi</string>
     <string name="dirac_mode_earbuds">Auricolari</string>
+    <string name="dirac_mode_piston_100">Auricolari Xiaomi</string>
     <string name="equalizer">Equalizzatore</string>
     <string name="wifi_menu_wfd">Visualizzazione  Wi-Fi</string>
     <string name="wfd_settings_title">Impostazioni visualizzazione Wi-Fi</string>
@@ -2353,6 +2354,10 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="wifi_share_qrcode_summary">Usa la Fotocamera MIUI per scansionare un QR code</string>
     <string name="wifi_share_qrcode_finish">Completato</string>
     <string name="antispam_quiet_mode_title">Modalità Anti-disturbo</string>
+    <string name="noise_suppression">Riduzione rumore</string>
+    <string name="phone_call_noise_suppression">Riduzione rumore telefono</string>
+    <string name="sync_wifi_only">Solo Wi-Fi</string>
+    <string name="perm_privacy_app_count_trust_summary">Applicazione fidata</string>
     <string name="accessibility_feature_state_off">Disattivato</string>
     <string name="accessibility_feature_state_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_description">"Quando questa funzione è attivata puoi abilitare le funzioni di accessibilità in due passaggi:

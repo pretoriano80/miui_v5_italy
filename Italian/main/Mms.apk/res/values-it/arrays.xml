@@ -28,7 +28,7 @@
         <item>Note</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Mostra ora di ricezione messaggio</item>
+        <item>Mostra ora di ricezione</item>
         <item>Mostra ora di invio (Usa orario server)</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
@@ -65,9 +65,5 @@
         <item>always</item>
         <item>silent</item>
         <item>never</item>
-    </string-array>
-    <string-array name="resent_via_entries">
-        <item>Per messaggio</item>
-        <item>Per messaggio cloud</item>
     </string-array>
 </resources>

@@ -226,6 +226,8 @@
     <string name="album_select">Seleziona copertina</string>
     <string name="no_song_downloaded">Nessun brano può essere scaricato.</string>
     <string name="powered_by">Powered by</string>
+    <string name="project_device">Xiaomi MiBox</string>
+    <string name="project_device_mobile">Dispositivo mobil</string>
     <string name="albumsongseparator" />
     <string name="notification_artist_album">%2$s %1$s</string>
     <string name="durationformatshort">%2$d:%5$02d</string>

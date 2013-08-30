@@ -65,7 +65,9 @@
     <string name="preference_led_indicator">Notifica a schermo spento</string>
     <string name="preference_led_indicator_prompt">Notifica la registrazione in corso a schermo spento</string>
     <string name="preference_record_type_title">Tipo di registrazione</string>
+    <string name="preference_scenes">Impostazioni scene</string>
     <string name="preference_record_type_dialog_title">Seleziona un tipo di registrazione</string>
+    <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
     <string name="preference_silent_mode">Registrazione silenzioa</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
     <string name="duration_format_hour">%sh</string>

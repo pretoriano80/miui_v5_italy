@@ -31,4 +31,5 @@
     <string name="use_data">Dati abilitati</string>
     <string name="input_method_category">Scegli il Metodo di Inserimento Predefinito</string>
     <string name="input_method">Metodo Inserimento</string>
+    <string name="default_gprs_sim_name">Inserisci la soglia dati di \"%s\"</string>
 </resources>

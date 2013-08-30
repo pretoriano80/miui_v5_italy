@@ -383,6 +383,7 @@
     <string name="same_folder_name_warning">Cartella già esistente</string>
     <string name="same_bookmarks_warning">Segnalibro già esistente</string>
     <string name="have_sent_bookmark_to_home_screen">Segnalibro inviato sulla home</string>
+    <string name="folder_name_too_long">Nome cartella troppo lungo</string>
     <string name="bookmark_this_page_to_readmodelist">Aggiungi questa pagina alla Lista Lettura dei segnalibri</string>
     <string name="readmodelist_bookmarks_to_show">Lista Lettura</string>
     <string name="bookmark_to_readmodelist_saved">Salvato nella Lista Lettura dei segnalibri.</string>
@@ -482,8 +483,6 @@
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="pref_images_preload_summary">" Consenti al browser di pre-caricare le immagini quando il server lo permette"</string>
     <string name="pref_images_preload_title">Pre-caricamento immagini</string>
-    <string name="pref_content_preload_title">Pre-caricamento contenuto</string>
-    <string name="pref_image_display_control">Controllo visualizzazione immagine</string>
     <string name="pref_images_preload_dialogtitle">Immagini in pre-caricamento...</string>
     <string name="pref_images_preload_value_never_summary">Non pre-caricare mai le immagini</string>
     <string name="pref_images_preload_value_wifi_only_summary">Pre-carica le immagini solo con Wi-Fi</string>
@@ -491,6 +490,14 @@
     <string name="pref_data_preload_value_never_summary">Impedisce al browser di aprire risultati di ricerca sensibile in background</string>
     <string name="pref_link_prefetch_value_never_summary">Impedisce al browser di pre-caricare link in background</string>
     <string name="pref_video_preload_value_never_summary">Impedisce al browser di pre-caricare i video</string>
+    <string name="pref_save_bandwidth_mode_title">Utilizzo dati mobili</string>
+    <string name="pref_save_bandwidth_mode_summary">Quando abilitato, il browser non userà la rete mobile per pre-caricare le pagine o per mostrare automaticamente le immagini</string>
+    <string name="menu_enable_save_bandwidth_mode">Abilita risparmio dati mobili</string>
+    <string name="menu_disable_save_bandwidth_mode">Disabilita risparmio dati mobili</string>
+    <string name="menu_save_bandwidth_mode_first_clicked_txt">Non utilizzare la rete mobile per pre-caricare le pagine o per mostrare automaticamente le immagini</string>
+    <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
+    <string name="menu_save_bandwidth_mode_open_toast">Risparmio dati mobili abilitato</string>
+    <string name="menu_save_bandwidth_mode_close_toast">Risparmio dati mobili disabilitato</string>
     <string name="return_to_homepage">Ritorna alla pagina iniziale</string>
     <string name="notif_install_successful">Download completato</string>
     <string name="in_incognito">La modalità incognito è attivata, non verrà salvata nessuna cronologia.</string>
@@ -564,6 +571,7 @@
     <string name="download_dialog_file_length_nolength_error_txt">Impossibile calcolare dimensione file</string>
     <string name="download_dialog_file_length_lessthan1kb">Meno di 1 Kb</string>
     <string name="download_dialog_default_path_invalid">Percorso download non valido, verrà utilizzato il percorso predefinito</string>
+    <string name="modify_download_path_no_sdcard_dlg_msg">"E' necessario un archivio USB per modificare".</string>
     <string name="menu_theme_setting">Impostazioni Tema</string>
     <string name="menu_hv_swap">Passa a schermo orizzontale</string>
     <string name="menu_hv_swap2">Passa a schermo verticale</string>
@@ -580,6 +588,8 @@
     <string name="readmode_pay">Sottoscrivi il capitolo</string>
     <string name="readmode_recommend">Guarda i consigliati</string>
     <string name="readmode_refresh">Aggiorna</string>
+    <string name="pref_content_preload_title">Pre-caricamento contenuto</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">"Seleziona per uscire dal browser nella schermata di navigazione dopo la chiusura dell'ultima scheda. Non selezionare per tornare alla home"</string>
+    <string name="pref_image_display_control">Controllo visualizzazione immagine</string>
     <string name="search_139">Cerca 139</string>
 </resources>
