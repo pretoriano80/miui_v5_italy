@@ -2333,7 +2333,7 @@ prova in questo modo:
     <string name="wifi_share_other_network">Altre reti Wi-Fi</string>
     <string name="wifi_share_know">OK</string>
     <string name="wifi_share_summary1">Gli utenti MIUI possono condividere tra loro le reti Wi-Fi protette da password.</string>
-    <string name="wifi_share_summary2">" Se un altro utente MIUI condivide la sua rete puoi collegarti direttamente ad essa senza utilizzare la password."</string>
+    <string name="wifi_share_summary2">" Quando attivi la condivisione puoi accedere alle reti Wi-Fi di altri utenti e loro possono accedere alle tue, senza necessità di utilizzare la password"</string>
     <string name="wifi_share_summary3">Condividi le reti Wi-Fi con amici e colleghi</string>
     <string name="wifi_share_add">Condividi le mie reti Wi-Fi</string>
     <string name="wifi_share_count">Hai condiviso %d rete(i)</string>

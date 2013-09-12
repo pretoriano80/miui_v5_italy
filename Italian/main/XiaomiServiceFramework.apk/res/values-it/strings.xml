@@ -308,7 +308,7 @@ has several encryptions to ensure your financial security"</string>
     <string name="progress_success_recharge_title">Ricarica di %1$s Crediti MI completata</string>
     <string name="progress_success_pay_title">Pagamento di %1$s Crediti MI completato</string>
     <string name="progress_success_recharge_summary">Saldo: %1$s Crediti MI</string>
-    <string name="progress_success_pay_summary">Your order has completed successfully!</string>
+    <string name="progress_success_pay_summary">Il tuo ordine è stato completato correttamente!</string>
     <string name="progress_error_recharge_title">Ricarica fallita</string>
     <string name="progress_error_pay_title">Pagamento fallito</string>
     <string name="progress_warning_waiting">"I cambiamente dell'account sono ancora in fase di aggiornamento, riprovare più tardi!"</string>

@@ -792,7 +792,7 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Riduzione rumore a singolo microfono</item>
-        <item>DRiduzione rumore a doppio microfono</item>
+        <item>Riduzione rumore a doppio microfono</item>
     </string-array>
     <string-array name="phone_call_noise_suppression__values">
         <item>1</item>

@@ -758,7 +758,7 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Pagina corrente</item>
+        <item>Pagina iniziale</item>
         <item>Siti più visitati</item>
         <item>Altro</item>
     </string-array>

@@ -254,11 +254,11 @@
     <string name="cleaning_cache">Cancellazione cache...</string>
     <string name="seconds">secondi</string>
     <string name="screensaver_category">Screensaver</string>
-    <string name="screensaver_activate_mode">Slideshow Screensaver</string>
+    <string name="screensaver_activate_mode">Screensaver</string>
     <string name="screensaver_activate_only_charging">Attiva screensaver solo quando in carica</string>
     <string name="screensaver_path">Album screensaver:</string>
     <string name="screensaver_path_not_set">Non impostato</string>
-    <string name="set_screensaver_path_title">lideshow Screensaver</string>
+    <string name="set_screensaver_path_title">Screensaver</string>
     <string name="set_screensaver_path_message">Questo album verrà visualizzato 5 secondi dopo lo spegnimento dello schermo.</string>
     <string name="screensaver_no_data">"Nessuna immagine nell'album."</string>
     <string name="slideshow_time_select_title">Seleziona la durata dello slideshow</string>
