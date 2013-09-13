@@ -137,6 +137,7 @@
     <string name="unstick_conversation">Non evidenziare la conversazione attuale</string>
     <string name="sticked_conversation">La conversazione attuale è già evidenziata</string>
     <string name="unsticked_conversation">La conversazione attuale è già non evidenziata</string>
+    <string name="invalid_conversation">Conversazione non valida</string>
     <string name="no_conversations">Nessuna conversazione.</string>
     <string name="loading_conversations">Caricamento conversazioni...</string>
     <string name="cannot_get_details">Impossibile recuperare dettagli</string>
@@ -428,4 +429,8 @@
     <string name="back_to_message_list">Torna alla lista messaggi</string>
     <string name="select_recipient">Seleziona destinatario</string>
     <string name="send_sms">Invia messaggio</string>
+    <string name="file_share_message_description">vorrei condividere alcuni file con te</string>
+    <string name="addBlackList">Aggiungi alla blacklist</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Aggiungere numero alla blacklist?</string>
+    <string name="batch_adding_progress_message">Operazione in corso...</string>
 </resources>

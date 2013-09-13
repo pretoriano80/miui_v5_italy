@@ -43,7 +43,6 @@
     <string name="theme_select_others">Altro</string>
     <string name="third_party_pickers_activity_title">Imposta %1$s</string>
     <string name="lockstyle_personal_settings">Personalizzazione</string>
-    <string name="component_lockstyle_personal_title">Impostazioni</string>
     <string name="wallpaper_settings">Impostazioni Sfondi</string>
     <string name="desktop_wallpaper">Sfondi Desktop</string>
     <string name="live_wallpaper">Sfondi Live</string>
@@ -131,6 +130,8 @@
     <string name="fail_to_add_account">Impossibile aggiungere account</string>
     <string name="menu_refresh">Aggiorna</string>
     <string name="restore_default_theme_alert">Potresti essere vittima della contraffazione di temi, cerca nel market dei temi o scarica di nuovo il tema.</string>
+    <string name="maml_component_customization_title">Impostazioni componente</string>
+    <string name="default_name">Predefinito</string>
     <string name="resource_app_name">Gestione Crediti</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">Crediti MI</string>
@@ -192,6 +193,7 @@
     <string name="loading_resource_detail_info">Caricamento...</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="account_abnormal_state">"Irregolarità nelle informazioni dell'account, prova ad accedere di nuovo o riprova più tardi!"</string>
+    <string name="component_lockstyle_personal_title">Impostazioni</string>
     <string name="mi_wallpaper_loading">Caricamento Sfondo MI...</string>
     <string name="mi_wallpaper_title">Sfondo MI</string>
     <string name="processing">Elaborazione ...</string>

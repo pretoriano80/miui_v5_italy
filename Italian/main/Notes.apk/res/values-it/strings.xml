@@ -34,12 +34,10 @@
     <string name="menu_move_parent_folder">Cartella precedente</string>
     <string name="menu_rename_folder">Cambia nome</string>
     <string name="info_note_enter_desktop">Nota inserita sulla home</string>
-    <string name="alert_title_delete">Elimina le note selezionate</string>
     <string name="alert_message_delete_notes">Confermi di voler eliminare questa(e) %d nota(e) ?</string>
     <string name="alert_message_delete_folders">Eliminare %1$s cartella(e)?</string>
     <string name="alert_message_delete_folders_notes">Eliminare le %1$s cartelle e le %2$s note?</string>
     <string name="alert_message_delete_note">Sicuro di voler eliminare questa nota ?</string>
-    <string name="alert_title_discard">Annulla</string>
     <string name="alert_message_discard_changes">"Confermi l'annullamento di tutte le modifiche ?"</string>
     <string name="format_move_notes_to_folder">%1$d nota(e) spostata(e) nella cartella %2$s</string>
     <string name="alert_title_edit_anyway">Conferma modifica della nota, potrebbe causare perdita di dati, vuoi continuare?</string>
@@ -77,6 +75,7 @@
     <string name="notify_alarm_action_mute">Silenzia</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine!</string>
     <string name="toast_privacy_mode">Impossibile modificare le note in modalità Guard</string>
+    <string name="toast_folder_privacy_mode">"Can't edit folder in guard mode"</string>
     <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perchè troppo lungo.</string>
     <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
     <string name="snippet_image_stub">[Image]</string>
@@ -97,5 +96,8 @@
     <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenziosa?</string>
     <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
     <string name="close">Chiudi</string>
+    <string name="alert_title_delete">Elimina le note selezionate</string>
+    <string name="alert_title_discard">Annulla</string>
     <string name="pref_title_data_export">Esportazione dati</string>
+    <string name="toast_privacy_mode">Impossibile modificare nota in modalità Guard</string>
 </resources>

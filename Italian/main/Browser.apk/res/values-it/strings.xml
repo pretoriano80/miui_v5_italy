@@ -396,6 +396,7 @@
     <string name="share_link">Condividi link</string>
     <string name="open_all_bookmarks">Apri tutto</string>
     <string name="move_to_up_folder">Precedente</string>
+    <string name="bookmark_folder_needs_title">"E' necessario impostare una cartella"</string>
     <string name="tab_yellowpage">Pagine Gialle</string>
     <string name="tab_quicklinks">Link veloci</string>
     <string name="pref_content_night_read_mode">Abilita Modalità Notturna</string>

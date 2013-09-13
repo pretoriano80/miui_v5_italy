@@ -489,5 +489,7 @@ Prova di nuovo tra %d secondi."</string>
     <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+    <string name="volume_ring_description">Volume suoneria e notifiche</string>
+    <string name="login_website_in_case_forget_password">Visita http://i.xiaomi.com per ripristinare la tua password</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
 </resources>

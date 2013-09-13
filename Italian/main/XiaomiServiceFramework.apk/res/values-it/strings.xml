@@ -348,6 +348,7 @@ We will check for you within two working days"</string>
     <string name="update_contacts">Aggiorna contatti</string>
     <string name="update_contacts_description">Aggiorna i tuoi contatti ed altre informazioni</string>
     <string name="updated_contacts">%s contatti aggiornati</string>
+    <string name="updated_nothing">Nessun aggiornamento!</string>
     <string name="process_result">Risultato:</string>
     <string name="access_token_expired_warning">"L'account Weibo è scaduto, collegarlo di nuovo"</string>
     <string name="access_token_invalid_warning">W"L'account Weibo non è valido, collegarlo di nuovo"</string>
