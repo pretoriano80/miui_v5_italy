@@ -211,7 +211,7 @@
     <string name="pref_extras_website_settings_summary">Impostazioni avanzate dei singoli siti web</string>
     <string name="pref_extras_reset_default_title">Ripristina impostazioni predefinite</string>
     <string name="pref_extras_reset_default">Ripristina valori predef.</string>
-    <string name="pref_extras_reset_default_summary">Ripristina impostazioni predefinite</string>
+    <string name="pref_extras_reset_default_summary">Ripristina le impostazioni predefinite</string>
     <string name="pref_extras_reset_default_dlg">Ripristinare le impostazioni ai valori predefiniti?</string>
     <string name="pref_development_title">Debug</string>
     <string name="pref_development_viewport">Usa viewport più ampio</string>
@@ -388,7 +388,7 @@
     <string name="readmodelist_bookmarks_to_show">Lista Lettura</string>
     <string name="bookmark_to_readmodelist_saved">Salvato nella Lista Lettura dei segnalibri.</string>
     <string name="bookmark_to_readmodelist_not_saved">Impossibile salvare nella Lista Lettura dei segnalibri.</string>
-    <string name="readmode_reach_last_page">"E' stata raggiunta l'ltima pagina"</string>
+    <string name="readmode_reach_last_page">Fine pagina</string>
     <string name="save_bookmark">Salva segnalibro</string>
     <string name="delete_bookmark">Elimina segnalibro</string>
     <string name="send_to_desktop">Invia sulla home</string>
@@ -563,8 +563,8 @@
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Chiudi</string>
     <string name="download_default_path_txt">Imposta come percorso predefinito per i download e non chiedere più in futuro</string>
     <string name="pref_file_download_save_title">Scarica e salva file</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">Ripristina predefinito</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">RipristinaRestore default download folder path settings</string>
+    <string name="pref_file_downlaod_save_reset_default_settings">Ripristina</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">Ripristina le impostazioni predefinite della cartella download</string>
     <string name="pref_file_download_save_modify_default_path">Modifica la cartella dei download</string>
     <string name="download_dialog_file_length_hint_txt">Dimensione file:</string>
     <string name="download_dialog_file_length_nolength_txt">Calcolo dimensione file</string>

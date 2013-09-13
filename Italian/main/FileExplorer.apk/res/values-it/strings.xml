@@ -79,7 +79,7 @@
     <string name="notif_title">Server FTP in esecuzione</string>
     <string name="storage_warning">Archiviazione esterna non disponibile.</string>
     <string name="wifi_state">Stato Wi-Fi</string>
-    <string name="instruction_pre">Sincronizza con PC o Mac</string>
+    <string name="instruction_pre">Collegati via FTP a PC o Mac</string>
     <string name="instruction">Inserire il seguente indirizzo:</string>
     <string name="no_wifi">Nessuna rete Wi-Fi</string>
     <string name="no_wifi_hint">Nessuna rete Wi-Fi</string>
@@ -189,7 +189,7 @@ Ricevi spazio gratuito %1$s"</string>
     <string name="gbk_title">GBK</string>
     <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
     <string name="big5_title">BIG5</string>
-    <string name="big5_summary">The default encoding of the traditional Chinese version Windows system</string>
+    <string name="big5_summary">Codifica predefinita del sistema Windows in Cinese tradizionale</string>
     <string name="stay_awake_title">Mantieni attivo</string>
     <string name="stay_awake_summary">"Mantiene lo schermo attivo durante l'utilizzo di FTP"</string>
     <string name="ftp_transfer_secure">Trasferimento FTP sicuro</string>

@@ -95,7 +95,7 @@
     <string name="contactDetailUpdates">Aggiornamenti</string>
     <string name="searchHint">Cerca contatti</string>
     <string name="menu_search">Cerca</string>
-    <string name="menu_newContact">Salva</string>
+    <string name="menu_newContact">Aggiungi</string>
     <string name="menu_viewContact">Visualizza contatto</string>
     <string name="menu_callNumber">Chiama %s</string>
     <string name="menu_addStar">Preferiti</string>
@@ -496,7 +496,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="hint_findContacts">Trova contatti</string>
     <string name="non_phone_caption">Numero di telefono</string>
-    <string name="non_phone_add_to_contacts">Aggiungi ai contatti</string>
+    <string name="non_phone_add_to_contacts">Aggiungi a contatto esistente</string>
     <string name="activity_title_confirm_add_detail">Aggiungi a contatto</string>
     <string name="non_phone_close">Chiudi</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
@@ -629,7 +629,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="toast_finish_delete_call_log">Il registro chiamate è stato cancellato</string>
     <string name="confirm_delete_contact_all_call_logs">Sicuro di voler eliminare tutte le chiamate registrate per %s ?</string>
     <string name="confirm_delete_selected_all_call_logs">Sicuro di voler cancellare il registro chiamate per tutti i contatti ?</string>
-    <string name="calllog_menu_blacklist">Aggiungi alla Blacklist</string>
+    <string name="calllog_menu_blacklist">Blacklist</string>
     <string name="calllog_menu_edit_before_call">Modifica prima di comporre</string>
     <string name="calllog_menu_send_sms">Invia un messaggio</string>
     <string name="menu_call_ip_number">Componi chiamata IP (componi %s)</string>

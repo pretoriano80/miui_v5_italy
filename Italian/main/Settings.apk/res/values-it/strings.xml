@@ -2350,7 +2350,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="wifi_share_list_empty">Nessuna rete Wi-Fi condivisa</string>
     <string name="wifi_share_connect">Connetti</string>
     <string name="wifi_auto_connect">Connessione automatica</string>
-    <string name="wifi_share_qrcode_title">Condividi QR code con Wi-Fi</string>
+    <string name="wifi_share_qrcode_title">Condividi Wi-Fi con QR code</string>
     <string name="wifi_share_qrcode_summary">Usa la Fotocamera MIUI per scansionare un QR code</string>
     <string name="wifi_share_qrcode_finish">Completato</string>
     <string name="antispam_quiet_mode_title">Modalità Anti-disturbo</string>
