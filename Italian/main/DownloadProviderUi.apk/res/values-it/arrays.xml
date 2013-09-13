@@ -10,8 +10,8 @@
         <item>2 Mb</item>
         <item>1 Mb</item>
         <item>500 Kb</item>
-        <item>200 Kb<</item>
-        <item>100 Kb<</item>
+        <item>200 Kb</item>
+        <item>100 Kb</item>
         <item>Qualsiasi dimensione</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
