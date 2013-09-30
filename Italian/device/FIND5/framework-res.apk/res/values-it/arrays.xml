@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Cellulare</item>
+        <item>Lavoro</item>
+        <item>Fax lavoro</item>
+        <item>Fax casa</item>
+        <item>Cercapersone</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>effettuare chiamate</item>
+        <item>accedere al registro chiamate</item>
+        <item>accedere ai contatti</item>
+        <item>accedere agli SMS</item>
+        <item>inviare SMS</item>
+    </string-array>
+    <string-array name="select_ringtone_old">
+        <item>ringtone_001</item>
+        <item>ringtone_002</item>
+        <item>ringtone_003</item>
+        <item>ringtone_004</item>
+        <item>ringtone_005</item>
+        <item>ringtone_006</item>
+        <item>ringtone_007</item>
+        <item>ringtone_008</item>
+        <item>ringtone_009</item>
+        <item>ringtone_010</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>alarm_001</item>
+        <item>alarm_002</item>
+    </string-array>
+    <string-array name="select_ringtone_new">
+        <item>Journey</item>
+        <item>Joyful</item>
+        <item>Electronics elves</item>
+        <item>Joyous times</item>
+        <item>Fingertips jump</item>
+        <item>Little world</item>
+        <item>Playful la la</item>
+        <item>Real Me</item>
+        <item>Paris sunshine</item>
+        <item>Rainbow island</item>
+        <item>Xylophone</item>
+        <item>Mysterious</item>
+        <item>Buzz</item>
+        <item>Wind chimes</item>
+        <item>Ripple</item>
+        <item>Great time</item>
+        <item>Morning trail</item>
+    </string-array>
+    <array name="dayofweek" />
+    <string-array name="select_music_path_DefualtsItem">
+        <item>Locali</item>
+        <item>Personalizzate</item>
+        <item>Altre suonerie</item>
+        <item>Ripristina predefinite</item>
+    </string-array>
+    <string-array name="select_music_path_noDefualtItem">
+        <item>Locali</item>
+        <item>Personalizzate</item>
+        <item>Altre suonerie</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Dettagli</item>
+        <item>Griglia</item>
+    </string-array>
+    <string-array name="sort_dialog_items">
+        <item>Nome</item>
+        <item>Tipo</item>
+        <item>Data inversa</item>
+        <item>Data</item>
+        <item>Dimensione</item>
+    </string-array>
+    <string-array name="send_dialog_items_ofThree">
+        <item>Bluetooth</item>
+        <item>Invia per SMS</item>
+        <item>Invia tramite Email</item>
+    </string-array>
+    <string-array name="setting_titles">
+        <item>Visualizza</item>
+        <item>Ordina per</item>
+        <item>Protezione</item>
+        <item>Modifica password</item>
+        <item>Conferma prima di eliminare</item>
+        <item>Archivio</item>
+        <item>Formatta</item>
+    </string-array>
+    <string-array name="setting_summarys">
+        <item>Dettagli</item>
+        <item>Ordina</item>
+        <item>Protezione</item>
+        <item>Modifica password</item>
+        <item>Abilita</item>
+        <item>Visualizza lo stato attuale del telefono</item>
+        <item>La formattazione eliminerà tutti i dati</item>
+    </string-array>
+    <string-array name="filebrowser_shortcutbar_title1">
+        <item>Indietro</item>
+        <item>Nuovo</item>
+        <item>Appunti</item>
+        <item>Seleziona</item>
+        <item>Altro</item>
+    </string-array>
+    <string-array name="filebrowser_shortcutbar_title2">
+        <item>Cerca</item>
+        <item>Preferiti</item>
+        <item>Cronologia</item>
+        <item>Impostazioni</item>
+    </string-array>
+    <string-array name="file_select_shortcutbar_title">
+        <item>OK</item>
+        <item>Annulla</item>
+    </string-array>
+    <string-array name="send_dialog_items_ofTwo">
+        <item>Bluetooth</item>
+        <item>Email</item>
+    </string-array>
+</resources>
