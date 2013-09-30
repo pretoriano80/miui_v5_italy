@@ -162,8 +162,8 @@
     <string name="cit_sd_mp3_not_existed">The music.mp3 file could not be found in the root of your SD card, add the file and try the playback test again.</string>
     <string name="cit_playing_sd_mp3">music.mp3 is being played...</string>
     <string name="cit_display_continue">Click on the screen to begin testing</string>
-    <string name="cit_vga_camera_capture">Capture photo</string>
-    <string name="cit_vga_camera_delete">Delete photo</string>
+    <string name="cit_vga_camera_capture">Scata foto</string>
+    <string name="cit_vga_camera_delete">Elimina foto</string>
     <string name="cit_vga_camera_deleted">Photo has been deleted</string>
     <string name="cit_vga_camera_capture_fail">Failed to capture photo</string>
     <string name="cit_gps_disabled">GPS is not enabled, turn on GPS from the toggle menu</string>
@@ -218,6 +218,7 @@
     <string name="cit_tool_log_file_not_exist">%s does not exist</string>
     <string name="cit_tool_log_generate_bugreport">Generating bug report...</string>
     <string name="cit_tool_log_toast_generate_bugreport">Bug report may take up to 10 seconds to generate</string>
+    <string name="cit_tool_log_no_sdcard">Operation failed, please insert SD card</string>
     <string name="cit_tool_bluetooth">Bluetooth test tools</string>
     <string name="cit_tool_bluetooth_on">Enable Bluetooth</string>
     <string name="cit_tool_bluetooth_mode">Bluetooth testing mode</string>
@@ -259,7 +260,4 @@
     <string name="cit_tool_wifi_rx_ap_type_error">Errore punto di accesso, reinserisci dettagli bss / adhoc</string>
     <string name="cit_tool_wifi_rx_ap_not_null">Il nome del punto di accesso non può essere vuoto</string>
     <string name="cit_tool_wifi_exit">Esci</string>
-    <string name="cit_keyboard_camera">Pulsante test: CAMERA</string>
-    <string name="cit_keyboard_focus">Pulsante test: FOCUS</string>
-    <string name="cit_main_camera_sdcard_error">Scheda SD piena, impossibile salvare</string>
 </resources>

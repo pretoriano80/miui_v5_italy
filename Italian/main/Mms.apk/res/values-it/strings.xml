@@ -397,6 +397,7 @@
     <string name="mx_offline">Non in linea</string>
     <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, potrebbero essere applicati dei costi dal tuo operatore. Continuare?"</string>
     <string name="mx_enable_int_popup_msg">"I Messaggi Cloud consentono di inviare messaggi tra utenti MIUI. Per l'attivazione è necessario l'invio di un SMS internazionale, il costo dipende dalle tariffe previste dall'operatore".</string>
+    <string name="mx_activation_done">Messaggi Cloud abilitati</string>
     <string name="loading_mms">Caricamento MMS…</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>
     <string name="unknown_num">Numero sconosciuto</string>

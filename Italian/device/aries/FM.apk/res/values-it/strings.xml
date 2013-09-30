@@ -108,6 +108,7 @@
     <string name="alert_message_delete_station">Sicuro di voler eliminare la stazione selezionata?</string>
     <string name="toast_delete_station">%sMHz è stata eliminata.</string>
     <string name="msg_noantenna_message">Inserisci le cuffie per utilizzare la Radio FM.</string>
+    <string name="msg_do_not_support_fm">La Radio FM non è supportata su questo dispositivo.</string>
     <string name="exit_fm">Esci</string>
     <string name="toast_sleep_mode">Ferma radio FM in %s</string>
     <string name="status_recording">%s</string>
@@ -127,6 +128,23 @@
     <string name="next_station">successiva</string>
     <string name="reduce_af">riduci frequenza</string>
     <string name="increase_af">aumenta frequenza</string>
+    <string name="new_frequency">Nuova frequenza</string>
+    <string name="alert_invalid_frequency">Frequenza non valida!</string>
+    <string name="hint_frequency">Frequenza: %1$s ~ %2$s</string>
+    <string name="hint_label">Etichetta</string>
+    <string name="frequency_mhz_fomart">%s MHz</string>
+    <string name="context_menu_title">%s MHz</string>
+    <string name="context_menu_item_edit">Modifica</string>
+    <string name="context_menu_item_delete">Elimina</string>
+    <string name="context_menu_item_favorite">Aggiungi ai predefiniti</string>
+    <string name="context_menu_item_unfavorite">Rimuovi dai predefiniti</string>
+    <string name="toast_channel_searched">%1$d stazioni scansionate.</string>
+    <string name="label_recording">Registrazione: %s</string>
+    <string name="toast_added_to_presets">Aggiunto ai predefiniti</string>
+    <string name="toast_removed_from_presets">Rimosso dai predefiniti</string>
+    <string name="toast_fm_starting">FM in fase di avvio，attendere prego…</string>
+    <string name="toast_fm_stoping">FM in fase di arresto, attendere prego…</string>
+    <string name="toast_fm_seeking">Ricerca stazione, attendere prego…</string>
     <string name="aud_output_mode">Modalità Uscita Audio</string>
     <string name="sel_audio_output">Seleziona uscita audio</string>
 </resources>

@@ -146,6 +146,7 @@
     <string name="notify_traffic_settings_cancel_hint">Monitoraggio traffico e relative notifiche verranno disabilitati. Uscire adesso?</string>
     <string name="carrier_settings_button">Impostazioni Operatore</string>
     <string name="sync_traffic_no_cmd_title">Nessun modello SMS</string>
+    <string name="sync_traffic_no_cmd_detail_custom_config">"Puoi provare: 1.Impostazioni >> Regola traffico dati >> Prsonalizza regolazione impostazioni, oppure sulla pagna principale della Regolazione Traffico >> Regola impostazioni personalizzate; 2. Inserisci la tua Città, Provincia e codice operatore in questa discussione del forum MIUI: http://www.miui.com/forum-172-1.html"</string>
     <string name="sync_traffic_no_cmd_detail">"Inserisci la tua Città, Provincia e codice operatore in questa discussione del forum MIUI: http://www.miui.com/forum-172-1.html. Grazie."</string>
     <string name="version_label">"Versione: "</string>
     <string name="sms_template_updated_label">"Aggiornato: "</string>
@@ -160,5 +161,14 @@
     <string name="text_done">Ok</string>
     <string name="text_save">Salva</string>
     <string name="adjust_no_network_update_data_fail">Impossibile aggiornare i dati, prova di nuovo dopo aver controllato le impostazioni di connessione.</string>
+    <string name="custom_adjust_title">Regola impostazioni personalizzate</string>
+    <string name="custom_adjust_sender">Numero mittente</string>
+    <string name="custom_adjust_command">Contenuto dal mittente</string>
+    <string name="custom_adjust_receiver">Numero ricevente</string>
+    <string name="custom_adjust_sender_hint">"Numero utilizzato dall'operatore per ricevere richieste dall'utente"</string>
+    <string name="custom_adjust_command_hit">Contenuto da inviare</string>
+    <string name="custom_adjust_receiver_hint">"Numero utilizzato dall'operatore per inviare dettagli"</string>
+    <string name="custom_adjust_recevier_same_with_sender">Lo stesso del numero mittente</string>
+    <string name="custom_adjust_is_empty">%s è vuoto!</string>
     <string name="app_has_deleted">%s è stato eliminato.</string>
 </resources>
