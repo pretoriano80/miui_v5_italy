@@ -398,8 +398,7 @@ i tuoi amici."</string>
     <string name="open_public_title">Condividi pubblicamente</string>
     <string name="open_public_message">Genera un URL ed invialo agli amici</string>
     <string name="publishing">Pubblicazione in corso, attendere prego...</string>
-    <string name="publish_succeeded">Album published</string>
-    <string name="publish_failed">Failed to publish.</string>
+    <string name="publish_failed">Pubblicazione fallita.</string>
     <string name="publish_succeeded">Album pubblicato</string>
     <string name="unpublish_failed">Impossibile annullarepubblicaizone!</string>
     <string name="send_public_url">Invia URL album</string>
