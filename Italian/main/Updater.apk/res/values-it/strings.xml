@@ -163,5 +163,8 @@
     <string name="comment_upload_success">Commento inviato correttamente!</string>
     <string name="comment_invalid">Tocca per commentare</string>
     <string name="comment_upload_not_logined">Accedi prima di inviare commenti</string>
+    <string name="fourgrid_hint_text">Grazie per aver scelto la versione developer di MIUI. Comunicaci cosa ne pensi ed aiutaci a rendere MIUI una migliore ROM Android!</string>
+    <string name="fourgrid_notificaiont">Display in status bar</string>
+    <string name="fourgrid_no_notificaiont">"Don't display in status bar"</string>
     <string name="install_sina">"Installa l'applicazione Sina"</string>
 </resources>

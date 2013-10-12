@@ -146,7 +146,7 @@
     <string name="settings_custom_notification">Notifiche personalizzate</string>
     <string name="settings_all_app_display_loading">Caricamento, attendere prego</string>
     <string name="settings_show_notificationBar_notification">Mostra notifiche nella barra</string>
-    <string name="settings_show_statusBar_notification">Mostra notifiche nell abarra di stato</string>
+    <string name="settings_show_statusBar_notification">Mostra notifiche nella barra di stato</string>
     <string name="filter_item_preview_image">Anteprima</string>
     <string name="filter_item_description">Puoi impostare il tipo di notifica da \"Impostazioni-Impostazioni barra notifiche-Notifiche personalizzate\"</string>
     <string name="settings_notification_bar">Notification bar</string>

@@ -15,6 +15,8 @@
     <string name="menu_select_station">Seleziona stazione</string>
     <string name="menu_new_station">Aggiungi stazione</string>
     <string name="menu_save_station">Salva stazione</string>
+    <string name="menu_save_station_presets">Aggiungi alle preselezioni</string>
+    <string name="menu_exit">Esci</string>
     <string name="title_select_station">Seleziona Stazione - %s</string>
     <string name="menu_stats">Statistiche FM RF</string>
     <string name="button_text_stop">Stop</string>
@@ -141,10 +143,13 @@
     <string name="toast_channel_searched">%1$d stazioni scansionate.</string>
     <string name="label_recording">Registrazione: %s</string>
     <string name="toast_added_to_presets">Aggiunto ai predefiniti</string>
+    <string name="toast_added_to_list">Aggiunta alla lista stazioni</string>
     <string name="toast_removed_from_presets">Rimosso dai predefiniti</string>
     <string name="toast_fm_starting">FM in fase di avvio，attendere prego…</string>
     <string name="toast_fm_stoping">FM in fase di arresto, attendere prego…</string>
     <string name="toast_fm_seeking">Ricerca stazione, attendere prego…</string>
+    <string name="station_check_favorite">Aggiungi ai preferiti</string>
     <string name="aud_output_mode">Modalità Uscita Audio</string>
+    <string name="menu_save_station">Salva stazione</string>
     <string name="sel_audio_output">Seleziona uscita audio</string>
 </resources>

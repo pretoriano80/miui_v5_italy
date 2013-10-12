@@ -210,7 +210,7 @@
     <string name="pref_extras_website_settings">Impostazioni siti web</string>
     <string name="pref_extras_website_settings_summary">Impostazioni avanzate dei singoli siti web</string>
     <string name="pref_extras_reset_default_title">Ripristina impostazioni predefinite</string>
-    <string name="pref_extras_reset_default">Ripristina valori predef.</string>
+    <string name="pref_extras_reset_default">Ripristina valori predefiniti</string>
     <string name="pref_extras_reset_default_summary">Ripristina le impostazioni predefinite</string>
     <string name="pref_extras_reset_default_dlg">Ripristinare le impostazioni ai valori predefiniti?</string>
     <string name="pref_development_title">Debug</string>
@@ -418,6 +418,10 @@
     <string name="tab_yellowpage">Pagine Gialle</string>
     <string name="tab_quicklinks">Link veloci</string>
     <string name="pref_content_night_read_mode">Abilita Modalità Notturna</string>
+    <string name="general_set_default_browser_title">Imposta come browser predefinito</string>
+    <string name="general_set_default_browser_dialog_summary">Utilizza applicazioniintegrate a MIUI per un utilizzo più veloce e performante</string>
+    <string name="general_set_default_browser_dialog_close_txt">Chiudi</string>
+    <string name="general_set_default_browser_dialog_ok_txt">OK</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Uscita da ultima scheda</string>
     <string name="url_hint">Cerca o digita URL</string>
     <string name="file_picker_new_folder">Nuova cartella</string>
@@ -479,6 +483,7 @@
     <string name="tab_closed">Scheda chiusa.</string>
     <string name="search_cancel">Annulla</string>
     <string name="search">Cerca</string>
+    <string name="clear_search_history">Cancella cronologia</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_sogou">Segou</string>
     <string name="search_google">Google</string>
@@ -583,14 +588,17 @@
     <string name="download_default_path_txt">Imposta come percorso predefinito per i download e non chiedere più in futuro</string>
     <string name="pref_file_download_save_title">Scarica e salva file</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Ripristina</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">Ripristina le impostazioni predefinite della cartella download</string>
-    <string name="pref_file_download_save_modify_default_path">Modifica la cartella dei download</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">Ripristina la cartella download predefinita</string>
+    <string name="pref_file_download_save_modify_default_path">Modifica la cartella download</string>
     <string name="download_dialog_file_length_hint_txt">Dimensione file:</string>
     <string name="download_dialog_file_length_nolength_txt">Calcolo dimensione file</string>
     <string name="download_dialog_file_length_nolength_error_txt">Impossibile calcolare dimensione file</string>
     <string name="download_dialog_file_length_lessthan1kb">Meno di 1 Kb</string>
     <string name="download_dialog_default_path_invalid">Percorso download non valido, verrà utilizzato il percorso predefinito</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">"E' necessario un archivio USB per modificare".</string>
+    <string name="bottom_bar_tabs_long_click_up_tip_txt">Scorri in alto per chiudere</string>
+    <string name="bottom_bar_tabs_long_click_down_tip_txt">Scorri in basso per chiudere</string>
+    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Ultima scheda</string>
     <string name="pref_content_preload_title">Pre-caricamento contenuto</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">"Seleziona per uscire dal browser nella schermata di navigazione dopo la chiusura dell'ultima scheda. Non selezionare per tornare alla home"</string>
     <string name="pref_image_display_control">Controllo visualizzazione immagine</string>
