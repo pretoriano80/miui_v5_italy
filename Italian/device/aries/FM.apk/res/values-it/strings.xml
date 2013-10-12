@@ -149,7 +149,4 @@
     <string name="toast_fm_stoping">FM in fase di arresto, attendere prego…</string>
     <string name="toast_fm_seeking">Ricerca stazione, attendere prego…</string>
     <string name="station_check_favorite">Aggiungi ai preferiti</string>
-    <string name="aud_output_mode">Modalità Uscita Audio</string>
-    <string name="menu_save_station">Salva stazione</string>
-    <string name="sel_audio_output">Seleziona uscita audio</string>
 </resources>
