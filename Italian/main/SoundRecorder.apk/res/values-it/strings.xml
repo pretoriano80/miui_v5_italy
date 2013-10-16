@@ -68,9 +68,9 @@
     <string name="preference_scenes">Impostazioni scene</string>
     <string name="preference_record_type_dialog_title">Seleziona un tipo di registrazione</string>
     <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
-    <string name="preference_silent_mode">Registrazione silenzioa</string>
+    <string name="preference_silent_mode">Registrazione silenziosa</string>
     <string name="preference_enable_earpiece_title">Usa il ricevitore per audio</string>
-    <string name="preference_enable_earpiece_summary">Us ail ricevitore per riprodurre adio esternamente</string>
+    <string name="preference_enable_earpiece_summary">Usa il ricevitore per riprodurre audio esternamente</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
@@ -84,5 +84,5 @@
     <string name="view_list_of_recordings">Mostra registrazioni</string>
     <string name="search_for_recordings_in_folders">Cerca registrazioni nelle cartelle</string>
     <string name="back">Indietro</string>
-    <string name="preference_silent_mode_summary">Imposta registrazione silenzioa</string>
+    <string name="preference_silent_mode_summary">Imposta registrazione silenziosa</string>
 </resources>
