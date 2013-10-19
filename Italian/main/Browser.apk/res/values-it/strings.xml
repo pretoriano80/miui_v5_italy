@@ -599,6 +599,13 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Scorri in alto per chiudere</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Scorri in basso per chiudere</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Ultima scheda</string>
+    <string name="user_defined_webpage">Aggiungi URL</string>
+    <string name="quicklink_user_define_webpage_title">Nome</string>
+    <string name="quicklink_user_define_webpage_url">URL</string>
+    <string name="user_defined_webpage_title">Aggiungi URL alla pagina iniziale</string>
+    <string name="quicklinks_most_visited">Aggiungi i siti più visitati alla pagina iniziale</string>
+    <string name="quicklinks_most_visited_subtitle">Mostra i siti visitiati recentemente nella nuova scheda</string>
+    <string name="quicklinks_group_default_subtitle">Vuoto</string>
     <string name="pref_content_preload_title">Pre-caricamento contenuto</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">"Seleziona per uscire dal browser nella schermata di navigazione dopo la chiusura dell'ultima scheda. Non selezionare per tornare alla home"</string>
     <string name="pref_image_display_control">Controllo visualizzazione immagine</string>

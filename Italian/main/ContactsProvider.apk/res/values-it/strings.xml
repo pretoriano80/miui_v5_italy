@@ -19,6 +19,7 @@
     <string name="debug_dump_email_sender_picker">Scegli un programma pe rinviar eil file</string>
     <string name="debug_dump_email_subject">DB Contatti allegato</string>
     <string name="debug_dump_email_body">In allegato il mio database dei contatti con tutte le relative informazioni. Maneggiare con attenzione.</string>
+    <string name="third_party_delete_contact_info">\"%s\" sta eliminando i tuoi contatti Xiaomi, utilizza i tuoi Contatti di sistema per una maggiore sicurezza.</string>
     <string name="pound_search_tip">Digita il numero dopo \"#\" per cercare Contatti</string>
     <string name="create_contact">Crea contatto</string>
     <string name="send_sms">Invia SMS</string>

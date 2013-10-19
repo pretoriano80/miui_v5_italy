@@ -113,6 +113,7 @@
     <string name="msg_do_not_support_fm">La Radio FM non è supportata su questo dispositivo.</string>
     <string name="exit_fm">Esci</string>
     <string name="toast_sleep_mode">Ferma radio FM in %s</string>
+    <string name="toast_sleep_mode_exit">Modalità Sleep annullata.</string>
     <string name="status_recording">%s</string>
     <string name="status_recording_time">(Registrazione:%s)</string>
     <string name="record_file_format">%1$s_%2$s</string>
@@ -149,4 +150,10 @@
     <string name="toast_fm_stoping">FM in fase di arresto, attendere prego…</string>
     <string name="toast_fm_seeking">Ricerca stazione, attendere prego…</string>
     <string name="station_check_favorite">Aggiungi ai preferiti</string>
+    <string name="toast_fm_recorder_internal_error">Errore registrazione FM!</string>
+    <string name="toast_fm_recorder_storage_full">Memoria piena, uimpossibile registrare!</string>
+    <string name="toast_fm_not_stated">FM non avviata</string>
+    <string name="aud_output_mode">Modalità Uscita Audio</string>
+    <string name="menu_save_station">Salva stazione</string>
+    <string name="sel_audio_output">Seleziona modalità di uscita audio</string>
 </resources>

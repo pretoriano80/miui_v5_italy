@@ -1,4 +1,4 @@
-# MIUI Italian Translation
+# MIUI ROM Italian Translation
 
 #####Since 2010 provided by Mish @ www.miui.it
 
