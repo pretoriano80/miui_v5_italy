@@ -187,7 +187,6 @@
     <string name="open_sync_title">Sincronizzazione necessaria</string>
     <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi sincronizzare adesso?"</string>
     <string name="open">Apri sincronizzazione</string>
-    <string name="alert_message_initial_cloud">Il sistema caricherà automaticamente le foto, vecchie e nuove, e gli screenshoot solo in presenza di connessione Wi-Fi.</string>
     <string name="cloud_gallery_no_pictures">Nessuna immagine trovata su MiCloud</string>
     <string name="no_network_connected">Nessuna connessione di rete disponibile</string>
     <string name="initial_cloud_text">In ogni momento e ovunque tu sia, guarda e organizza le tue foto</string>
@@ -195,7 +194,6 @@
     <string name="storage_no_space">Spazio di archiviazione esaurito</string>
     <string name="add_to_cloud_album">Aggiungi al Cloud</string>
     <string name="move_to_cloud_album">Sposta nel Cloud</string>
-    <string name="send_to_cloud_failed_message">"Impossibile inviare questo elemnto nell'archivio Cloud"</string>
     <string name="add_to_cloud_successfully_message">"Aggiunto all'album MiCloud."</string>
     <string name="add_to_cloud_space_full_message">Album MiCloud pieno.</string>
     <string name="add_to_cloud_local_space_full_message">Memoria piena o non ancora pronta.</string>
@@ -209,18 +207,15 @@
     <string name="cant_delete_cloud_album">Impossibile eliminare: %s è un album di sistema oppure è condiviso con altri utenti.</string>
     <string name="cannot_delete_sharer_photo">Impossibile eliminare %s elemento(i) caricati da altri utenti.</string>
     <string name="share_album">Condividi album</string>
-    <string name="share_album_qr_code">QR code</string>
     <string name="share_album_owner">Proprietario</string>
     <string name="scan_qr_code_top_text">I membri possono vedere e aggiungere immagini.</string>
     <string name="scan_qr_code_buttom_text">Scansione il QR code per vedere questo album.</string>
-    <string name="request_qr_code">Richiesta QR code, attendere prego...</string>
     <string name="request_qr_code_failed">Richiesta QR code fallita, premi per riprovare</string>
     <string name="retry_to_request_qr_code">Riprova</string>
     <string name="album_member">Membro album %s</string>
     <string name="add_sharer">Aggiungi partecipante alla condivisione</string>
     <string name="album_name">Nome lbum</string>
     <string name="already_apply_album">Aprire %1$s?</string>
-    <string name="can_modified">Consenti ai partecipanti di aggiungere immagini</string>
     <string name="no_picture_or_video">Nessuna immagine o video</string>
     <string name="camera_view_none_message">Le foto scattate verranno visualizzate qui.</string>
     <string name="none_picture">Nessun aimmagine trovata in Galleria</string>
@@ -249,11 +244,10 @@ i tuoi amici."</string>
     <string name="contact_photo">Foto contatto</string>
     <string name="projection">Proiezione</string>
     <string name="cut">Taglia e salva</string>
-    <string name="turn_left">Ruota a sinistra</string>
-    <string name="turn_right">Ruota a destra</string>
     <string name="more">Altro</string>
     <string name="deleting_files">Eliminazione file...</string>
-    <string name="bigscrren_slide_exit">Esci dallo slideshow via TV</string>
+    <string name="bigscreen_slide_exit">Esci dallo slideshow via TV</string>
+    <string name="bigscreen_slide_fail_cause_loading">"Carica la presentazione dopo che l'immagine è stata caricata".</string>
     <string name="defalt_local_mobile">mobile</string>
     <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
     <string name="cloudfolder_contain_invalidate_char">"Il nome della cartella non puo contenere '%s'"</string>
@@ -288,7 +282,6 @@ i tuoi amici."</string>
     <string name="set_screensaver_path_title">Screensaver</string>
     <string name="set_screensaver_path_message">Questo album verrà visualizzato 5 secondi dopo lo spegnimento dello schermo.</string>
     <string name="set_screensaver_path_message_if_only_charging">Le immagini in questo album verranno mostrate nello screensaver solo quando il telefono sarà in carica.</string>
-    <string name="screensaver_no_data">"Nessuna immagine nell'album."</string>
     <string name="slideshow_time_select_title">Seleziona la durata dello slideshow</string>
     <string name="slideshow_time_title">Durata slideshow</string>
     <string name="rename_failed_duplicated_name">Impossibile rinominare, nome già esistente.</string>
