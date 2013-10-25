@@ -378,7 +378,7 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
     <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
-    <string name="pref_camera_volumekey_function_entry_shutter">Suono</string>
+    <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
     <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Funzioni tasto volume</string>
     <string name="pref_camera_volumekey_function_default">zoom</string>

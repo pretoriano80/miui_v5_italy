@@ -14,7 +14,7 @@
     <string name="menu_scan_stop">Interrompi Ricerca</string>
     <string name="menu_select_station">Seleziona stazione</string>
     <string name="menu_new_station">Aggiungi stazione</string>
-    <string name="menu_save_station">Salva stazione</string>
+    <string name="menu_save_station_list">Aggiungi alla lista</string>
     <string name="menu_save_station_presets">Aggiungi alle preselezioni</string>
     <string name="menu_exit">Esci</string>
     <string name="title_select_station">Seleziona Stazione - %s</string>
@@ -97,7 +97,7 @@
     <string name="station_freq_format">%sMHz</string>
     <string name="station_name_already_used">Nome stazione già in uso. Scegliere un altro nome</string>
     <string name="toast_save_station">%sMHz è stata salvata</string>
-    <string name="hint_station_name">Inserisaci </string>
+    <string name="hint_station_name">Inserisci</string>
     <string name="alert_title_save_station">Salva stazione - %s</string>
     <string name="edit_station">Modifica Stazione</string>
     <string name="toast_edit_station">Le modifiche sono state salvate</string>
@@ -113,6 +113,7 @@
     <string name="msg_do_not_support_fm">La Radio FM non è supportata su questo dispositivo.</string>
     <string name="exit_fm">Esci</string>
     <string name="toast_sleep_mode">Ferma radio FM in %s</string>
+    <string name="toast_sleep_mode_exit">Modalità Sleep annullata.</string>
     <string name="status_recording">%s</string>
     <string name="status_recording_time">(Registrazione:%s)</string>
     <string name="record_file_format">%1$s_%2$s</string>
@@ -149,4 +150,7 @@
     <string name="toast_fm_stoping">FM in fase di arresto, attendere prego…</string>
     <string name="toast_fm_seeking">Ricerca stazione, attendere prego…</string>
     <string name="station_check_favorite">Aggiungi ai preferiti</string>
+    <string name="toast_fm_recorder_internal_error">Errore registrazione FM.</string>
+    <string name="toast_fm_recorder_storage_full">Memoria piena,la registrazione non può essere effettuata</string>
+    <string name="toast_fm_not_stated">Radio FM non avviata</string>
 </resources>
