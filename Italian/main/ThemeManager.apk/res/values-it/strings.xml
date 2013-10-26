@@ -116,8 +116,8 @@
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">Crediti MI</string>
     <string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_status_changed_dialog_title">Stato scheda SD modificato</string>
-    <string name="sdcard_status_changed_dialog_message">Uscita in corso. Riaprire questa applicazione per aggiornare la disponibilità.</string>
+    <string name="sdcard_not_mounted_dialog_title">Scheda SD non rilevata.</string>
+    <string name="sdcard_not_mounted_dialog_message">Scheda SD non disponibile, inserirne una adesso.</string>
     <string name="resource_mute">Nessuna</string>
     <string name="resource_default">Suoneria predefinita</string>
     <string name="resource_ringtone_default">Suonerie</string>
@@ -130,7 +130,7 @@
     <string name="description_download">Download:</string>
     <string name="description_version">Versione:</string>
     <string name="description_summary">Descrizione:</string>
-    <string name="description_version_szie">Version: %1$s Size: %2$s</string
+    <string name="description_version_szie">Version: %1$s Size: %2$s</string>
     <string name="resource_local">%1$s locali</string>
     <string name="resource_online">%1$s online</string>
     <string name="resource_selected">In evidenza</string>
