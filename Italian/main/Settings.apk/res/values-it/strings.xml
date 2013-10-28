@@ -1012,9 +1012,14 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="show_background_processes">Mostra processi nella cache</string>
     <string name="reset_app_preferences">Cancella preferenze</string>
     <string name="reset_app_preferences_title">Cancellare preferenze applicazioni ?</string>
-    <string name="reset_app_preferences_desc">"Questo cancellerà le preferenze per:
+    <string name="reset_app_preferences_desc">"Questo resetterà tutte le preferenze per:
 
- "</string>
+ "<li>Disabiliterà le applicazioni</li>"
+ "<li>Disabiliterà le notifiche delle app.</li>"
+ "<li>Disibiliterà le azioni predefinite delle app.</li>"
+ "<li>Disibiliterà le restrizioni dei dati in background delle app.</li>"
+
+ Non perderete tutti i dati delle app."</string>
     <string name="reset_app_preferences_button">Cancella</string>
     <string name="manage_space_text">Gestisci spazio</string>
     <string name="filter">Filtra</string>
@@ -1944,7 +1949,7 @@ Consentire l'avvio automatico?"</string>
     <string name="xiaomi_account">Account Xiaomi</string>
     <string name="sync_settings">Account e sinc.</string>
     <string name="sms_received_sound_title">Suono SMS ricevuto</string>
-    <string name="sms_delivered_sound_title">Suono SMS consegnato</string>
+    <string name="sms_delivered_sound_title">Suono SMS inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono SMS ricevuto</string>
     <string name="sms_delivered_sound_dialog_title">Scegli suono SMS consegnato</string>
     <string name="haptic_feedback_level">Livello vibrazione</string>
@@ -2166,7 +2171,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scanner_provider">Sicurezza garantita da %s</string>
     <string name="virus_scanner_auto_update">Aggiornamento automatico</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
-    <string name="virus_scanner_manual_update">Aggiorna manualmente %s</string>
+    <string name="virus_scanner_manual_update">Aggiornato manualmente il %s</string>
     <string name="virus_scanner_lib_updating">Aggiornamento database...</string>
     <string name="virus_scanner_lib_already_latest">Database virus aggiornato</string>
     <string name="virus_scanner_lib_update_failed">Aggiornamento database virus fallito!</string>
@@ -2199,7 +2204,7 @@ Consentire l'avvio automatico?"</string>
     <string name="dolby_eq_enter_alert_title">Apri modalità EQ Dolby</string>
     <string name="dolby_eq_enter_alert_msg">Vuoi aprire la modalità Equalizzatore Dolby ?</string>
     <string name="dolby_volume_leveler">Livello Volume</string>
-    <string name="dolby_dialogue_enhancer">Enfatizzazione Dialoghi</string>
+    <string name="dolby_dialogue_enhancer">Enfatizza Dialoghi</string>
     <string name="dolby_surround_virtualizer">Suono Virtuale Surround</string>
     <string name="dirac_mode_off">Dirac disattivato</string>
     <string name="dirac_mode_in_ear">Cuffie In-Ear Xiaomi</string>

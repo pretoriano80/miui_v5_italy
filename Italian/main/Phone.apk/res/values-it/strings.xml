@@ -888,7 +888,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="enable_sim_pin_miui">Abilita PIN SIM</string>
     <string name="enable_telocation_title_miui">Mostra posizione</string>
     <string name="enforce_proximity_summary_miui">Previene interazioni accidentali con il telefono</string>
-    <string name="enforce_proximity_title_miui">Potenzia Sens. prossimità</string>
+    <string name="enforce_proximity_title_miui">Potenzia sens. prossimità</string>
     <string name="enter_pin2_text_miui">PIN2</string>
     <string name="fdn_change_pin_sum_miui">Cambia PIN per accesso NSF</string>
     <string name="fdn_disabled_miui">Numeri di selezione fissa non attivi</string>

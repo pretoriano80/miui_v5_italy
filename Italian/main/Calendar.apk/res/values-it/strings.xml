@@ -74,7 +74,7 @@
     <string name="email_picker_label">Email con</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="quick_response_settings">Risposte rapide</string>
-    <string name="quick_response_settings_summary">Modifica risposte predefinite quando invii a ospiti</string>
+    <string name="quick_response_settings_summary">Modifica le risposte rapide predefinite</string>
     <string name="quick_response_settings_title">Modifica risposte rapide</string>
     <string name="quick_response_settings_edit_title">Risposte rapide</string>
     <string name="quick_response_dialog_title">Scegli risposte rapide</string>

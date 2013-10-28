@@ -13,8 +13,6 @@
     <string name="bl_no_block_sms">Tutti i messaggi bloccati verranno registrati qui</string>
     <string name="bl_no_blacklist">Blacklist vuota</string>
     <string name="log_count">(%d)</string>
-    <string name="twelve_hour_time_format">a h:mm</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="tab_block_log_unKnowNumber">Numero sconosciuto</string>
     <string name="marked_by_user">"segnalato dall'utente"</string>
     <string name="marked_by_others">%d persone lo hanno segnalato come</string>
@@ -103,7 +101,7 @@
     <string name="qm_other_settings">Avanzate</string>
     <string name="qm_other_settings_group">Altre impostazioni</string>
     <string name="qm_other_settings_info">Regola le azioni per chiamate e messaggi quando la modalità Anti-disturbo è attivata</string>
-    <string name="qm_repeated_call_setting_title">Non limitare le chiamte in arrivoripetute</string>
+    <string name="qm_repeated_call_setting_title">Non limitare le chiamate in arrivo ripetute</string>
     <string name="qm_repeated_call_summary_none">"Non creare un'eccezione per le chiamate ripetute"</string>
     <string name="qm_repeated_call_summary_3min">"La seconda chiamata nell'arco di tre minuti proveniente dallo stesso contatto non verrà silenziata"</string>
     <string name="qm_special_call_setting_group">Eccezioni</string>
@@ -121,4 +119,6 @@
     <string name="quiet_mode">Modalità Anti-disturbo</string>
     <string name="st_bl_block_setting_title">Gestisci avvisi</string>
     <string name="st_bl_setting_group">Impostazioni blacklist</string>
+    <string name="twelve_hour_time_format">a h:mm</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
 </resources>

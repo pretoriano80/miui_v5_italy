@@ -777,6 +777,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="rebuild_t9_index_dialog_message">Ricostruzione indice dati in corso…</string>
     <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice dati</string>
     <string name="pref_key_rebuild_t9_index_message">Consente di correggere gli errori nella ricerca contatti </string>
+    <string name="pref_key_sim_manage">Gestione SIM</string>    
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_title">Impostazione automatica foto</string>
     <string name="pref_key_photo_word_summary">Imposta automaticamente le foto per i contatti che ne sono privi</string>

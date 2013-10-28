@@ -30,11 +30,11 @@
     <string name="pref_camera_sound_default">on</string>
     <string name="pref_camera_sound_title_entry_off">Disattivato</string>
     <string name="pref_camera_sound_title_entry_on">Attivato</string>
-    <string name="pref_camera_sound_entry_off">Disattivato</string>
-    <string name="pref_camera_sound_entry_on">Attivato</string>
+    <string name="pref_camera_sound_entry_off">Off</string>
+    <string name="pref_camera_sound_entry_on">On</string>
     <string name="pref_camera_auto_focus_title_entry_off">Off</string>
     <string name="pref_camera_auto_focus_title_entry_on">On</string>
-    <string name="pref_captrue_mirror_title">Funzione specchio (fotoc.frontale)</string>
+    <string name="pref_captrue_mirror_title">Fotoc.frontale senza eff.specchio</string>
     <string name="pref_captrue_mirror_entry_off">Disattivato</string>
     <string name="pref_captrue_mirror_entry_on">Attivato</string>
     <string name="pref_captrue_mirror_default">off</string>
@@ -137,8 +137,8 @@
     <string name="pref_camera_coloreffect_entry_aqua">Acqua</string>
     <string name="pref_camera_touchafaec_default">touch-on</string>
     <string name="pref_camera_touchafaec_title">Tocco AF/AEC</string>
-    <string name="pref_camera_touchafaec_entry_off">Disattivato</string>
-    <string name="pref_camera_touchafaec_entry_on">Attivato</string>
+    <string name="pref_camera_touchafaec_entry_off">Off</string>
+    <string name="pref_camera_touchafaec_entry_on">On</string>
     <string name="pref_camera_sharpness_entry_level0">Livello 0</string>
     <string name="pref_camera_sharpness_entry_level1">Livello 1</string>
     <string name="pref_camera_sharpness_entry_level2">Livello 2(Default)</string>
@@ -177,8 +177,8 @@
     <string name="pref_camera_saturation_title">Saturazione</string>
     <string name="pref_camera_scenemode_default">auto</string>
     <string name="pref_camera_scenemode_title">Modalità Scena</string>
-    <string name="pref_camera_scenemode_entry_off">Disttivata</string>
-    <string name="pref_camera_scenemode_entry_auto">Attivata</string>
+    <string name="pref_camera_scenemode_entry_off">Off</string>
+    <string name="pref_camera_scenemode_entry_auto">Auto</string>
     <string name="pref_camera_scenemode_entry_portrait">Ritratto</string>
     <string name="pref_camera_scenemode_entry_landscape">Landscape</string>
     <string name="pref_camera_scenemode_entry_night">Notte</string>

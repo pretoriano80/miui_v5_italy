@@ -323,8 +323,8 @@
         <item>Agenda</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Sto arrivando di corsa,sono in ritardo di qualche minuto.</item>
-        <item>Saò li in 10 minuti circa.</item>
+        <item>Sto arrivando di corsa, sono in ritardo di qualche minuto.</item>
+        <item>Sarò li in 10 minuti circa.</item>
         <item>Vai pure ed inizia senza di me.</item>
         <item>"Mi dispiace, non ce la faccio. Dovremo rimandare."</item>
     </string-array>

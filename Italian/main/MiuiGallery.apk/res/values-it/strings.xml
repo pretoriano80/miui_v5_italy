@@ -209,7 +209,7 @@
     <string name="share_album">Condividi album</string>
     <string name="share_album_owner">Proprietario</string>
     <string name="scan_qr_code_top_text">I membri possono vedere e aggiungere immagini.</string>
-    <string name="scan_qr_code_buttom_text">Scansione il QR code per vedere questo album.</string>
+    <string name="scan_qr_code_buttom_text">Scansiona il QR code per vedere questo album.</string>
     <string name="request_qr_code_failed">Richiesta QR code fallita, premi per riprovare</string>
     <string name="retry_to_request_qr_code">Riprova</string>
     <string name="album_member">Membro album %s</string>
@@ -352,7 +352,7 @@ i tuoi amici."</string>
     <string name="too_many_recipients">Il messaggio contiene troppo destinatari (%1$s), il numero massimo è %2$s.</string>
     <string name="context_menu_copy">Copia</string>
     <string name="try_to_send">tentativo di invio</string>
-    <string name="email_picker_title">Aggiungi E-mail condivisa</string>
+    <string name="email_picker_title">Aggiungi email</string>
     <string name="request_sms_url_failed">Impossibile richiedere url per condivisione tramite SMS</string>
     <string name="request_sms_url_title">Suggerimento</string>
     <string name="request_sms_url_msg">Richiesta url per condvisione SMS, attendere prego...</string>

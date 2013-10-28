@@ -159,7 +159,7 @@
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="current_account">Account attuale</string>
     <string name="my_xiaomi_account">Il mi oattuale account Xiaomi</string>
-    <string name="micloud_intro_01_part_01">Risparmia sul costo delgi SMS</string>
+    <string name="micloud_intro_01_part_01">Risparmia sul costo degli SMS</string>
     <string name="micloud_intro_01_part_02">MIUI ti consente di inviare messaggi cloud gratuitamente tramite Internet</string>
     <string name="micloud_intro_02_part_01">Non devi fare niente</string>
     <string name="micloud_intro_02_part_02">I servizi cloud ti aiutano a sincronizzare contatti, messaggi, foto ed altri dati su più dispositivi mobili.</string>
@@ -169,7 +169,7 @@
     <string name="cmcc_micloud_dspt">I servizi cloud includono la sincronizzazione mobile, localizzazione del dispositivo ed altre funzioni. Puoi anche gestire i tuoi dati direttamente online in qualsiasi momento!</string>
     <string name="start_micloud">Avvia</string>
     <string name="micloud_proceed">Continua</string>
-    <string name="disable_micloud">&lt;u>Non attivare MiCloud&lt;/u></string>
+    <string name="disable_micloud"><u>Non attivare MiCloud</u></string>
     <string name="account_detail">Account Xiaomi: %1$s</string>
     <string name="balance">Balance: %1$s MiCredit</string>
     <string name="btn_count_down_wait">%1$s secondi di attesa</string>

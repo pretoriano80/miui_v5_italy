@@ -405,7 +405,7 @@
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
     <string name="v5_deselect_all">Deseleziona tutto</string>
-    <string name="v5_edit_mode_title_empty">Seleziona elementi</string>
+    <string name="v5_edit_mode_title_empty">Seleziona file</string>
     <string name="v5_icon_menu_bar_more_item_label">Altro</string>
     <string name="v5_select_all">Seleziona tutto</string>
     <string name="v5_time_picker_label_hour">Ore</string>
