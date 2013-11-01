@@ -771,6 +771,8 @@ Passare comunque al nuovo operatore?"</string>
     <string name="auto_record_scenario_enteries_always_miui">Auto-registrazione per tutti i numeri</string>
     <string name="auto_record_scenario_enteries_whitelist_miui">Auto-registrazione per numeri selezionati</string>
     <string name="auto_record_whitelist_miui">Imposta numeri selezionati</string>
+    <string name="auto_record_unknown_miui">Numeri sconosciuti</string>
+    <string name="auto_record_yellowpage_miui">Pagine gialle</string>
     <string name="auto_record_whitelist_no_item_miui">"Premi il pulsante in basso per aggiungere numeri per l'auto-registrazione"</string>
     <string name="auto_record_whitelist_summary_for_one_miui">1</string>
     <string name="auto_record_whitelist_summary_miui">%d numberi</string>

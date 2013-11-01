@@ -490,5 +490,17 @@ Prova di nuovo tra %d secondi."</string>
     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="volume_ring_description">Volume suoneria e notifiche</string>
     <string name="login_website_in_case_forget_password">Visita http://i.xiaomi.com per ripristinare la tua password</string>
+    <string name="anti_aggression_day" />
+    <string name="tw_youth_day" />
+    <string name="tw_childrens_day" />
+    <string name="anniversary_of_lifting_martial_law" />
+    <string name="armed_forces_day" />
+    <string name="united_nations_day" />
+    <string name="retrocession_day" />
+    <string name="yellow_page_unable_send_sms">Impossibile inviare SMS!</string>
+    <string name="yellow_page_module_sms_sent">SMS inviato.</string>
+    <string name="yellow_page_sms_send_failed">Impossibile inviare SMS!</string>
+    <string name="yellow_page_sms_sending">Invio in corso…</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Impossibile inviare SMS in modalità Ospite</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
 </resources>

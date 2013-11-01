@@ -1016,8 +1016,8 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
 
  "<li>Disabiliterà le applicazioni</li>"
  "<li>Disabiliterà le notifiche delle app.</li>"
- "<li>Disibiliterà le azioni predefinite delle app.</li>"
- "<li>Disibiliterà le restrizioni dei dati in background delle app.</li>"
+ "<li>Disabiliterà le azioni predefinite delle app.</li>"
+ "<li>Disabiliterà le restrizioni dei dati in background delle app.</li>"
 
  Non perderete tutti i dati delle app."</string>
     <string name="reset_app_preferences_button">Cancella</string>
@@ -2038,7 +2038,7 @@ Consentire l'avvio automatico?"</string>
     <string name="connected_wifi">Wi-Fi connessa</string>
     <string name="incoming_call_vibrate_abbreviation">Chiamate\u0020</string>
     <string name="notification_vibrate_abbreviation">Notifiche\u0020</string>
-    <string name="mms_vibrate_abbreviation">MMS\u0020</string>
+    <string name="mms_vibrate_abbreviation">Messaggi\u0020</string>
     <string name="breathing_light_color_title">Colore LED</string>
     <string name="breathing_light_color_menu_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>

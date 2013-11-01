@@ -503,9 +503,9 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="display_options_sort_list_by">Ordina per</string>
     <string name="display_options_sort_by_given_name">Nome</string>
     <string name="display_options_sort_by_family_name">Cognome</string>
-    <string name="display_options_view_names_as">Mostra nome contatto come</string>
-    <string name="display_options_view_given_name_first">Prima Nome</string>
-    <string name="display_options_view_family_name_first">Prima Cognome</string>
+    <string name="display_options_view_names_as">Mostra prima</string>
+    <string name="display_options_view_given_name_first">Nome</string>
+    <string name="display_options_view_family_name_first">Cognome</string>
     <string name="take_photo">Scatta foto</string>
     <string name="take_new_photo">Scatta nuova foto</string>
     <string name="pick_photo">Seleziona foto da Galleria</string>
@@ -764,7 +764,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="export_sim_contact_finish">Esportazione su SIM completata</string>
     <string name="export_sim_contact_finish_success">%d contatto(i) copiati dalla SIM</string>
     <string name="export_sim_contact_finish_failure">memoria SIM piena, completati: %1$d, incompleti: %2$d</string>
-    <string name="sim_export_loading">Lettura informazioni SIM (potrebbe impiegare un minuto…</string>
+    <string name="sim_export_loading">Lettura informazioni SIM, potrebbe impiegare un minuto…</string>
     <string name="pref_title_account_import">Importa da account</string>
     <string name="pref_title_import_from_account">"Importa nell'account Xiaomi"</string>
     <string name="pref_summary_import_from_account">Importa i contatti degli account Google ed Exchange nel mio account Xiaomi</string>
