@@ -49,7 +49,7 @@
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
     <string name="record_picker_title">Registrazione</string>
     <string name="dialog_title_storage_full">Mancanza di spazio di archiviazione, eliminare alcuni file ?</string>
-    <string name="dialog_content_storage_full">A causa dell amancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file tramite File Manager, procedere adesso ?</string>
+    <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file tramite File Manager, procedere adesso ?</string>
     <string name="status_bar_anti_disturb">Il telefono è stato silenziato, modifica il volume per riattivarlo.</string>
     <string name="status_bar_recording">Registrazione...</string>
     <string name="status_bar_back">Premi per tornare al Registratore</string>
@@ -58,7 +58,7 @@
     <string name="record_loading">Caricamento registrazione, attendere prego!</string>
     <string name="low_battery_message_title">Batteria scarica</string>
     <string name="low_battery_warning">Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
-    <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimeto improvviso la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
+    <string name="low_battery_error">La batteria è a meno del 5%, per assicurarsi di non perdere la registrazione per uno spegnimento improvviso la registrazione è stata interrotta e salvata. Uno spegnimento improvviso potrebbe causare la perdita della registrazione, si raccomanda di registrare con un buon livello di batteria.</string>
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Impostazioni di registrazione</string>
     <string name="menu_settings">Impostazioni</string>
@@ -69,8 +69,8 @@
     <string name="preference_record_type_dialog_title">Seleziona un tipo di registrazione</string>
     <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
     <string name="preference_silent_mode">Registrazione silenziosa</string>
-    <string name="preference_enable_earpiece_title">Usa il ricevitore per audio</string>
-    <string name="preference_enable_earpiece_summary">Usa il ricevitore per riprodurre audio esternamente</string>
+    <string name="preference_enable_earpiece_title">"Riproduci nell'altoparlante"</string>
+    <string name="preference_enable_earpiece_summary">Permette di riprodurre la registrazione nell'altoparlante utilizzato per le chiamate</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>

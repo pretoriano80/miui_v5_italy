@@ -137,7 +137,7 @@
     <string name="file_too_large">Il file è troppo grande e non può essere caricato</string>
     <string name="create_new_folder_failed">Impossibile creare cartella %1$s</string>
     <string name="user_guide_kuaipan_copy">Accedi ai tuoi file da vari dispositivi utilizzando MiDrive</string>
-    <string name="user_guide_upload_to_kuaipan">Dal tuo telefono,copia e incolla semplicemente nel MiDrive</string>
+    <string name="user_guide_upload_to_kuaipan">Dal tuo telefono, copia e incolla semplicemente nel MiDrive</string>
     <string name="user_guide_download_other_version">"Puoi anche scaricare MiDriver per il tuo PC o Mac"</string>
     <string name="user_guide_other_version">Scarica varie versioni di Kuaipan</string>
     <string name="upload_file_toolarge_message">%1$d file più grandi di 300M non possono essere caricati. Controlla Gestione Trasferimenti per maggiori dettagli.</string>
