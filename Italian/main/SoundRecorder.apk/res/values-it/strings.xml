@@ -70,7 +70,7 @@
     <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
     <string name="preference_silent_mode">Registrazione silenziosa</string>
     <string name="preference_enable_earpiece_title">"Riproduci nell'altoparlante"</string>
-    <string name="preference_enable_earpiece_summary">Permette di riprodurre la registrazione nell'altoparlante utilizzato per le chiamate</string>
+    <string name="preference_enable_earpiece_summary">"Permette di riprodurre la registrazione nell'altoparlante utilizzato per le chiamate"</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>

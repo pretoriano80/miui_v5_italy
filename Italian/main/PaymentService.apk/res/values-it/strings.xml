@@ -252,7 +252,7 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="title_nopassword_dialog">Limite giornaliero</string>
     <string name="onemore_click_exit">Un altro click per uscire</string>
     <string name="hfb_app_name">UMPay</string>
-    <string name="hfb_sms_pay">Nota: Premi Conferma pagamento per confermare ed inviare un SMS al numero 10658008 per completare l'acquisto. I pagamenti verranno addebitati in base alle tariffe locali.</string>
+    <string name="hfb_sms_pay">"Nota: Premi Conferma pagamento per confermare ed inviare un SMS al numero 10658008 per completare l'acquisto. I pagamenti verranno addebitati in base alle tariffe locali."</string>
     <string name="hfb_sms1_progress_label">Invio SMS, attendere prego...</string>
     <string name="hfb_sms2_progress_label">Il pagamento è in fase di conferma, attendere prego...</string>
     <string name="hfb_network_progress">Pagamento richiesto, in attesa della rete...</string>
@@ -316,7 +316,7 @@ e premi 'acquisto completato', grazie!"</string>
     <string name="linkpay_hundred_yuan">100 yuan</string>
     <string name="linkpay_please_choose_paycard_type">Seleziona tipo di carta</string>
     <string name="linkpay_please_choose_paycard_value">Inserisci il valore della carta di pagamento</string>
-    <string name="linkpay_account_cannot_be_null">E' richiesto un account Linkpay</string>
+    <string name="linkpay_account_cannot_be_null">"E' richiesto un account Linkpay"</string>
     <string name="linkpay_password_cannot_be_null">La password non può essere vuota</string>
     <string name="linkpay_ordernum">Ordine numero:</string>
     <string name="linkpay_product">Dettagli prodotto</string>

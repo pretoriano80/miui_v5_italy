@@ -363,10 +363,10 @@
     <string name="menu_addtodesk">Aggiungi al desktop</string>
     <string name="quicklinks_management">Link rapidi</string>
     <string name="pref_content_auto_light_mode">Luminosità automatica</string>
-    <string name="pref_content_fontsize_setting">imèpostazioni font</string>
+    <string name="pref_content_fontsize_setting">Impostazioni font</string>
     <string name="readmode_page_loading">Caricamento, attendere prego...</string>
     <string name="readmode_page_load_error">Impossibile caricare pagina, premi Aggiorna per provare di nuovo</string>
-    <string name="readmode_already_add_to_bookshelf">Aggnto alla libreria</string>
+    <string name="readmode_already_add_to_bookshelf">Aggiunto alla libreria</string>
     <string name="readmode_login_message">"I capitoli successivi richiedono l'accesso per abilitarne la lettura"</string>
     <string name="readmode_pay_message">I capitoli successivi richiedono la sottoscrizione per abilitarne la lettura</string>
     <string name="readmode_recommend_message">Hai letto tutti i capitoli di questo libro. Selezionane un altro</string>
@@ -420,14 +420,14 @@
     <string name="tab_quicklinks">Link veloci</string>
     <string name="pref_content_night_read_mode">Abilita Modalità Notturna</string>
     <string name="general_set_default_browser_title">Imposta come browser predefinito</string>
-    <string name="general_set_default_browser_dialog_summary">Utilizza applicazioniintegrate a MIUI per un utilizzo più veloce e performante</string>
+    <string name="general_set_default_browser_dialog_summary">Utilizza applicazioni integrate a MIUI per un utilizzo più veloce e performante</string>
     <string name="general_set_default_browser_dialog_close_txt">Chiudi</string>
     <string name="general_set_default_browser_dialog_ok_txt">OK</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Uscita da ultima scheda</string>
     <string name="url_hint">Cerca o digita URL</string>
     <string name="file_picker_new_folder">Nuova cartella</string>
     <string name="file_picker_sdcard_not_found">SD card non rilevata, verificare se il dispositivo è attualmente montato o in uso</string>
-    <string name="export_bookmark_sucess">Esportazione segnalbri su Sd Card avvenuta con successo!</string>
+    <string name="export_bookmark_sucess">Esportazione segnalibri su SD Card avvenuta con successo!</string>
     <string name="export_bookmark_failure">Esportazione segnalibri su SD Card fallita!</string>
     <string name="import_bookmark_sucess">Segnalibri importati con successo!</string>
     <string name="import_bookmark_failure">Importazione segnalibri fallita!</string>
@@ -527,7 +527,7 @@
     <string name="return_to_homepage">Ritorna alla pagina iniziale</string>
     <string name="notif_install_successful">Download completato</string>
     <string name="in_incognito">La modalità incognito è attivata, non verrà salvata nessuna cronologia.</string>
-    <string name="alert_tips">Il sito che stai visitando potrebbe essere potenzialmente pricoloso, vuoi continuare?</string>
+    <string name="alert_tips">Il sito che stai visitando potrebbe essere potenzialmente pericoloso, vuoi continuare?</string>
     <string name="tab_opened_background_in_incognito">Aperta nuova finestra incognito</string>
     <string name="stop_loading">Interrompi</string>
     <string name="navigation_button_close">Chiudi</string>
@@ -546,7 +546,7 @@
     <string name="save_file_already_exist_alert_title">File esistente!</string>
     <string name="save_file_already_exist_alert_message">Il file è già esistente, vuoi sovrascriverlo?</string>
     <string name="filename_empty_alert_message">Il nome del file non può essere vuoto</string>
-    <string name="filename_illegal_alert_message">Il nome del file contiene caretteri non ammessi ed è stato rimosso automaticamente.</string>
+    <string name="filename_illegal_alert_message">Il nome del file contiene caratteri non ammessi ed è stato rimosso automaticamente.</string>
     <string name="download_failed">Download fallito</string>
     <string name="download_complete">Download completato</string>
     <string name="app_update_install">"Nuova versione scaricata e pronta per l'installazione"</string>
@@ -569,8 +569,8 @@
     <string name="download_video_please_download_market">Devi installare MiApps.</string>
     <string name="download_video_no_title_default_name">Video senza titolo</string>
     <string name="download_video_menu_dialog_title">Installazione…</string>
-    <string name="download_video_menu_dialog_summary">Devi installarel MiuiVideo prima di utilizzare questa funzione</string>
-    <string name="download_video_menu_dialog_positive_txt">Install</string>
+    <string name="download_video_menu_dialog_summary">Devi installare MiuiVideo prima di utilizzare questa funzione</string>
+    <string name="download_video_menu_dialog_positive_txt">Installa</string>
     <string name="download_video_menu_video_version_low">Devi aggiornare MiuiVideo.</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -605,7 +605,7 @@
     <string name="quicklink_user_define_webpage_url">URL</string>
     <string name="user_defined_webpage_title">Aggiungi URL alla pagina iniziale</string>
     <string name="quicklinks_most_visited">Aggiungi i siti più visitati alla pagina iniziale</string>
-    <string name="quicklinks_most_visited_subtitle">Mostra i siti visitiati recentemente nella nuova scheda</string>
+    <string name="quicklinks_most_visited_subtitle">Mostra i siti visitati recentemente nella nuova scheda</string>
     <string name="quicklinks_group_default_subtitle">Vuoto</string>
     <string name="webapp_app_name">MiMarket Web Store</string>
     <string name="webapp_dialog_title">Aggiungi app sulla home</string>
