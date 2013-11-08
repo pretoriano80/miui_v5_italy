@@ -247,6 +247,9 @@
     <string name="headset_settings">Cuffie collegate</string>
     <string name="headset_info">Personalizza tasto funzioni</string>
     <string name="headset_custom">Personalizza</string>
+    <string name="audio_effect_settings">Imposta tipo di cuffie</string>
+    <string name="audio_effect_info">Ottimizza audio</string>
+    <string name="audio_effect_custom">Configura</string>
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Lumin.</string>

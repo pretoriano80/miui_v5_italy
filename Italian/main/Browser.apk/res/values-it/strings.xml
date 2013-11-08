@@ -574,7 +574,7 @@
     <string name="download_video_menu_video_version_low">Devi aggiornare MiuiVideo.</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-    <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+    <string name="common_use_phrase_bottom_bar_cn_txt">.it</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
     <string name="common_use_phrase_bottom_bar_point_txt">.</string>
     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
@@ -600,6 +600,11 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Scorri in alto per chiudere</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Scorri in basso per chiudere</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Ultima scheda</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Rete Wi-Fi disponibile</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_title">Quando utilizzi la rete dati mobile per accedere ad Internet, MIUI ti segnalerà se nelle vicinanze ci sono reti Wi-Fi disponibili</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Rete Wi-Fi disponibile</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Rete Wi-Fi trovata, vuoi connetterti?</string>
+    <string name="network_show_wifi_setting_tip_dialog_notshow">Salva</string>
     <string name="user_defined_webpage">Aggiungi URL</string>
     <string name="quicklink_user_define_webpage_title">Nome</string>
     <string name="quicklink_user_define_webpage_url">URL</string>

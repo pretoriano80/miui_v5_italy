@@ -458,6 +458,7 @@ i tuoi amici."</string>
     <string name="where_is_barcode">"Dov'è il QR code?"</string>
     <string name="scan_barcode_guide">"Per avere il QR code dell'album, tocca l'icona Condividi nell'angolo in alto a destra.".</string>
     <string name="confirm">OK</string>
+    <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
     <string name="there_is_no_image">Nessuna immagine.</string>
     <string name="request_qr_code">Richiesta QR code, attendere prego...</string>
     <string name="can_modified">Consenti al membro di aggiungere immagini</string>

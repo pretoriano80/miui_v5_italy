@@ -497,6 +497,7 @@ Prova di nuovo tra %d secondi."</string>
     <string name="armed_forces_day" />
     <string name="united_nations_day" />
     <string name="retrocession_day" />
+    <string name="toast_lockscreen_glogin_empty_password">Password richiesta.</string>
     <string name="yellow_page_unable_send_sms">Impossibile inviare SMS!</string>
     <string name="yellow_page_module_sms_sent">SMS inviato.</string>
     <string name="yellow_page_sms_send_failed">Impossibile inviare SMS!</string>

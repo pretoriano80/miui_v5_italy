@@ -1448,7 +1448,9 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
     <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti.\u0090"</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
-    <string name="wifi_setup_description_connected">Tocca</string>
+    <string name="wifi_setup_description_connected">"Tocca <b>Avanti</b>" per proseguire con la configurazione.
+
+Tocca "<b>Indietro</b> per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilata</string>
@@ -1743,11 +1745,14 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="dndm_vip_call_summary_contact">Tutti i contatti</string>
     <string name="dndm_vip_call_button_title">Consenti chiamate dalle esclusioni</string>
     <string name="dndm_vip_list_group">Lista esclusioni</string>
+    <string name="dndm_vip_list_custom">Eccezioni</string>
     <string name="dndm_vip_list_contact">Tutti i contatti</string>
     <string name="dndm_vip_list_custom_group">Esclusioni</string>
     <string name="dndm_repeated_call_setting_title">Ripeti chiamate</string>
     <string name="dndm_repeated_call_summary_none">Silenzia chiamate ripetute dallo stesso numero</string>
     <string name="dndm_repeated_call_summary_3min">Se lo stesso numero richiama entro tre minuti il telefono squillerà</string>
+    <string name="dndm_twelve_hour_time_format">a h:mm</string>
+    <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
     <string name="perm_app_name">Permessi</string>
     <string name="perm_copyright">Supportato da LBE Privacy Guard</string>
     <string name="perm_version">Versione: %1$s</string>
@@ -2279,6 +2284,7 @@ prova in questo modo:
     <string name="device_edit_title">Cambia nome dispositivo</string>
     <string name="device_name_input_hint">Inserisci il nome del dispositivo</string>
     <string name="device_name_usage_point">Lascia che il dispositivo possa essere scoperto da altri dispositivi Bluetooth per consentire il trasferimento di file ed altre funzioni</string>
+    <string name="device_name_input_error">Impossibile salvare il nome del dispositivo，digitare di nuovo</string>
     <string name="drive_mode">Modalità Auto</string>
     <string name="enable_drive_mode">Abilita modalità Auto</string>
     <string name="drive_mode_title">Imposta modalità Auto</string>

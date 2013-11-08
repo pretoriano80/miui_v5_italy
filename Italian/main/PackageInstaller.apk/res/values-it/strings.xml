@@ -72,4 +72,5 @@
     <string name="perm_action_prompt">Chiedi</string>
     <string name="perm_action_reject">Nega</string>
     <string name="unknown_installer">Installazione sconosciuta</string>
+    <string name="install_failed_system_incompatible">Questa applicazione non è compatibile con MIUI ROM!</string>
 </resources>
