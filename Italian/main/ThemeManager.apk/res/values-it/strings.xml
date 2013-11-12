@@ -3,7 +3,7 @@
     <string name="app_name">Temi</string>
     <string name="theme_import_activity_label">Aggiorna tema</string>
     <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere prego..</string>
-    <string name="theme_changed_message">%1$s applicato con successo!</string>
+    <string name="theme_changed_message">Applicato con successo!</string>
     <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
     <string name="backup_preference_title">Impostazioni Backup</string>
     <string name="backup_theme_dialog_ok">Backup</string>
@@ -73,10 +73,10 @@
     <string name="download_success">Scaricato correttamente</string>
     <string name="theme_importing">Importazione tema…</string>
     <string name="theme_upgrade_request_title">Richiesta Conversione Tema</string>
-    <string name="theme_upgrade_request_content">"Il tuo tema locale deve essere convertito per migliorarne l'efficienza. La conversione potrebbe richiedere alcuni minuti ed il tuo telefono potrebbe essere rallentato durante il porcesso. Convertire il tema adesso?</string>
+    <string name="theme_upgrade_request_content">"Il tuo tema locale deve essere convertito per migliorarne l'efficienza. La conversione potrebbe richiedere alcuni minuti ed il tuo telefono potrebbe essere rallentato durante il porcesso. Convertire il tema adesso?"</string>
     <string name="theme_upgrade_request_yes">OK</string>
     <string name="theme_upgrade_request_cancel">Annulla</string>
-    <string name="theme_import_preparing">Verifca temi locali</string>
+    <string name="theme_import_preparing">Verifica temi locali</string>
     <string name="theme_import_importing">Aggiornamento.. %1$d rimanenti</string>
     <string name="theme_import_normal">Aggiornamento tema</string>
     <string name="theme_sdcard_importing">Importa da scheda SD</string>
@@ -130,7 +130,7 @@
     <string name="description_download">Download:</string>
     <string name="description_version">Versione:</string>
     <string name="description_summary">Descrizione:</string>
-    <string name="description_version_szie">Version: %1$s Size: %2$s</string>
+    <string name="description_version_szie">Versione: %1$s Dimensione: %2$s</string>
     <string name="resource_local">%1$s locali</string>
     <string name="resource_online">%1$s online</string>
     <string name="resource_selected">In evidenza</string>
@@ -181,7 +181,7 @@
     <string name="resource_downloaded_title">Risorse scaricate</string>
     <string name="resource_see_more">Vedi di più</string>
     <string name="resource_no_result">Nessun risultato</string>
-    <string name="resource_list_title">Ultime</string> 
+    <string name="resource_list_title">Ultime</string>
     <string name="resource_get_auth_checking">Ricerca autorizzazioni...</string>
     <string name="resource_get_auth_retrieving">Recupero autorizzazioni...</string>
     <string name="resource_get_auth_missing">Il tema non è stato scaricato dal market ufficiale, si prega di riscaricarlo uno simile dal market ufficiale.</string>
@@ -201,7 +201,7 @@
     <string name="resource_comment_good_comments">Positivi</string>
     <string name="resource_comment_bad_comments">Negativi</string>
     <string name="resource_comment_average_score">Media</string>
-    <string name="resource_comment_no_average_score">Noessuna media</string>
+    <string name="resource_comment_no_average_score">Nessuna media</string>
     <string name="resource_comment_5_star">5 Stelle</string>
     <string name="resource_comment_4_star">4 Stelle</string>
     <string name="resource_comment_3_star">3 Stelle</string>
@@ -217,7 +217,7 @@
     <string name="resource_comment_upload_data_invalid">Commento non valido!</string>
     <string name="resource_comment_upload_not_logined">"Effettua prima l'accesso"</string>
     <string name="resource_comment_upload_not_bought">Utilizza questo tema prima di lasciare un commento.</string>
-    <string name="resource_comment_invalid">Tocca le stelel per dare una valutazione</string>
+    <string name="resource_comment_invalid">Tocca le stelle per dare una valutazione</string>
     <string name="resource_comment_expand_full_text">Mostra tutto il testo ▼</string>
     <string name="resource_comment_title">Commenti: %1$s</string>
     <string name="resource_comment_edit_title">Modifica commento: %1$s</string>

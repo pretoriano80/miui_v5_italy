@@ -511,7 +511,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_wps_failed_wep">"L'impostazione di sicurezza del router Wi-Fi(WEP) non è supportata"</string>
     <string name="wifi_wps_failed_tkip">"L'impostazione di sicurezza del router Wi-Fi(TKIP) non è supportata"</string>
     <string name="wifi_wps_failed_auth">Autenticazione fallita. Si prega di riprovare più tardi</string>
-    <string name="wifi_wps_failed_overlap">"E' stata rilavata wn'altra sessione WPS. Si prega di riprovare tra qualche minuto"</string>
+    <string name="wifi_wps_failed_overlap">"E' stata rilavata un'altra sessione WPS. Si prega di riprovare tra qualche minuto"</string>
     <string name="wifi_ssid">SSID rete</string>
     <string name="wifi_security">Sicurezza</string>
     <string name="wifi_signal">Intensità segnale</string>
@@ -592,7 +592,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_p2p_failed_rename_message">Impossibile rinominare il dispositivo.</string>
     <string name="wifi_p2p_disconnect_title">Disconnettere?</string>
     <string name="wifi_p2p_disconnect_message">Se disconnetti, la tua connessione con %1$s verrà terminata.</string>
-    <string name="wifi_p2p_disconnect_multiple_message">Se disconnetti, your connection with %1$s and %2$s other devices will end.</string>
+    <string name="wifi_p2p_disconnect_multiple_message">Se disconnetti, la tua connessione con %1$s ed altri %2$s dispositivi verrà interrotta.</string>
     <string name="wifi_p2p_cancel_connect_title">Annullare invito?</string>
     <string name="wifi_p2p_cancel_connect_message">"Vuoi annullare l'invito a collegarti con %1$s?"</string>
     <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi</string>
@@ -1129,7 +1129,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="pointer_speed">Velocità del puntatore</string>
     <string name="game_controller_settings_category">Controller di Gioco</string>
     <string name="vibrate_input_devices">Usa vibrazione</string>
-    <string name="vibrate_input_devices_summary">Direziona la vibrazione sul controller di gioco quado connesso.</string>
+    <string name="vibrate_input_devices_summary">Direziona la vibrazione sul controller di gioco quando connesso.</string>
     <string name="keyboard_layout_dialog_title">Scegli layout tastiera</string>
     <string name="keyboard_layout_dialog_setup_button">Imposta layout tastiera</string>
     <string name="keyboard_layout_dialog_switch_hint">Per cambiare , premi Control-Spazio</string>
@@ -1453,7 +1453,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
 Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
-    <string name="accessibility_sync_disabled">Sincronizzazione disabilata</string>
+    <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
     <string name="sync_failed">Sincronizzazione fallita</string>
     <string name="sync_active">Sincronizzazione attiva</string>
@@ -1722,10 +1722,10 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">mass_storage</string>
-    <string name="do_not_disturb_mode">DND</string>
-    <string name="dndm_notification">Modalità DND abilitata.</string>
-    <string name="dndm_open">DND abilitato</string>
-    <string name="dndm_summary">Quando la modalità DND è abilitata, le chiamate e le notifiche in arrivo quando il telefono è bloccato verranno silenziate.</string>
+    <string name="do_not_disturb_mode">Anti-disturbo</string>
+    <string name="dndm_notification">Modalità anti-disturbo abilitata.</string>
+    <string name="dndm_open">Anti-disturbo abilitato</string>
+    <string name="dndm_summary">Quando la modalità Anti-disturbo è abilitata, le chiamate e le notifiche in arrivo quando il telefono è bloccato verranno silenziate.</string>
     <string name="dndm_auto_setting_group">programmato</string>
     <string name="dndm_auto_button_title">Orario</string>
     <string name="dndm_auto_time_setting">Impostazioni orario</string>
@@ -1829,7 +1829,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_phoneid_imeisn">ottenere IMEI/SN</string>
     <string name="perm_hips_phoneid_iccid">ottenere SN SIM</string>
     <string name="perm_hips_phoneid_number">ottenere il tuo numero di telefono</string>
-    <string name="perm_hips_phoneid_imsi">ottienere numero IMSI</string>
+    <string name="perm_hips_phoneid_imsi">ottenere numero IMSI</string>
     <string name="perm_hips_allow_all">Consenti tutto</string>
     <string name="perm_hips_prompt_all">Chiedi tutto</string>
     <string name="perm_hips_reject_all">Nega tutto</string>
@@ -1853,7 +1853,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_hips_security_prompt_root_step1">Vuoi consentire a %1$s di avere i permessi di ROOT ?</string>
     <string name="perm_hips_security_prompt_root_step2">Concedere i permessi di ROOT potrebbe causare instabilità di sistema</string>
     <string name="perm_hips_security_prompt_root_step3">I tuoi dati privati come account, password e messaggi, potrebbero essere compromessi</string>
-    <string name="perm_hips_security_prompt_root_step4">Si potrebbero verificare anche danni hardware permaenti</string>
+    <string name="perm_hips_security_prompt_root_step4">Si potrebbero verificare anche danni hardware permanenti</string>
     <string name="perm_hips_security_prompt_root_step5">Utilizza con attenzione!</string>
     <string name="perm_hips_security_prompt_root_step6">Sicuro di voler concedere a %1$s i permessi di ROOT ?</string>
     <string name="perm">Permessi</string>
@@ -1904,7 +1904,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="perm_sysopt_boost_auto_start_group">Avvio autom.</string>
     <string name="perm_sysopt_boost_auto_start">Permessi avvio autom.</string>
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
-    <string name="perm_su_enable_dialog">%1$s sta cercando di ottenre i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
+    <string name="perm_su_enable_dialog">%1$s sta cercando di ottenere i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
     <string name="perm_notice">Avviso Sicurezza</string>
     <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione.
 Rendere attendibile questa applicazione ?"</string>
@@ -1923,7 +1923,7 @@ Consentire l'avvio automatico?"</string>
     <string name="search_accelerometer">Accelerometro</string>
     <string name="search_screen_timeout">Timeout Schermo</string>
     <string name="search_ring_volume">Volume Suoneria</string>
-    <string name="search_ringtone">Suoneriae</string>
+    <string name="search_ringtone">Suoneria</string>
     <string name="search_sms_received">SMS ricevuto</string>
     <string name="search_silent">Silenzioso</string>
     <string name="search_unlock_set">Sblocco</string>
@@ -2069,7 +2069,7 @@ Consentire l'avvio automatico?"</string>
     <string name="headset_calibrate_success">Impostazioni applicate</string>
     <string name="headset_calibrate_apply">Applica</string>
     <string name="headset_calibrate_volume_up">Volume su</string>
-    <string name="headset_calibrate_volume_down">Volume dgiù</string>
+    <string name="headset_calibrate_volume_down">Volume giù</string>
     <string name="headset_calibrate_prev_track">Brano precedente</string>
     <string name="headset_calibrate_next_track">Brano successivo</string>
     <string name="headset_calibrate_confirm">Salvare le nuove impostazioni di calibrazione?</string>
@@ -2227,7 +2227,7 @@ Consentire l'avvio automatico?"</string>
     <string name="wfd_available_devices">Dispositivi disponibili</string>
     <string name="wfd_disconnect_diag_title">Disconnettere sessione Wi-Fi ?</string>
     <string name="wfd_disconnect_diag_msg">Se la tua sessione Wi-Fi viene interrotta, la tua connessione con %1$s verrà chiusa.</string>
-    <string name="wfd_disconnect_multiple_diag_message">Se interrompi la sessione di Visualizzazione Wi-Fi Display session, la tua connessione con %1$s ed altrui %2$s dispositivi verrà interrotta.</string>
+    <string name="wfd_disconnect_multiple_diag_message">Se interrompi la sessione di Visualizzazione Wi-Fi Display, la tua connessione con %1$s ed altrui %2$s dispositivi verrà interrotta.</string>
     <string name="wfd_wps_keypad">Pressione Pulsante</string>
     <string name="wfd_wps_pbc">Inserimento PIN</string>
     <string name="power_mode">Modalità Consumo</string>
@@ -2484,7 +2484,7 @@ Queste impostazioni sono valide per tutti gli utenti di questo telefono."</strin
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="global_change_warning">Questa impostazione avrà effetto su tutti gli utenti del telefono</string>
     <string name="global_font_change_title">Cambia dimensione carattere</string>
-    <string name="global_locale_change_title">Cambi alingua</string>
+    <string name="global_locale_change_title">Cambia lingua</string>
     <string name="help_url_dreams" />
     <string name="help_url_location_access" />
     <string name="help_url_security" />
@@ -2542,7 +2542,7 @@ Ogni utente può accettare permessi di aggiornamento di applicazioni per conto a
 
 Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per conto degli altri utenti."</string>
     <string name="user_add_user_title">Aggiungi nuovi utenti</string>
-    <string name="user_adding_new_user">Aggiungi nuoo utente…</string>
+    <string name="user_adding_new_user">Aggiungi nuovo utente…</string>
     <string name="user_cannot_manage_message">Solo il proprietario del telefono può gestire gli utenti.</string>
     <string name="user_confirm_remove_self_message">Perderai lo spazio ed i dati su questo telefono. Questa azione è irreversibile.</string>
     <string name="user_confirm_remove_self_title">Vuoi eliminarti?</string>
@@ -2559,7 +2559,7 @@ Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per co
     <string name="user_summary_inactive">Non attivo</string>
     <string name="user_summary_not_set_up">Non impostare</string>
     <string name="user_you_section">Tu</string>
-    <string name="verify_applications">Verifca applicazioni</string>
+    <string name="verify_applications">Verifica applicazioni</string>
     <string name="verify_applications_summary">Non consentire o avvisa prima di installare applicazioni potenzialmente dannose</string>
     <string name="verify_apps_over_usb_summary">Verifica comportamenti dannosi per le applicazioni installate tramite ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Verifica applicazioni su USB</string>
@@ -2571,7 +2571,7 @@ Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per co
     <string name="wifi_connect_failed_message">Il telefono non è riuscito a connettersi a questa rete Wi-Fi.</string>
     <string name="wifi_display_available_devices">Dispositivi disponibili</string>
     <string name="wifi_display_details">Impostazioni visualizzazione</string>
-    <string name="wifi_display_disconnect_text">Questo terminerà la connessione cone:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="wifi_display_disconnect_text">Questo terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="wifi_display_disconnect_title">Disconnettere?</string>
     <string name="wifi_display_no_devices_found">Nessun display wireless rilevato nelle vicinanze.</string>
     <string name="wifi_display_options_done">OK</string>

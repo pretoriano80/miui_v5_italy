@@ -437,7 +437,7 @@
     <string name="import_bookmark">Importa segnalibri</string>
     <string name="export_bookmark">Esporta segnalibri</string>
     <string name="accessibility_button_goto">Vai</string>
-    <string name="contextmenu_download_image_as">Salva immagine come</string>
+    <string name="contextmenu_download_image_as">Salva immagine</string>
     <string name="pref_ua_title">Gestione User Agent</string>
     <string name="pref_ua_string">Stringa User Agent</string>
     <string name="pref_ua_mione_entry">Mi-One</string>
@@ -537,8 +537,8 @@
     <string name="close_all_tab_alert_title">Chiudi tutte le schede</string>
     <string name="close_all_tab_alert_message">Sicuro di voler chiudere tutte le schede?</string>
     <string name="file_picker">Scegli percorso</string>
-    <string name="file_name">Nome file</string>
-    <string name="file_dir">Cartella</string>
+    <string name="file_name">Nome:</string>
+    <string name="file_dir">Cartella:</string>
     <string name="storage_internal">Memoria interna</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>

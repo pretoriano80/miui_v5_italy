@@ -16,7 +16,7 @@
     <string name="confirm_change_mode_title">Cambia modalità</string>
     <string name="confirm_change_to_expert_mode_message">Passare alla modalità professionale ?</string>
     <string name="confirm_change_to_simple_mode_message">Passare alla modalità semplice ?</string>
-    <string name="confirm_location_message">MI-2 può registrare le informazioni sulla tua posizione, vuoi attivare i servizi di localizzazione?</string>
+    <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione della fotocamera?</string>
     <string name="save">Salva</string>
     <string name="no_save">Non salvare</string>
     <string name="review_cancel">ANNULLA</string>

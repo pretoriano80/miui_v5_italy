@@ -13,8 +13,8 @@
     <string name="other_service_permission_manager">Gestisci i permessi delle App</string>
     <string name="other_service_permission_manager_summary">Monitora le applicazioni per la sicurezza e la privacy</string>
     <string name="other_service_user_experience">Fornisci i tuoi feedback</string>
-    <string name="other_service_user_experience_summary0">Contiamo sul tuo uso del nostro prodotto e delle sue caratteristiche esperiamo che tu possa aiutarci fornendoci il tuo feedback. Il tuo feedback sarà tutelato dalla nostra </string>
-    <string name="other_service_user_experience_summary1">Privacy policy</string>
+    <string name="other_service_user_experience_summary0">Contiamo sul tuo uso del nostro prodotto e delle sue caratteristiche e speriamo che tu possa aiutarci fornendoci il tuo feedback. Il tuo feedback sarà tutelato dalla nostra </string>
+    <string name="other_service_user_experience_summary1">\u0020Privacy policy</string>
     <string name="sim_card_detection_dialog_message">Rilevamento SIM. Attendere prego.</string>
     <string name="sim_card_detection_label">Rilevamento SIM</string>
     <string name="sim_card_detection_info">Non possiamo impostare un account Xiaomi senza una SIM. Avrai bisogno di una SIM per utilizzare alcuni servizi come la sincronizzazione account, tracciamento telefono etc.</string>
