@@ -898,7 +898,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="preference_smart_group_location_title">Per posizione</string>
     <string name="preference_smart_group_location_summary">Raggruppa in base al prefisso</string>
     <string name="preference_smart_group_frequency_title">Per contatto recente</string>
-    <string name="preference_smart_group_frequency_summary">Raggruppa in base alle ultime chiamte ed SMS</string>
+    <string name="preference_smart_group_frequency_summary">Raggruppa in base alle ultime chiamate ed SMS</string>
     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
     <string name="smart_group_label">Raggruppamento intelligente</string>
     <string name="smart_group_loading">Caricamento gruppi…</string>

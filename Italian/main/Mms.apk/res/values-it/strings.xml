@@ -432,7 +432,7 @@
     <string name="pref_title_fwd_sender_info">Inolrta informazioni mittente</string>
     <string name="saved_to_sim">Salva su SIM!</string>
     <string name="save_to_sim_failed">Impossibile salvare sulla SIM! Ripristinato nella memoria telefono</string>
-    <string name="restored_to_phone_memory">Ripristinato nella meoria telefono</string>
+    <string name="restored_to_phone_memory">Ripristinato nella memoria telefono</string>
     <string name="restore_to_phone_memory_failed">Impossibile ripristinare nella memoria telefono!</string>
     <string name="pref_title_card_format">Formato condivisione scheda</string>
     <string name="pref_title_miui_card">Invia tramite scheda MIUI</string>
