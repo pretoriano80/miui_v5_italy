@@ -43,13 +43,19 @@
     <string name="mark_number_custom_dialog_maintitle">Conferma o correggi la selezione</string>
     <string name="delete">Elimina</string>
     <string name="selected_category_format">%1$s(%2$d contatti segnalati, premi per confermare)</string>
+    <string name="mark_title_null_hint">Il valore non può essere vuoto</string>
     <string name="smart_antispam">Identifica automaticamente numero sconosciuto</string>
-    <string name="turn_on_smart_antispam_hint">Dopo averlo attivato, i numero verranno identificati. Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate idnesiderate.</string>
+    <string name="turn_on_smart_antispam_hint">"Dopo averlo attivato, i numero verranno identificati.
+Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate idnesiderate."</string>
     <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>
     <string name="turn_on_smart_antispam_summary_on">Identifica e carita i numeri spam</string>
     <string name="turn_on_smart_antispam_summary_off">Cerca solo tra i numeri locali</string>
     <string name="agree">Conferma</string>
-    <string name="user_notice_identify_summary_format">"L'identificazione dei numeri sconosciuti è un servizio online，si prega di eggere %1$s e %2$s prima di utilizzarlo."</string>
+    <string name="user_notice_identify_summary_format">"I numeri possono essere identificati in un ambiente di rete.
+
+Premendo \"Apri\" accetti %1$s e %2$s, premendo Annulla utilizzerai soltanto il database del telefono.
+
+Suggerimento: Non fidarti di messaggi relativi a vincite o trasferimenti di denaro quando parli con estranei."</string>
     <string name="user_notice_yp_detail_summary_format">"L'informazione parziale di questa risorsa deve essere aggiornata online, leggi %1$s e %2$s, click \"Agree\" means that you agree the above content and should obey the agreement, click \"Cancel\" to view the cached info only.</string>
     <string name="about_smart_antispam_summary">Informazioni sul rilevamento di numeri sconosciuti da parte di Smart Antispam</string>
     <string name="about_telephone_fraud">Informazioni sulle Truffe telefoniche</string>
@@ -75,6 +81,7 @@
     <string name="recharge_phone_number_error">Numero di telefono non valido.</string>
     <string name="recharge_user_confirm_title">Conferma</string>
     <string name="recharge_user_confirm_summary">"YTi verranno addebitati %1$s per RMB%2$s 
+
 Totale: RMB%3$s"</string>
     <string name="recharge_order_id">ID ordine：</string>
     <string name="recharge_status_description">Stato:</string>
@@ -83,6 +90,7 @@ Totale: RMB%3$s"</string>
     <string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_pay">Pagamento</string>
     <string name="recharge_history">Cronologia ricariche</string>
+    <string name="recharge_history_empty">Nessuna cronologia</string>
     <string name="packages_pay">Acquista</string>
     <string name="packages_pay_confirm">Conferma pagamento</string>
     <string name="packages_title">Preferenze pacchetto dati</string>
@@ -102,12 +110,16 @@ Totale: RMB%3$s"</string>
     <string name="express_inquiry_button_text">Traccia</string>
     <string name="express_inquiry_serial_number_prefix">"Numero seriale: "</string>
     <string name="express_inquiry_no_result">Nessun risultato.</string>
-    <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
+    <string name="express_inquiry_internal_failure">"Errore.
+Verfica il numero di tracciamnto"</string>
     <string name="express_inquiry_data_owner">Informazioni di tracciamento fornite da %s</string>
     <string name="scan">Scansiona</string>
     <string name="express_inqiury_select_logistics">Seleziona corriere</string>
     <string name="expresss_inquiry_frequently_used_logistics">Usati con frequenza</string>
     <string name="expresss_inquiry_all_logistics">Tutti</string>
+    <string name="express_inquiry_history">Cronologia</string>
+    <string name="express_inquiry_delivered">Consegnato</string>
+    <string name="express_inquiry_no_history">Nessuna cronologia</string>
     <string name="remind_user_suspect_number_title">Fai attenzione alle telefonate fraudolente</string>
     <string name="remind_user_suspect_number_message">Alcuni criminal ipossono rubare le identità di altre persone per compiere truffe, se non sei sicuro/a, richiama per sicurezza. Banche, attività di e-commerce e corrieri non chiedono chiedono password o dati bancari</string>
     <string name="remind_another_time">Non chiedere per questo numero"</string>

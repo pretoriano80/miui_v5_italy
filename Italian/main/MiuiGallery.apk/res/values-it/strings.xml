@@ -284,11 +284,13 @@ i tuoi amici."</string>
     <string name="set_screensaver_path_message_if_only_charging">Le immagini in questo album verranno mostrate nello screensaver solo quando il telefono sarà in carica.</string>
     <string name="slideshow_time_select_title">Seleziona la durata dello slideshow</string>
     <string name="slideshow_time_title">Durata slideshow</string>
+    <string name="rename_failed">Impossibile rinominare.</string>
     <string name="rename_failed_duplicated_name">Impossibile rinominare, nome già esistente.</string>
     <string name="warn">Avviso</string>
     <string name="send_multiple_files_hint_format">Invia file multipli (%s)</string>
     <string name="send">Invia</string>
     <string name="select_too_much_to_send_tips">Le foto selezionate sono troppo grandi per essere inviate. Il limite massimo è %d.</string>
+    <string name="pick_too_much_tips">Non puoi selezionare tutti gli elementi (massimo %d)."</string>
     <string name="sd_not_available">Scheda SD non montata o non disponibile</string>
     <string name="internal_sd_card">Scheda SD interna</string>
     <string name="external_sd_card">Scheda SD</string>
@@ -307,6 +309,7 @@ i tuoi amici."</string>
     <string name="operation_refresh">Aggiorna</string>
     <string name="operation_set_as_screensaver">Imposta come salva schermo</string>
     <string name="operation_unset_as_screensaver">Annulla salva schermo</string>
+    <string name="operation_add_picture">Aggiungi immagini</string>
     <string name="how_many_videos">%d Video</string>
     <string name="how_many_sub_folders">%d Cartelle</string>
     <string name="directory_info_divider">"  |  "</string>
@@ -334,6 +337,8 @@ i tuoi amici."</string>
     <string name="cloud_album_set_scan_qr_code">QR code</string>
     <string name="scan_qr_code_failure">Impossibile scansionare QR code.</string>
     <string name="big_screen_alertdialog_title">Proiettore</string>
+    <string name="comma">, </string>
+    <string name="quotation">\"%s\"</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">E-mail</string>
     <string name="enter_email_hint">"Inserisci indirizzo E-mail "</string>
@@ -460,6 +465,14 @@ i tuoi amici."</string>
     <string name="confirm">OK</string>
     <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
     <string name="there_is_no_image">Nessuna immagine.</string>
+    <string name="preparing_data_to_delete">Preparazione immagini da eliminare.</string>
+    <string name="picker_tab_camera">Fotocamera</string>
+    <string name="picker_no_items_selected">Nessuna selezione</string>
+    <string name="picker_select_album_title_empty">Seleziona un album</string>
+    <string name="picker_no_album_selected">Nessun album selezionato</string>
+    <string name="video_download_start">Inizia a scaricare il video</string>
+    <string name="video_download_in_process">Il video è stato staricato</string>
+    <string name="video_not_exist">Video inesistente</string>
     <string name="request_qr_code">Richiesta QR code, attendere prego...</string>
     <string name="can_modified">Consenti al membro di aggiungere immagini</string>
     <string name="screensaver_no_data">"Nessuna immagine nell'album".</string>

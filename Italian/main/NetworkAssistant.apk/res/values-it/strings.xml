@@ -24,6 +24,8 @@
     <string name="pref_traffic_daily_limit_settings">Impostazioni limite giornaliero</string>
     <string name="pref_connect_settings_title">Impostazioni monitor di rete</string>
     <string name="pref_connect_settings_notify_in_statusbar">Mostra nella barra notifiche</string>
+    <string name="pref_connect_settings_monitor_running_app">Mostra le reti bloccate quando è in esecuzione</string>
+    <string name="pref_connect_settings_monitor_running_app_summary">"Mostra notifiche quando è in esecuzione un'app con blocco di rete"</string>
     <string name="pref_connect_settings_exceed_limit">Disattiva Dati</string>
     <string name="pref_connect_settings_exceed_limit_hint">Notifica e disattiva Internet quando il traffico mensile viene superato</string>
     <string name="pref_connect_settings_enable_backgroung">Abilita servizi in background</string>
@@ -92,7 +94,8 @@
     <string name="plate_traffic_exceed">Fuori soglia</string>
     <string name="traffic_remain">Rimanenti</string>
     <string name="apply_rules_failed_known">OK</string>
-    <string name="apply_rules_failed">Impossibile impostare il firewall, provare di nuovo. (%s)</string>
+    <string name="apply_rules_failed">"Impossibile impostare il firewall, provare di nuovo. 
+(%s)"</string>
     <string name="traffic_total">"Totale: 
 %s"</string>
     <string name="traffic_used_status">"Utilizzati:
@@ -100,7 +103,8 @@
     <string name="unknown_traffic_hint">Traffico disponibile sconosciuto, vuoi impostarlo adesso?</string>
     <string name="finish_traffic_settings_hint">Impostazioni salvate!</string>
     <string name="finish_traffic_settings_title">Regola traffico dati</string>
-    <string name="finish_traffic_settings_message">Il traffico utilizzato è %s. Il dato è corretto? Se non lo è modificalo.</string>
+    <string name="finish_traffic_settings_message">"Il traffico utilizzato è %s. Il dato è corretto?
+Se non lo è modificalo.</string>
     <string name="dialog_button_adjust">Modifica</string>
     <string name="settings_page_adjust_summary_no_carrier">Operatore non impostato，Regolazione Automatica disattivata</string>
     <string name="settings_page_traffic_summary">Disponibile: %1$s, Attenzione: %2$s, Carica da %3$d</string>
@@ -161,6 +165,7 @@
     <string name="text_done">Ok</string>
     <string name="text_save">Salva</string>
     <string name="adjust_no_network_update_data_fail">Impossibile aggiornare i dati, prova di nuovo dopo aver controllato le impostazioni di connessione.</string>
+    <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
     <string name="custom_adjust_title">Regola impostazioni personalizzate</string>
     <string name="custom_adjust_sender">Numero mittente</string>
     <string name="custom_adjust_command">Contenuto dal mittente</string>
@@ -171,4 +176,10 @@
     <string name="custom_adjust_recevier_same_with_sender">Lo stesso del numero mittente</string>
     <string name="custom_adjust_is_empty">%s è vuoto!</string>
     <string name="app_has_deleted">%s è stato eliminato.</string>
+    <string name="running_apps_activity_title">App in esecuzione</string>
+    <string name="network_control_service_notification_text">Premi per il controllo di rete</string>
+    <string name="network_control_service_notification_title_single">%1$s non può accedere alla connessione %2$s</string>
+    <string name="network_control_service_notification_title_mutiple">%1$d applicazioni non possono accedere alla connessione %2$s</string>
+    <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+    <string name="network_control_service_notification_title_nettype_mobile">mobile</string>
 </resources>

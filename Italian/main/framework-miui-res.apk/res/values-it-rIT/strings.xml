@@ -504,4 +504,6 @@ Prova di nuovo tra %d secondi."</string>
     <string name="yellow_page_sms_sending">Invio in corso…</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">Impossibile inviare SMS in modalità Ospite</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
+    <string name="grant_permissions_apps">Consenti accesso applicazione</string>
+    <string name="grant_permissions_account">Consenti accesso account</string>
 </resources>

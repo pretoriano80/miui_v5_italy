@@ -26,7 +26,6 @@
     <string name="menu_move">Sposta in cartella</string>
     <string name="menu_stick">Incolla</string>
     <string name="menu_unstick">Non incollare</string>
-    <string name="menu_font_size">Dimensione testo</string>
     <string name="menu_folder_change_name">Cambia nome cartella</string>
     <string name="folder_exist">La cartella %1$s è già esistente, rinominarla</string>
     <string name="menu_send_to_desktop">Inserisci in home</string>
@@ -56,6 +55,7 @@
     <string name="error_contact_not_exist">Contatto inesistente</string>
     <string name="preferences_title">Impostazioni</string>
     <string name="preferences_bg_random_appear_title">Colori delle note a caso</string>
+    <string name="pref_title_font_size">Dimensione font</string>
     <string name="call_record_folder_name">Registro chiamate</string>
     <string name="hint_foler_name">Digita il nome</string>
     <string name="search_label">Ricerca Note</string>
@@ -74,7 +74,8 @@
     <string name="notify_alarm_action_view">Mostra</string>
     <string name="notify_alarm_action_mute">Silenzia</string>
     <string name="toast_message_add_image_fail">Impossibile inserire immagine!</string>
-    <string name="toast_folder_privacy_mode">"Can't edit folder in guard mode"</string>
+    <string name="toast_note_privacy_mode">Impossibile modificare nota in modalità Guard</string>
+    <string name="toast_folder_privacy_mode">Impossibile modificare cartella in modalità Guard</string>
     <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perchè troppo lungo.</string>
     <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
     <string name="snippet_image_stub">[Image]</string>
@@ -95,8 +96,4 @@
     <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenziosa?</string>
     <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
     <string name="close">Chiudi</string>
-    <string name="alert_title_delete">Elimina le note selezionate</string>
-    <string name="alert_title_discard">Annulla</string>
-    <string name="pref_title_data_export">Esportazione dati</string>
-    <string name="toast_privacy_mode">Impossibile modificare nota in modalità Guard</string>
 </resources>

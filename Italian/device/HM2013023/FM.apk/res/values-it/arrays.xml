@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>45 minuti</item>
+        <item>1 Ore</item>
+    </string-array>
+
+</resources>

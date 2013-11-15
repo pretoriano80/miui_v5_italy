@@ -210,6 +210,7 @@
     <string name="resource_comment_footer">I messaggi vuoti non verranno mostrati.</string>
     <string name="resource_comment_no_comment">Nessun commento</string>
     <string name="resource_comment_current_version">Versione attuale</string>
+    <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_upload_hint">I commenti verranno mostrati dopo la moderazione.</string>
     <string name="resource_comment_sending">Inserimento commento…</string>
     <string name="resource_comment_upload_failed">Impossibile aggiungere commenti!</string>

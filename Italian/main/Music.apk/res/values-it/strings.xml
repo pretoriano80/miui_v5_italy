@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="music_browser_label">Musica</string>
+    <string name="mediaplaybacklabel">Musica</string>
+    <string name="music_picker_title">Seleziona brano</string>
+    <string name="mi_effect">MI Sound</string>
     <string name="complete">Completa</string>
     <string name="confirm">OK</string>
     <string name="cancel">Annulla</string>
@@ -21,6 +25,14 @@
     <string name="not_selected">Seleziona un brano</string>
     <string name="file_not_found">File inesistente</string>
     <string name="music_settings">Impostazioni</string>
+    <string name="account_setting">Account</string>
+    <string name="account_and_synchronization">Account e Sincronizzazione</string>
+    <string name="xiaomi_account_setting">Account Xiaomi</string>
+    <string name="bind_baidu_account_setting">Collega account  Baidu</string>
+    <string name="bind_baidu_account_summary">Utilizza le tue playlist ed i servizi aggiuntivi collegando il tuo account Baidu</string>
+    <string name="synchronize_playlist_setting">Sincronizza playlist</string>
+    <string name="synchronize_playlist_summary">Sincronizza la tua playlist con il cloud.</string>
+    <string name="not_login">Accedi</string>
     <string name="mobile_connect_settings">Rete mobile</string>
     <string name="download_album_settings">Download automatico copertine</string>
     <string name="download_album_summary">"Può comportare un utilizzo eccessivo di dati, considera l'utilizzo di Wi-Fi"</string>
@@ -89,7 +101,8 @@
     <string name="frequentlyplayed_title">Frequenti</string>
     <string name="sdcard_missing_message">Il tuo telefono non ha una scheda SD inserita.</string>
     <string name="sdcard_missing_message_nosdcard">"Il tuo telefono non ha un'archiviazione USB."</string>
-    <string name="sdcard_busy_message">"Spiacente, la tua scheda SD è occupata. Verifica lo stato della scheda SD"</string>
+    <string name="sdcard_busy_message">"Spiacente, la tua scheda SD è occupata.
+Verifica lo stato della scheda SD"</string>
     <string name="sdcard_busy_message_nosdcard">Spiacente, la tua archiviazione USB è occupata.</string>
     <string name="sdcard_error_message">Si è verificato un errore con la tua scheda SD.</string>
     <string name="sdcard_error_message_nosdcard">Si è verificato un errore con la tua archiviazione USB.</string>
@@ -111,7 +124,6 @@
     <string name="sort_by_track">Brani</string>
     <string name="sort_by_album">Album</string>
     <string name="sort_by_artist">Artisti</string>
-    <string name="music_picker_title">Brano</string>
     <string name="empty_track_list">Nessuna lista</string>
     <string name="search_settings_description">Artisti, album, e brani</string>
     <string name="search_hint">Cerca Musica</string>
@@ -194,8 +206,6 @@
     <string name="playback_failed_no_title_by_bad_file">Il brano non può essere riprodotto, formato non supportato.</string>
     <string name="playback_failed_no_title_by_network">Il brano non può essere riprodotto, verifica impostazioni connessione di rete</string>
     <string name="buffering">Buffering</string>
-    <string name="music_browser_label">Musica</string>
-    <string name="mediaplaybacklabel">Musica</string>
     <string name="artists_title">Artisti</string>
     <string name="albums_title">Album</string>
     <string name="folders_title">Cartelle</string>
@@ -229,7 +239,6 @@
     <string name="powered_by">Powered by</string>
     <string name="project_device">Xiaomi MiBox</string>
     <string name="project_device_mobile">Dispositivo mobil</string>
-    <string name="mi_effect">Effetti MI</string>
     <string name="headphone_settings">Impostazioni tipo cuffie</string>
     <string name="mi_effect_title">Utilizza miglioramento MiSound</string>
     <string name="mi_effect_summary">Usa sempre il miglioramenro MiSound quando si utilizzano gli speaker</string>
@@ -259,8 +268,10 @@
     <string name="eq_preset_hint">Inserire nome preselezione</string>
     <string name="eq_preset_select">Scegli una preselezione</string>
     <string name="music_not_loaded">File audio non trovato!</string>
-    <string name="albumsongseparator" />
-    <string name="notification_artist_album">%2$s %1$s</string>
+    <string name="albumsongseparator">"
+"</string>
+    <string name="notification_artist_album">"%2$s
+%1$s"</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
