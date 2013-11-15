@@ -500,9 +500,9 @@
         <item>Forte</item>
     </string-array>
     <string-array name="haptic_feedback_level_values">
-        <item>0</item>
-        <item>1</item>
         <item>2</item>
+        <item>1</item>
+        <item>0</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
@@ -671,32 +671,6 @@
         <item>@string/dolby_ieq_rich</item>
         <item>@string/dolby_ieq_focused</item>
     </string-array>
-    <string-array name="dirac_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0,0,0</item>
-        <item>2,1,-1,0,-1,-1,2</item>
-        <item>0,0,0,-1,-1.5,0,0</item>
-        <item>0,-1.5,-2.5,0,0,-1.5,0</item>
-        <item>0,0,0,0,1.5,3,3</item>
-        <item>1.5,1.5,-1.5,0,-1.5,0,1</item>
-        <item>1,2,-3,2,0,0.5,1</item>
-        <item>1.5,1.5,-0.5,0,-1.5,0,0</item>
-        <item>0,0,-1,-1,1,1,0</item>
-        <item>0,2,1,0,-1,-1,2</item>
-        <item>1,0,0,-1,-2,0,0</item>
-    </string-array>
-    <string-array name="dirac_equalizer_preset_names">
-        <item>@string/eq_flat</item>
-        <item>@string/eq_rock</item>
-        <item>@string/eq_jazz</item>
-        <item>@string/eq_pop</item>
-        <item>@string/eq_classical</item>
-        <item>@string/eq_hiphop</item>
-        <item>@string/eq_blues</item>
-        <item>@string/eq_electronic</item>
-        <item>@string/eq_country</item>
-        <item>@string/eq_dance</item>
-        <item>@string/eq_metal</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>Dispositico connesso, creazione sessione...</item>
         <item>Sessione creata</item>
@@ -704,11 +678,6 @@
         <item>Sessione fallita</item>
         <item>Creazione sessione scaduta, nuovo tentativo...</item>
         <item>Dispositivo connesso</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>Prestazioni</item>
-        <item>Normale</item>
-        <item>Risparmio</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP versioni precedenti</item>
@@ -738,8 +707,7 @@ Apri e seleziona AndroidFileTransfer.dmg per l'installazione"</item>
         <item>"2.L'unità di archiviazione MI 2 verrà visualizzata sul tuo computer
 Adesso puoi trasferire i tuoi dati"</item>
         <item></item>
-        <item>"Il comuter aprirà e leggerà automaticamente i dati del telefono
-Adesso puoi trasferire i file"</item>
+        <item>Trasferisci file come in qualsiasi altro dispositivo di archiviazione</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
@@ -759,16 +727,6 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
     <string-array name="screen_saturation_title">
         <item>Brillante</item>
         <item>Normale</item>
-    </string-array>
-    <string-array name="perms_hips_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="perm_hips_action">
-        <item>Consenti</item>
-        <item>Chiedi</item>
-        <item>Nega</item>
     </string-array>
     <string-array name="startup_hips_values">
         <item>2</item>
@@ -797,5 +755,13 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
     <string-array name="phone_call_noise_suppression__values">
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="dndm_vip_list_group_array">
+        <item>@string/dndm_vip_list_custom</item>
+        <item>@string/dndm_vip_list_contact</item>
+    </string-array>
+    <string-array name="dndm_auto_time_trun_on_off">
+        <item>@string/dndm_auto_time_turn_on</item>
+        <item>@string/dndm_auto_time_turn_off</item>
     </string-array>
 </resources>
