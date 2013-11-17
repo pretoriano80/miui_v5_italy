@@ -10,7 +10,7 @@
     <string name="floating_window_switch_label">Mostra popup</string>
     <string name="floating_window_switch_label_disable">Nascondi popup</string>
     <string name="app_floating_window_dlg_enable">"L'attivazione delle impostazioni per la finestra mobile di %1$s necessita il riavvio. Confermi di volerle attivare?"</string>
-    <string name="app_floating_window_dlg_disable">"DLa disattivazione delle impostazioni della finestra mobile di %1$s chiuderà l'applicazione in modo forzato. Are you sure you want to disable?"</string>
+    <string name="app_floating_window_dlg_disable">"La disattivazione delle impostazioni della finestra mobile di %1$s chiuderà l'applicazione in modo forzato. Confermare la disattivazione?"</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Annulla</string>
     <string name="cache_manage_title">Cancellazione %1$d file in cache, spazio libero %2$s</string>
@@ -2895,8 +2895,6 @@ prova in questo modo:
     <string name="permission_detail_info_summary">Tutti i permessi: %1$d di Sicurezza, %2$d di Privacy, %3$d altro</string>
     <string name="permission_manage">Gestione permessi</string>
     <string name="permission_manage_summary">Gestione dei permessi per avvio automatico, privacy, sicurezza.</string>
-    <string name="security_relative">Sicurezza</string>
-    <string name="privacy_relative">Privacy</string>
     <string name="other_relative">Altro</string>
     <string name="permission_manage_title">%s dettagli permessi</string>
     <string name="filter_apps_cached">Cache</string>
@@ -2907,17 +2905,6 @@ prova in questo modo:
     <string name="screen_color_temperature_and_saturation">Temperatura e saturazione colore</string>
     <string name="finish_application">Fine</string>
     <string name="header_category_accounts">ACCOUNT</string>
-    <string name="auto_startup_application_manage">Avvio automatico app</string>
-    <string name="auto_startup_count">Consenti a %d app di avviarsi automaticamente</string>
-    <string name="man_add_application">Aggiungi applicazioni manualmente</string>
-    <string name="application_item_disable">Disabilita</string>
-    <string name="application_item_permission">Consenti</string>
-    <string name="application_item_already_permission">Consentita</string>
-    <string name="application_forbid_auto_startup">"Disabilita l'avvio automatico per %s"</string>
-    <string name="floating_window_switch_label">Mostra finestra pop-up</string>
-    <string name="floating_window_switch_label_disable">Nascondi finestra pop-up</string>
-    <string name="app_floating_window_dlg_enable">"Per abilitare le impostazioni della finestra di %1$s dovrai riavviare l'applicazione. Sicuro di voler procedere ?"</string>
-    <string name="app_floating_window_dlg_disable">"Disabilitando le impostazioni della finestra di %1$s l'applicazione verrà chiusa. Sicuro di voler procedere ?"</string>
     <string name="wps_category">Sicurezza WPS</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router possa gestire il protocollo WPS</string>
