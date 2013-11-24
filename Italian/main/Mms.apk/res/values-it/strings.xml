@@ -346,7 +346,6 @@
     <string name="message_too_big_for_audio">Messaggio troppo grande per allegare audio.</string>
     <string name="add_timing">Programma</string>
     <string name="pref_title_system_mms_priority">Priorità messaggi</string>
-    <string name="pref_summary_on_system_mms_priority">"Usa l'applicazione Messaggi come programma principale per inviare e ricevere messaggi</string>
     <string name="pref_summary_off_system_mms_priority">"Utilizza un'applicazione di terze parti per inviare ricevere messaggi"</string>
     <string name="title_timed_message_dialog">"Programma l'orario per questo messaggio"</string>
     <string name="error_timed_msg">Impossibile programmare un orario antecedente</string>
@@ -399,6 +398,9 @@
     <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, potrebbero essere applicati dei costi dal tuo operatore. Continuare?"</string>
     <string name="mx_enable_int_popup_msg">"I Messaggi Cloud consentono di inviare messaggi tra utenti MIUI. Per l'attivazione è necessario l'invio di un SMS internazionale, il costo dipende dalle tariffe previste dall'operatore".</string>
     <string name="mx_activation_done">Messaggi Cloud abilitati</string>
+    <string name="mx_activate_popup_msg">MiMessaging consente agli utenti MIUI di inviare messaggi tra di loro senza utilizzare il traffico dati mobile.</string>
+    <string name="mx_activate_int_popup_msg">MiMessaging consente agli utenti MIUI di inviare messaggi tra di loro senza utilizzare il traffico dati mobile.</string>
+    <string name="mx_btn_enable_now">Attiva MiMessaging</string>
     <string name="loading_mms">Caricamento MMS…</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>
     <string name="unknown_num">Numero sconosciuto</string>
@@ -447,7 +449,6 @@
     <string name="overwrite_edited_content">Il contenuto modificato verrà sovrascritto, continuare?</string>
     <string name="back_to_message_list">Torna alla lista messaggi</string>
     <string name="select_recipient">Seleziona destinatario</string>
-    <string name="add_attachment">Aggiungi allegati</string>
     <string name="send_sms">Invia messaggio</string>
     <string name="file_share_message_description">vorrei condividere alcuni file con te</string>
     <string name="addBlackList">Aggiungi alla blacklist</string>
@@ -460,4 +461,5 @@
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
     <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso...</string>
+    <string name="refill_now">Ricarica</string>
 </resources>

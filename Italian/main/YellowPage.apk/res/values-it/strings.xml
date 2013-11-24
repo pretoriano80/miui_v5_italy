@@ -120,6 +120,8 @@ Verfica il numero di tracciamnto"</string>
     <string name="express_inquiry_history">Cronologia</string>
     <string name="express_inquiry_delivered">Consegnato</string>
     <string name="express_inquiry_no_history">Nessuna cronologia</string>
+    <string name="express_inquiry_delete_warning_single">Eliminare i dati selezionati?</string>
+    <string name="express_inquiry_delete_warning_multiple">Eliminare %d elementi dalla cronologia?</string>
     <string name="remind_user_suspect_number_title">Fai attenzione alle telefonate fraudolente</string>
     <string name="remind_user_suspect_number_message">Alcuni criminal ipossono rubare le identità di altre persone per compiere truffe, se non sei sicuro/a, richiama per sicurezza. Banche, attività di e-commerce e corrieri non chiedono chiedono password o dati bancari</string>
     <string name="remind_another_time">Non chiedere per questo numero"</string>

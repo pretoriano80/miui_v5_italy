@@ -152,6 +152,7 @@
     <string name="settings_notification_bar">Notification bar</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
     <string name="settings_toggle_collapse_after_clicked">Chiudi quando premuto</string>
+    <string name="settings_screenshot_notification_disabled">Mostra informazioni Screenshot</string>
     <string name="settings_expanded_view">Vista notifiche ampliata</string>
     <string name="settings_status_bar">Barra di stato</string>
     <string name="settings_show_network_speed">Mostra velocità rete</string>

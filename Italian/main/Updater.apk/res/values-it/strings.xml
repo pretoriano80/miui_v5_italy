@@ -107,6 +107,7 @@
     <string name="moving_data_to_sdcard_message">Dati in spostaemnto su scheda SD, non attivare la modalità USB e non rimuovere la scheda SD</string>
     <string name="moving_data_to_sdcard_progress_format">Trasferiti %1$dd Kb di %2$d Kb</string>
     <string name="finish_download">Download completato</string>
+    <string name="updater_finish_download">Download ROM completato</string>
     <string name="install_whole_rom">E\' consigliato il download del pacchetto full ROM</string>
     <string name="check_update_policy">Verifica impostazioni di aggiornamento</string>
     <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo Wi-Fi</string>
