@@ -9,12 +9,6 @@
         <item>Pacific</item>
         <item>All</item>
     </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 secondi</item>
         <item>30 secondi</item>
@@ -24,15 +18,7 @@
         <item>10 minuti</item>
         <item>30 minuti</item>
     </string-array>
-    <string-array name="screen_timeout_values">
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
+
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
         <item>15 secondi</item>
@@ -42,16 +28,6 @@
         <item>5 minuti</item>
         <item>10 minuti</item>
         <item>30 minuti</item>
-    </string-array>
-    <string-array name="dream_timeout_values">
-        <item>0</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Subito</item>
@@ -63,17 +39,6 @@
         <item>5 minuti</item>
         <item>10 minuti</item>
         <item>30 minuti</item>
-    </string-array>
-    <string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Piccolo</item>
@@ -94,26 +59,12 @@
         <item>Veloce</item>
         <item>Molto veloce</item>
     </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-    </string-array>
     <string-array name="tts_pitch_entries">
         <item>Molto basso</item>
         <item>Basso</item>
         <item>Normale</item>
         <item>Alto</item>
         <item>Molto alto</item>
-    </string-array>
-    <string-array name="tts_pitch_values">
-        <item>50</item>
-        <item>80</item>
-        <item>100</item>
-        <item>120</item>
-        <item>150</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -156,19 +107,6 @@
         <item>Fallito</item>
         <item>Bloccato</item>
         <item>Evitamento temporaneo di connessione debole</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Aperta</item>
@@ -215,20 +153,10 @@
         <item>OSolo se in carica</item>
         <item>Mai</item>
     </string-array>
-    <string-array name="wifi_sleep_policy_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
         <item>Solo 5 GHz</item>
         <item>Solo 2.4 GHz</item>
-    </string-array>
-    <string-array name="wifi_frequency_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo di utilizzo</item>
@@ -261,11 +189,6 @@
         <item>Avviso</item>
         <item>Vibrazione</item>
     </string-array>
-    <string-array name="emergency_tone_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="special_locale_codes">
         <item>zh_CN</item>
         <item>zh_TW</item>
@@ -280,61 +203,30 @@
         <item>CHAP</item>
         <item>PAP or CHAP</item>
     </string-array>
-    <string-array name="apn_auth_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="apn_protocol_entries">
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Non specificato</item>
     </string-array>
-    <string-array name="bearer_values">
-        <item>14</item>
-        <item>13</item>
-        <item>0</item>
-    </string-array>
     <string-array name="app_install_location_entries">
         <item>Memoria interna</item>
         <item>Scheda SD</item>
         <item>Fai decidere al sistema</item>
-    </string-array>
-    <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Breve</item>
         <item>Medio</item>
         <item>Lungo</item>
     </string-array>
-    <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Non controllare  mai</item>
         <item>Controlla solo contenuti DRM</item>
         <item>Controlla sempre</item>
-    </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Non usare mai il controllo HDCP</item>
@@ -350,15 +242,6 @@
         <item>Scala animazioni 5x</item>
         <item>Scala animazioni 10x</item>
     </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
         <item>Scala animazioni .5x</item>
@@ -367,15 +250,6 @@
         <item>Scala animazioni 2x</item>
         <item>Scala animazioni 5x</item>
         <item>Scala animazioni 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -386,15 +260,6 @@
         <item>Scala animazioni 5x</item>
         <item>Scala animazioni 10x</item>
     </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
         <item>Nessun processo in background</item>
@@ -402,14 +267,6 @@
         <item>2 processo al massimo</item>
         <item>3 processo al massimo</item>
         <item>4 processo al massimo</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -442,13 +299,6 @@
         <item>Scimpanzè</item>
         <item>Scimmia</item>
     </string-array>
-    <string-array name="user_content_ratings_values">
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-    </string-array>
     <string-array name="multi_sim_entries">
         <item>Sottoscrizione 1</item>
         <item>Sottoscrizione 2</item>
@@ -456,10 +306,6 @@
     <string-array name="multi_sim_summaries">
         <item>Sottoscrizione 1</item>
         <item>Sottoscrizione 2</item>
-    </string-array>
-    <string-array name="multi_sim_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="multi_sim_entries_voice">
         <item>Sottoscrizione 1</item>
@@ -471,58 +317,24 @@
         <item>Sottoscrizione 2</item>
         <item>"Chiedi all'utente"</item>
     </string-array>
-    <string-array name="multi_sim_values_voice">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="multi_sim_entries_voice_without_prompt">
         <item>Sottoscrizione 1</item>
         <item>Sottoscrizione 2</item>
-    </string-array>
-    <string-array name="multi_sim_values_voice_without_prompt">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Debole</item>
         <item>Medio</item>
         <item>Forte</item>
     </string-array>
-    <string-array name="haptic_feedback_level_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
         <item>Percentuale</item>
         <item>Barra</item>
     </string-array>
-    <string-array name="battery_indicator_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Chiedi alla connessione</item>
         <item>Solo carica</item>
         <item>Monta scheda</item>
-    </string-array>
-    <string-array name="usb_connection_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 secondi</item>
@@ -533,33 +345,6 @@
         <item>7 secondi</item>
         <item>8 secondi</item>
         <item>9 secondi</item>
-    </string-array>
-    <string-array name="led_freq_values">
-        <item>2000</item>
-        <item>3000</item>
-        <item>4000</item>
-        <item>5000</item>
-        <item>6000</item>
-        <item>7000</item>
-        <item>8000</item>
-        <item>9000</item>
-    </string-array>
-    <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
-    <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Blu</item>
@@ -578,28 +363,7 @@
         <item>Bianco</item>
         <item>Viola</item>
     </string-array>
-    <string-array name="always_enabled_app_list">
-        <item>com.android.providers.applications</item>
-        <item>com.android.providers.calendar</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.providers.downloads</item>
-        <item>com.android.providers.drm</item>
-        <item>com.android.providers.media</item>
-        <item>com.android.providers.telephony</item>
-        <item>com.android.providers.userdictionary</item>
-        <item>com.miui.providers.userbook</item>
-        <item>com.miui.providers.weather</item>
-        <item>com.miui.yellowpage</item>
-    </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="mi2_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>WAPI PSK</item>
         <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_wapi_key_type">
@@ -626,12 +390,6 @@
         <item>1.5 secondi</item>
         <item>2 secondi</item>
     </string-array>
-    <string-array name="screen_key_long_press_timeout_value">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-        <item>2000</item>
-    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 secondo</item>
         <item>2 secondi</item>
@@ -639,20 +397,6 @@
         <item>10 secondi</item>
         <item>20 secondi</item>
         <item>Always</item>
-    </string-array>
-    <string-array name="button_light_timeout_value">
-        <item>1000</item>
-        <item>2000</item>
-        <item>5000</item>
-        <item>10000</item>
-        <item>20000</item>
-        <item>-1</item>
-    </string-array>
-    <string-array name="font_size_title">
-        <item>@string/font_size_small</item>
-        <item>@string/font_size_normal</item>
-        <item>@string/font_size_medium</item>
-        <item>@string/font_size_large</item>
     </string-array>
     <integer-array name="font_size_preference_preview_size">
         <item>14</item>
@@ -728,10 +472,6 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Brillante</item>
         <item>Normale</item>
     </string-array>
-    <string-array name="startup_hips_values">
-        <item>2</item>
-        <item>0</item>
-    </string-array>
     <string-array name="startup_hips_action">
         <item>Consenti</item>
         <item>Nega</item>
@@ -751,10 +491,6 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
     <string-array name="phone_call_noise_suppression_title">
         <item>Riduzione rumore a singolo microfono</item>
         <item>Riduzione rumore a doppio microfono</item>
-    </string-array>
-    <string-array name="phone_call_noise_suppression__values">
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="dndm_vip_list_group_array">
         <item>@string/dndm_vip_list_custom</item>
