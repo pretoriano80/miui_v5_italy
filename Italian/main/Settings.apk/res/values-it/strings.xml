@@ -70,6 +70,7 @@
     <string name="residual_tips_hints">%s file residui trovati sulla scheda SD</string>
     <string name="clean_confirm_title">Eliminare i file selezionati?</string>
     <string name="button_text_delete">Elimina</string>
+    <string name="cleaner_support_hints">Powered by Clean Master</string>
     <string name="opt_clean_garbage">%d Mb cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
     <string name="opt_freed_ram">Liberati %dMb di memoria</string>
@@ -2964,5 +2965,16 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="sync_wifi_only">Solo Wi-Fi</string>
     <string name="open_wifi_connect_title">Connetti alla rete %1$s</string>
     <string name="open_wifi_connect_summary">Premi per modificare</string>
+    <string name="miui_screensaver_state_on">Attivato</string>
+    <string name="miui_screensaver_state_off">Disattivato</string>
+    <string name="miui_screensaver_title">Screensaver</string>
+    <string name="activate_miui_screensaver">Attiva screensaver</string>
+    <string name="picture_source">Fonte immagine</string>
+    <string name="only_when_charging">Solo durante la carica</string>
+    <string name="miui_screensaver_show_time">Durata</string>
+    <string name="miui_screensaver_show_time_select_title">Imposta durata</string>
+    <string name="miui_screensaver_usage">"Una volta attivato, le immagini nell'album screensaver verranno mostrate ripetutamente dopo 5 secondi dalla disattivazione dello schermo."</string>
+    <string name="alert_show_screensaver_when_not_charging_title">Screensaver quando non in carica</string>
+    <string name="alert_show_screensaver_when_not_charging_msg">La batteria verrà consumata più rapidamente se si utilizza lo screensaver quando il dispositivo non è in carica. Vuoi disattivare questa funzione?</string>
     <string name="screen_saturation_adjust">Regolazione saturazione colore</string>
 </resources>

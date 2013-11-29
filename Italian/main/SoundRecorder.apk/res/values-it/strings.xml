@@ -72,6 +72,7 @@
     <string name="preference_enable_earpiece_title">"Riproduci nell'altoparlante"</string>
     <string name="preference_enable_earpiece_summary">"Permette di riprodurre la registrazione nell'altoparlante utilizzato per le chiamate"</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
+    <string name="error_filename_illegal_char">Il nome del file contiene caratteri non validi.</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>

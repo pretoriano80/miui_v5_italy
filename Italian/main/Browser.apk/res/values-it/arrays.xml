@@ -723,9 +723,8 @@
         <item>A richiesta</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Pagina iniziale</item>
-        <item>Siti più visitati</item>
-        <item>Altro</item>
+        <item>Il browser aprirà questa pagina</item>
+        <item>Personalizza</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Molto piccolo</item>
