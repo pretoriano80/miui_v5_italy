@@ -109,7 +109,7 @@
     <string name="alert_title_delete">Elimina</string>
     <string name="alert_message_delete_station">Sicuro di voler eliminare la stazione selezionata?</string>
     <string name="toast_delete_station">%sMHz è stata eliminata.</string>
-    <string name="msg_noantenna_message">Inserisci le cuffie per utilizzare la Radio FM.</string>
+    <string name="msg_noantenna_message">Inserisci le cuffie per migliorare la qualità della ricezione.</string>
     <string name="msg_do_not_support_fm">La Radio FM non è supportata su questo dispositivo.</string>
     <string name="exit_fm">Esci</string>
     <string name="toast_sleep_mode">Ferma radio FM in %s</string>

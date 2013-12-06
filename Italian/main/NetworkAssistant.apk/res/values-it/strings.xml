@@ -103,8 +103,7 @@
     <string name="unknown_traffic_hint">Traffico disponibile sconosciuto, vuoi impostarlo adesso?</string>
     <string name="finish_traffic_settings_hint">Impostazioni salvate!</string>
     <string name="finish_traffic_settings_title">Regola traffico dati</string>
-    <string name="finish_traffic_settings_message">"Il traffico utilizzato è %s. Il dato è corretto?
-Se non lo è modificalo.</string>
+    <string name="finish_traffic_settings_message">Il traffico utilizzato è %s. Il dato è corretto? Se non lo è modificalo.</string>
     <string name="dialog_button_adjust">Modifica</string>
     <string name="settings_page_adjust_summary_no_carrier">Operatore non impostato，Regolazione Automatica disattivata</string>
     <string name="settings_page_traffic_summary">Disponibile: %1$s, Attenzione: %2$s, Carica da %3$d</string>
@@ -165,7 +164,6 @@ Se non lo è modificalo.</string>
     <string name="text_done">Ok</string>
     <string name="text_save">Salva</string>
     <string name="adjust_no_network_update_data_fail">Impossibile aggiornare i dati, prova di nuovo dopo aver controllato le impostazioni di connessione.</string>
-    <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
     <string name="custom_adjust_title">Regola impostazioni personalizzate</string>
     <string name="custom_adjust_sender">Numero mittente</string>
     <string name="custom_adjust_command">Contenuto dal mittente</string>
@@ -182,4 +180,5 @@ Se non lo è modificalo.</string>
     <string name="network_control_service_notification_title_mutiple">%1$d applicazioni non possono accedere alla connessione %2$s</string>
     <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
     <string name="network_control_service_notification_title_nettype_mobile">mobile</string>
+    <string name="adjust_module_miss">Modulo utilizzo dati mancante</string>
 </resources>
