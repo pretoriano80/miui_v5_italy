@@ -14,6 +14,7 @@
     <string name="sdcard_unmounted">SD Card non trovata o non montata!</string>
     <string name="backup_progress">Creazione backup in corso..</string>
     <string name="button_ok">Ok</string>
+    <string name="button_continue">Continua</string>
     <string name="backup_finished">Backup completato</string>
     <string name="backup_report">Rapporto Backup</string>
     <string name="backup_hint">Non spegnere il telefono durante il backup</string>
@@ -221,6 +222,7 @@ Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
     <string name="cloud_app_data_in_other_devices">Nessun backup MiCloud su questo dispositivo.</string>
     <string name="cloud_app_no_data">Nessun dato.</string>
     <string name="cloud_app_invalid_op">Non puoi vedere i dati in cloud durante il backup o il ripristino.</string>
+    <string name="cloud_app_invalid_op_when_removing">Non puoi vedere i dati MiCloud perchè è stato rimosso!</string>
     <string name="cloud_app_remove_pending">In attesa di eliminazione...</string>
     <string name="cloud_app_remove_progress">Eliminazione...</string>
     <string name="cloud_app_restore_pending">In attesa di ripristino...</string>
@@ -230,6 +232,28 @@ Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
     <string name="cloud_app_remove_error">Impossibile eliminare!</string>
     <string name="cloud_app_restore_error">Ripristino fallito!</string>
     <string name="cloud_app_restore_success">Applicazioni ripristinate!</string>
+    <string name="cloud_app_wait_wifi">In attesa di connessione Wi-Fi</string>
+    <string name="cloud_app_backup_cancel">Annulla backup</string>
+    <string name="cloud_app_restore_cancel">Annulla ripristino</string>
+    <string name="cloud_app_remove_cancel">annulla eliminazione</string>
+    <string name="cloud_app_backup_cancel_prompt_title">Annulla backup</string>
+    <string name="cloud_app_restore_cancel_prompt_title">Annulla ripristino</string>
+    <string name="cloud_app_remove_cancel_prompt_title">SInterrompi eliminazione</string>
+    <string name="cloud_app_backup_cancel_prompt_message">"Backup non completato, premi 
+OK per annullare"</string>
+    <string name="cloud_app_restore_cancel_prompt_message">"Eliminazione non completata, premi 
+OK per annullare"</string>
+    <string name="cloud_app_remove_cancel_prompt_message">"Eliminazione backup non completato, premi 
+OK per annullare"</string>
+    <string name="cloud_app_check_data">Richiesta dati da MiCloud...</string>
+    <string name="cloud_app_check_data_timeout">Richiesta dati da MiCloud scaduta</string>
+    <string name="cloud_app_load_data">Richiesta lista backup...</string>
+    <string name="cloud_app_load_data_timeout">Richiesta dati da MiCloud scaduta</string>
+    <string name="cloud_app_check_data_fail">Richiesta dati da MiCloud fallita</string>
+    <string name="cloud_app_no_network">Rete non disponibile</string>
+    <string name="cloud_app_no_wifi">Wi-Fi non disponibile</string>
+    <string name="cloud_app_no_wifi_connect">Nessuna rete Wi-Fi disponibile</string>
+    <string name="cloud_app_loading_with_mobile_network_prompt">Verrà utilizzata la rete dati mobile per continuare. Vuoi continuare?</string>
     <string name="just_support_op_with_wifi_connected">Supportato solo con Wi-Fi</string>
     <string name="button_restore">Ripristina</string>
     <string name="button_abandon">Annulla</string>

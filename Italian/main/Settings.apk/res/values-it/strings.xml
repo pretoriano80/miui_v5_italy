@@ -2976,5 +2976,9 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="miui_screensaver_usage">"Una volta attivato, le immagini nell'album screensaver verranno mostrate ripetutamente dopo 5 secondi dalla disattivazione dello schermo."</string>
     <string name="alert_show_screensaver_when_not_charging_title">Screensaver quando non in carica</string>
     <string name="alert_show_screensaver_when_not_charging_msg">La batteria verrà consumata più rapidamente se si utilizza lo screensaver quando il dispositivo non è in carica. Vuoi disattivare questa funzione?</string>
+    <string name="preferred_app_settings">Impostazioni predefinite app</string>
+    <string name="preferred_app_settings_default">Predefinito</string>
+    <string name="preferred_app_settings_reset">Ripristina imp. predefinite</string>
+    <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>
     <string name="screen_saturation_adjust">Regolazione saturazione colore</string>
 </resources>

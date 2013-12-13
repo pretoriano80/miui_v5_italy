@@ -491,12 +491,15 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Riduzione rumore a singolo microfono</item>
         <item>Riduzione rumore a doppio microfono</item>
     </string-array>
-    <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_custom</item>
-        <item>@string/dndm_vip_list_contact</item>
-    </string-array>
-    <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
+    <string-array name="preferred_app_entries">
+        <item>Desktop</item>
+        <item>Telefono</item>
+        <item>SMS</item>
+        <item>Browser</item>
+        <item>Fotocamera</item>
+        <item>Album</item>
+        <item>Musica</item>
+        <item>Video</item>
+        <item>E-mail</item>
     </string-array>
 </resources>
