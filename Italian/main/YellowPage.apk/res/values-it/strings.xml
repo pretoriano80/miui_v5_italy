@@ -15,6 +15,7 @@
     <string name="toast_text_copied">Testo copiato</string>
     <string name="provider_tag">Fonte dati</string>
     <string name="all_numbers">Tutti i numeri</string>
+    <string name="provider">Identificato da %s</string>
     <string name="callrecordview_item_newcontact">Nuovo contatto</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -45,17 +46,12 @@
     <string name="selected_category_format">%1$s(%2$d contatti segnalati, premi per confermare)</string>
     <string name="mark_title_null_hint">Il valore non può essere vuoto</string>
     <string name="smart_antispam">Identifica automaticamente numero sconosciuto</string>
-    <string name="turn_on_smart_antispam_hint">"Dopo averlo attivato, i numero verranno identificati.
-Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate idnesiderate."</string>
+    <string name="turn_on_smart_antispam_hint">Dopo averlo attivato, i numero verranno identificati. Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate idnesiderate.</string>
     <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>
     <string name="turn_on_smart_antispam_summary_on">Identifica e carita i numeri spam</string>
     <string name="turn_on_smart_antispam_summary_off">Cerca solo tra i numeri locali</string>
     <string name="agree">Conferma</string>
-    <string name="user_notice_identify_summary_format">"I numeri possono essere identificati in un ambiente di rete.
-
-Premendo \"Apri\" accetti %1$s e %2$s, premendo Annulla utilizzerai soltanto il database del telefono.
-
-Suggerimento: Non fidarti di messaggi relativi a vincite o trasferimenti di denaro quando parli con estranei."</string>
+    <string name="user_notice_identify_summary_format">"I numeri possono essere identificati in un ambiente di rete. Premendo \"Apri\" accetti %1$s e %2$s, premendo Annulla utilizzerai soltanto il database del telefono.</string>
     <string name="user_notice_yp_detail_summary_format">"L'informazione parziale di questa risorsa deve essere aggiornata online, leggi %1$s e %2$s, click \"Agree\" means that you agree the above content and should obey the agreement, click \"Cancel\" to view the cached info only.</string>
     <string name="about_smart_antispam_summary">Informazioni sul rilevamento di numeri sconosciuti da parte di Smart Antispam</string>
     <string name="about_telephone_fraud">Informazioni sulle Truffe telefoniche</string>
@@ -81,7 +77,6 @@ Suggerimento: Non fidarti di messaggi relativi a vincite o trasferimenti di dena
     <string name="recharge_phone_number_error">Numero di telefono non valido.</string>
     <string name="recharge_user_confirm_title">Conferma</string>
     <string name="recharge_user_confirm_summary">"YTi verranno addebitati %1$s per RMB%2$s 
-
 Totale: RMB%3$s"</string>
     <string name="recharge_order_id">ID ordine：</string>
     <string name="recharge_status_description">Stato:</string>
@@ -111,7 +106,8 @@ Totale: RMB%3$s"</string>
     <string name="express_inquiry_serial_number_prefix">"Numero seriale: "</string>
     <string name="express_inquiry_no_result">Nessun risultato.</string>
     <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
-    <string name="express_inquiry_data_owner">Informazioni di tracciamento fornite da %s</string>
+    <string name="express_inquiry_data_owner_prefix">Informazioni di tracciamento fornite da</string>
+    <string name="express_inquiry_data_owner_suffix" />
     <string name="scan">Scansiona</string>
     <string name="express_inqiury_select_logistics">Seleziona corriere</string>
     <string name="expresss_inquiry_frequently_used_logistics">Usati con frequenza</string>
@@ -128,7 +124,19 @@ Totale: RMB%3$s"</string>
     <string name="balance_inquiry_title">Richiesta saldo</string>
     <string name="balance_inquiry_default_sp_name">Operatore</string>
     <string name="balance_inquiry_send_sms_hint">Verrà inviato un SMS gratuito per richiedere il tuo saldo</string>
+    <string name="navigation_search_automatically_positioned_city">Città attuale</string>
+    <string name="navigation_search_positioning">Ricerca posizione...</string>
+    <string name="navigation_search_positioning_failed">Impossibile localizzare città</string>
+    <string name="navigation_search_no_city_list">Nessun dato trovato sulla città!</string>
+    <string name="navigation_search_hot_cities">Principali</string>
+    <string name="navigation_search_all_cities">Tutte</string>
+    <string name="order_empty_hint">Nessun ordine</string>
+    <string name="order_merchant_title">I miei ordini - %s</string>
+    <string name="order_id">Ordine rif: %s</string>
+    <string name="order_status">%s</string>
+    <string name="order_price">%s</string>
     <string name="correction">Correzione</string>
+    <string name="express_inquiry_data_owner">Tracking info provided by %s</string>
     <string name="express_inquiry_indication">Numero tracciamento</string>
     <string name="login_before_recharging">"Devi effettuare l'accesso per ricaricare."</string>
     <string name="mark_number_dialog_subtitle">Sviluppato in collaborazione con Sogou</string>

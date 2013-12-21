@@ -4,6 +4,7 @@
     <string name="mediaplaybacklabel">Musica</string>
     <string name="music_picker_title">Seleziona brano</string>
     <string name="mi_effect">MI Sound</string>
+    <string name="find_ktv">Trova KTV</string>
     <string name="complete">Completa</string>
     <string name="confirm">OK</string>
     <string name="cancel">Annulla</string>
@@ -44,7 +45,7 @@
     <string name="correct_id3_summary">"Può comportare un utilizzo eccessivo di dati. Utilizzare preferibilmente in wi-fi."</string>
     <string name="player_display_settings">Impostazioni Riproduzione</string>
     <string name="lyric_display_settings">Mostra testi</string>
-    <string name="lyric_display_summary">"Mosta testi nell'interfaccia di riproduzione. (Consigliato)"</string>
+    <string name="lyric_display_summary">"Mostra testi nell'interfaccia di riproduzione. (Consigliato)"</string>
     <string name="album_display_settings">Mostra copertine</string>
     <string name="album_display_summary">"Mostra copertine nell'interfaccia di riproduzione"</string>
     <string name="lyric_and_album">Testi e Album</string>
@@ -132,6 +133,7 @@ Verifica lo stato della scheda SD"</string>
     <string name="send_to_application">"Invia ad un'altra applicazione"</string>
     <string name="download">Download</string>
     <string name="download_processing">In download</string>
+    <string name="download_completed">Scaricato</string>
     <string name="download_batch_start">Inizio downloading tutti</string>
     <string name="delete_file_from_sdcard">Elimina dalla scheda SD</string>
     <string name="recommend">Consigliati</string>
@@ -160,6 +162,8 @@ Verifica lo stato della scheda SD"</string>
     <string name="music_open_other_connect">Scarica musica utilizzando la connessione Internet</string>
     <string name="impunity_declaration_title">Dichiarazione</string>
     <string name="impunity_declaration">La musica online che stai per utilizzare è fornita tramite Baidu Online Music Service. Premi \"OK\" per accettare ed utilizzare, premi \"Annulla\" per uscire.</string>
+    <string name="synchronize_to_baidu_cloud">Esegui il backup online delle canzoni nelle tue playlist utilizzando Baidu Cloud</string>
+    <string name="synchronize_guide_toast">Per attivare la sincronizzazione, vai in Impostazioni > Sincronizza playlist</string>
     <string name="music_filter_helper">Per escludere i file audio di piccole dimensioni è stato applicato un filtro con limite dimensione a 800Kb così da impedirne la visualizzazione. La soglia del filtro può essere modificata in Impostazioni / Filtro file.</string>
     <string name="modify_meta">Modifica informazioni brano</string>
     <string name="id3_edit">Modifica informazioni ID3</string>
@@ -216,6 +220,7 @@ Verifica lo stato della scheda SD"</string>
     <string name="playlist_recently_played">Recenti</string>
     <string name="playlist_frequently_played">Frequenti</string>
     <string name="playlist_favorite">Preferiti</string>
+    <string name="playlist_my_ktv">I miei KTV</string>
     <string name="create_playlist_create_text_prompt">Nome playlist</string>
     <string name="create_confirm">Conferma</string>
     <string name="overwrite_confirm">Sovrascrivi</string>
@@ -238,11 +243,10 @@ Verifica lo stato della scheda SD"</string>
     <string name="no_song_downloaded">Nessun brano può essere scaricato.</string>
     <string name="powered_by">Powered by</string>
     <string name="project_device">Xiaomi MiBox</string>
-    <string name="project_device_mobile">Dispositivo mobil</string>
+    <string name="project_device_mobile">Dispositivo mobile</string>
     <string name="headphone_settings">Impostazioni tipo cuffie</string>
     <string name="mi_effect_title">Utilizza miglioramento MiSound</string>
-    <string name="mi_effect_summary">Usa sempre il miglioramenro MiSound quando si utilizzano gli speaker</string>
-    <string name="dirac_mode_off">Dirac Disattivato</string>
+    <string name="mi_effect_summary">Usa sempre il miglioramento MiSound quando si utilizzano gli speaker</string>
     <string name="dirac_mode_in_ear">Auricolari in-ear Xiaomi</string>
     <string name="dirac_mode_earbuds">Cuffie Xiaomi</string>
     <string name="dirac_mode_piston_100">Cuffie Xiaomi Piston</string>
@@ -252,7 +256,6 @@ Verifica lo stato della scheda SD"</string>
     <string name="eq_jazz">Jazz</string>
     <string name="eq_pop">Pop</string>
     <string name="eq_classical">Classica</string>
-    <string name="eq_rb">R &amp; B</string>
     <string name="eq_hiphop">Hip Hop</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_electronic">Elettronica</string>
@@ -268,6 +271,42 @@ Verifica lo stato della scheda SD"</string>
     <string name="eq_preset_hint">Inserire nome preselezione</string>
     <string name="eq_preset_select">Scegli una preselezione</string>
     <string name="music_not_loaded">File audio non trovato!</string>
+    <string name="scan_barcode_to_connect">Centra il QR code della console KTV nel riquadro per la scansione</string>
+    <string name="where_is_barcode">"Dov'è il QR code?"</string>
+    <string name="i_know">OK</string>
+    <string name="ktv_alert_title">Solo i dispositivi supportati possono aggiungere brani</string>
+    <string name="ktv_alert_message">Tocca Utilizza telefono per aggiungere brani alla pagina principale della console KTVe per vedere i QR code corrispondenti</string>
+    <string name="ktv_and_room">%1$s %2$s</string>
+    <string name="ktv_connected_alert_titel">Connesso a %1$s</string>
+    <string name="ktv_connected_alert_message">I brani selezionati verranno aggiunti alla playlist nominata Il mio KTV</string>
+    <string name="ktv_disconnect_alert_titel">Disconnesso da %1$s?</string>
+    <string name="ktv_song_vod_success">%1$s aggiunto</string>
+    <string name="ktv_song_vod_fail">Impossibile aggiungere %1$s</string>
+    <string name="ktv_unbind_message">Impossibile connettere con la console KTV. Assicurati di scansionare il QR code corretto.</string>
+    <string name="request_fail">Richiesta fallita!</string>
+    <string name="disconnect">Disconnesso</string>
+    <string name="server_error">Errore del server!</string>
+    <string name="requesting">Richiesta in corso…</string>
+    <string name="track_bit_rate_standard">Normale</string>
+    <string name="track_bit_rate_hd">Alto</string>
+    <string name="track_bit_rate_uhd">Più alto</string>
+    <string name="choose_stream_quality">Seleziona qualità streaming</string>
+    <string name="choose_download_quality">Seleziona qualità download</string>
+    <string name="ultra_high_quality">Qualità massima</string>
+    <string name="high_quality">Alta qualità</string>
+    <string name="normal_quality">Qualità normale</string>
+    <string name="login_first">Devi prima accedere al tuo account Xiaomi</string>
+    <string name="login">Login</string>
+    <string name="payment_success">Pagamento completato!</string>
+    <string name="payment_fail">Pagamento fallito!</string>
+    <string name="pay_service_guide_listen">Qualità streaming</string>
+    <string name="pay_service_guide_dowload">Qualità download</string>
+    <string name="vip_recommend_title">Musica qualità massima</string>
+    <string name="vip_recommend_main_title">Qualità CD illimitata(320 kbps)</string>
+    <string name="vip_recommend_sub_title">Solo 5 RMB al mese</string>
+    <string name="vip_recommend_summary">Scarica o ascolta in streaming tutte le canzoni dei tuoi artisti preferiti su Baidu Music a 320 kbps.</string>
+    <string name="vip_recommend_buy">Acquista (RMB 5 per 1 mese)</string>
+    <string name="vip_recommend_exchange">Utilizza gift code</string>
     <string name="albumsongseparator">"
 "</string>
     <string name="notification_artist_album">"%2$s
@@ -287,4 +326,6 @@ Verifica lo stato della scheda SD"</string>
     <string name="album_artist_format" formatted="false">%s , %s</string>
     <string name="channel_postfix">MHZ</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
+    <string name="dirac_mode_off">Dirac disattivato</string>
+    <string name="eq_rb">R &amp; B</string>
 </resources>

@@ -384,7 +384,7 @@
     <string name="mx_activate_int_hint_sim_change">"Lo stato della SIM è stato modificato. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
     <string name="mx_activate_hint_malformed_info">Operazione interrotta, è necessario riattivare i messaggi cloud. Attivarli adesso?</string>
     <string name="mx_activate_int_hint_malformed_info">"Richiesta elaborazione errore. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
-    <string name="mx_activate_hint_server">Attivazione server fallita per attivazione Messagi Cloud. Attivare adesso?</string>
+    <string name="mx_activate_hint_server">Attivazione server fallita per attivazione Messaggi Cloud. Attivare adesso?</string>
     <string name="mx_activate_int_hint_server">"Attivazione server dei messaggi cloud fallita. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
     <string name="need_download">Sincronizzazione in corso...</string>
     <string name="found_wild_messages_title">Scarica Messaggi</string>
@@ -462,4 +462,13 @@
     <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso...</string>
     <string name="refill_now">Ricarica</string>
+    <string name="toast_feedback_start">Invio dati feedback…</string>
+    <string name="toast_feedback_finish">Il tuo feedback verrà inviato automaticamente appena sarai connesso ad una rete Wi-Fi</string>
+    <string name="toast_feedback_max">Possono essere inviati solo 3 feedback al giorno</string>
+    <string name="toast_description_required">Il feedback deve essere inviato</string>
+    <string name="pref_key_mx_feedback">Invia feedback</string>
+    <string name="pref_summary_mx_feedback">"Aiutaci a migliorare MIUI!
+Segnala bug ed invia feedback direttamente a Xiaomi."</string>
+    <string name="feedback_description_hint">Inserisci qui il tuo feedback</string>
+    <string name="feedback_submit">Invia</string>
 </resources>

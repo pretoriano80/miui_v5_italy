@@ -21,6 +21,7 @@
     <string name="optimize_title_ad">File pubblicitari</string>
     <string name="optimize_title_apk">Pacchetti</string>
     <string name="optimize_title_residual">Residui</string>
+    <string name="button_text_quick_scan">Avvia scansione</string>
     <string name="button_text_a_key_clean_up">Pulizia</string>
     <string name="button_text_a_key_optimize">Ottimizza adesso</string>
     <string name="button_text_done">Completato</string>
@@ -30,6 +31,7 @@
     <string name="storage_size_title">Archiviazione</string>
     <string name="storage_size_content">%1$s Utilizzati | %2$s Disponibili</string>
     <string name="quick_scan_doing_title">Scansione...</string>
+    <string name="quick_scan_done_title">Scansione co!</string>
     <string name="quick_scan_cleaning_title">Pulizia...</string>
     <string name="quick_scan_result_title">%s elementi trovati</string>
     <string name="quick_scan_result_summary">La pulizia inizierà tra %d sec</string>
@@ -43,10 +45,14 @@
     <string name="optimize_apk_list_empty_content">Nessun pacchetto di installazione.</string>
     <string name="optimize_residual_list_empty_content">Nessun file residuo.</string>
     <string name="optimize_tips_title">Help</string>
-    <string name="optimize_tips_ad">I file iconAd sono immagini, testo, ed altri dati relativi a pubblicità di provider e negozi di terze parti.</string>
-    <string name="optimize_tips_apk">"I pacchetti iconInstall vengono utilizzati per l'installazione di applicazioni sul tuo dispositivo, ma non fanno altro che occupare spazio una volta che hai installato l'applicazione."</string>
-    <string name="optimize_tips_cache">I file iconCache vengono generati dai processi che li richiedono solo temporaneamente (ad esempio le anteprime delle foto).</string>
-    <string name="optimize_tips_residual">I file iconResidual sono file (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui."</string>
+    <string name="optimize_tips_ad_title">File ad：</string>
+    <string name="optimize_tips_ad_content">Immagini, testo, ed altri dati relativi a pubblicità di provider e negozi di terze parti.</string>
+    <string name="optimize_tips_apk_title">Pacchetti：</string>
+    <string name="optimize_tips_apk_content">"Utilizzati per l'installazione di applicazioni sul tuo dispositivo, ma non fanno altro che occupare spazio una volta che hai installato l'applicazione."</string>
+    <string name="optimize_tips_cache_title">Cache：</string>
+    <string name="optimize_tips_cache_content">Generati dai processi che li richiedono solo temporaneamente (ad esempio le anteprime delle foto).</string>
+    <string name="optimize_tips_residual_title">Residui：</string>
+    <string name="optimize_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui."</string>
     <string name="quick_scan_apk_list_item_version_hit">Versione: %s</string>
     <string name="apk_status_uninstalled">Non installato</string>
     <string name="apk_status_installed_old">Vecchia versione</string>
@@ -59,9 +65,12 @@
     <string name="system_cache_title">Cache di sistema</string>
     <string name="downloaded_rom_title">Pacchetti di aggiornamento</string>
     <string name="optimize_large_file_list_empty_content">Nessun file di grandi dimensioni.</string>
-    <string name="deep_clean_tips_cache">"Le applicazioni iconSome utilizzano i file cache per scaricare risorse aggiuntive (ad esempio canzoni, testi, musica, immagini, etc.). Fai attenzione quando esegui la pulizia di questi file."</string>
-    <string name="deep_clean_tips_residual">"Gli iconResiduals sono file(ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Fai attenzione quando esegui la pulizia di questi file."</string>
-    <string name="deep_clean_tips_large_file">"iconCleanup indica solamente i file di grandi dimensioni(ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivothat are currently stored on your device. Only you can decide whether or not you still need them.</string>
+    <string name="deep_clean_tips_cache_title">Cache：</string>
+    <string name="deep_clean_tips_cache_content">Alcune applicazioni utilizzano il file cache per scaricare risorse aggiuntive (es: testi di canzoni, musica e immagini). Fai attenzione quando cancelli questi file.</string>
+    <string name="deep_clean_tips_residual_title">Residi：</string>
+    <string name="deep_clean_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui.</string>
+    <string name="deep_clean_tips_large_file_title">Grandi file：</string>
+    <string name="deep_clean_tips_large_file_content">"File di grandi dimensioni(ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
     <string name="toast_qucik_scan_list_empty">Sembra tutto ok, pulizia non necessaria!</string>
     <string name="quick_scan_list_loading_hits">Scansione...</string>
     <string name="app_uninstall_residual">Cancellare i file residui delle installazioni?</string>
@@ -345,7 +354,7 @@
     <string name="perm_su_desc1">Gestisci Permessi ROOT</string>
     <string name="perm_su_disabled">Permessi di ROOT disabilitati</string>
     <string name="perm_su_disabled_in_stable">Permessi di ROOT non disponibili su MIUI Stable</string>
-    <string name="perm_su_disabled_in_stable_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema.Passa alla versione MIUI Developer per abilitare i permessi di ROOT."</string>
+    <string name="perm_su_disabled_in_stable_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema. Passa alla versione MIUI Developer per abilitare i permessi di ROOT."</string>
     <string name="perm_su_disabled_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema. Accertati di conoscere il funzionamento dei permessi di ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Scarica MIUI</string>
     <string name="perm_hips_switch">Monitor Permessi</string>
@@ -383,9 +392,7 @@
     <string name="perm_sysopt_boost_auto_start">Permessi avvio autom.</string>
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
     <string name="perm_su_enable_dialog">%1$s sta cercando di ottenere i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
-    <string name="perm_notice">Avviso Sicurezza</string>
-    <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione.
-Rendere attendibile questa applicazione ?"</string>
+    <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione. Rendere attendibile questa applicazione ?"</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
 Consentire l'avvio automatico?"</string>
     <string name="perm_mian_name">Permessi</string>
@@ -398,6 +405,8 @@ Consentire l'avvio automatico?"</string>
     <string name="perm_app_header">Gestione permessi</string>
     <string name="perm_app_title">Gestione permessi applicazioni</string>
     <string name="perm_log_empty">Registro vuoto</string>
+    <string name="perm_root_manage_empty">Nessuna delle tue applicazioni ha autorizzazioni ROOT</string>
+    <string name="perm_app_manage_empty">Non stai controllando alcuna app</string>
     <string name="power_autorun_control_title">Auto-start</string>
     <string name="power_autorun_control_desc">Aumentando il numero delle applicazioni con avvio automatico il consumo della batteria potrebbe aumentare</string>
     <string name="power_usage_sort_title">Mostra consumo batteria</string>
@@ -416,20 +425,6 @@ Consentire l'avvio automatico?"</string>
     <string name="power_autorun_empty">Nessuna applicazione installata</string>
     <string name="power_autorun_apps_empty">Nessuna applicazione in avvio automatico</string>
     <string name="power_perm_logs_empty">Nessun registro</string>
-    <string name="pref_key_package_synced">package_synced</string>
-    <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
-    <string name="pref_key_last_check_canceled">last_check_canceled</string>
-    <string name="pref_key_need_update_app_count">need_update_app_count</string>
-    <string name="pref_key_virus_amount">virusAmount</string>
-    <string name="pref_key_risk_amount">riskAmount</string>
-    <string name="pref_key_scan_type">scanType</string>
-    <string name="pref_key_last_scan_data">lastScanDate</string>
-    <string name="pref_key_virus_auto_update_lib">virusAutoUpdate</string>
-    <string name="pref_key_virus_auto_update_lib_time">virusAutoUpdateTime</string>
-    <string name="pref_key_virus_cloud">virusScanCloud</string>
-    <string name="pref_key_virus_install">virusScanInstall</string>
-    <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
-    <string name="pref_key_virus_lib_version">virusLibVersion</string>
     <string name="process_manage_title">%1$d processi terminati, %2$s di memoria liberati</string>
     <string name="process_list_empty_hints">Nessun processo in cache.</string>
     <string name="protection_category_dangerous_title">A rischio (%d)</string>
@@ -1101,7 +1096,9 @@ Una volta crittografato il telefono, devi inserire un PIN numerico o una passwor
     <string name="crypt_keeper_cooldown">Riprova tra ^1 secondi.</string>
     <string name="crypt_keeper_enter_password">Digita la password</string>
     <string name="crypt_keeper_failed_title">Crittografia non riuscita</string>
-    <string name="crypt_keeper_failed_summary">La crittografia è stata interrotta e non è possibile portarla a termine. Di conseguenza, i dati memorizzati sul telefono non sono più accessibili. Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati di fabbrica. Quando configuri il telefono dopo il ripristino, hai la possibilità di ripristinare i dati di cui hai effettuato il backup nel tuo account Google.</string>
+    <string name="crypt_keeper_failed_summary">"La crittografia è stata interrotta e non è possibile portarla a termine. Di conseguenza, i dati memorizzati sul telefono non sono più accessibili.
+
+Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati di fabbrica. Quando configuri il telefono dopo il ripristino, hai la possibilità di ripristinare i dati di cui hai effettuato il backup nel tuo account Google."</string>
     <string name="crypt_keeper_switch_input_method">Cambia metodo di inserimento</string>
     <string name="lock_settings_picker_title">Blocco schermo</string>
     <string name="backup_lock_settings_picker_title">Scegli blocco di backup</string>
@@ -1281,7 +1278,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_empty_list_wifi_off">Per conoscere le reti disponibili, attiva il Wi-Fi.</string>
     <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi…</string>
     <string name="wifi_other_network">Altra rete…</string>
-    <string name="wifi_more">More</string>
+    <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione automatica (WPS)</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Impostazione WPS</string>
@@ -1500,14 +1497,19 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="sim_bad_pin">PIN errato</string>
     <string name="sim_pins_dont_match">I PIN non corrispondono</string>
     <string name="sim_absent">Nessuna SIM/RUIM</string>
-    <string name="sim_change_failed">Impossibile cambiare il PIN. Il PIN potrebbe essere errato.</string>
+    <string name="sim_change_failed">"Impossibile cambiare il PIN.
+Il PIN potrebbe essere errato."</string>
     <string name="sim_change_succeeded">PIN della SIM modificato</string>
-    <string name="sim_lock_failed">Impossibile modificare lo stato di blocco della scheda SIM. Il PIN potrebbe essere errato.</string>
+    <string name="sim_lock_failed">"Impossibile modificare lo stato di blocco della scheda SIM.
+Il PIN potrebbe essere errato."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Annulla</string>
-    <string name="sim_change_failed_enable_sim_lock">Impossibile modificare SIM/RUIM PIN. Abilita SIM/RUIM LOCK.</string>
-    <string name="sim_lock_change_not_supported">Impossibile modificare SIM/RUIM Lock. La IM/RUIM non lo supporta.</string>
-    <string name="sim_pin_attempts">Tentativi rimasti :</string>
+    <string name="sim_change_failed_enable_sim_lock">"Impossibile modificare SIM/RUIM PIN.
+Abilita SIM/RUIM LOCK."</string>
+    <string name="sim_lock_change_not_supported">"Impossibile modificare SIM/RUIM Lock.
+La IM/RUIM non lo supporta."</string>
+    <string name="sim_pin_attempts">"
+Tentativi rimasti :"</string>
     <string name="sim_pin_enabled">PIN1 Abilitato!</string>
     <string name="sim_pin_disabled">PIN1 Disabilitato!</string>
     <string name="device_info_settings">Stato telefono</string>
@@ -1630,10 +1632,21 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
     <string name="master_clear_summary">Cancella tutti i dati sul telefono</string>
-    <string name="master_clear_desc">Questa operazione cancellerà tutti i dati memorizzati nella memoria interna del telefono</string>
-    <string name="master_clear_accounts">Al momento sei collegato ai seguenti account:</string>
-    <string name="master_clear_desc_also_erases_external" />
-    <string name="master_clear_desc_erase_external_storage">"Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i dati dell'"<b>archivio USB</b>.</string>
+    <string name="master_clear_desc">Questa operazione cancellerà tutti i dati memorizzati nella memoria interna del telefono
+
+&lt;li>Il tuo account Google&lt;/li>
+&lt;li>Dati utente e di sistema e impostazioni&lt;/li>
+&lt;li>App scaricate&lt;/li>"</string>
+    <string name="master_clear_accounts">"
+
+Al momento sei collegato ai seguenti account:
+"</string>
+    <string name="master_clear_desc_also_erases_external">"&lt;li>Musica&lt;/li>
+&lt;li>Foto&lt;/li>
+&lt;li>Altri dati utente&lt;/li>"</string>
+    <string name="master_clear_desc_erase_external_storage">"
+
+Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i dati dell'"<b>archivio USB</b></string>
     <string name="erase_external_storage">Cancella archivio USB</string>
     <string name="erase_external_storage_description">"Cancella tutti i dati nell'archivio USB interno, come musica o foto"</string>
     <string name="master_clear_button_text">Ripristina telefono</string>
@@ -1797,12 +1810,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="reset_app_preferences_title">Cancellare preferenze applicazioni ?</string>
     <string name="reset_app_preferences_desc">"Questo resetterà tutte le preferenze per:
 
- "<li>Disabiliterà le applicazioni</li>"
- "<li>Disabiliterà le notifiche delle app.</li>"
- "<li>Disabiliterà le azioni predefinite delle app.</li>"
- "<li>Disabiliterà le restrizioni dei dati in background delle app.</li>"
-
- Non perderete tutti i dati delle app."</string>
+ "</string>
     <string name="reset_app_preferences_button">Cancella</string>
     <string name="manage_space_text">Gestisci spazio</string>
     <string name="filter">Filtra</string>
@@ -1931,7 +1939,8 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="user_dict_settings_edit_dialog_title">Modifica parola</string>
     <string name="user_dict_settings_context_menu_edit_title">Modifica</string>
     <string name="user_dict_settings_context_menu_delete_title">Elimina</string>
-    <string name="user_dict_settings_empty_text">Non sono presenti parole nel dizionario utente. Puoi aggiungere una parola toccando il pulsante Aggiungi (+).</string>
+    <string name="user_dict_settings_empty_text">"Non sono presenti parole nel dizionario utente.
+Puoi aggiungere una parola toccando il pulsante Aggiungi (+)."</string>
     <string name="user_dict_settings_all_languages">Tutte le lingue</string>
     <string name="user_dict_settings_more_languages">Altre lingue…</string>
     <string name="testing">Verifica...</string>
@@ -2605,10 +2614,11 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="screen_on_proximity_sensor_title">Blocco automatico</string>
     <string name="screen_on_proximity_sensor_summary">Disabilita le funzioni del telefono quando, ad esempio, il telefono viene tenuto in tasca (attivazione tramite sensore di prossimità).</string>
     <string name="preferred_launcher_title">Launcher preferito</string>
-    <string name="preferred_launcher_warning_title">Sostituzione launcher predefinito</string>
-    <string name="preferred_launcher_warning_message">Sostituendo il launcher predefinito si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
-    <string name="preferred_launcher_warning_replace">Cambia Launcher</string>
-    <string name="preferred_launcher_warning_use_system">Usa predefinito</string>
+    <string name="preferred_application_title">Preferita: %s</string>
+    <string name="preferred_application_warning_title">Sostituzione predefinita %s</string>
+    <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
+    <string name="preferred_application_warning_replace">Cambia Launcher</string>
+    <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
@@ -2980,5 +2990,31 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="preferred_app_settings_default">Predefinito</string>
     <string name="preferred_app_settings_reset">Ripristina imp. predefinite</string>
     <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>
+    <string name="perm_notice">Avviso sicurezza</string>
+    <string name="preferred_launcher_warning_message">"La sostituzione del launcher predefinito potrebbe causare una maggiore consumo di risorse. Confermi l'operazione?"</string>
+    <string name="preferred_launcher_warning_replace">Sostituisci Launcher</string>
+    <string name="preferred_launcher_warning_title">Sostituisci launcher predefinito</string>
+    <string name="preferred_launcher_warning_use_system">Utilizza launcher predefinito</string>
     <string name="screen_saturation_adjust">Regolazione saturazione colore</string>
+    <string name="deep_clean_tips_cache">Le applicazioni iconSome utilizzano file cache per scaricare risorse aggiuntive (es: testi di canzoni, musica, immagini etc.). Fai attenzione quando cancelli questi file.</string>
+    <string name="deep_clean_tips_large_file">iconCleanup indica semplicemente file di grandi dimensioni (es: più grandi di 10MB) che attualmente sono archiviati sul tuo dispositivi. Solo tu puoi decidere se ne hai ancora bisogno o meno.</string>
+    <string name="deep_clean_tips_residual">Gli iconResiduals sono file (es: video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Fai attenzione quando cancelli questi file, alcuni di questi file potrebbero essere ancora in uso</string>
+    <string name="optimize_tips_ad">I file iconAd sono immagini, testo ed altri dati relativi a pubblicità che i servizi di terze parti archiviano sul tuo telefono.</string>
+    <string name="optimize_tips_apk">"I pacchetti iconInstall vengono utilizzati per installare applicazioni sul tuo dispositivo, comunque non hanno nessuna funzione se non quella di occupare spazio dopo che l'installazione è stata completata."</string>
+    <string name="optimize_tips_cache">I file iconCache vengono generati da processi che li richiedono solo temporaneamente (es: anteprime).</string>
+    <string name="optimize_tips_residual">Gli iconResiduals sono file (es: video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero ancora servirti, consigliamo di vedere le funzioni Avanzate per la cancellazione dei file residui.</string>
+    <string name="pref_key_last_check_canceled">last_check_canceled</string>
+    <string name="pref_key_last_scan_data">lastScanDate</string>
+    <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
+    <string name="pref_key_need_update_app_count">need_update_app_count</string>
+    <string name="pref_key_package_synced">package_synced</string>
+    <string name="pref_key_risk_amount">riskAmount</string>
+    <string name="pref_key_scan_type">scanType</string>
+    <string name="pref_key_virus_amount">virusAmount</string>
+    <string name="pref_key_virus_auto_update_lib">virusAutoUpdate</string>
+    <string name="pref_key_virus_auto_update_lib_time">virusAutoUpdateTime</string>
+    <string name="pref_key_virus_cloud">virusScanCloud</string>
+    <string name="pref_key_virus_install">virusScanInstall</string>
+    <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
+    <string name="pref_key_virus_lib_version">virusLibVersion</string>
 </resources>

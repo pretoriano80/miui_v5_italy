@@ -82,6 +82,8 @@
     <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
     <string name="confirm_delete_pictures">%s</string>
     <string name="confirm_delete_videos">%s</string>
+    <string name="confirm_delete_this_picture">"Vuoi eliminare l'immagine selezionata?"</string>
+    <string name="confirm_delete_this_video">"Vuoi eliminare il video selezionato?"</string>
     <string name="cancel">Annulla</string>
     <string name="select_all">Seleziona tutti</string>
     <string name="slideshow">Presentazione</string>
@@ -209,7 +211,7 @@
     <string name="cannot_delete_sharer_photo">Impossibile eliminare %s elemento(i) caricati da altri utenti.</string>
     <string name="share_album">Condividi album</string>
     <string name="share_album_owner">Proprietario</string>
-    <string name="scan_qr_code_top_text">I membri possono vedere e aggiungere immagini.</string>
+    <string name="loading_members">Caricamento membri...</string>
     <string name="scan_qr_code_buttom_text">Scansiona il QR code per vedere questo album.</string>
     <string name="request_qr_code_failed">Richiesta QR code fallita, premi per riprovare</string>
     <string name="retry_to_request_qr_code">Riprova</string>
@@ -476,6 +478,9 @@ i tuoi amici."</string>
     <string name="make_download_dir_fail">Impossibile creare una cartella!</string>
     <string name="delete_smb_file_fail">Impossibile eliminare il file smb</string>
     <string name="new_device_tips">Nuovo dispositivo trovato. Premi per visualizzare</string>
+    <string name="video_download_start">Avvia download video</string>
+    <string name="video_download_in_process">Il video è in downlaod, attendere prego.</string>
+    <string name="video_not_exist">Video inesistente!</string>
     <string name="alert_message_initial_cloud">Il sistema caricherà automaticamente nuove e vecchie foto e screenshot solo sotto copertura Wi-Fi.</string>
     <string name="bigscrren_slide_exit">Esci dalla presentazione tramite TV</string>
     <string name="cant_delete_system_album">%s è un album di sistema e non può essere eliminato!</string>
@@ -509,8 +514,6 @@ i tuoi amici."</string>
     <string name="add_to_cloud_file_not_exist_message">File inesistente.</string>
     <string name="landscape_mode">Abilita modalità landscape</string>
     <string name="scan_barcode">Scansiona QR code</string>
-    <string name="video_download_in_process">Il video è stato scaricato</string>
-    <string name="video_download_start">Inizia a scaricare il video</string>
-    <string name="video_not_exist">Video inesistente</string>
+    <string name="scan_qr_code_top_text">I membri possono vedere e aggiungere foto.</string>
     <string name="marked_by_others">%d persone lo hanno valutato</string>
 </resources>

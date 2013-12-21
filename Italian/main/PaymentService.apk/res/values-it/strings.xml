@@ -3,6 +3,7 @@
     <string name="app_name">Servizio pagamento</string>
     <string name="format_time">MMM dd, yyyy hh:mmaa</string>
     <string name="format_date">MMM. dd, yyyy</string>
+    <string name="colon">": "</string>
     <string name="label_order_name">Prodotto:</string>
     <string name="label_order_price">Prezzo:</string>
     <string name="label_balance">Saldo:</string>
@@ -55,7 +56,7 @@ Attendi 5 minuti e prova di nuovo."</string>
     <string name="error_bankcard_verify_summary">Impossibile verificare numero carta.</string>
     <string name="title_recharge">Ricarica MiCredit</string>
     <string name="recharge_group_favorite">Utilizza il precedente metodo di ricarica</string>
-    <string name="recharge_group_others">Altri emtodi di ricarica</string>
+    <string name="recharge_group_others">Altri metodi di ricarica</string>
     <string name="recharge_prepaid_title">Carta prepagata</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
@@ -250,7 +251,29 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="title_nopassword">Non richiedere per piccoli pagamenti</string>
     <string name="title_password_threshold">Limite giornaliero = %1$s yuan</string>
     <string name="title_nopassword_dialog">Limite giornaliero</string>
-    <string name="onemore_click_exit">Un altro click per uscire</string>
+    <string name="button_confirm">Conferma</string>
+    <string name="button_next">Avanti</string>
+    <string name="scan_prompt_number">Scansiona %1$s numero di carta prepagata</string>
+    <string name="scan_prompt_password">Scansione %1$s password di carta prepagata</string>
+    <string name="scan_prompt_voucher">Scansiona password MiCredit</string>
+    <string name="detail_recharge_title">Cronologi ricariche</string>
+    <string name="detail_recharge_order">Numero ordine ricarica:</string>
+    <string name="detail_recharge_account">ID ricarica</string>
+    <string name="detail_pay_account">Pagamento ID</string>
+    <string name="detail_recharge_method">Metodo</string>
+    <string name="detail_recharge_amount">Importo</string>
+    <string name="detail_recharge_time">Ora</string>
+    <string name="detail_consume_title">Registrazioni pagamenti</string>
+    <string name="detail_consume_order">ID ordine</string>
+    <string name="detail_consume_account">ID cliente</string>
+    <string name="detail_consume_name">Prodotto</string>
+    <string name="detail_consume_amount">Importo</string>
+    <string name="detail_consume_time">Ora</string>
+    <string name="detail_giftcard_title">Dettagli gift card</string>
+    <string name="detail_giftcard_total">Totale gift card</string>
+    <string name="detail_giftcard_activity">Promozione</string>
+    <string name="detail_giftcard_expired_time">Data di scadenza</string>
+    <string name="detail_giftcard_theme">Acquista temi</string>
     <string name="hfb_app_name">UMPay</string>
     <string name="hfb_sms_pay">"Nota: Premi Conferma pagamento per confermare ed inviare un SMS al numero 10658008 per completare l'acquisto. I pagamenti verranno addebitati in base alle tariffe locali."</string>
     <string name="hfb_sms1_progress_label">Invio SMS, attendere prego...</string>
@@ -430,6 +453,7 @@ e premi 'acquisto completato', grazie!"</string>
     <string name="linkpay_szf_getresult_error">Impossibile recuperare informazioni di pagamento, chiedi informazioni al provider del pagamento.</string>
     <string name="linkpay_shenzhoufu_alert">Seleziona una carta ed un codice di verifica validi o non sarai in grado di portare a termine il processo di acquisto.</string>
     <string name="btn_pay_large">Paga</string>
+    <string name="onemore_click_exit">Ancora un click per uscire</string>
     <string name="prepaid_china_mobile">China Mobile</string>
     <string name="prepaid_china_telcom">China Telecom</string>
     <string name="prepaid_china_unicom">China Unicom</string>

@@ -84,7 +84,7 @@
     <string name="audio_db_artist_name">Le mie registrazioni FM</string>
     <string name="audio_db_album_name">Registrazioni FM</string>
     <string name="audio_db_playlist_name">Registrazioni FM</string>
-    <string name="test_prompt">Scegli un Tes</string>
+    <string name="test_prompt">Scegli un Test</string>
     <string name="test_run">Avvia Test</string>
     <string name="set_rmmsi_delta">Configura RMSSI Delta</string>
     <string name="set_sigth">Configura segnale Th</string>
@@ -118,7 +118,7 @@
     <string name="status_recording_time">(Registrazione:%s)</string>
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Premi per vedere il file %s</string>
-    <string name="record_sucess">Registrazione completata</string>
+    <string name="record_completed">Registrazione completata</string>
     <string name="record_fail">Registrazione fallita</string>
     <string name="record_error_unknown">Registrazione interrotta. Errore sconosciuto durante la registrazione.</string>
     <string name="record_error_file_removed">Registrazione interrotta. I file registrati sono stati rimossi.</string>
@@ -153,4 +153,8 @@
     <string name="toast_fm_recorder_internal_error">Errore registrazione FM.</string>
     <string name="toast_fm_recorder_storage_full">Memoria piena,la registrazione non può essere effettuata</string>
     <string name="toast_fm_not_stated">Radio FM non avviata</string>
+    <string name="aud_output_mode">Modalità uscita audio</string>
+    <string name="menu_save_station">Salva stazione</string>
+    <string name="record_sucess">Registrazione completata</string>
+    <string name="sel_audio_output">Seleziona uscita audio</string>
 </resources>

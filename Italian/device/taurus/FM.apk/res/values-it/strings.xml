@@ -39,7 +39,7 @@
     <string name="stat_notif_tx_frequency">Trasmissione FM a: %1$s</string>
     <string name="sel_band_menu">Seleziona Banda Regionale</string>
     <string name="test_menu">Test selezione</string>
-    <string name="settings_menu">Impotazioni</string>
+    <string name="settings_menu">Impostazioni</string>
     <string name="regional_band">La banda regionale cancellerà tutte le stazioni salvate</string>
     <string name="auto_select_af">Alterna Frequenza</string>
     <string name="auto_select_af_summary">Risintonizza su una frequenza diversa per la stessa stazione quando il segnale diventa troppo debole</string>
@@ -50,10 +50,10 @@
     <string name="default_band">Stati Uniti</string>
     <string name="default_audio">Stereo</string>
     <string name="factory_reset_dialog_title">Conferma Ripristino</string>
-    <string name="factory_reset_dialog_message">utte le impostazioni e le preselezioni verranno cancellate</string>
+    <string name="factory_reset_dialog_message">Tutte le impostazioni e le preselezioni verranno cancellate</string>
     <string name="station_move">Sposta</string>
     <string name="station_edit">Modifica</string>
-    <string name="no_storage">Monta scheda SD prima di inizare la registrazione.</string>
+    <string name="no_storage">Monta scheda SD prima di iniziare la registrazione.</string>
     <string name="preparing_sd">Preparazione scheda SD</string>
     <string name="access_sd_fail">Impossibile accedere alla scheda SD</string>
     <string name="spaceIsLow_content">Spazio in esaurimento sulla scheda SD. Modifica la qualità della registrazione o elimina alcuni file per liberare spazio.</string>
@@ -79,12 +79,12 @@
     <string name="durationformat">%2$d:%5$02d</string>
     <string name="default_station">FM</string>
     <string name="default_blank" />
-    <string name="transmit_msg_string">Transmissione a:</string>
+    <string name="transmit_msg_string">Trasmissione a:</string>
     <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="audio_db_artist_name">Le mie registrazioni FM</string>
     <string name="audio_db_album_name">Registrazioni FM</string>
     <string name="audio_db_playlist_name">Registrazioni FM</string>
-    <string name="test_prompt">Scegli un Tes</string>
+    <string name="test_prompt">Scegli un Test</string>
     <string name="test_run">Avvia Test</string>
     <string name="set_rmmsi_delta">Configura RMSSI Delta</string>
     <string name="set_sigth">Configura segnale Th</string>
@@ -118,7 +118,7 @@
     <string name="status_recording_time">(Registrazione:%s)</string>
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Premi per vedere il file %s</string>
-    <string name="record_sucess">Registrazione completata</string>
+    <string name="record_completed">Registrazione completata</string>
     <string name="record_fail">Registrazione fallita</string>
     <string name="record_error_unknown">Registrazione interrotta. Errore sconosciuto durante la registrazione.</string>
     <string name="record_error_file_removed">Registrazione interrotta. I file registrati sono stati rimossi.</string>
@@ -153,4 +153,8 @@
     <string name="toast_fm_recorder_internal_error">Errore registrazione FM.</string>
     <string name="toast_fm_recorder_storage_full">Memoria piena,la registrazione non può essere effettuata</string>
     <string name="toast_fm_not_stated">Radio FM non avviata</string>
+    <string name="aud_output_mode">Modalità uscita audio</string>
+    <string name="menu_save_station">Salva stazione</string>
+    <string name="record_sucess">Registrazione completata</string>
+    <string name="sel_audio_output">Seleziona uscita audio</string>
 </resources>
