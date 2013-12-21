@@ -7,7 +7,7 @@
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selezionati</item>
         <item quantity="zero">%1$d selezionati</item>
-        <item quantity="one">%1$d selezionato</item>
+        <item quantity="one">%1$d selezionati</item>
     </plurals>
     <plurals name="number_of_albums_selected">
         <item quantity="other">%1$d selezionati</item>
@@ -25,7 +25,7 @@
     </plurals>
     <plurals name="number_of_items_in_slot">
         <item quantity="other">%1$d immagini</item>
-        <item quantity="one">1 immagini</item>
+        <item quantity="one">1 immagine</item>
     </plurals>
     <plurals name="number_of_folders_in_slot">
         <item quantity="other">%1$d cartelle</item>

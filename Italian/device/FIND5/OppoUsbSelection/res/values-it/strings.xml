@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_no_ask_name">Non chiedere più</string>
+    <string name="usb_settings">Impostazioni USB</string>
+    <string name="usb_charge">Solo carica</string>
+    <string name="usb_charge_detail">Carica il telefono tramite USB</string>
+    <string name="usb_storage">Archiviazione dispositivo</string>
+    <string name="usb_storage_detail">Utilizza il telefono come unità di archiviazione</string>
+    <string name="usb_mtp">Disp. Media (MTP)</string>
+    <string name="usb_mtp_detail">Trasferisci file media su PC</string>
+    <string name="usb_selection_processing">Elaborazione...attendere prego.</string>
+    <string name="device_reboot">Riavvia</string>
+    <string name="cancel">Annulla</string>
+    <string name="detect_new_SD_title">Scheda SD inserita</string>
+    <string name="detect_null_title">Nessuna scheda SD rilevata</string>
+    <string name="detect_new_SD_description">Scheda SD rilevata, riavvia il telefono per assicurarti che il telefono funzioni correttamente.</string>
+    <string name="detect_null_description">Nessuna scheda SD rilevata, riavvia il telefono per assicurarti che il telefono funzioni correttamente.</string>
+    <string name="oppo_safe_umount_usbdevices_message">点击安全移除USB设备</string>
+    <string name="oppo_unsafe_remove_usbdevices_message">移除USB设备前请卸载设备，以免造成数据丢失</string>
+    <string name="oppo_handshank">手柄已连接</string>
+    <string name="oppo_usbdevices_connected_title">Dispositivo di archiviazione USB collegato</string>
+    <string name="oppo_force_remove_title">Dispositivo di archiviazione USB rimosso in modo inaspettato</string>
+    <string name="oppo_mouse">Mouse collegato</string>
+    <string name="oppo_keyboard">Tastiera collegata</string>
+</resources>

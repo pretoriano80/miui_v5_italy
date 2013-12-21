@@ -24,87 +24,6 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Questo video non è valido per lo streaming su questo dispositivo.</string>
     <string name="selectTextMode">Seleziona testo</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="month_long_standalone_january">Gennaio</string>
-    <string name="month_long_standalone_february">Febbraio</string>
-    <string name="month_long_standalone_march">Marzo</string>
-    <string name="month_long_standalone_april">Aprile</string>
-    <string name="month_long_standalone_may">Maggio</string>
-    <string name="month_long_standalone_june">Giugno</string>
-    <string name="month_long_standalone_july">Luglio</string>
-    <string name="month_long_standalone_august">Agosto</string>
-    <string name="month_long_standalone_september">Settembre</string>
-    <string name="month_long_standalone_october">Ottobre</string>
-    <string name="month_long_standalone_november">Novembre</string>
-    <string name="month_long_standalone_december">Dicembre</string>
-    <string name="month_long_january">Gennaio</string>
-    <string name="month_long_february">Febbraio</string>
-    <string name="month_long_march">Marzo</string>
-    <string name="month_long_april">Aprile</string>
-    <string name="month_long_may">Maggio</string>
-    <string name="month_long_june">Giugno</string>
-    <string name="month_long_july">Luglio</string>
-    <string name="month_long_august">Agosto</string>
-    <string name="month_long_september">Settembre</string>
-    <string name="month_long_october">Ottobre</string>
-    <string name="month_long_november">Novembre</string>
-    <string name="month_long_december">Dicembre</string>
-    <string name="month_medium_january">Gen</string>
-    <string name="month_medium_february">Feb</string>
-    <string name="month_medium_march">Mar</string>
-    <string name="month_medium_april">Apr</string>
-    <string name="month_medium_may">Mag</string>
-    <string name="month_medium_june">Giu</string>
-    <string name="month_medium_july">Lug</string>
-    <string name="month_medium_august">Ago</string>
-    <string name="month_medium_september">Set</string>
-    <string name="month_medium_october">Ott</string>
-    <string name="month_medium_november">Nov</string>
-    <string name="month_medium_december">Dic</string>
-    <string name="month_shortest_january">G</string>
-    <string name="month_shortest_february">F</string>
-    <string name="month_shortest_march">M</string>
-    <string name="month_shortest_april">A</string>
-    <string name="month_shortest_may">M</string>
-    <string name="month_shortest_june">G</string>
-    <string name="month_shortest_july">L</string>
-    <string name="month_shortest_august">A</string>
-    <string name="month_shortest_september">S</string>
-    <string name="month_shortest_october">O</string>
-    <string name="month_shortest_november">N</string>
-    <string name="month_shortest_december">D</string>
-    <string name="day_of_week_long_sunday">Domenica</string>
-    <string name="day_of_week_long_monday">Lunedì</string>
-    <string name="day_of_week_long_tuesday">Martedì</string>
-    <string name="day_of_week_long_wednesday">Mercoledì</string>
-    <string name="day_of_week_long_thursday">Giovedì</string>
-    <string name="day_of_week_long_friday">Venerdì</string>
-    <string name="day_of_week_long_saturday">Sabato</string>
-    <string name="day_of_week_medium_sunday">Dom</string>
-    <string name="day_of_week_medium_monday">Lun</string>
-    <string name="day_of_week_medium_tuesday">Mar</string>
-    <string name="day_of_week_medium_wednesday">Mer</string>
-    <string name="day_of_week_medium_thursday">Gio</string>
-    <string name="day_of_week_medium_friday">Ven</string>
-    <string name="day_of_week_medium_saturday">Sab</string>
-    <string name="day_of_week_short_sunday">Dom</string>
-    <string name="day_of_week_short_monday">Lun</string>
-    <string name="day_of_week_short_tuesday">Mar</string>
-    <string name="day_of_week_short_wednesday">Mer</string>
-    <string name="day_of_week_short_thursday">Gio</string>
-    <string name="day_of_week_short_friday">Ven</string>
-    <string name="day_of_week_short_saturday">Sab</string>
-    <string name="day_of_week_shortest_sunday">D</string>
-    <string name="day_of_week_shortest_monday">L</string>
-    <string name="day_of_week_shortest_tuesday">M</string>
-    <string name="day_of_week_shortest_wednesday">M</string>
-    <string name="day_of_week_shortest_thursday">G</string>
-    <string name="day_of_week_shortest_friday">V</string>
-    <string name="day_of_week_shortest_saturday">S</string>
-    <string name="am">m.</string>
-    <string name="pm">p.</string>
-    <string name="yesterday">Ieri</string>
-    <string name="today">Oggi</string>
-    <string name="tomorrow">Domani</string>
     <string name="hour_minute_24" formatted="false">%H:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
@@ -186,8 +105,6 @@
     <string name="invalidPuk">Digita un PUK formato da almeno 8 numeri.</string>
     <string name="needPuk">La SIM è bloccata tramite PUK. Digita il codice PUK per sbloccarla.</string>
     <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
-    <string name="pinpuk_attempts">"
-Tentativi rimasti :"</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="ClipMmi">ID chiamante in entrata</string>
@@ -240,11 +157,11 @@ Tentativi rimasti :"</string>
     <string name="roamingText11">Banner roaming attivato</string>
     <string name="roamingText12">Banner roaming disattivato</string>
     <string name="roamingTextSearching">Ricerca servizio</string>
-    <string name="cfTemplateNotForwarded">{0} : inoltro non effettuato</string>
-    <string name="cfTemplateForwarded">{0} : {1}</string>
-    <string name="cfTemplateForwardedTime">{0} {1} dopo {2} secondi</string>
-    <string name="cfTemplateRegistered">{0} : inoltro non effettuato</string>
-    <string name="cfTemplateRegisteredTime">{0} : inoltro non effettuato</string>
+    <string name="cfTemplateNotForwarded">{0}: inoltro non effettuato</string>
+    <string name="cfTemplateForwarded">{0}: {1}</string>
+    <string name="cfTemplateForwardedTime">{0}{1} dopo {2} secondi</string>
+    <string name="cfTemplateRegistered">{0}: inoltro non effettuato</string>
+    <string name="cfTemplateRegisteredTime">{0}: inoltro non effettuato</string>
     <string name="fcComplete">Codice funzione completo.</string>
     <string name="fcError">Problema di connessione o codice funzione non valido.</string>
     <string name="httpErrorOk">OK</string>
@@ -261,10 +178,10 @@ Tentativi rimasti :"</string>
     <string name="httpErrorFile">Accesso al file non riuscito.</string>
     <string name="httpErrorFileNotFound">Impossibile trovare il file richiesto.</string>
     <string name="httpErrorTooManyRequests">Troppe richieste in fase di elaborazione. Riprova più tardi.</string>
-    <string name="notification_title">Errore di accesso per %1$s</string>
+    <string name="notification_title">Errore di accesso relativo a %1$s</string>
     <string name="contentServiceSync">Sinc</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizzazione</string>
-    <string name="contentServiceTooManyDeletesNotificationDesc">Troppe eliminazioni di %s .</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc">Troppe eliminazioni di %s.</string>
     <string name="low_memory">Spazio di archiviazione del telefono esaurito. Elimina alcuni file per liberare spazio.</string>
     <string name="me">Io</string>
     <string name="power_dialog">Opzioni telefono</string>
@@ -286,6 +203,9 @@ Tentativi rimasti :"</string>
     <string name="global_actions">Opzioni telefono</string>
     <string name="global_action_lock">Blocco schermo</string>
     <string name="global_action_power_off">Spegni</string>
+    <string name="global_action_bug_report">Segnalazione di bug</string>
+    <string name="bugreport_title">Apri segnalazione bug</string>
+    <string name="bugreport_message">"Raccoglierà informazioni sullo stato corrente del dispositivo che verranno inviate sotto forma di messaggio email. Passerà un po' di tempo prima che la segnalazione di bug aperta sia pronta per essere inviata; ti preghiamo di avere pazienza."</string>
     <string name="global_action_toggle_silent_mode">Modalità silenziosa</string>
     <string name="global_action_silent_mode_on_status">Audio non attivo</string>
     <string name="global_action_silent_mode_off_status">Audio attivo</string>
@@ -299,11 +219,45 @@ Tentativi rimasti :"</string>
     <string name="permgrouplab_messages">I tuoi messaggi</string>
     <string name="permgroupdesc_messages">Consentono di leggere e scrivere SMS, email e altri messaggi.</string>
     <string name="permgrouplab_personalInfo">Informazioni personali</string>
-    <string name="permgroupdesc_personalInfo">Accedere direttamente ai contatti e al calendario memorizzati sul telefono.</string>
+    <string name="permgroupdesc_personalInfo">Accesso diretto alle informazioni su di te memorizzate nella tua scheda di contatto.</string>
+    <string name="permgrouplab_socialInfo">Tue informazioni sociali</string>
+    <string name="permgroupdesc_socialInfo">Accesso diretto alle informazioni sui tuoi contatti e sulle tue connessioni sociali.</string>
     <string name="permgrouplab_location">La tua posizione</string>
     <string name="permgroupdesc_location">"Monitoraggio della posizione fisica dell'utente."</string>
     <string name="permgrouplab_network">Comunicazione di rete</string>
     <string name="permgroupdesc_network">Accesso a varie funzioni di rete.</string>
+    <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
+    <string name="permgroupdesc_bluetoothNetwork">È possibile accedere a dispositivi e reti tramite Bluetooth.</string>
+    <string name="permgrouplab_audioSettings">Impostazioni audio</string>
+    <string name="permgroupdesc_audioSettings">Modifica delle impostazioni audio.</string>
+    <string name="permgrouplab_affectsBattery">Influenza sulla batteria</string>
+    <string name="permgroupdesc_affectsBattery">Uso di funzioni che possono consumare rapidamente la batteria.</string>
+    <string name="permgrouplab_calendar">Calendario</string>
+    <string name="permgroupdesc_calendar">Accesso diretto al calendario e agli eventi.</string>
+    <string name="permgrouplab_dictionary">Lettura del dizionario utente</string>
+    <string name="permgroupdesc_dictionary">È possibile leggere le parole nel dizionario utente.</string>
+    <string name="permgrouplab_writeDictionary">Scrittura nel dizionario utente</string>
+    <string name="permgroupdesc_writeDictionary">È possibile aggiungere parole al dizionario utente.</string>
+    <string name="permgrouplab_bookmarks">Segnalibri e cronologia</string>
+    <string name="permgroupdesc_bookmarks">Accesso diretto ai segnalibri e alla cronologia del browser.</string>
+    <string name="permgrouplab_deviceAlarms">Sveglia</string>
+    <string name="permgroupdesc_deviceAlarms">Impostazione della sveglia.</string>
+    <string name="permgrouplab_voicemail">Segreteria</string>
+    <string name="permgroupdesc_voicemail">Accesso diretto alla segreteria.</string>
+    <string name="permgrouplab_microphone">Microfono</string>
+    <string name="permgroupdesc_microphone">Accesso diretto al microfono per registrare audio.</string>
+    <string name="permgrouplab_camera">Fotocamera</string>
+    <string name="permgroupdesc_camera">Accesso diretto alla fotocamera per acquisizione di immagini o video.</string>
+    <string name="permgrouplab_appInfo">Informazioni sulle tue applicazioni</string>
+    <string name="permgroupdesc_appInfo">Possibilità di influenzare il comportamento di altre applicazioni sul dispositivo.</string>
+    <string name="permgrouplab_wallpaper">Sfondo</string>
+    <string name="permgroupdesc_wallpaper">Modifica delle impostazioni dello sfondo del dispositivo.</string>
+    <string name="permgrouplab_systemClock">Orologio</string>
+    <string name="permgroupdesc_systemClock">"Modifica della data e dell'ora o del fuso orario del dispositivo."</string>
+    <string name="permgrouplab_statusBar">Barra di stato</string>
+    <string name="permgroupdesc_statusBar">Modifica delle impostazioni della barra di stato del dispositivo.</string>
+    <string name="permgrouplab_syncSettings">Impostazioni di sincronizzazione</string>
+    <string name="permgroupdesc_syncSettings">Accesso alle impostazioni di sincronizzazione.</string>
     <string name="permgrouplab_accounts">I tuoi account</string>
     <string name="permgroupdesc_accounts">Accedere agli account disponibili.</string>
     <string name="permgrouplab_hardwareControls">Controlli hardware</string>
@@ -314,6 +268,8 @@ Tentativi rimasti :"</string>
     <string name="permgroupdesc_systemTools">Accesso al sistema e controllo di livello inferiore.</string>
     <string name="permgrouplab_developmentTools">Strumenti di sviluppo</string>
     <string name="permgroupdesc_developmentTools">Funzionalità necessarie soltanto agli sviluppatori di applicazioni.</string>
+    <string name="permgrouplab_display">Interfaccia utente di altre applicazioni</string>
+    <string name="permgroupdesc_display">"Influenza sull'interfaccia utente di altre applicazioni."</string>
     <string name="permgrouplab_storage">Archiviazione</string>
     <string name="permgroupdesc_storage">Accesso alla scheda SD.</string>
     <string name="permlab_statusBar">disattivare o modificare la barra di stato</string>
@@ -344,6 +300,12 @@ Tentativi rimasti :"</string>
     <string name="permdesc_receiveWapPush">"Consente all'applicazione di ricevere ed elaborare messaggi WAP. Questa autorizzazione include la facoltà di monitorare o eliminare i messaggi che ti vengono inviati senza mostrarteli."</string>
     <string name="permlab_getTasks">recupero applicazioni in esecuzione</string>
     <string name="permdesc_getTasks">"Consente all'applicazione di recuperare informazioni sulle attività attualmente e recentemente in esecuzione. Ciò potrebbe consentire all'applicazione di scoprire informazioni sulle applicazioni in uso sul dispositivo."</string>
+    <string name="permlab_interactAcrossUsers">interazione tra gli utenti</string>
+    <string name="permdesc_interactAcrossUsers">"Consente all'applicazione di compiere azioni per diversi utenti sul dispositivo. Le applicazioni dannose potrebbero farne uso per violare la protezione tra utenti."</string>
+    <string name="permlab_interactAcrossUsersFull">"licenza completa per l'interazione tra utenti"</string>
+    <string name="permdesc_interactAcrossUsersFull">Consente tutte le interazioni possibili tra gli utenti.</string>
+    <string name="permlab_manageUsers">Gestione utenti</string>
+    <string name="permdesc_manageUsers">Consente alle applicazioni di gestire gli utenti sul dispositivo, nonché query, creazione ed eliminazione.</string>
     <string name="permlab_getDetailedTasks">recupero dettagli applicazioni in esecuzione</string>
     <string name="permdesc_getDetailedTasks">"Consente all'applicazione di recuperare informazioni dettagliate sulle attività attualmente e recentemente in esecuzione. Le applicazioni dannose potrebbero scoprire informazioni riservate su altre applicazioni."</string>
     <string name="permlab_reorderTasks">riordinamento applicazioni in esecuzione</string>
@@ -370,6 +332,14 @@ Tentativi rimasti :"</string>
     <string name="permdesc_dump">"Consente all'applicazione di recuperare lo stato interno del sistema. Le applicazioni dannose potrebbero recuperare una vasta gamma di informazioni private e protette di cui normalmente non dovrebbero mai avere bisogno."</string>
     <string name="permlab_retrieve_window_content">recupero dei contenuti della schermata</string>
     <string name="permdesc_retrieve_window_content">"Consente all'applicazione di recuperare i contenuti della finestra attiva. Le applicazioni dannose potrebbero recuperare l'intero contenuto della finestra ed esaminare tutto il testo, tranne le password."</string>
+    <string name="permlab_temporary_enable_accessibility">"attivazione temporanea dell'accessibilità"</string>
+    <string name="permdesc_temporary_enable_accessibility">"Consente a un'applicazione di attivare temporaneamente l'accessibilità sul dispositivo. Le applicazioni dannose potrebbero attivare l'accessibilità senza il consenso dell'utente."</string>
+    <string name="permlab_retrieve_window_info">recupero di informazioni sulle finestre</string>
+    <string name="permdesc_retrieve_window_info">"Consente a un'applicazione di recuperare informazioni sulle finestre dalla gestione finestre. Le applicazioni dannose potrebbero recuperare informazioni destinate all'utilizzo da parte del sistema interno."</string>
+    <string name="permlab_filter_events">filtro eventi</string>
+    <string name="permdesc_filter_events">"Consente a un'applicazione di registrare un filtro di ingresso che filtra lo stream di tutti gli eventi degli utenti prima che vengano inviati. Un'applicazione dannosa potrebbe controllare l'interfaccia utente del sistema senza l'intervento dell'utente."</string>
+    <string name="permlab_magnify_display">ingrandimento dello schermo</string>
+    <string name="permdesc_magnify_display">"Consente a un'applicazione di ingrandire i contenuti di uno schermo. Le applicazioni dannose potrebbero trasformare i contenuti dello schermo in modo da rendere inutilizzabile il dispositivo."</string>
     <string name="permlab_shutdown">chiusura parziale</string>
     <string name="permdesc_shutdown">Mette il gestore delle attività in uno stato di chiusura. Non esegue una chiusura completa.</string>
     <string name="permlab_stopAppSwitches">impedire commutazione applicazione</string>
@@ -386,8 +356,10 @@ Tentativi rimasti :"</string>
     <string name="permdesc_setProcessLimit">"Consente all'applicazione di controllare il numero massimo di processi che verranno eseguiti. Mai necessaria per le applicazioni normali."</string>
     <string name="permlab_setAlwaysFinish">chiusura forzata applicazioni di background</string>
     <string name="permdesc_setAlwaysFinish">"Consente all'applicazione di controllare se le attività sono sempre terminate non appena passano in background. Mai necessaria per le applicazioni normali."</string>
-    <string name="permlab_batteryStats">modifica statistiche batteria</string>
-    <string name="permdesc_batteryStats">"Consente all'applicazione di modificare le statistiche raccolte sulla batteria. Da non usare per normali applicazioni."</string>
+    <string name="permlab_batteryStats">lettura statistiche batteria</string>
+    <string name="permdesc_batteryStats">"Consente a un'applicazione di leggere i dati di utilizzo della batteria di basso livello correnti. Potrebbe consentire all'applicazione di trovare informazioni dettagliate sulle applicazioni che utilizzi."</string>
+    <string name="permlab_updateBatteryStats">modifica statistiche batteria</string>
+    <string name="permdesc_updateBatteryStats">"Consente all'applicazione di modificare le statistiche raccolte sulla batteria. Da non usare per normali applicazioni."</string>
     <string name="permlab_backup">controllo del backup di sistema e ripristino</string>
     <string name="permdesc_backup">"Consente all'applicazione di controllare il meccanismo di backup e di ripristino del sistema. Da non usare per normali applicazioni."</string>
     <string name="permlab_confirm_full_backup">"conferma di un'operazione completa di backup o di ripristino"</string>
@@ -395,11 +367,13 @@ Tentativi rimasti :"</string>
     <string name="permlab_internalSystemWindow">visualizzazione finestre non autorizzate</string>
     <string name="permdesc_internalSystemWindow">"Consente all'applicazione di creare finestre destinate all'uso da parte dell'interfaccia utente del sistema interno. Da non usare per normali applicazioni."</string>
     <string name="permlab_systemAlertWindow">disegno su altre applicazioni</string>
-    <string name="permdesc_systemAlertWindow">"Consente all'applicazione di mostrare finestre di avviso di sistema. Alcune finestre di avviso potrebbero occupare l'intero schermo."</string>
+    <string name="permdesc_systemAlertWindow">"Consente all'applicazione di spostarsi sopra ad altre applicazioni o parti dell'interfaccia utente. Potrebbe interferire con il tuo utilizzo dell'interfaccia in qualsiasi applicazione o cambiare ciò che credi di vedere in altre applicazioni."</string>
     <string name="permlab_setAnimationScale">modifica velocità di animazione globale</string>
     <string name="permdesc_setAnimationScale">"Consente all'applicazione di modificare la velocità di animazione globale (animazioni più veloci o più lente) in qualsiasi momento."</string>
     <string name="permlab_manageAppTokens">gestione token applicazioni</string>
     <string name="permdesc_manageAppTokens">"Consente all'applicazione di creare e gestire i propri token, bypassando il loro normale Z-order. Non dovrebbe mai essere necessaria per le applicazioni normali."</string>
+    <string name="permlab_freezeScreen">blocco dello schermo</string>
+    <string name="permdesc_freezeScreen">"Consente all'applicazione di bloccare temporaneamente lo schermo per una transizione a schermo intero."</string>
     <string name="permlab_injectEvents">uso tasti e pulsanti di controllo</string>
     <string name="permdesc_injectEvents">"Consente all'applicazione di offrire i suoi eventi di input (pressioni di tasti ecc.) ad altre applicazioni. Le applicazioni dannose potrebbero farne uso per assumere il controllo del telefono."</string>
     <string name="permlab_readInputState">registrazione testo digitato e azioni eseguite</string>
@@ -417,7 +391,7 @@ Tentativi rimasti :"</string>
     <string name="permlab_bindRemoteViews">associazione a un servizio widget</string>
     <string name="permdesc_bindRemoteViews">"Consente l'associazione all'interfaccia principale di un servizio widget. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindDeviceAdmin">interazione con un amministratore dispositivo</string>
-    <string name="permdesc_bindDeviceAdmin">"Consente l'invio di intento a un amministratore del dispositivo. L'autorizzazione non dovrebbe mai essere necessaria per le normali applicazioni."</string>
+    <string name="permdesc_bindDeviceAdmin">"Consente l'invio di intent a un amministratore del dispositivo. L'autorizzazione non dovrebbe mai essere necessaria per le normali applicazioni."</string>
     <string name="permlab_setOrientation">modifica orientamento dello schermo</string>
     <string name="permdesc_setOrientation">"Consente all'applicazione di cambiare la rotazione dello schermo in qualsiasi momento. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_setPointerSpeed">cambio velocità del puntatore</string>
@@ -439,7 +413,7 @@ Tentativi rimasti :"</string>
     <string name="permlab_installPackages">installazione diretta di applicazioni</string>
     <string name="permdesc_installPackages">"Consente all'applicazione da installare pacchetti Android nuovi o aggiornati. Le applicazioni dannose potrebbero farne uso per aggiungere nuove applicazioni con autorizzazioni arbitrariamente importanti."</string>
     <string name="permlab_clearAppCache">eliminazione di tutti i dati della cache applicazioni</string>
-    <string name="permdesc_clearAppCache">"Consente all'applicazione di liberare spazio sul telefono eliminando file nella directory della cache dell'applicazione. L'accesso è generalmente limitato a processi di sistema."</string>
+    <string name="permdesc_clearAppCache">"Consente all'applicazione di liberare memoria sul telefono eliminando file nelle directory della cache di altre applicazioni. Altre applicazioni potrebbero avviarsi più lentamente perché devono recuperare di nuovo i loro dati."</string>
     <string name="permlab_movePackage">"spostamento delle risorse dell'applicazione"</string>
     <string name="permdesc_movePackage">"Consente all'applicazione di spostare le risorse delle applicazioni da supporti interni a supporti esterni e viceversa."</string>
     <string name="permlab_readLogs">Lettura dati di registro sensibili</string>
@@ -490,14 +464,18 @@ Tentativi rimasti :"</string>
     <string name="permdesc_accessLocationExtraCommands">"Consente all'applicazione di accedere a ulteriori comandi del fornitore di posizione. Ciò potrebbe consentire all'applicazione di interferire con il funzionamento del GPS o di altre fonti di localizzazione."</string>
     <string name="permlab_installLocationProvider">autorizzazione a installare un provider di localizzazione</string>
     <string name="permdesc_installLocationProvider">"Crea fonti di localizzazione fittizie per i test o installa un nuovo fornitore di posizione. Ciò consente all'applicazione di ignorare la posizione e/o lo stato restituito da altre fonti di localizzazione, come il GPS o fornitori di posizione."</string>
-    <string name="permlab_accessFineLocation">posizione precisa (GPS)</string>
-    <string name="permdesc_accessFineLocation">"Accedi a fonti di localizzazione precise, come il Global Positioning System sul telefono. Quando i servizi di localizzazione sono disponibili e attivi, questa autorizzazione consente all'applicazione di determinare la tua posizione precisa."</string>
+    <string name="permlab_accessFineLocation">posizione precisa (GPS e basata sulla rete)</string>
+    <string name="permdesc_accessFineLocation">"Consente all'applicazione di ottenere la tua posizione esatta utilizzando il sistema GPS (Global Positioning System) o fonti di localizzazione delle reti come ripetitori di telefonia mobile e Wi-Fi. Questi servizi di localizzazione devono essere attivi e disponibili sul dispositivo per poter essere utilizzati dall'applicazione. Le applicazioni potrebbero utilizzare questa autorizzazione per stabilire la tua posizione e potrebbero consumare ulteriore batteria."</string>
     <string name="permlab_accessCoarseLocation">posizione approssimativa (basata sulla rete)</string>
-    <string name="permdesc_accessCoarseLocation">"Accedi alla posizione approssimativa offerta da fornitori di posizione che utilizzano fonti di rete come antenne di telefonia mobile e Wi-Fi. Quando questi servizi di localizzazione sono disponibili e attivi, questa autorizzazione consente all'applicazione di determinare la tua posizione approssimativa."</string>
+    <string name="permdesc_accessCoarseLocation">"Consente all'applicazione di ottenere la tua posizione approssimativa. Questa posizione viene ottenuta da servizi di localizzazione utilizzando fonti di localizzazione delle reti come ripetitori di telefonia mobile e Wi-Fi. Questi servizi di localizzazione devono essere attivi e disponibili sul dispositivo per poter essere utilizzati dall'applicazione. Le applicazioni potrebbero utilizzare questa autorizzazione per stabilire la tua posizione approssimativa."</string>
     <string name="permlab_accessSurfaceFlinger">accesso a SurfaceFlinger</string>
     <string name="permdesc_accessSurfaceFlinger">"Consente all'applicazione l'utilizzo di funzioni di basso livello SurfaceFlinger."</string>
     <string name="permlab_readFrameBuffer">lettura buffer di frame</string>
     <string name="permdesc_readFrameBuffer">"Consente all'applicazione di leggere i contenuti del buffer di frame."</string>
+    <string name="permlab_configureWifiDisplay">configurazione di schermi Wi-Fi</string>
+    <string name="permdesc_configureWifiDisplay">"Consente all'applicazione di configurare schermi Wi-Fi e di collegarsi a essi."</string>
+    <string name="permlab_controlWifiDisplay">controllo di schermi Wi-Fi</string>
+    <string name="permdesc_controlWifiDisplay">"Consente all'applicazione di controllare le funzioni di basso livello di schermi Wi-Fi."</string>
     <string name="permlab_modifyAudioSettings">modifica impostazioni audio</string>
     <string name="permdesc_modifyAudioSettings">"Consente all'applicazione di modificare le impostazioni audio globali, come il volume e quale altoparlante viene utilizzato per l'uscita."</string>
     <string name="permlab_recordAudio">registrazione audio</string>
@@ -558,7 +536,7 @@ Tentativi rimasti :"</string>
     <string name="permdesc_setWallpaper">"Consente all'applicazione di impostare lo sfondo del sistema."</string>
     <string name="permlab_setWallpaperHints">regolazione dimensioni sfondo</string>
     <string name="permdesc_setWallpaperHints">"Consente all'applicazione di impostare i suggerimenti per le dimensioni dello sfondo del sistema."</string>
-    <string name="permlab_masterClear">ripristino impostazioni di fabbrica</string>
+    <string name="permlab_masterClear">ripristino impostazioni predef. di fabbrica</string>
     <string name="permdesc_masterClear">"Consente all'applicazione di effettuare un ripristino dati di fabbrica completo sul sistema, cancellando tutti i dati, la configurazione e le applicazioni installate."</string>
     <string name="permlab_setTime">impostazione ora</string>
     <string name="permdesc_setTime">"Consente all'applicazione di modificare l'ora dell'orologio del telefono."</string>
@@ -594,7 +572,7 @@ Tentativi rimasti :"</string>
     <string name="permdesc_changeWifiMulticastState">"Consente all'applicazione di ricevere pacchetti inviati a tutti i dispositivi su una rete Wi-Fi utilizzando indirizzi multicast, non solo il tuo telefono. Viene consumata più batteria rispetto alla modalità non multicast."</string>
     <string name="permlab_bluetoothAdmin">accesso alle impostazioni Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il telefono Bluetooth locale e di rilevare ed effettuare l'accoppiamento con dispositivi remoti."</string>
-    <string name="permlab_accessWimaxState">Visualizzazione connessioni WiMAX</string>
+    <string name="permlab_accessWimaxState">connessione e disconnessione da WiMAX</string>
     <string name="permdesc_accessWimaxState">"Consente all'applicazione di determinare se WiMAX è abilitato e informazioni su eventuali reti WiMAX che sono connesse."</string>
     <string name="permlab_changeWimaxState">Modifica stato WiMAX</string>
     <string name="permdesc_changeWimaxState">"Consente all'applicazione di connettere/disconnettere il telefono dalle reti WiMAX."</string>
@@ -616,7 +594,7 @@ Tentativi rimasti :"</string>
     <string name="permdesc_subscribedFeedsWrite">"Consente all'applicazione di modificare i feed attualmente sincronizzati. Le applicazioni dannose potrebbero modificare i tuoi feed sincronizzati."</string>
     <string name="permlab_readDictionary">lettura termini aggiunti al dizionario</string>
     <string name="permdesc_readDictionary">"Consente all'applicazione di leggere tutte le parole, le frasi e i nomi che l'utente potrebbe aver memorizzato nel dizionario utente."</string>
-    <string name="permlab_writeDictionary">"scrittura nel dizionario definito dall'utente"</string>
+    <string name="permlab_writeDictionary">"aggiunta di parole al dizionario definito dall'utente"</string>
     <string name="permdesc_writeDictionary">"Consente all'applicazione di scrivere nuove parole nel dizionario utente."</string>
     <string name="permlab_sdcardRead">"test dell'accesso all'archivio protetto"</string>
     <string name="permdesc_sdcardRead">"Consente all'applicazione di testare un'autorizzazione relativa alla scheda SD che sarà disponibile su dispositivi futuri."</string>
@@ -624,6 +602,8 @@ Tentativi rimasti :"</string>
     <string name="permdesc_sdcardWrite">"Consente all'applicazione di scrivere sulla scheda SD."</string>
     <string name="permlab_mediaStorageWrite">modifica/eliminaz. contenuti archivio media int.</string>
     <string name="permdesc_mediaStorageWrite">"Consente all'applicazione di modificare i contenuti dell'archivio media interno."</string>
+    <string name="permlab_sdcardAccessAll">accesso memoria esterna utenti</string>
+    <string name="permdesc_sdcardAccessAll">"Consente all'applicazione di accedere alla memoria esterna di tutti gli utenti."</string>
     <string name="permlab_cache_filesystem">accesso al filesystem nella cache</string>
     <string name="permdesc_cache_filesystem">"Consente all'applicazione di leggere e scrivere il filesystem nella cache."</string>
     <string name="permlab_use_sip">effettuazione/ricezione chiamate Internet</string>
@@ -652,6 +632,8 @@ Tentativi rimasti :"</string>
     <string name="policydesc_encryptedStorage">Richiede la crittografia dei dati applicazione memorizzati.</string>
     <string name="policylab_disableCamera">Disattiva fotocamere</string>
     <string name="policydesc_disableCamera">"Impedisci l'utilizzo di tutte le fotocamere del dispositivo."</string>
+    <string name="policylab_disableKeyguardFeatures">Disattiva le funzioni con il blocco tastiera</string>
+    <string name="policydesc_disableKeyguardFeatures">"Impedisce l'utilizzo di alcune funzioni con il blocco tastiera."</string>
     <string name="phoneTypeCustom">Personalizzato</string>
     <string name="phoneTypeHome">Casa</string>
     <string name="phoneTypeMobile">Cellulare</string>
@@ -660,7 +642,7 @@ Tentativi rimasti :"</string>
     <string name="phoneTypeFaxHome">Fax casa</string>
     <string name="phoneTypePager">Cercapersone</string>
     <string name="phoneTypeOther">Altro</string>
-    <string name="phoneTypeCallback">Richiamata</string>
+    <string name="phoneTypeCallback">Callback</string>
     <string name="phoneTypeCar">Automobile</string>
     <string name="phoneTypeCompanyMain">Azienda, principale</string>
     <string name="phoneTypeIsdn">ISDN</string>
@@ -726,12 +708,10 @@ Tentativi rimasti :"</string>
     <string name="keyguard_password_enter_puk_code">Inserisci il PUK e il nuovo codice PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Codice PUK</string>
     <string name="keyguard_password_enter_pin_prompt">Nuovo codice PIN</string>
-    <string name="keyguard_password_entry_touch_hint">Tocca per inserire la password</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Tocca per inserire la password</font></string>
     <string name="keyguard_password_enter_password_code">Inserisci password per sbloccare</string>
     <string name="keyguard_password_enter_pin_password_code">Inserisci PIN per sbloccare</string>
     <string name="keyguard_password_wrong_pin_code">Codice PIN errato.</string>
-    <string name="keyguard_password_wrong_puk_code">Codice PUK errato</string>
-    <string name="keyguard_pin_accepted">PIN corretto !</string>
     <string name="keyguard_label_text">Per sbloccare, premi Menu, poi 0.</string>
     <string name="emergency_call_dialog_number_for_display">Numero di emergenza</string>
     <string name="lockscreen_carrier_default">Nessun servizio.</string>
@@ -744,12 +724,12 @@ Tentativi rimasti :"</string>
     <string name="lockscreen_pattern_correct">Corretta.</string>
     <string name="lockscreen_pattern_wrong">Riprova</string>
     <string name="lockscreen_password_wrong">Riprova</string>
-    <string name="faceunlock_multiple_failures">Numero massimo di tentativi di Sblocco col Sorriso superato</string>
+    <string name="faceunlock_multiple_failures">Numero massimo di tentativi di Sblocco col sorriso superato</string>
     <string name="lockscreen_plugged_in">In carica (%d%%)</string>
-    <string name="lockscreen_charged">Carico.</string>
+    <string name="lockscreen_charged">Carica</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Collegare il caricabatterie.</string>
-    <string name="lockscreen_missing_sim_message_short">Nessuna SIM presente.</string>
+    <string name="lockscreen_missing_sim_message_short">Nessuna scheda SIM</string>
     <string name="lockscreen_missing_sim_message">Nessuna SIM presente nel telefono.</string>
     <string name="lockscreen_missing_sim_instructions">Inserisci una scheda SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">Scheda SIM mancante o non leggibile. Inserisci una scheda SIM.</string>
@@ -767,25 +747,20 @@ Tentativi rimasti :"</string>
     <string name="lockscreen_sim_puk_locked_instructions">"Consulta la Guida dell'utente o contatta il servizio clienti."</string>
     <string name="lockscreen_sim_locked_message">La SIM è bloccata.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Sblocco SIM...</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">"%1$d tentativi errati di inserimento della sequenza di sblocco. 
+    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"%d tentativi errati di inserimento della sequenza di sblocco. 
 
-Riprova tra %2$d secondi."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
+Riprova tra %d secondi."</string>
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Hai digitato la tua password %d volte in modo errato. 
 
-Riprova tra %2$d secondi."</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Hai digitato il tuo PIN %1$d volte in modo errato. 
+Riprova tra %d secondi."</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Hai digitato il tuo PIN %d volte in modo errato. 
 
-Riprova tra %2$d secondi."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"
-%dtentativi errati di inserimento della sequenza di sblocco. Dopo altri
-%dtentativi falliti, ti verrà chiesto di sbloccare il telefono con i tuoi dati di accesso Google.
+Riprova tra %d secondi."</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d tentativi errati di inserimento della sequenza di sblocco. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare il telefono con i tuoi dati di accesso Google.
 
- Riprova tra
-%dsecondi."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Hai erroneamente tentato di sbloccare il telefono
-%dvolte. Dopo altri
-%dtentativi non riusciti, il telefono verrà sottoposto a un ripristino dati di fabbrica e tutti i dati utente andranno persi."</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Hai erroneamente tentato di sbloccare il telefono %d volte. Il telefono ora verrà sottoposto a un ripristino dei dati di fabbrica.</string>
+ Riprova tra %d secondi."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Hai erroneamente tentato di sbloccare il telefono %d volte. Dopo altri %d tentativi non riusciti, il telefono verrà sottoposto a un ripristino dati di fabbrica e tutti i dati utente andranno persi.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Hai erroneamente tentato di sbloccare il telefono %d volte. Il telefono ora verrà sottoposto a un ripristino dati di fabbrica.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Riprova fra %d secondi.</string>
     <string name="lockscreen_forgot_pattern_button_text">Hai dimenticato la sequenza?</string>
     <string name="lockscreen_glogin_forgot_pattern">Sblocco account</string>
@@ -796,7 +771,7 @@ Riprova tra %2$d secondi."</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
     <string name="lockscreen_glogin_invalid_input">Password o nome utente non valido.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Hai dimenticato il nome utente o la password?
-Visita  b ."</string>
+Visita "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Verifica...</string>
     <string name="lockscreen_unlock_label">Sblocca</string>
     <string name="lockscreen_sound_on_label">Audio attivato</string>
@@ -805,6 +780,26 @@ Visita  b ."</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
+    <string name="keyguard_accessibility_add_widget">Aggiungi widget.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Vuoto</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Area di sblocco estesa.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Area di sblocco compressa.</string>
+    <string name="keyguard_accessibility_widget">%1$s widget.</string>
+    <string name="keyguard_accessibility_user_selector">Selettore utente</string>
+    <string name="keyguard_accessibility_status">Stato</string>
+    <string name="keyguard_accessibility_camera">Fotocamera</string>
+    <string name="keygaurd_accessibility_media_controls">Controlli media</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Riordino dei widget iniziato.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Riordino dei widget terminato.</string>
+    <string name="keyguard_accessibility_widget_deleted">Widget %1$s eliminato.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Espandi area di sblocco.</string>
+    <string name="keyguard_accessibility_slide_unlock">Sblocco con scorrimento.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Sblocco con sequenza.</string>
+    <string name="keyguard_accessibility_face_unlock">Sblocco col sorriso.</string>
+    <string name="keyguard_accessibility_pin_unlock">Sblocco con PIN.</string>
+    <string name="keyguard_accessibility_password_unlock">Sblocco con password.</string>
+    <string name="keyguard_accessibility_pattern_area">Area sequenza.</string>
+    <string name="keyguard_accessibility_slide_area">Area di scorrimento.</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
@@ -812,19 +807,17 @@ Visita  b ."</string>
     <string name="granularity_label_word">parola</string>
     <string name="granularity_label_link">link</string>
     <string name="granularity_label_line">linea</string>
-    <string name="hour_ampm" formatted="false">"
-%-l %P"</string>
-    <string name="hour_cap_ampm" formatted="false">"
-%-l %p"</string>
+    <string name="hour_ampm" formatted="false">%-l %P</string>
+    <string name="hour_cap_ampm" formatted="false">%-l %p</string>
     <string name="factorytest_failed">Test di fabbrica non riuscito</string>
     <string name="factorytest_not_system">"L'azione FACTORY_TEST è supportata soltanto per i pacchetti installati in /system/app."</string>
     <string name="factorytest_no_action">"Nessun pacchetto trovato che fornisca l'azione FACTORY_TEST."</string>
     <string name="factorytest_reboot">Riavvia</string>
-    <string name="js_dialog_title">"La pagina all'indirizzo \" %s \" indica:"</string>
+    <string name="js_dialog_title">"La pagina all'indirizzo \"%s\" indica:"</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Uscire da questa pagina?
 
- %s 
+%s
 
 Tocca OK per continuare o Annulla per rimanere nella pagina corrente."</string>
     <string name="save_password_label">Conferma</string>
@@ -879,12 +872,12 @@ Tocca OK per continuare o Annulla per rimanere nella pagina corrente."</string>
     <string name="menu_enter_shortcut_label">Invio</string>
     <string name="menu_delete_shortcut_label">Canc</string>
     <string name="searchview_description_search">Cerca</string>
-    <string name="searchview_description_query">Oggetto di ricerca</string>
-    <string name="searchview_description_clear">Cancella oggetto</string>
-    <string name="searchview_description_submit">Invia oggetto</string>
+    <string name="searchview_description_query">Query di ricerca</string>
+    <string name="searchview_description_clear">Cancella query</string>
+    <string name="searchview_description_submit">Invia query</string>
     <string name="searchview_description_voice">Ricerca vocale</string>
     <string name="enable_explore_by_touch_warning_title">Attivare Esplora al tocco?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$svuole attivare la funzione Esplora al tocco. Quando la funzione Esplora al tocco è attiva, puoi ascoltare o visualizzare le descrizioni di ciò che stai toccando oppure interagire con il telefono tramite gesti.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s vuole attivare la funzione Esplora al tocco. Quando la funzione Esplora al tocco è attiva, puoi ascoltare o visualizzare le descrizioni di ciò che stai toccando oppure interagire con il telefono tramite gesti.</string>
     <string name="oneMonthDurationPast">1 mese fa</string>
     <string name="beforeOneMonthDurationPast">Oltre 1 mese fa</string>
     <string name="last_month">Ultimo mese</string>
@@ -904,18 +897,18 @@ Tocca OK per continuare o Annulla per rimanere nella pagina corrente."</string>
     <string name="weeks">settimane</string>
     <string name="year">anno</string>
     <string name="years">anni</string>
-    <string name="relative_time">%1$s , %2$s</string>
-    <string name="noon">Mezzogiorno</string>
+    <string name="relative_time">%1$s, %2$s</string>
+    <string name="noon">mezzogiorno</string>
     <string name="Noon">Mezzogiorno</string>
-    <string name="midnight">Mezzanotte</string>
+    <string name="midnight">mezzanotte</string>
     <string name="Midnight">Mezzanotte</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d : %2$02d</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d : %2$02d : %3$02d</string>
+    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
+    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="replace">Sostituisci...</string>
     <string name="delete">Elimina</string>
     <string name="textSelectionCABTitle">Selezione testo</string>
-    <string name="addToDictionary">aggiungi al dizionario</string>
-    <string name="deleteText">elimina</string>
+    <string name="addToDictionary">Aggiungi al dizionario</string>
+    <string name="deleteText">Elimina</string>
     <string name="inputMethod">Metodo inserimento</string>
     <string name="editTextMenuTitle">Azioni testo</string>
     <string name="low_internal_storage_view_title">Spazio di archiviazione in esaurimento</string>
@@ -924,8 +917,8 @@ Tocca OK per continuare o Annulla per rimanere nella pagina corrente."</string>
     <string name="capital_on">ON</string>
     <string name="capital_off">OFF</string>
     <string name="whichApplication">"Completa l'azione con"</string>
-    <string name="alwaysUse">Usa come predefinita</string>
-    <string name="clearDefaultHintMsg">Modifica in Impostazioni > Applicazioni > Scaricate.</string>
+    <string name="alwaysUse">Usa come predefinita per questa azione.</string>
+    <string name="clearDefaultHintMsg">"Cancella l'applicazione predefinita in Impostazioni di sistema > Applicazioni > Scaricate."</string>
     <string name="chooseActivity">"Scegli un'azione"</string>
     <string name="chooseUsbActivity">"Scegli un'applicazione per il dispositivo USB"</string>
     <string name="noApplications">Nessuna applicazione è in grado di eseguire questa azione.</string>
@@ -956,9 +949,9 @@ Vuoi chiuderla?"</string>
     <string name="screen_compat_mode_show">Mostra sempre</string>
     <string name="screen_compat_mode_hint">Riattivala in Impostazioni di sistema > Applicazioni > Scaricate.</string>
     <string name="smv_application">"L'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta."</string>
-    <string name="smv_process">Il processo %1$s ha violato la norma StrictMode autoimpostata.</string>
-    <string name="android_upgrading_title">Aggiornamento di Android...</string>
-    <string name="android_upgrading_apk">Ottimizzazione applicazione %1$d di %2$d .</string>
+    <string name="smv_process">Il processo %1$s ha violato la norma StrictMode autoimposta.</string>
+    <string name="android_upgrading_title">Upgrade di Android...</string>
+    <string name="android_upgrading_apk">Ottimizzazione applicazione %1$d di %2$d.</string>
     <string name="android_upgrading_starting_apps">Avvio applicazioni.</string>
     <string name="android_upgrading_complete">"Conclusione dell'avvio."</string>
     <string name="heavy_weight_notification">%1$s in esecuzione</string>
@@ -985,13 +978,14 @@ Vuoi chiuderla?"</string>
     <string name="volume_icon_description_media">Volume contenuti multimediali</string>
     <string name="volume_icon_description_notification">Volume notifiche</string>
     <string name="ringtone_default">Suoneria predefinita</string>
-    <string name="ringtone_default_with_actual">Suoneria predefinita ( %1$s )</string>
-    <string name="ringtone_silent">Silenzioso</string>
+    <string name="ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
+    <string name="ringtone_silent">Nessuna</string>
     <string name="ringtone_picker_title">Suonerie</string>
     <string name="ringtone_unknown">Suoneria sconosciuta</string>
     <string name="wifi_available_sign_in">Accedi a rete Wi-Fi</string>
+    <string name="network_available_sign_in">Accedi alla rete</string>
     <string name="wifi_watchdog_network_disabled">Impossibile connettersi alla rete Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled_detailed">ha una connessione Internet debole.</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" ha una connessione Internet debole."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Avvia Wi-Fi Direct. Verrà disattivato il client/hotspot Wi-Fi.</string>
     <string name="wifi_p2p_failed_message">Avvio di Wi-Fi Direct non riuscito.</string>
@@ -1005,14 +999,21 @@ Vuoi chiuderla?"</string>
     <string name="wifi_p2p_to_message">A:</string>
     <string name="wifi_p2p_enter_pin_message">Inserisci il PIN richiesto:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_noncuncurrency_message">Avvia client Wi-Fi. Questo disconnetterà la connessione Wi-Fi Direct.</string>
-    <string name="wifi_p2p_noncuncurrency_message">Avvia client Wi-Fi Direct. Questo disconnetterà la connession Wi-Fi.</string>
-    <string name="wifi_p2p_noncuncurrency_invite_message">Questo disconnetterà ogni connessione Wi-Fi esistente.</string>
+    <string name="wifi_p2p_frequency_conflict_message">Il telefono verrà momentaneamente scollegato dalla rete Wi-Fi durante il collegamento a %1$s.</string>
     <string name="select_character">Inserisci carattere</string>
     <string name="sms_control_title">Invio SMS</string>
-    <string name="sms_control_message">"&lt;b> %1$s &lt;/b> sta inviando molti SMS. Vuoi consentire all'applicazione di continuare a inviare messaggi?"</string>
+    <string name="sms_control_message">"&lt;b>%1$s&lt;/b> sta inviando molti SMS. Vuoi consentire all'applicazione di continuare a inviare messaggi?"</string>
     <string name="sms_control_yes">Consenti</string>
     <string name="sms_control_no">Nega</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> vorrebbe inviare un messaggio a &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_details"><font fgcolor="#ffffb060">Potrebbero essere effettuati addebiti</font> sul tuo account per cellulari.</string>
+    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Verranno effettuati addebiti sul tuo account per cellulari.</font></string>
+    <string name="sms_short_code_confirm_allow">Invia</string>
+    <string name="sms_short_code_confirm_deny">Annulla</string>
+    <string name="sms_short_code_remember_choice">Memorizza la mia scelta</string>
+    <string name="sms_short_code_remember_undo_instruction">Modifica: Impostazioni > Applicazioni</string>
+    <string name="sms_short_code_confirm_always_allow">Consenti sempre</string>
+    <string name="sms_short_code_confirm_never_allow">Non consentire mai</string>
     <string name="sim_removed_title">Scheda SIM rimossa</string>
     <string name="sim_removed_message">La rete mobile non sarà disponibile finché non eseguirai il riavvio con una scheda SIM valida inserita.</string>
     <string name="sim_done_button">Fine</string>
@@ -1023,12 +1024,10 @@ Vuoi chiuderla?"</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_time_set">Imposta</string>
     <string name="date_time_done">Fine</string>
-    <string name="default_permission_group">Predefinito</string>
-    <string name="no_permissions">Nessuna autorizzazione richiesta</string>
-    <string name="perms_hide">Nascondi</string>
-    <string name="perms_show_all">Mostra tutto</string>
-    <string name="perms_new_perm_prefix">"NUOVA: "</string>
+    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NUOVA: </font></string>
     <string name="perms_description_app">Fornito da %1$s.</string>
+    <string name="no_permissions">Nessuna autorizzazione richiesta</string>
+    <string name="perm_costs_money">potrebbe comportare dei costi</string>
     <string name="usb_storage_activity_title">Archivio di massa USB</string>
     <string name="usb_storage_title">USB collegata</string>
     <string name="usb_storage_message">Ti sei collegato al computer tramite USB. Tocca il pulsante in basso se desideri copiare file tra il computer e la scheda SD di Android.</string>
@@ -1062,9 +1061,9 @@ Vuoi chiuderla?"</string>
     <string name="hardware">Hardware</string>
     <string name="select_keyboard_layout_notification_title">Seleziona layout tastiera</string>
     <string name="select_keyboard_layout_notification_message">Tocca per selezionare un layout di tastiera.</string>
-    <string name="fast_scroll_alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="fast_scroll_numeric_alphabet">0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="candidates_style">candidati</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="candidates_style"><u>candidati</u></string>
     <string name="ext_media_checking_notification_title">Preparazione scheda SD</string>
     <string name="ext_media_checking_notification_message">Ricerca errori.</string>
     <string name="ext_media_nofs_notification_title">Scheda SD vuota</string>
@@ -1093,11 +1092,7 @@ Vuoi chiuderla?"</string>
     <string name="ime_action_done">Fine</string>
     <string name="ime_action_previous">Prec.</string>
     <string name="ime_action_default">Esegui</string>
-    <string name="managed_roaming_title">Gestione roaming</string>
-    <string name="managed_roaming_dialog_content">Trovata rete mobile con restrizioni. Avviare una ricerca su internet ?</string>
-    <string name="managed_roaming_dialog_ok_button">OK</string>
-    <string name="managed_roaming_dialog_cancel_button">Annulla</string>
-    <string name="dial_number_using">"Chiama numero
+    <string name="dial_number_using">"Componi numero
 utilizzando %s"</string>
     <string name="create_contact_using">"Crea contatto
 utilizzando %s"</string>
@@ -1108,7 +1103,7 @@ utilizzando %s"</string>
     <string name="deny">Nega</string>
     <string name="permission_request_notification_title">Autorizzazione richiesta</string>
     <string name="permission_request_notification_with_subtitle">"Autorizzazione richiesta
-per l'account%s."</string>
+per l'account %s."</string>
     <string name="input_method_binding_label">Metodo inserimento</string>
     <string name="sync_binding_label">Sinc</string>
     <string name="accessibility_binding_label">Accessibilità</string>
@@ -1118,6 +1113,10 @@ per l'account%s."</string>
     <string name="vpn_title_long">VPN attivata da %s</string>
     <string name="vpn_text">Tocca per gestire la rete.</string>
     <string name="vpn_text_long">Collegata a %s. Tocca per gestire la rete.</string>
+    <string name="vpn_lockdown_connecting">Connessione a VPN sempre attiva…</string>
+    <string name="vpn_lockdown_connected">VPN sempre attiva connessa</string>
+    <string name="vpn_lockdown_error">Errore VPN sempre attiva</string>
+    <string name="vpn_lockdown_reset">Tocca per ripristinare la connessione</string>
     <string name="upload_file">Scegli file</string>
     <string name="no_file_chosen">Nessun file è stato scelto</string>
     <string name="reset">Reimposta</string>
@@ -1147,13 +1146,15 @@ per l'account%s."</string>
     <string name="share">Condividi</string>
     <string name="find">Trova</string>
     <string name="websearch">Ricerca Web</string>
+    <string name="find_next">Trova successivo</string>
+    <string name="find_previous">Trova precedente</string>
     <string name="gpsNotifTicker">Richiesta posizione da %s</string>
     <string name="gpsNotifTitle">Richiesta posizione</string>
-    <string name="gpsNotifMessage">Richiesto da %1$s ( %2$s )</string>
+    <string name="gpsNotifMessage">Richiesto da %1$s (%2$s)</string>
     <string name="gpsVerifYes">Sì</string>
     <string name="gpsVerifNo">No</string>
     <string name="sync_too_many_deletes">Limite di eliminazioni superato</string>
-    <string name="sync_too_many_deletes_desc">Ci sono%1$d elementi eliminati per %2$s, account %3$s. Come vuoi procedere?</string>
+    <string name="sync_too_many_deletes_desc">Ci sono %1$d elementi eliminati per %2$s, account %3$s . Come vuoi procedere?</string>
     <string name="sync_really_delete">Elimina gli elementi</string>
     <string name="sync_undo_deletes">Annulla le eliminazioni</string>
     <string name="sync_do_nothing">Non fare nulla per ora</string>
@@ -1162,7 +1163,7 @@ per l'account%s."</string>
     <string name="add_account_button_label">Aggiungi account</string>
     <string name="number_picker_increment_button">Aumenta</string>
     <string name="number_picker_decrement_button">Riduci</string>
-    <string name="number_picker_increment_scroll_mode">Tocca e tieni premuto %s.</string>
+    <string name="number_picker_increment_scroll_mode">Tocca e tieni premuto il numero %s.</string>
     <string name="number_picker_increment_scroll_action">"Scorri verso l'alto per aumentare il valore e verso il basso per diminuirlo."</string>
     <string name="time_picker_increment_minute_button">Aumenta minuti</string>
     <string name="time_picker_decrement_minute_button">Riduci minuti</string>
@@ -1187,10 +1188,10 @@ per l'account%s."</string>
     <string name="shareactionprovider_share_with">Condividi con</string>
     <string name="shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="content_description_sliding_handle">Maniglia scorrevole. Tocca e tieni premuto.</string>
-    <string name="description_direction_up">Su per %s</string>
-    <string name="description_direction_down">Giù per %s</string>
-    <string name="description_direction_left">A sinistra per %s</string>
-    <string name="description_direction_right">A destra per %s</string>
+    <string name="description_direction_up">Su per %s.</string>
+    <string name="description_direction_down">Giù per %s.</string>
+    <string name="description_direction_left">A sinistra per %s.</string>
+    <string name="description_direction_right">A destra per %s.</string>
     <string name="description_target_unlock">Sblocca</string>
     <string name="description_target_camera">Fotocamera</string>
     <string name="description_target_silent">Silenzioso</string>
@@ -1217,7 +1218,7 @@ per l'account%s."</string>
     <string name="data_usage_4g_limit_snoozed_title">Limite dati 4G superato</string>
     <string name="data_usage_mobile_limit_snoozed_title">Limite dati cellulare superato</string>
     <string name="data_usage_wifi_limit_snoozed_title">Limite dati Wi-Fi superato</string>
-    <string name="data_usage_limit_snoozed_body">%s oltre il limite specificato</string>
+    <string name="data_usage_limit_snoozed_body">%s oltre il limite specificato.</string>
     <string name="data_usage_restricted_title">Dati in background limitati</string>
     <string name="data_usage_restricted_body">Tocca per rimuovere restrizione.</string>
     <string name="ssl_certificate">Certificato di sicurezza</string>
@@ -1238,7 +1239,7 @@ per l'account%s."</string>
     <string name="activity_chooser_view_dialog_title_default">Scegli attività</string>
     <string name="share_action_provider_share_with">Condividi con</string>
     <string name="status_bar_device_locked">Dispositivo bloccato.</string>
-    <string name="list_delimeter">,</string>
+    <string name="list_delimeter">", "</string>
     <string name="sending">Invio...</string>
     <string name="launchBrowserDefault">"Avviare l'applicazione Browser?"</string>
     <string name="SetupCallDefault">Accettare la chiamata?</string>
@@ -1247,258 +1248,71 @@ per l'account%s."</string>
     <string name="default_audio_route_name">Telefono</string>
     <string name="default_audio_route_name_headphones">Cuffie audio</string>
     <string name="default_audio_route_name_dock_speakers">Altoparlanti dock</string>
-    <string name="default_audio_route_name_hdmi">Audio HDMI</string>
+    <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
     <string name="media_route_chooser_grouping_done">Fine</string>
-    <string name="oppo_unlockscreen_indicator_ok">OK</string>
-    <string name="oppo_unlockscreen_indicator_cancel">Annulla</string>
-    <string name="alert_dialog_username">Nome:</string>
-    <string name="alert_dialog_ok">OK</string>
-    <string name="alert_dialog_cancel">Annulla</string>
-    <string name="default_foler_name">Nuova cartella</string>
-    <string name="name_file_error_title">Errore rinominazione file o cartella</string>
-    <string name="name_file_null">Il campo del nome non può essere vuoto. Rinominare:</string>
-    <string name="name_file_error">File già esistente. Rinominare:</string>
-    <string name="save_file">Salva</string>
-    <string name="new_folder">Nuova cartella</string>
-    <string name="confirm">Conferma</string>
-    <string name="back">Indietro</string>
-    <string name="error_save">Impossibile salvare in questa cartella.</string>
-    <string name="error_new">Impossibile creare file in questa cartella.</string>
-    <string name="error">Errore</string>
-    <string name="select_file">Seleziona File</string>
-    <string name="view">Apri</string>
-    <string name="scan_folder">Scansiona Cartella</string>
-    <string name="select">Seleziona</string>
-    <string name="empty">vuota</string>
-    <string name="mount_sdcard">Monta scheda SD!</string>
-    <string name="unmount_sdcard">Smonta scheda SD!</string>
-    <string name="mount_localusb">Monta memoria telefono!</string>
-    <string name="unmount_localusb">Smonta memoria telefono!</string>
-    <string name="mount_usb">Monta USB!</string>
-    <string name="unmount_usb">Smonta USB!</string>
-    <string name="unknown">Sconosciuto</string>
-    <string name="contact_status_update_attribution_with_date">%1$s tramite %2$s</string>
-    <string name="contact_status_update_attribution">tramite %1$s</string>
-    <string name="oppo_sd_card">Scheda SD</string>
-    <string name="oppo_internal">memoria telefono</string>
-    <string name="nosdcard">Scheda SD assente</string>
-    <string name="record">Cronologia</string>
-    <string name="favorite">Preferiti</string>
-    <string name="alert_dialog_password">Inserire password di protezione:</string>
-    <string name="confirm_alert_dialog_password">Conferma password</string>
-    <string name="alert_dialog_password_title">Inserisci password</string>
-    <string name="error_password">Password sbagliata!</string>
-    <string name="alert_dialog_past_password">Vecchia password</string>
-    <string name="alert_dialog_new_password">Nuova password</string>
-    <string name="setImage">Imposta immagine ome</string>
-    <string name="ringtone_set">\"%s\" è stata impostata come suoneria.</string>
-    <string name="filetype">Tipo file:</string>
-    <string name="filename">Nome file intero o parziale:</string>
-    <string name="filepath">Cerca percorso</string>
-    <string name="searchButton">Cerca</string>
-    <string name="stopButton">Stop</string>
-    <string name="searchConfiguration">Cerca il seguente</string>
-    <string name="searchResult">Risultati ricerca</string>
-    <string name="picture">Immagine</string>
-    <string name="audio">Audio</string>
-    <string name="video">Video</string>
-    <string name="other">Altro</string>
-    <string name="emptyresult">Nessun risultato.</string>
-    <string name="searchCompleted">Ricerca completata.</string>
-    <string name="choose_filepath">Scegli percorso</string>
-    <string name="file_noexist">File inesistente.</string>
-    <string name="clip_mode_copy">Copia</string>
-    <string name="clip_mode_cut">Taglia</string>
-    <string name="clip_function_tip">Per tagliare ed incollare uno o più file/cartelle, trascinare i file/cartelle prima negli appunti e poi nella cartella di destinazione</string>
-    <string name="oppo_password_controller_btn1">1</string>
-    <string name="oppo_password_controller_btn2">2</string>
-    <string name="oppo_password_controller_btn3">3</string>
-    <string name="oppo_password_controller_btn4">4</string>
-    <string name="oppo_password_controller_btn5">5</string>
-    <string name="oppo_password_controller_btn6">6</string>
-    <string name="oppo_password_controller_btn7">7</string>
-    <string name="oppo_password_controller_btn8">8</string>
-    <string name="oppo_password_controller_btn9">9</string>
-    <string name="oppo_password_controller_btn0">0</string>
-    <string name="oppo_password_controller_label">Inserisci password</string>
-    <string name="oppo_password_controller_tips">Inserire password per la protezione della privacy:</string>
-    <string name="oppo_password_controller_text_cancel">Annulla</string>
-    <string name="oppo_password_controller_password_empty">Il campo password non può essere vuoto !</string>
-    <string name="oppo_password_controller_input_password">Inserisci la password:</string>
-    <string name="oppo_password_controller_input_old_password">Inserisci la vecchia password:</string>
-    <string name="oppo_password_controller_input_new_password">Inserisci la nuova password:</string>
-    <string name="oppo_password_controller_input_new_password_confirm">Conferma la nuova password:</string>
-    <string name="oppo_password_controller_password_confirm_error">Le nuove password non corrispondono.</string>
-    <string name="oppo_password_controller_password_wrong">Password sbagliata.</string>
-    <string name="global_action_reboot">Riavvia telefono</string>
-    <string name="lunar_calendar">Calendario lunare</string>
-    <string name="solar_calendar">Calendario occidentale</string>
-    <string name="usb_settings">Impostazioni USB</string>
-    <string name="usb_charge">Solo carica</string>
-    <string name="usb_charge_detail">Carica il telefono tramite USB</string>
-    <string name="usb_storage">Archiviazione</string>
-    <string name="usb_storage_detail">Utilizza il telefono come unità di archiviazione</string>
-    <string name="usb_adb">Interfaccia seriale/PC suit</string>
-    <string name="usb_mtp">Dispositivo media (MTP)</string>
-    <string name="usb_mtp_detail">Trasferimento di file media su Windows o utilizzando Android File Transfer su Mac</string>
-    <string name="usb_selection">Seleziona per modificare impoastazioni USB</string>
-    <string name="usb_adb_detail">Sincronizza con PC suit</string>
-    <string name="usb_internet">Collegamento USB</string>
-    <string name="usb_internet_detail">Condividi la rete dati del telefono con il PC</string>
-    <string name="usb_selection_processing">Elaborazione in corso...attendere prego.</string>
-    <string name="does_change_perms">I permessi di questa applicazione sono cambiati. Accetti i nuovi permessi ?</string>
-    <string name="lodingcvs">Caricamento file CVS</string>
-    <string name="status_gps">GPS</string>
-    <string name="status_flight">Aereo</string>
-    <string name="status_silent">Silenzioso</string>
-    <string name="status_3g">3G</string>
-    <string name="status_brightness">Luminosità</string>
-    <string name="status_autosync">AutoSync</string>
-    <string name="status_hotspot">Hotspot Wi-Fi</string>
-    <string name="statusbar_edit">Modifica permessi</string>
-    <string name="statusbar_clear_all">Cancella tutto</string>
-    <string name="perms_modify">Modifica permessi</string>
-    <string name="modify_pkg_perms">Modifica permessi</string>
-    <string name="modify_pkg_perms_detail">Vai in Impostazioni→Generale→Applicazioni per modificare i permessi</string>
-    <string name="oppo_global_actions_poweroff_prompt">Spegni rapidamente il telefono</string>
-    <string name="oppo_global_actions_reboot_prompt">Spegni e riavvia il telefono</string>
-    <string name="selectText">Seleziona</string>
-    <string name="confirm_alert_dialog_new_password">Conferma nuova password</string>
-    <string name="mismatch_new_password">La nuove password non corrispondono.</string>
-    <string name="no_rename">Cartella protetta. Impossibile rinominare.</string>
-    <string name="no_delete">Cartella protetta. Impossibile eliminare.</string>
-    <string name="decryptsuccessfully">Cartella aperta!</string>
-    <string name="encryptsuccessfully">Cartella protetta!</string>
-    <string name="decryptfailed">Cartella non aperta!</string>
-    <string name="encryptfailed">Cartella non protetta!</string>
-    <string name="modify_password_success">Password modificata con successo.</string>
-    <string name="oppo_charge_voltage_low">Il voltaggio di carica è troppo basso; Sostituire il carica batteria per proseguire.</string>
-    <string name="oppo_charge_voltage_high">Il voltaggio di carica è troppo alto; Sostituire il carica batteria per proseguire.</string>
-    <string name="oppo_battery_waring_title">Attenzione:</string>
-    <string name="oppo_battery_waring_title_voltage">Errore Voltaggio</string>
-    <string name="oppo_battery_waring_title_charging">Errore Ricarica</string>
-    <string name="oppo_battery_waring_title_temperature">Errore Temperatura</string>
-    <string name="oppo_battery_waring_title_battery">Errore Batteria</string>
-    <string name="oppo_battery_waring_title_charge_full">Carica completata</string>
-    <string name="oppo_battery_waring_subtitle">Attenzione:</string>
-    <string name="oppo_battery_voltage_high">Voltaggio batteria troppo alto!</string>
-    <string name="oppo_battery_temperature_low">Temperatura batteria troppo bassa!</string>
-    <string name="oppo_battery_temperature_high">Temperatura batteria troppo alta!</string>
-    <string name="oppo_battery_poor_contact">Contatti batteria deboli</string>
-    <string name="oppo_charge_timeout">Tempo di caricata superato; Scollegare il cavo dal telefono!</string>
-    <string name="oppo_battery_charge_soc_fall">Consumo batteria eccessivo; Prova a chiudere alcune applicazioni ad alto consumo</string>
-    <string name="oppo_battery_charge_full_temp_low">Temperatura bassa. La carica non può essere completata per motivi di sicurezza.</string>
-    <string name="oppo_battery_charge_full_temp_high">Temperatura alta. La carica non può essere completata per motivi di sicurezza.</string>
-    <string name="oppo_battery_charge_full">Batteria carica !</string>
-    <string name="sdcard">Scheda SD</string>
-    <string name="no_sdcard">Nessuna scheda SD</string>
-    <string name="localusb">Memoria telefono</string>
-    <string name="no_localusb">Nessuna memoria interna</string>
-    <string name="usb">USB</string>
-    <string name="root">Root</string>
-    <string name="chinese_year">Calendario lunare</string>
-    <string name="new_year">Calendario occidentale</string>
-    <string name="dateselecttile">Imposta data</string>
-    <string name="lodingvcf">Importa contatti</string>
-    <string name="selectall">seleziona tutto</string>
-    <string name="selectnone">non selezionare nessuno</string>
-    <string name="mmcmnc46001">UNICOM</string>
-    <string name="mmcmnc46000">CMCC</string>
-    <string name="mmcmnc46002">CMCC</string>
-    <string name="mmcmnc45406">Smartone-Vodafone</string>
-    <string name="mmcmnc45410">New World</string>
-    <string name="mmcmnc45412">CMCC Peoples</string>
-    <string name="mmcmnc45415">SmarTone Mobile Comms</string>
-    <string name="mmcmnc45416">PCCW</string>
-    <string name="mmcmnc45419">PCCW</string>
-    <string name="mmcmnc45500">SmarTone</string>
-    <string name="mmcmnc45501">CTM</string>
-    <string name="mmcmnc45503">3</string>
-    <string name="mmcmnc45504">CTM</string>
-    <string name="mmcmnc45505">3</string>
-    <string name="mmcmnc46601">FarEasTone</string>
-    <string name="mmcmnc46688">KG Telecom</string>
-    <string name="mmcmnc46689">VIBO</string>
-    <string name="mmcmnc46692">Chungwa</string>
-    <string name="mmcmnc46693">MobiTai</string>
-    <string name="mmcmnc46697">Taiwan Mobile</string>
-    <string name="mmcmnc46699">TransAsia</string>
-    <string name="poweron_password_title">Password Accensione</string>
-    <string name="poweron_password_inputhint">Digita 4-8 caratteri</string>
-    <string name="poweron_password_wronghint">Password sbagliata. * tentativo(i) rimanenti.</string>
-    <string name="poweron_password_shutdown">Il telefono verrà spento</string>
-    <string name="poweron_password_jumphint">Caricamento…</string>
-    <string name="lockscreen_charging_hint">In carica</string>
-    <string name="lockscreen_unknown_song">Brano sconosciuto</string>
-    <string name="lockscreen_unknown_singer">Artista sconosciuto</string>
-    <string name="private_num">Numero privato</string>
-    <string name="payphone">Telefono a pagamento</string>
-    <string name="enquire_nexttime_checkbox">Non chiedere più</string>
-    <string name="keyguard_password_enter_password_code_pin">Inserisci un PIN di 4 caratteri</string>
-    <string name="sms_dialog_look">Leggi</string>
-    <string name="sms_dialog_close">Annulla</string>
-    <string name="sms_dialog_title">Nuovi messaggi</string>
-    <string name="scall_dialog_title">Chiamate perse</string>
-    <string name="smeslist_dialog_title">Nuovi eventi</string>
-    <string name="scall_dialog_prompt">chiamata(e) persa(e)</string>
-    <string name="sshortmse_dialog_prompt">nuovo(i) messaggio(i)</string>
-    <string name="miss_short_messages">nuovi messaggi</string>
-    <string name="miss_phones">chiamate perse</string>
-    <string name="miss_short_message">nuovo messaggio</string>
-    <string name="miss_phone">chiamata persa</string>
-    <string name="timeselecttile">Imposta orario</string>
-    <string name="textonecontent">:</string>
-    <string name="textthreecontent">ora</string>
-    <string name="textfourcontent">minuto</string>
-    <string name="oppo_power_shutdown_text">Spegni</string>
-    <string name="oppo_power_restart_text">Riavvia</string>
-    <string name="oppo_power_slient_mode_on_text">Muto/Suono</string>
-    <string name="oppo_power_slient_mode_off_text">Suoneria</string>
-    <string name="oppo_power_airplanemode_text">Aereo</string>
-    <string name="oppo_power_wlan_mode_text">Wi-Fi</string>
-    <string name="oppo_power_netdate_mode_text">Dati</string>
-    <string name="oppo_internal_sd_name">Memoria Telefono</string>
-    <string name="oppo_external_sd_name">Scheda SD</string>
-    <string name="ringtone_age_of_sail">Age of Sail</string>
-    <string name="ringtone_dancer">Dancer</string>
-    <string name="ringtone_dreaming_time">Dreaming Time</string>
-    <string name="ringtone_hello_find">Hello Find</string>
-    <string name="ringtone_jumping_finger">Jumping Finger</string>
-    <string name="ringtone_ring">Ring</string>
-    <string name="ringtone_wind_elf">Wind Elf</string>
-    <string name="alarm_beautiful_mood">Beautiful Mood</string>
-    <string name="alarm_music_box">Music Box</string>
-    <string name="alarm_summer_lake">Summer Lake</string>
-    <string name="alarm_sunrise">Sunrise</string>
-    <string name="alarm_uk_style">UK Style</string>
-    <string name="notification_brisk">Brisk</string>
-    <string name="notification_cheerful">Cheerful</string>
-    <string name="notification_find">Find</string>
-    <string name="notification_fresh">Fresh</string>
-    <string name="notification_guitar">Guitar</string>
-    <string name="notification_ringing">Ringing</string>
-    <string name="notification_snap">Snap</string>
-    <string name="oppo_input_website">Inserisci sito web</string>
-    <string name="permission_security_title">Avviso di sicurezza</string>
-    <string name="permission_security_label">" sta cercando di "</string>
-    <string name="permission_settings_prompt">Modifica le opzioni in Impostazioni > Sicurezza > Protezione privacy</string>
-    <string name="permission_choice_label">Ricorda la mia scelta</string>
-    <string name="reject_text">Rifiuta</string>
-    <string name="allow_text">Accetta</string>
-    <string name="oppo_nvrestore_title">Alcuni elementi nv non sono validi</string>
-    <string name="oppo_nvrestore_ticker">Alcuni elementi nv non sono validi</string>
-    <string name="oppo_nvrestore_text">Il telefono potrebbe mostrare anomalie perché alcuni elementi NV non sono validi</string>
-    <string name="lockscreen_stopped">Stop</string>
-    <string name="install_theme">Installazione tema</string>
-    <string name="delete_theme">Elimina questo tema</string>
-    <string name="apply_theme">Il sistema sta modificando il tema OPPO, attendere prego !</string>
-    <string name="quickcontact_remember_choice">Memorizza la selezione</string>
-    <string name="oppo_menu_select_all">Seleziona tutto</string>
-    <string name="oppo_menu_cancel_all">Deseleziona tutto</string>
-    <string name="rename_dialog_title">Rinomina</string>
-    <string name="rename_dialog_btn_ok">OK</string>
-    <string name="rename_dialog_btn_cancel">Annulla</string>
-    <string name="two_list">" "<item>Sistema</item> <item>Personalizzato</item>" "</string>
+    <string name="media_route_button_content_description">Uscita media</string>
+    <string name="media_route_status_scanning">Ricerca in corso...</string>
+    <string name="media_route_status_connecting">Connessione...</string>
+    <string name="media_route_status_available">Disponibile</string>
+    <string name="media_route_status_not_available">Non disponibili</string>
+    <string name="display_manager_built_in_display_name">Schermo incorporato</string>
+    <string name="display_manager_hdmi_display_name">Schermo HDMI</string>
+    <string name="display_manager_overlay_display_name">Overlay n. %1$d</string>
+    <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
+    <string name="wifi_display_notification_title">Il display wireless è connesso</string>
+    <string name="wifi_display_notification_message">Questa schermata è mostrata su un altro dispositivo</string>
+    <string name="wifi_display_notification_disconnect">Disconnetti</string>
+    <string name="kg_emergency_call_label">Chiamata di emergenza</string>
+    <string name="kg_forgot_pattern_button_text">Sequenza dimenticata</string>
+    <string name="kg_wrong_pattern">Sequenza sbagliata</string>
+    <string name="kg_wrong_password">Password sbagliata</string>
+    <string name="kg_wrong_pin">PIN errato</string>
+    <string name="kg_too_many_failed_attempts_countdown">Riprova fra %d secondi.</string>
+    <string name="kg_pattern_instructions">Inserisci la sequenza</string>
+    <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
+    <string name="kg_pin_instructions">Inserisci PIN</string>
+    <string name="kg_password_instructions">Inserisci la password</string>
+    <string name="kg_puk_enter_puk_hint">"La scheda SIM è disattivata. Inserisci il codice PUK per continuare. Contatta l'operatore per avere informazioni dettagliate."</string>
+    <string name="kg_puk_enter_pin_hint">Inserisci il codice PIN desiderato</string>
+    <string name="kg_enter_confirm_pin_hint">Conferma il codice PIN desiderato</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM...</string>
+    <string name="kg_password_wrong_pin_code">Codice PIN errato.</string>
+    <string name="kg_invalid_sim_pin_hint">Il PIN deve essere di 4-8 numeri.</string>
+    <string name="kg_invalid_sim_puk_hint">Il codice PUK dovrebbe avere almeno otto numeri.</string>
+    <string name="kg_invalid_puk">Inserisci di nuovo il codice PUK corretto. Ripetuti tentativi comportano la disattivazione definitiva della scheda SIM.</string>
+    <string name="kg_invalid_confirm_pin_hint">I codici PIN non corrispondono</string>
+    <string name="kg_login_too_many_attempts">Troppi tentativi di inserimento della sequenza</string>
+    <string name="kg_login_instructions">Per sbloccare, accedi con il tuo account Google.</string>
+    <string name="kg_login_username_hint">Nome utente (email)</string>
+    <string name="kg_login_password_hint">Password</string>
+    <string name="kg_login_submit_button">Accedi</string>
+    <string name="kg_login_invalid_input">Nome utente o password non validi.</string>
+    <string name="kg_login_account_recovery_hint">"Hai dimenticato il nome utente o la password?
+Visita "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Controllo account…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Hai digitato il tuo PIN %d volte in modo errato. 
+
+Riprova tra %d secondi."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Hai digitato la tua password %d volte in modo errato. 
+
+Riprova tra %d secondi."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d tentativi errati di inserimento della sequenza di sblocco. 
+
+Riprova tra %d secondi."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">%d tentativi errati di sblocco del telefono. Dopo altri %d tentativi falliti, il telefono verrà sottoposto a un ripristino dei dati di fabbrica e tutti i dati utente andranno persi.</string>
+    <string name="kg_failed_attempts_now_wiping">%d tentativi errati di sblocco del telefono. Il telefono verrà sottoposto a un ripristino dei dati di fabbrica.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d tentativi errati di inserimento della sequenza di sblocco. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare il telefono con un account email.
+
+ Riprova tra %d secondi."</string>
+    <string name="kg_text_message_separator">" – "</string>
+    <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
+    <string name="safe_media_volume_warning">"Aumentare il volume oltre il livello di sicurezza?
+Ascoltare musica ad alto volume per lunghi periodi potrebbe danneggiare l'udito."</string>
+    <string name="continue_to_enable_accessibility">"Continua a tenere premuto con due dita per attivare l'accessibilità."</string>
+    <string name="accessibility_enabled">Accessibilità attivata.</string>
+    <string name="enable_accessibility_canceled">Accessibilità annullata.</string>
+    <string name="user_switched">Utente corrente %1$s.</string>
+    <string name="owner_name">Proprietario</string>
 </resources>
