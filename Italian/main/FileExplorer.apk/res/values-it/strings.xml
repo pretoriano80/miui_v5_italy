@@ -128,7 +128,7 @@
     <string name="load_err">Caricamento fallito</string>
     <string name="local_cache_size">Dimensione cache locale: %s</string>
     <string name="net_lose_connected">Rete non disponibile, impossibile determinare dimensione</string>
-    <string name="wangpan_root_path">My Drive</string>
+    <string name="wangpan_root_path">MiDrive</string>
     <string name="kuaipan_over_space">Il tuo MiDrive ha esaurito lo spazio.</string>
     <string name="kuaipan_tech_support">Supporto tecnico offerto da Kingsoft Kuaipan</string>
     <string name="no_tasks">Nessuna attività</string>
@@ -177,7 +177,7 @@
     <string name="sign_description">Accesso in corso...</string>
     <string name="signin_error">Rete momentaneamente non disponibile, provare di nuovo</string>
     <string name="signin_success">"Accesso effettuato!
-Ricevi spazio gratuito %1$s"</string>
+Hai rcevuto %1$s di spazio gratuito"</string>
     <string name="already_signin_description">"Hai già effettuato l'accesso"</string>
     <string name="pull_to_signin">Sposta in basso per accedere e ricevere spazio gratuito</string>
     <string name="release_to_signin">Rilascia per accedere</string>
@@ -258,7 +258,7 @@ Ricevi spazio gratuito %1$s"</string>
     <string name="scanned">Scansione completata</string>
     <string name="cleaning">Pulizia in corso...</string>
     <string name="cleaned">Pulizia completata</string>
-    <string name="cleanup_stopped">Pulizia interotta</string>
+    <string name="cleanup_stopped">Pulizia interrotta</string>
     <string name="temp_file_title">File temporanei</string>
     <string name="thumbnail_title">File di anteprima</string>
     <string name="app_cache_title">Cache app</string>
@@ -268,7 +268,7 @@ Ricevi spazio gratuito %1$s"</string>
     <string name="thumbnail_cleanup_indication">%s anteprime</string>
     <string name="app_cache_cleanup_indication">%s cache</string>
     <string name="empty_dir_cleanup_indication">%s file eliminabili</string>
-    <string name="app_garbage_cleanup_indication">%s app elimianbili</string>
+    <string name="app_garbage_cleanup_indication">%s app eliminabili</string>
     <string name="no_temp_file_indication">Nessun file temporaneo</string>
     <string name="no_thumbnail_indication">Nessun file di anteprima</string>
     <string name="no_app_cache_indication">Nessuna app eliminabile</string>
@@ -289,12 +289,12 @@ Spazzatura"</string>
     <string name="account_bind_prompt">Migrazione dati utente, il tuo account verrà temporaneamente bloccato, attendere prego...</string>
     <string name="migrate_announcement_title">Migrazione Account</string>
     <string name="migrate_announcement_msg">Se hai un account puoi collegarlo nelle impostazioni e preferenze di accesso.</string>
-    <string name="query_bind_state">Verifica stato collegamente, attendere prego...</string>
+    <string name="query_bind_state">Verifica stato collegamento, attendere prego...</string>
     <string name="operation_deleting_detail">Eliminazione (%1$d/%2$d)</string>
     <string name="operation_moving_detail">Spostamento (%1$d/%2$d)</string>
     <string name="operation_copying">Copia...</string>
     <string name="operation_copying_detail">Copia file (%1$d/%2$d)</string>
-    <string name="name_illegal">File name cannot be empty</string>
+    <string name="name_illegal">Il nome del file non può essere vuoto</string>
     <string name="open_changed_file_title">File modificati</string>
     <string name="open_changed_file_message">"Il file che stai cercando di aprire è stato modificato, puoi:
 1. Scaricare (aggiornamento del file locale)
@@ -302,5 +302,5 @@ Spazzatura"</string>
     <string name="ui_filechange_btn_upload">Carica file</string>
     <string name="folder_exist">Cartella già esistente</string>
     <string name="unmount_inform_text">"L'archivio uSB verrà smontato.</string>
-    <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Rprova più tardi.</string>
+    <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Riprova più tardi.</string>
 </resources>

@@ -200,6 +200,7 @@
     <string name="default_reminder_mode">Modalità promemoria predefinita</string>
     <string name="time_zone">Fuso orario</string>
     <string name="show_all_lunar">Mostra lunare</string>
+    <string name="show_almanac">Mostra almanacco</string>
     <string name="event_lunar_month" />
     <string name="huangli_good_type" />
     <string name="huangli_bad_type" />

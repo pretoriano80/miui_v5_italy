@@ -102,8 +102,7 @@
     <string name="frequentlyplayed_title">Frequenti</string>
     <string name="sdcard_missing_message">Il tuo telefono non ha una scheda SD inserita.</string>
     <string name="sdcard_missing_message_nosdcard">"Il tuo telefono non ha un'archiviazione USB."</string>
-    <string name="sdcard_busy_message">"Spiacente, la tua scheda SD è occupata.
-Verifica lo stato della scheda SD"</string>
+    <string name="sdcard_busy_message">Spiacente, la tua scheda SD è occupata.Verifica lo stato della scheda SD</string>
     <string name="sdcard_busy_message_nosdcard">Spiacente, la tua archiviazione USB è occupata.</string>
     <string name="sdcard_error_message">Si è verificato un errore con la tua scheda SD.</string>
     <string name="sdcard_error_message_nosdcard">Si è verificato un errore con la tua archiviazione USB.</string>
@@ -299,6 +298,7 @@ Verifica lo stato della scheda SD"</string>
     <string name="login">Login</string>
     <string name="payment_success">Pagamento completato!</string>
     <string name="payment_fail">Pagamento fallito!</string>
+    <string name="pay_service_guide_new">"E' disponibile musica di qualità superiore"</string>
     <string name="pay_service_guide_listen">Qualità streaming</string>
     <string name="pay_service_guide_dowload">Qualità download</string>
     <string name="vip_recommend_title">Musica qualità massima</string>
@@ -307,10 +307,8 @@ Verifica lo stato della scheda SD"</string>
     <string name="vip_recommend_summary">Scarica o ascolta in streaming tutte le canzoni dei tuoi artisti preferiti su Baidu Music a 320 kbps.</string>
     <string name="vip_recommend_buy">Acquista (RMB 5 per 1 mese)</string>
     <string name="vip_recommend_exchange">Utilizza gift code</string>
-    <string name="albumsongseparator">"
-"</string>
-    <string name="notification_artist_album">"%2$s
-%1$s"</string>
+    <string name="albumsongseparator" />
+    <string name="notification_artist_album">%2$s %1$s</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

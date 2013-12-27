@@ -8,6 +8,10 @@
         <item quantity="other">%d brani</item>
         <item quantity="one">%d brano</item>
     </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d brani preferiti</item>
+        <item quantity="one">%d brano preferiti</item>
+    </plurals>
     <plurals name="Ntracks_string">
         <item quantity="other">%d brani</item>
         <item quantity="one">%d brano</item>
@@ -52,9 +56,21 @@
         <item quantity="other">%1$d brani aggiunti alla playlist.</item>
         <item quantity="one">1 brano aggiunto alla playlist.</item>
     </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d rimossi dalla playlist</item>
+        <item quantity="one">1 brano rimosso dalla playlist</item>
+    </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%1$d brani aggiunti alla playlist.</item>
         <item quantity="one">1 brano aggiunto alla playlist.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d brani rimossi dalla playlist dei preferiti</item>
+        <item quantity="one">1 brano rimosso dalla playlist dei preferiti</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d risultati</item>
+        <item quantity="one">%d risultato</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" categorie"</item>

@@ -15,6 +15,7 @@
     <string name="app_name">Monitor</string>
     <string name="used_flux">Utilizzo traffico</string>
     <string name="sorted_flux">Statistiche</string>
+    <string name="traffic_bought">Traffico acquistato</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_traffic_adjust">Regola Traffico</string>
     <string name="menu_traffic_settings">Imposta soglia</string>
@@ -94,8 +95,7 @@
     <string name="plate_traffic_exceed">Fuori soglia</string>
     <string name="traffic_remain">Rimanenti</string>
     <string name="apply_rules_failed_known">OK</string>
-    <string name="apply_rules_failed">"Impossibile impostare il firewall, provare di nuovo. 
-(%s)"</string>
+    <string name="apply_rules_failed">Impossibile impostare il firewall, provare di nuovo. (%s)</string>
     <string name="traffic_total">"Totale: 
 %s"</string>
     <string name="traffic_used_status">"Utilizzati:

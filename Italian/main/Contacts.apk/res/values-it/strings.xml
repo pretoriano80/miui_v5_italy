@@ -883,6 +883,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="cloud_antispam_mark">Spam</string>
     <string name="antispam_mark_my_contribution">Il mio contributo nel database</string>
     <string name="antispam_provider_format">Questa segnalazione è inviata da %s</string>
+    <string name="type_mx_msg">Messaggi cloud</string>
     <string name="menu_new_favorite_action_bar">Aggiungi ai preferiti</string>
     <string name="click_close">Tocca lo schermo per chiudere</string>
     <string name="phone_primary">Principale</string>
@@ -1072,6 +1073,10 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="refresh">Aggiorna</string>
     <string name="yellowpage_navigation_search_city_name_hint">Cerca per città</string>
     <string name="yellowpage_navigation_search_select_city">Seleziona città</string>
+    <string name="yellowpage_navigation_search_result_no_more">Nessun altro risultato</string>
+    <string name="yellowpage_navigation_search_result_network_error">Impossibile connettersi alla rete</string>
+    <string name="yellowpage_navigation_search_result_service_error">Servizio momentaneamente non disponibile</string>
+    <string name="yellowpage_navigation_search_result_unknown_error">Errore sconosciuto!</string>
     <string name="account_abnormal_state">"Errore nelle informazioni account, prova ad effettuare di nuovo l'accesso o riprova più tardi!"</string>
     <string name="import_weibo_notification_title">Importazione contatti Sina weibo…</string>
     <string name="processing">Elaborazione...</string>

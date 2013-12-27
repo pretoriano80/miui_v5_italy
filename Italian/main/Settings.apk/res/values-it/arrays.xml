@@ -499,7 +499,6 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Fotocamera</item>
         <item>Album</item>
         <item>Musica</item>
-        <item>Video</item>
         <item>E-mail</item>
     </string-array>
 </resources>

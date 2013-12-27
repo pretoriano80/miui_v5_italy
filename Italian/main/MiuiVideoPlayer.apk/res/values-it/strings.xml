@@ -39,7 +39,7 @@
     <string name="menu_item_orientation_fixed_by_videosize_action">Disabilita Rotazione</string>
     <string name="menu_item_screen_shot">Screenshot</string>
     <string name="menu_item_sub_title">Sottotitoli</string>
-    <string name="toast_message_continue_play_from">Continua da</string>
+    <string name="toast_message_continue_play_from">Riprendi da\u0020</string>
     <string name="toast_message_continue_play_hour">ore</string>
     <string name="toast_message_continue_play_minute">min</string>
     <string name="toast_message_continue_play_second_and_play">sec</string>
@@ -57,4 +57,7 @@
     <string name="nowifi_alert_dialog_message">Stai per usare la rete mobile per lo stream video. Continuare?</string>
     <string name="nowifi_alert_dialog_continue">Continua</string>
     <string name="nowifi_alert_dialog_exit">Esci</string>
+    <string name="menu_item_enable_audio_enhance">Attiva miglioramento  audio</string>
+    <string name="menu_item_disable_audio_enhance">Disattiva miglioramento audio</string>
+    <string name="toast_message_set_misound">Configura MiAudio</string>
 </resources>

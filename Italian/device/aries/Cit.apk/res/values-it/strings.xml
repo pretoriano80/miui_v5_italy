@@ -42,7 +42,7 @@
     <string name="cit_fm_check_title">Test FM Radio</string>
     <string name="cit_power_check_title">Test Power</string>
     <string name="cit_reset_check_title">Test Reset</string>
-    <string name="cit_OTG_plugin_check_title">Start OTG Test</string>
+    <string name="cit_OTG_plugin_check_title">Avvia test OTG</string>
     <string name="cit_OTG_plugout_check_title">OTG Pulled out status</string>
     <string name="cit_version_check_summary">The following hardware and software versions where found</string>
     <string name="cit_proximity_sensor_check_summary">Cover the phones proximity sensor using your finger, information displayed is from 0.0 (covered) upwards in size</string>
@@ -199,7 +199,7 @@
     <string name="cit_fm_audio_path">Set up audio path</string>
     <string name="cit_fm_audio_path_headset">Headset</string>
     <string name="cit_fm_audio_path_speaker">Speakers</string>
-    <string name="cit_start_calibration">Start calibrating</string>
+    <string name="cit_start_calibration">Avvia calibrazione</string>
     <string name="cit_stop_calibration">Stop calibrating</string>
     <string name="cit_exit_test_title">Stop test</string>
     <string name="cit_exit_test_summary">Exiting active tests will loose all data, are you sure you want to continue?</string>
