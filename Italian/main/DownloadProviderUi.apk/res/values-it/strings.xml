@@ -70,6 +70,8 @@
     <string name="editmode_menu_delete">Elimina</string>
     <string name="all_downloads">Tutti i download</string>
     <string name="app_downloads">%s download</string>
+    <string name="xunlei_brand">Powered by Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="cancel_download_notice">Disattiva notifica download</string>
     <string name="confirm_disable_download_only_in_wifi_message">La disattivazione di “Scarica solo con Wi-Fi” potrebbe generare un consumo del traffico dati addizionale. Sicuro di volerlo disattivare?</string>
     <string name="disable_download_only_in_wifi_title">Disattivazione “Scarica solo con Wi-Fi”</string>

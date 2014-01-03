@@ -224,6 +224,13 @@
     <string name="widget_select_style">Seleziona stile widget</string>
     <string name="widget_events">Prossimi eventi</string>
     <string name="widget_no_events">Nessun evento</string>
+    <string name="gou_piao_website_start_time">Acquista online da %s o tramite telefono</string>
+    <string name="gou_piao_window_start_time">I biglietti possono essere acquistati alla stazione da %s</string>
+    <string name="gou_piao_event_title">Promemoria treno %s</string>
+    <string name="gou_piao_item1">Ricordami gli orari del treno</string>
+    <string name="gou_piao_item2">Per prenotazioni telefoniche chiama il 12306</string>
+    <string name="gou_piao_item3">Acquista biglietti chiamando il 12306</string>
+    <string name="show_gou_piao">Mostra calendario biglietti Festival di Primavera</string>
     <string name="more_string">Altri %1$s...</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero telefonico</string>
