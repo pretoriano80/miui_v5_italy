@@ -76,6 +76,10 @@
         <item quantity="other">" categorie"</item>
         <item quantity="one">" categoria"</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d giorni in scadenza</item>
+        <item quantity="one">%d giorno in scadenza</item>
+    </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d brani</item>
         <item quantity="one">%1$s, %2$d brano</item>
@@ -87,5 +91,8 @@
     <plurals name="NTrackstoDownload">
         <item quantity="other">%d brani che verranno scaricati.</item>
         <item quantity="one">1 brano che verrà scaricato..</item>
+    </plurals>
+    <plurals name="Promemoria scadenza Nvip">
+        <item quantity="other">Il tuo accesso alla musica di alta qualità sta per scadere (%d giorni rimanenti)</item>
     </plurals>
 </resources>

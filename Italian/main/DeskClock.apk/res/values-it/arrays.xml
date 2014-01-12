@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="duration_entries">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>:</item>
-        <item>.</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>Questa sveglia è impostata a meno di un minuto da adesso.</item>
         <item>Questa sveglia è impostata a %1$s da adesso.</item>
@@ -69,5 +55,11 @@
         <item>Giorni lavorativi\u0020</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Lun - Ven</item>
+        <item>Personalizzata</item>
     </string-array>
 </resources>

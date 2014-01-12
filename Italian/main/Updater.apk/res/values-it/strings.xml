@@ -169,5 +169,4 @@
     <string name="fourgrid_hint_text">Grazie per aver scelto la versione developer di MIUI. Comunicaci cosa ne pensi ed aiutaci a rendere MIUI una ROM migliore!</string>
     <string name="fourgrid_notificaiont">Mostra notifica</string>
     <string name="fourgrid_no_notificaiont">Non mostrare notifica</string>
-    <string name="install_sina">"Installa l'applicazione Sina"</string>
 </resources>

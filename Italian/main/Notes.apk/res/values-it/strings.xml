@@ -96,4 +96,11 @@
     <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenziosa?</string>
     <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa.</string>
     <string name="close">Chiudi</string>
+    <string name="alert_message_delete_folder">Eliminare la cartella e le note contenute?</string>
+    <string name="alert_title_delete">Elimina note selezionate</string>
+    <string name="alert_title_discard">Annullare modifiche?</string>
+    <string name="menu_font_size">Dimensione caratteri</string>
+    <string name="menu_share">Condividi</string>
+    <string name="pref_title_data_export">Esporta dati</string>
+    <string name="toast_privacy_mode">Impossibile modificare nota in modalità Guard</string>
 </resources>

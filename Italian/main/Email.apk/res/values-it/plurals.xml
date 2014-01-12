@@ -46,8 +46,8 @@
         <item quantity="one">%d B</item>
     </plurals>
     <plurals name="message_view_attachment_kilobytes">
-        <item quantity="other">%d kB</item>
-        <item quantity="one">%d kB</item>
+        <item quantity="other">%d Kb</item>
+        <item quantity="one">%d Kb</item>
     </plurals>
     <plurals name="message_view_attachment_megabytes">
         <item quantity="other">%d MB</item>

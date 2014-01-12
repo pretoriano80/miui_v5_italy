@@ -1105,6 +1105,4 @@ Passare comunque al nuovo operatore?"</string>
     <string name="duringcall">Operazione non permessa durante la chiamata</string>
     <string name="data_connected_change">"Impossibile cambiare rete mentre il servizio dati è in uso. Interrompere il servizio dati e selezionare un'altra rete disponibile?"</string>
     <string name="suspect_info">Non accettare la chiamata, possibile tentativo di truffa!</string>
-    <string name="sim_missing_continueView_text">Continua senza SIM</string>
-    <string name="sim_missing_msg_text">Nessuna SIM card trovata. Inserisci una SIM nel telefono.</string>
 </resources>

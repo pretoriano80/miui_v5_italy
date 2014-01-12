@@ -86,5 +86,4 @@
     <string name="search_for_recordings_in_folders">Cerca registrazioni nelle cartelle</string>
     <string name="back">Indietro</string>
     <string name="toast_uninstall_fileexplorer">FileExplorer non è installato!</string>
-    <string name="preference_silent_mode_summary">Imposta registrazione silenziosa</string>
 </resources>

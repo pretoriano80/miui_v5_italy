@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="power_mode_entries">
+        <item>Alte prestazioni</item>
+        <item>Bilanciato</item>
+        <item>Risparmio batteria</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Dopo 1 minuto</item>
+        <item>Dopo 5 minuti</item>
+        <item>Dopo 10 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 secondi</item>
+        <item>30 secondi</item>
+        <item>1 minuto</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alte prestazioni</item>
+        <item>Bilanciato</item>
+        <item>Risparmio batteria</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Non vibrare mai</item>
+        <item>Vibra quando silenzioso</item>
+        <item>Vibra sempre</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Lista blocco disattivata</item>
+        <item>Gestione permessi disattivato</item>
+        <item>Cestino pieno</item>
+        <item>Definizione virus da aggiornare</item>
+        <item>Troppi processi in background</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Attiva lista blocchi</item>
+        <item>Attiva controllo permessi applicazioni</item>
+        <item>Pulisci telefono</item>
+        <item>Aggiorna libreria virus</item>
+        <item>Ci sono molte applicazioni in esecuzione in background</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europe</item>
@@ -45,12 +89,6 @@
         <item>Grande</item>
         <item>Enorme</item>
     </string-array>
-    <string-array name="entryvalues_font_size">
-        <item>0.85</item>
-        <item>1.0</item>
-        <item>1.15</item>
-        <item>1.30</item>
-    </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lento</item>
         <item>Lento</item>
@@ -64,20 +102,6 @@
         <item>Normale</item>
         <item>Alto</item>
         <item>Molto alto</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -111,12 +135,6 @@
         <item>Aperta</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione pulsante</item>
@@ -162,12 +180,6 @@
         <item>Numero di avvii</item>
         <item>Nome app</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Nessuno</item>
         <item>PAP</item>
@@ -188,24 +200,11 @@
         <item>Avviso</item>
         <item>Vibrazione</item>
     </string-array>
-    <string-array name="special_locale_codes">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>中文 (简体)</item>
-        <item>中文 (繁體)</item>
-    </string-array>
     <string-array name="apn_auth_entries">
         <item>Nessuno</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -266,14 +265,6 @@
         <item>2 processo al massimo</item>
         <item>3 processo al massimo</item>
         <item>4 processo al massimo</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -397,23 +388,6 @@
         <item>20 secondi</item>
         <item>Always</item>
     </string-array>
-    <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-    </integer-array>
-    <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_names">
-        <item>@string/dolby_ieq_flat</item>
-        <item>@string/dolby_ieq_open</item>
-        <item>@string/dolby_ieq_rich</item>
-        <item>@string/dolby_ieq_focused</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>Dispositico connesso, creazione sessione...</item>
         <item>Sessione creata</item>
@@ -475,12 +449,6 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Consenti</item>
         <item>Nega</item>
     </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
-    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Sblocca col sorriso</item>
         <item>Sequenza</item>
@@ -490,6 +458,13 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
     <string-array name="phone_call_noise_suppression_title">
         <item>Riduzione rumore a singolo microfono</item>
         <item>Riduzione rumore a doppio microfono</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>Illimitato</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Desktop</item>

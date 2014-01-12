@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_class">com.miui.player.Application</string>
     <string name="music_browser_label">Musica</string>
     <string name="mediaplaybacklabel">Musica</string>
     <string name="music_picker_title">Seleziona brano</string>
@@ -307,6 +306,7 @@
     <string name="vip_recommend_sub_title">Solo 5 RMB al mese</string>
     <string name="vip_recommend_summary">Scarica o ascolta in streaming tutte le canzoni dei tuoi artisti preferiti su Baidu Music a 320 kbps.</string>
     <string name="vip_recommend_buy">Acquista (RMB 5 per 1 mese)</string>
+    <string name="vip_recommend_rebuy">"Rinnovia l'accesso VIP per 30 giorni con 5 MiCredit</string>
     <string name="vip_recommend_exchange">Utilizza codice regalo</string>
     <string name="music_quality">Qualità musica</string>
     <string name="higher_quality_music">Migliore qualità musica</string>
@@ -314,8 +314,7 @@
     <string name="higher_quality_music_summary">Ascolta e scarica musica di qualità migliore</string>
     <string name="expired">Scaduto</string>
     <string name="enabled">Attivato</string>
-    <string name="valid_period">"Valido : "</string>
-    <string name="period_format">%1$s-%2$s</string>
+    <string name="valid_period">"Valido da: "</string>
     <string name="vip_bought">"Hai già acquistato l'accesso alla musica di migliore qualità"</string>
     <string name="vip_expired">Il tuo accesso alla musica di qualità migliore è scaduto</string>
     <string name="vip_rebuy">Rinnova</string>
@@ -338,4 +337,6 @@
     <string name="album_artist_format" formatted="false">%s , %s</string>
     <string name="channel_postfix">MHZ</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
+    <string name="dirac_mode_off">Dirac disattivato</string>
+    <string name="eq_rb">R &amp; B</string>
 </resources>

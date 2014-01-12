@@ -133,7 +133,6 @@
     <string name="preferences_alerts_popup_title">Notifica pop-up</string>
     <string name="preferences_default_reminder_title">Promemoria predefinito</string>
     <string name="preferences_default_reminder_dialog">Promemoria predefinito</string>
-    <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Usa orario predefinito</string>
     <string name="preferences_use_home_tz_descrip">Mostra orario eventi con il fuso orario predefinito</string>
     <string name="preferences_home_tz_title">Orario predefinito</string>
@@ -141,9 +140,6 @@
     <string name="preferences_show_week_num_title">Mostra numero settimana</string>
     <string name="preferences_about_title">Informazioni</string>
     <string name="preferences_build_version">Versione N.</string>
-    <string name="prefDefault_alerts_vibrateWhen">Mai</string>
-    <string name="prefDefault_alerts_vibrate_true">Sempre</string>
-    <string name="prefDefault_alerts_vibrate_false">Mai</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
     <string name="gadget_title">Calendario</string>
     <string name="gadget_no_events">Nessun evento</string>

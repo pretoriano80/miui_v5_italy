@@ -10,6 +10,7 @@
     <string name="order_price">%1$s MiCredit</string>
     <string name="password_hint">Inserisci password account</string>
     <string name="password_error">Password sbagliata.</string>
+    <string name="password_forget">Password dimenticata?</string>
     <string name="progress_creating">Recupero informazioni ordine…</string>
     <string name="progress_loading">Elaborazione…</string>
     <string name="button_cancel">Annulla</string>
@@ -453,12 +454,4 @@ e premi 'acquisto completato', grazie!"</string>
     <string name="linkpay_copyright">Copyright, China Unicom</string>
     <string name="linkpay_szf_getresult_error">Impossibile recuperare informazioni di pagamento, chiedi informazioni al provider del pagamento.</string>
     <string name="linkpay_shenzhoufu_alert">Seleziona una carta ed un codice di verifica validi o non sarai in grado di portare a termine il processo di acquisto.</string>
-    <string name="btn_pay_large">Paga</string>
-    <string name="onemore_click_exit">Ancora un click per uscire</string>
-    <string name="prepaid_china_mobile">China Mobile</string>
-    <string name="prepaid_china_telcom">China Telecom</string>
-    <string name="prepaid_china_unicom">China Unicom</string>
-    <string name="progress_submit_pay_summary">Pagamento di %1$s MiCredits.</string>
-    <string name="title_pay">Paga con MiCredits</string>
-    <string name="voucher_error_password_empty">Codice vuoto.</string>
 </resources>

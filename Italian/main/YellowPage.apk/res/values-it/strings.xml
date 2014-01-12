@@ -124,6 +124,7 @@ Totale: RMB%3$s"</string>
     <string name="balance_inquiry_title">Richiesta saldo</string>
     <string name="balance_inquiry_default_sp_name">Operatore</string>
     <string name="balance_inquiry_send_sms_hint">Verrà inviato un SMS gratuito per richiedere il tuo saldo</string>
+    <string name="balance_inquiry_send_sms_summmary">Controlla il saldo</string>
     <string name="navigation_search_automatically_positioned_city">Città attuale</string>
     <string name="navigation_search_positioning">Ricerca posizione...</string>
     <string name="navigation_search_positioning_failed">Impossibile localizzare città</string>
@@ -135,14 +136,13 @@ Totale: RMB%3$s"</string>
     <string name="order_id">Ordine rif: %s</string>
     <string name="order_status">%s</string>
     <string name="order_price">%s</string>
-    <string name="correction">Correzione</string>
-    <string name="express_inquiry_data_owner">Tracking info provided by %s</string>
-    <string name="express_inquiry_indication">Numero tracciamento</string>
-    <string name="login_before_recharging">"Devi effettuare l'accesso per ricaricare."</string>
-    <string name="mark_number_dialog_subtitle">Sviluppato in collaborazione con Sogou</string>
-    <string name="module_sms_sent">Messaggio consegnato</string>
-    <string name="sms_disabled_in_privacy_mode">Impossibile inviare messagiio in modalità Guard.</string>
-    <string name="sms_send_failed">Impossibile inviare messaggio!</string>
-    <string name="sms_sending">Invio in corso...</string>
-    <string name="unable_send_sms">Impossibile inviare SMS.</string>
+    <string name="general_yellow_page_title">Generale</string>
+    <string name="general_recent_title">Recenti</string>
+    <string name="general_favorite_title">Preferiti</string>
+    <string name="general_no_yellow_page">Lista vuota</string>
+    <string name="general_menu_favorite">Preferiti</string>
+    <string name="general_menu_unfavorite">Rimuovi dai preferiti</string>
+    <string name="general_menu_delete_recent">Cancella recenti</string>
+    <string name="general_cancel_favorite_ok">Preferiti rimossi</string>
+    <string name="general_delete_recent_ok">Recenti eliminati</string>
 </resources>
