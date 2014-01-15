@@ -287,6 +287,7 @@ i tuoi amici."</string>
     <string name="slideshow_time_select_title">Seleziona la durata dello slideshow</string>
     <string name="slideshow_time_title">Durata slideshow</string>
     <string name="rename_failed">Impossibile rinominare.</string>
+    <string name="rename_failed_duplicated_name">Esiste già un file con questo nome.</string>
     <string name="warn">Avviso</string>
     <string name="send_multiple_files_hint_format">Invia file multipli (%s)</string>
     <string name="send">Invia</string>
