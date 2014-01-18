@@ -59,5 +59,7 @@
     <string name="nowifi_alert_dialog_exit">Esci</string>
     <string name="menu_item_enable_audio_enhance">Attiva miglioramento  audio</string>
     <string name="menu_item_disable_audio_enhance">Disattiva miglioramento audio</string>
+    <string name="menu_item_enable_3d_mode">Attiva 3D</string>
+    <string name="menu_item_disable_3d_mode">Disattiva 3D</string>
     <string name="toast_message_set_misound">Configura MiAudio</string>
 </resources>

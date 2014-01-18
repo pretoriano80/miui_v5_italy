@@ -338,5 +338,4 @@
     <string name="channel_postfix">MHZ</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
     <string name="dirac_mode_off">Dirac disattivato</string>
-    <string name="eq_rb">R &amp; B</string>
 </resources>

@@ -403,7 +403,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="confirm_export_title">Conferma esportazione</string>
     <string name="confirm_export_message">Esportare la tua lista contatti nel file \"%s\"?</string>
     <string name="exporting_contact_failed_title">Impossibile esportare i dati del contatto</string>
-    <string name="exporting_contact_failed_message">Esportazione dati contatti non riuscita. Motivo: \"%s\"</string>
+    <string name="exporting_contact_failed_message">"Esportazione dati contatti non riuscita.
+Motivo: \"%s\""</string>
     <string name="fail_reason_no_exportable_contact">Nessun contatto esportabile</string>
     <string name="fail_reason_too_many_vcard">Troppi dati vCard sulla scheda SD</string>
     <string name="fail_reason_too_long_filename">Il nome file richiesto è troppo lungo (\"%s\")</string>
@@ -737,6 +738,7 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="deselect_all">Deseleziona tutto</string>
     <string name="select_none">Nessuna selezione, operazione non valida</string>
     <string name="toast_finish_delete_call_log">Il registro chiamate è stato cancellato</string>
+    <string name="toast_finish_delete_selected_call_log">Chiamate eliminate</string>
     <string name="confirm_delete_contact_all_call_logs">Sicuro di voler eliminare tutte le chiamate registrate per %s ?</string>
     <string name="confirm_delete_selected_all_call_logs">Sicuro di voler cancellare il registro chiamate per tutti i contatti ?</string>
     <string name="calllog_menu_blacklist">Blacklist</string>
@@ -745,6 +747,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="menu_call_ip_number">Componi chiamata IP (componi %s)</string>
     <string name="delete_contact_calllog_title">Sicuro di voler cancellare il registro chiamate dei contatti ?</string>
     <string name="delete_unknown_contact_calllog_title">Sicuro di voler cancellare il registro chiamate per i numeri sconosciuti ?</string>
+    <string name="callrecordview_menu_batch_delete">Eliminazione multipla</string>
+    <string name="delete_call_log_selected_title">Eliminare tutte le chiamate selezionate?</string>
     <string name="edit_contact_card_title">Modifica scheda contatto</string>
     <string name="preview_contact_card_title">Importazione contatti…</string>
     <string name="import_contact_card_button">Importa contatto</string>
@@ -829,7 +833,9 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_title">Impostazione automatica foto</string>
     <string name="pref_key_photo_word_summary">Imposta automaticamente le foto per i contatti che ne sono sprovvisti</string>
-    <string name="remove_duplicate">MIUI ti aiuterà a trovare e unire i contatti doppi, i contatti non verranno uniti automaticamente, puoi unirli manualmente. Il completamento della procedura automatica potrebbe richiedere molto tempo...</string>
+    <string name="remove_duplicate">"MIUI ti aiuterà a trovare e unire i contatti doppi,
+
+Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="ic_menu_back">Indietro</string>
     <string name="preference_display">Mostra</string>
     <string name="preference_simple_mode_title">Modalità semplice</string>
@@ -998,8 +1004,8 @@ Per aggiungere un contatto alla lista dei tuoi preferiti:
     <string name="device_import_progress_end_message">Importazione completata !</string>
     <string name="device_import_progress_message">Importazione…</string>
     <string name="device_import_failed_message">Importazione fallita!</string>
-    <string name="hint_distance">mantieni la distanza</string>
-    <string name="hint_more_contact">unisci contatti quando risultano doppi</string>
+    <string name="hint_distance" />
+    <string name="hint_more_contact">Unisci contatti quando risultano doppi</string>
     <string name="device_import_account_dialog_title">Seleziona account per importazione</string>
     <string name="device_import_account_dialog_title_suffix">(trovati %1$s contatti)</string>
     <string name="device_import_local_account">Account locale</string>

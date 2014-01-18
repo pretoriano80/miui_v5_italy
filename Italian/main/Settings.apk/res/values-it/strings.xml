@@ -427,9 +427,7 @@ Consentire l'avvio automatico?"</string>
     <string name="power_mode_select_title">Modalità consumo</string>
     <string name="power_mode_select_desc">seleziona la modalità che si soddisfa maggiormente alle tue necessità</string>
     <string name="power_used_prefix">Consumo</string>
-    <string name="power_used_hours_test">8</string>
     <string name="power_used_hours">ore</string>
-    <string name="power_used_mins_test">23</string>
     <string name="power_used_mins">min</string>
     <string name="power_battery_history_days">%1$d giorni %2$d ore %3$d min</string>
     <string name="power_battery_history_hours">%1$d ore %2$d min</string>
@@ -2063,7 +2061,6 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="power_usage_summary_title">Batteria</string>
     <string name="power_usage_summary">Consumo batteria</string>
     <string name="power_usage_not_available">Dati uso batteria non dispon.</string>
-    <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="battery_since_unplugged">Utilizzo batteria dallo scollegamento</string>
     <string name="battery_since_reset">Utilizzo batteria dal ripristino</string>
     <string name="battery_stats_on_battery">%1$s con la batteria</string>
@@ -3017,16 +3014,16 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="preferred_app_settings_default">Predefinito</string>
     <string name="preferred_app_settings_reset">Ripristina imp. predefinite</string>
     <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>
-    <string name="deep_clean_tips_cache">Le applicazioni iconSome utilizzano file cache per scaricare risorse aggiuntive (es: testi di canzoni, musica, immagini etc.). Fai attenzione quando cancelli questi file.</string>
-    <string name="deep_clean_tips_large_file">Gli iconCleanup sono semplicemente file di grandi dimensioni (es: più grandi di 10MB) che attualmente sono archiviati sul tuo dispositivo. Solo tu puoi decidere se ne hai ancora bisogno o meno.</string>
-    <string name="deep_clean_tips_residual">Gli iconResiduals sono file (es: video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Fai attenzione quando cancelli questi file, alcuni di questi file potrebbero essere ancora in uso</string>
-    <string name="optimize_tips_ad">I file iconAd sono immagini, testo ed altri dati relativi a pubblicità che i servizi di terze parti archiviano sul tuo telefono.</string>
-    <string name="optimize_tips_apk">"I pacchetti iconInstall vengono utilizzati per installare applicazioni sul tuo dispositivo, comunque non hanno nessuna funzione se non quella di occupare spazio dopo che l'installazione è stata completata."</string>
-    <string name="optimize_tips_cache">I file iconCache vengono generati da processi che li richiedono solo temporaneamente (es: anteprime).</string>
-    <string name="optimize_tips_residual">Gli iconResiduals sono file (es: video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero ancora servirti, consigliamo di vedere le funzioni Avanzate per la cancellazione dei file residui.</string>
     <string name="preferred_launcher_warning_message">"La sostituzione del launcher predefinito potrebbe causare una maggiore consumo di risorse. Confermi l'operazione?"</string>
     <string name="preferred_launcher_warning_replace">Sostituisci Launcher</string>
     <string name="preferred_launcher_warning_title">Sostituisci launcher predefinito</string>
     <string name="preferred_launcher_warning_use_system">Utilizza launcher predefinito</string>
     <string name="screen_saturation_adjust">Regolazione saturazione colore</string>
+    <string name="optimize_tips_ad">I file iconAd sono immagini, testo ed altri dati relativi a pubblicità che i servizi di terze parti archiviano sul tuo telefono.</string>
+    <string name="optimize_tips_apk">"I pacchetti iconInstall vengono utilizzati per installare applicazioni sul tuo dispositivo, comunque non hanno nessuna funzione se non quella di occupare spazio dopo che l'installazione è stata completata."</string>
+    <string name="optimize_tips_cache">I file iconCache vengono generati da processi che li richiedono solo temporaneamente (es: anteprime).</string>
+    <string name="optimize_tips_residual">Gli iconResiduals sono file (es: video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero ancora servirti, consigliamo di vedere le funzioni Avanzate per la cancellazione dei file residui.</string>
+    <string name="deep_clean_tips_cache">Le applicazioni iconSome utilizzano file cache per scaricare risorse aggiuntive (es: testi di canzoni, musica, immagini etc.). Fai attenzione quando cancelli questi file.</string>
+    <string name="deep_clean_tips_large_file">Gli iconCleanup sono semplicemente file di grandi dimensioni (es: più grandi di 10MB) che attualmente sono archiviati sul tuo dispositivo. Solo tu puoi decidere se ne hai ancora bisogno o meno.</string>
+    <string name="deep_clean_tips_residual">Gli iconResiduals sono file (es: video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Fai attenzione quando cancelli questi file, alcuni di questi file potrebbero essere ancora in uso</string>
 </resources>

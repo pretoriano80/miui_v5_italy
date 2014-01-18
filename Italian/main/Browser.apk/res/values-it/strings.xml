@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pref_default_text_encoding_default">Latin-1</string>
+    <string name="pref_default_text_encoding_default">UTF-8</string>
     <string name="application_name">Browser</string>
     <string name="choose_upload">Scegli file per caricamento</string>
     <string name="uploads_disabled">Caricamento file disabilitato.</string>

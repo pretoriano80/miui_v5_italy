@@ -63,8 +63,8 @@
     <string name="pref_summary_max_bytes_limit_format">Segnala con un popup se il file supera i %s</string>
     <string name="pref_summary_any_bytes_popup">Sempre in coda con rete Wi-Fi</string>
     <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
-    <string name="download_in_process">Scaricamento</string>
-    <string name="download_complete">Scaricato</string>
+    <string name="download_in_process">In download</string>
+    <string name="download_complete">Completati</string>
     <string name="retry_after_network_available">Riprovare quando una connessione di rete sarà disponibile</string>
     <string name="editmode_menu_share">Condividi</string>
     <string name="editmode_menu_delete">Elimina</string>
@@ -72,4 +72,7 @@
     <string name="app_downloads">%s download</string>
     <string name="xunlei_brand">Powered by Xunlei</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+    <string name="xunlei_switch">Motore download Xunlei</string>
+    <string name="turn_off_xunlei_title">Disattiva il motore download Xunlei</string>
+    <string name="turn_off_xunlei_message">Potresti riscontrare velocità di download più basse.</string>
 </resources>

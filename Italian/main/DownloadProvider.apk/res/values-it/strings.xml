@@ -2,14 +2,14 @@
 <resources>
     <string name="app_label">Download Manager</string>
     <string name="permlab_downloadManager">Accesso al download manager.</string>
-    <string name="permdesc_downloadManager">"Permetti all'applicazione di accedere al download manager e di usarlo per scaricare files. Applicazioni maligne possono usarlo per interrompere i downloads e accedere a informazioni personali."</string>
+    <string name="permdesc_downloadManager">"Permetti all'applicazione di accedere al download manager e di usarlo per scaricare file. Applicazioni maligne possono usarlo per interrompere i downloads e accedere a informazioni personali."</string>
     <string name="permlab_downloadManagerAdvanced">Funzioni avanzate del download manager.</string>
     <string name="permdesc_downloadManagerAdvanced">"Permetti all'applicazione di accedere alle funzioni avanzate del download manager. Applicazioni maligne possono usarlo per interrompere i downloads e accedere a informazioni personali."</string>
-    <string name="permlab_downloadCompletedIntent">Invia notiche sul download.</string>
-    <string name="permdesc_downloadCompletedIntent">"Permetti all'applicazione di inviare notifiche riguardo i downloads completati. Applicazioni maligne possono usarlo per ingannare altre applicazioni che scaricano files."</string>
+    <string name="permlab_downloadCompletedIntent">Invia notifiche sul download.</string>
+    <string name="permdesc_downloadCompletedIntent">"Permetti all'applicazione di inviare notifiche riguardo i download completati. Applicazioni maligne possono usarlo per ingannare altre applicazioni che scaricano file."</string>
     <string name="permlab_seeAllExternal">Guarda tutti i download in archivio USB</string>
     <string name="permdesc_seeAllExternal">"Permetti all'applicazione di vedere tutti i download nella scheda SD correlate con le applicazioni scaricate."</string>
-    <string name="permlab_downloadCacheNonPurgeable">Riserva spazione nella cache download</string>
+    <string name="permlab_downloadCacheNonPurgeable">Riserva spazio nella cache download</string>
     <string name="permdesc_downloadCacheNonPurgeable">"Permette all' applicazione di scaricare file nella cache download, che non può essere cancellata automaticamente quando il download manager necessità di più spazio."</string>
     <string name="permlab_downloadWithoutNotification">Scarica file senza notifica</string>
     <string name="permdesc_downloadWithoutNotification">"Permette all'applicazione di scaricare file tramite il download manager senza mostrare alcuna notifica."</string>
