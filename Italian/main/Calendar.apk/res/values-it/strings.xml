@@ -227,8 +227,20 @@
     <string name="gou_piao_item2">Per prenotazioni telefoniche chiama il 12306</string>
     <string name="gou_piao_item3">Acquista biglietti chiamando il 12306</string>
     <string name="show_gou_piao">Mostra calendario biglietti Festival di Primavera</string>
-    <string name="more_string">Altri %1$s...</string>
+    <string name="month_medium_january">Gen</string>
+    <string name="month_medium_february">Feb</string>
+    <string name="month_medium_march">Mar</string>
+    <string name="month_medium_april">Apr</string>
+    <string name="month_medium_may">Mag</string>
+    <string name="month_medium_june">Giu</string>
+    <string name="month_medium_july">Lug</string>
+    <string name="month_medium_august">Ago</string>
+    <string name="month_medium_september">Set</string>
+    <string name="month_medium_october">Ott</string>
+    <string name="month_medium_november">Nov</string>
+    <string name="month_medium_december">Dic</string>
+    <string name="more_string">+%1$s</string>
     <string name="copy_email">Copia indirizzo email</string>
-    <string name="copy_number">Copia numero telefonico</string>
-    <string name="done">Ok</string>
+    <string name="copy_number">Copia numero di telefono</string>
+    <string name="done">Avanti</string>
 </resources>
