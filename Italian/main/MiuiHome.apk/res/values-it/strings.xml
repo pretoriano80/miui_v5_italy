@@ -20,8 +20,8 @@
     <string name="menu_add">Aggiungi</string>
     <string name="menu_wallpaper">Sfondo</string>
     <string name="menu_search">Cerca</string>
-    <string name="menu_workspace_preview">Pagine Home</string>
-    <string name="menu_back_desktop">Torna alla Home</string>
+    <string name="menu_workspace_preview">Pagine home</string>
+    <string name="menu_back_desktop">Torna alla home</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_reset_scene">Torna a scena predefinita</string>
     <string name="menu_exit_scene">Esci da Free Desktop</string>
