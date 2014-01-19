@@ -312,9 +312,9 @@
         <item>Sottoscrizione 2</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Debole</item>
-        <item>Medio</item>
         <item>Forte</item>
+        <item>Medio</item>
+        <item>Debole</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>

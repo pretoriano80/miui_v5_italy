@@ -156,7 +156,6 @@
     <string name="process_result">Risultato:</string>
     <string name="access_token_expired_warning">"L'account Weibo è scaduto, riconnettere"</string>
     <string name="access_token_invalid_warning">"L'account Weibo non è valido, si prega di riconnettere"</string>
-    <string name="service_error">Errore di servizio</string>
     <string name="enable_micloud">Abilita servizi cloud</string>
     <string name="micloud_summary">"Accedi all'account Xiaomi per sincronizzare i contatti, gli album nella Galleria ed altre funzioni."</string>
     <string name="micloud_is_what">"Che cos'è MiCloud?"</string>

@@ -177,7 +177,7 @@
     <string name="sign_description">Accesso in corso...</string>
     <string name="signin_error">Rete momentaneamente non disponibile, provare di nuovo</string>
     <string name="signin_success">"Accesso effettuato!
-Hai rcevuto %1$s di spazio gratuito"</string>
+Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="already_signin_description">"Hai già effettuato l'accesso"</string>
     <string name="pull_to_signin">Sposta in basso per accedere e ricevere spazio gratuito</string>
     <string name="release_to_signin">Rilascia per accedere</string>

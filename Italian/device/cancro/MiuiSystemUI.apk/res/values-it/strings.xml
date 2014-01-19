@@ -20,7 +20,6 @@
     <string name="status_bar_settings_auto_rotation">Rotazione automatica schermo</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_notifications">Notifiche</string>
-    <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth con tethering</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Configura metodi di immissione</string>
@@ -147,7 +146,6 @@
     <string name="settings_show_statusBar_notification">Mostra notifiche nella barra di stato</string>
     <string name="filter_item_preview_image">Anteprima</string>
     <string name="filter_item_description">Puoi impostare il tipo di notifica da \"Impostazioni-Impostazioni barra notifiche-Notifiche personalizzate\"</string>
-    <string name="settings_notification_bar">Notification bar</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
     <string name="settings_toggle_collapse_after_clicked">Chiudi quando premuto</string>
     <string name="settings_screenshot_notification_disabled">Mostra informazioni Screenshot</string>
@@ -288,4 +286,5 @@
     <string name="screen_rotation_freeze_message">Rotazione schermo bloccata in modalità landscape</string>
     <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
     <string name="screen_button_enabled_message">I tasti funzione in basso sono abilitati</string>
+    <string name="settings_notification_icon">Notifiche nella barra di stato</string>
 </resources>

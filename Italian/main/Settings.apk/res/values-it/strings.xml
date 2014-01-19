@@ -1542,8 +1542,8 @@ Tentativi rimasti :"</string>
     <string name="firmware_version">Versione Android:</string>
     <string name="model_number">Modello:</string>
     <string name="fcc_equipment_id">ID equipaggiamento</string>
-    <string name="baseband_version">Versione banda di base</string>
-    <string name="kernel_version">Versione kernel</string>
+    <string name="baseband_version">Versione baseband:</string>
+    <string name="kernel_version">Versione kernel:</string>
     <string name="build_number">Numero build</string>
     <string name="device_info_not_available">Non disponibile</string>
     <string name="device_status_activity_title">Stato</string>
@@ -1567,7 +1567,7 @@ Tentativi rimasti :"</string>
     <string name="status_data_state">Stato rete cellulare</string>
     <string name="status_service_state">Stato servizio</string>
     <string name="status_signal_strength">Intensità segnale</string>
-    <string name="status_roaming">Roaming..</string>
+    <string name="status_roaming">Roaming</string>
     <string name="status_operator">Rete</string>
     <string name="status_wifi_mac_address">Indirizzo MAC Wi-Fi</string>
     <string name="status_bt_address">Indirizzo Bluetooth</string>
@@ -2944,8 +2944,8 @@ prova in questo modo:
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="wps_connect_summary">Assicurati che il router possa gestire il protocollo WPS</string>
     <string name="retry">Riprova</string>
-    <string name="brightness_auto_adjust_off">La luminosità manuale può esser regolata a tuo piacimento spostando lo slider. La luminosità dello schermo rimarrà costante in ogni schermata.</string>
-    <string name="brightness_auto_adjust_on">La luminosità automatica può essere regolata spostando lo slider. La luminosità dello schermo varierà in base alla tua regolazione.</string>
+    <string name="brightness_auto_adjust_off">La luminosità manuale può essere regolata a tuo piacimento spostando lo slider. La luminosità dello schermo rimarrà costante in ogni schermata.</string>
+    <string name="brightness_auto_adjust_on">La luminosità automatica può essere regolata spostando lo slider ma la luminosità dello schermo varierà in base alla luce ambientale.</string>
     <string name="private_sms_need_to_unlock">Inserire password SMS privati</string>
     <string name="private_sms_reset_by_account">Accedi al tuo account Xiaomi per ripristinare la password degli SMS privati</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza per creare la password di blocco</string>

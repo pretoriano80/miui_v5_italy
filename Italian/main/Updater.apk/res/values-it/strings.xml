@@ -37,7 +37,7 @@
     <string name="sdcard_is_not_present_dialog_title">Scheda SD non trovata</string>
     <string name="sdcard_has_no_space_dialog_body">La scheda SD non ha spazio sufficiente, per questa operazione è necessario maggiore spazio</string>
     <string name="sdcard_has_no_space_dialog_title">Spazio in esaurimento su scheda SD</string>
-    <string name="current_version_text">Versione attuale</string>
+    <string name="current_version_text">Versione attuale:\u0020</string>
     <string name="current_version_update_monthly_build">Versione attuale (Aggiorna alla build Mensile)</string>
     <string name="apply_update_dialog_update_button">Aggiorna</string>
     <string name="apply_update_dialog_cancel_button">Annulla</string>

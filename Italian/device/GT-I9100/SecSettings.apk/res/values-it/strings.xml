@@ -961,8 +961,8 @@ Non è possibile eseguire Wi-Fi e Router Wi-Fi contemporaneamente"</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Versione Android</string>
     <string name="model_number">Codice modello</string>
-    <string name="baseband_version">Versione banda base</string>
-    <string name="kernel_version">Versione Kernel</string>
+    <string name="baseband_version">Versione baseband:</string>
+    <string name="kernel_version">Versione kernel:</string>
     <string name="build_number">Versione build</string>
     <string name="device_info_not_available">Non disponibile</string>
     <string name="device_status_activity_title">Stato</string>

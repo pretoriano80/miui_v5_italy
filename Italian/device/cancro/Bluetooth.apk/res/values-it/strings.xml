@@ -60,14 +60,12 @@
     <string name="upload_fail_cancel">Chiudi</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">File sconosciuto</string>
-    <string name="unknown_file_desc">"Nessuna applicazione per gestire questo tipo file.
-"</string>
+    <string name="unknown_file_desc">"Nessuna applicazione per gestire questo tipo file."</string>
     <string name="not_exist_file">Il file non esiste</string>
     <string name="not_exist_file_desc">"Il file non esiste!
 "</string>
     <string name="enabling_progress_title">Attendere…</string>
     <string name="enabling_progress_content">Accensione bluetooth…</string>
-    <string name="format_progress_text">%1$d%%</string>
     <string name="bt_toast_1">"Il file sarà ricevuto. Controllare l'avanzamento nel pannello delle notifiche."</string>
     <string name="bt_toast_2">Il file non è stato ricevuto.</string>
     <string name="bt_toast_3">Ricezione file da \"%1$s\" interrotta</string>
@@ -102,7 +100,6 @@
     <string name="transfer_menu_open">Apri</string>
     <string name="transfer_menu_clear">Elimina dalla lista</string>
     <string name="transfer_clear_dlg_title">Elimina</string>
-    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="sharedUserId" />
     <string name="process" />
     <string name="miui_transfer_history_title">CronologiaBluetooth</string>
@@ -118,7 +115,6 @@
     <string name="defaultname">Kit Auto</string>
     <string name="unknownName">Nome sconosciuto</string>
     <string name="localPhoneName">Mio nome</string>
-    <string name="defaultnumber">000000</string>
     <string name="hello">Hello World, Test attività</string>
     <string name="app_name">Condivisione Bluetooth</string>
     <string name="insert_record">Inserisci record</string>

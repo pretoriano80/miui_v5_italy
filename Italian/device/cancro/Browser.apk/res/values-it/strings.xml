@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pref_default_text_encoding_default">Latin-1</string>
+    <string name="pref_default_text_encoding_default">UTF-8</string>
     <string name="application_name">Browser</string>
     <string name="choose_upload">Scegli file per caricamento</string>
     <string name="uploads_disabled">Caricamento file disabilitato.</string>
@@ -242,7 +242,8 @@
     <string name="pref_data_preload_title">Pre-caricamento risultati di ricerca</string>
     <string name="pref_data_preload_summary">\u0020- Consenti il pre-caricamento dei risultati in background</string>
     <string name="pref_data_preload_dialogtitle">Pre-caricamento risultati di ricerca</string>
-    <string name="pref_link_prefetch_title">Pre-caricamento pagina</string>
+    <string name="pref_link_prefetch_title">Pre-caricamento pagine</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_summary">\u0020- Consenti il pre-caricamento delle pagine in background</string>
     <string name="pref_link_prefetch_dialogtitle">Pre-caricamento pagine</string>
     <string name="pref_video_preload_title">Pre-caricamento video</string>
@@ -250,7 +251,6 @@
     <string name="pref_video_preload_dialogtitle">Pre-caricamento video...</string>
     <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
     <string name="browserFrameFileErrorLabel">Problema di file</string>
-    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta.</string>
     <string name="loadSuspendedTitle">Nessuna connessione</string>
     <string name="loadSuspended">Il browser non può caricare questa pagina senza una connessione a Internet.</string>
@@ -278,7 +278,7 @@
     <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
     <string name="download_pending">Avvio download...</string>
     <string name="dump_nav">Navigazione cache dump</string>
-    <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="picasa">Picasa</string>
     <string name="search_the_web">Ricerca sul web</string>
     <string name="webstorage_outofspace_notification_title">Memoria browser completa</string>
@@ -492,6 +492,9 @@
     <string name="pref_setting_title">Impostazioni pagina</string>
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="pref_images_preload_summary">" Consenti al browser di pre-caricare le immagini quando il server lo permette"</string>
+    <string name="pref_images_preload_value_never">0</string>
+    <string name="pref_images_preload_value_wifi_only">1</string>
+    <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_title">Pre-caricamento immagini</string>
     <string name="pref_images_preload_dialogtitle">Immagini in pre-caricamento...</string>
     <string name="pref_images_preload_value_never_summary">Non pre-caricare mai le immagini</string>
