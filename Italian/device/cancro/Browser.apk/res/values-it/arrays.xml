@@ -4,7 +4,7 @@
         <item>Google</item>
         <item>google.com</item>
         <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;amp;ie={inputEncoding}&amp;amp;source=android-browser&amp;amp;q={searchTerms}</item>
+        <item>http://www.google.com/m/search?q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
