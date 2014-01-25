@@ -153,8 +153,5 @@
     <string name="toast_fm_recorder_internal_error">Errore registrazione FM.</string>
     <string name="toast_fm_recorder_storage_full">Memoria piena,la registrazione non può essere effettuata</string>
     <string name="toast_fm_not_stated">Radio FM non avviata</string>
-    <string name="aud_output_mode">Modalità uscita audio</string>
-    <string name="menu_save_station">Salva stazione</string>
-    <string name="record_sucess">Registrazione completata</string>
-    <string name="sel_audio_output">Seleziona uscita audio</string>
+    <string name="toast_fm_error_startfailed">"Registrazione fallita, un'altra applicazione potrebbe utilizzare la funzione di registrazione. Verifica e controlla di nuovo."</string>
 </resources>

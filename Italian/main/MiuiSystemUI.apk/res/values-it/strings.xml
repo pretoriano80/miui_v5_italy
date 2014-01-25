@@ -2,7 +2,7 @@
 <resources>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="status_bar_date_formatter">%2$s</string>
-    <string name="app_label">UI sistema</string>
+    <string name="app_label">UI di sistema</string>
     <string name="status_bar_recent_remove_item_title">"Rimuovi dall'elenco"</string>
     <string name="status_bar_recent_inspect_item_title">Informazioni applicazione</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione recente</string>
@@ -248,6 +248,8 @@
     <string name="headset_settings">Cuffie collegate</string>
     <string name="headset_info">Personalizza tasto funzioni</string>
     <string name="headset_custom">Personalizza</string>
+    <string name="oldman_airplane_mode_text">Aereo</string>
+    <string name="oldman_incall_text">In arrivo</string>
     <string name="audio_effect_settings">Imposta tipo di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Configura</string>

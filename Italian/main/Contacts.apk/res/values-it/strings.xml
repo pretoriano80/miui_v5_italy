@@ -761,14 +761,7 @@ Motivo: \"%s\""</string>
     <string name="noContactHelpTextAccountsInfo">Sincronizza Google, contatti Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina dati salvati nell'account Xiaomi e su MiTalk"</string>
     <string name="recent_contacts_label">Recenti</string>
-    <string name="pick_favorites_list_title">%1$d contatti preferiti</string>
-    <string name="pick_recent_list_title">%1$d contatti recenti</string>
     <string name="noRecentContacts">Nessun contatto recente</string>
-    <string name="hint_search_contacts">%d contatti</string>
-    <string name="hint_search_phone_numbers">%d numeri contatti</string>
-    <string name="hint_search_emails">%d E-mail</string>
-    <string name="pick_favorites_contacts_list_title">%1$d contatti preferiti</string>
-    <string name="pick_recent_contacts_list_title">%1$d contatti recenti</string>
     <string name="loading_groups">Caricamento gruppi…</string>
     <string name="loading_group_members">Caricamento membri gruppo…</string>
     <string name="loading_recent">Caricamento contatti recenti…</string>
@@ -972,10 +965,10 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="device_brand_title">seleziona marca telefono</string>
     <string name="device_version_title">seleziona modello telefono</string>
     <string name="device_list_title">seleziona telefono corrispondente</string>
-    <string name="next">avanti</string>
-    <string name="previous">indietro</string>
+    <string name="next">Avanti</string>
+    <string name="previous">Indietro</string>
     <string name="scan">scansiona dispositivo</string>
-    <string name="device_bluetooth_title">preparazione</string>
+    <string name="device_bluetooth_title">Trasferimento contatti</string>
     <string name="device_version_header_no_bluetooth">Importa contatti con la SIM</string>
     <string name="device_version_header_bluetooth">attiva il bluetooth</string>
     <string name="scanning">Scansione dispositivi…</string>
@@ -1017,8 +1010,7 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="prepare_import">preparazione importazione</string>
     <string name="device_import_message">Importazione</string>
     <string name="bluetooth_connection_failed_toast">Connessione Bluetooth interrotta</string>
-    <string name="device_import_done_toast">%1$d contatti importati</string>
-    <string name="device_import_progress_toast">%1$d contatti appena importati</string>
+    <string name="device_import_progress_toast">%1$d contatti importati</string>
     <string name="no_contact_in_other_phone">Nessun contatto nel telefono</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Importa contatti sina weibo</string>
@@ -1099,7 +1091,16 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="yellowpage_navigation_search_result_service_error">Servizio momentaneamente non disponibile</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Errore sconosciuto!</string>
     <string name="yellowpage_navigation_menu_order">Il mio ordine</string>
+    <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
+    <string name="device_import_done_toast">%1$d contatti importati</string>
+    <string name="hint_search_contacts">%d contatti</string>
+    <string name="hint_search_emails">%d E-mail</string>
+    <string name="hint_search_phone_numbers">%d numeri contatti</string>
     <string name="import_weibo_notification_title">Importazione contatti Sina weibo…</string>
+    <string name="pick_favorites_list_title">%1$d contatti preferiti</string>
+    <string name="pick_favorites_contacts_list_title">%1$d contatti preferiti</string>
+    <string name="pick_recent_contacts_list_title">%1$d contatti recenti</string>
+    <string name="pick_recent_list_title">%1$d contatti recenti</string>
     <string name="progress_notifier_message" formatted="false">Importazione %s/%s: %s</string>
     <string name="t9_search_guide">Digita numero contatto o cerca contatto con T9.</string>
 </resources>

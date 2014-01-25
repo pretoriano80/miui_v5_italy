@@ -52,9 +52,8 @@
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_about">Informazioni</string>
     <string name="share_weather_title">Condividi dati meteo</string>
-    <string name="share_sina">Condividi tramite Sina Weibo</string>
-    <string name="share_qq">Condividi tramite Tencent Weibo</string>
-    <string name="install_tencent">Scarica Weibo app</string>
+    <string name="share_button_text">Condividi</string>
+    <string name="share_choice_titile">Condividi informazioni meteo</string>
     <string name="share_content">\#MIUI weather#</string>
     <string name="share_weather_content">"\#MIUI weather#
 Il tempo a %1$s oggi è %2$s, %3$s, %4$s. %5$s."</string>
@@ -119,4 +118,10 @@ La qualità dell'aria a %1$s oggi è: %2$s, %3$s. %4$s %5$s."</string>
     <string name="act_weather_find_city_searching">Ricerca…</string>
     <string name="act_init_dialog_finish">Sono state aggiunte le informazioni meteo globali.</string>
     <string name="loading_weather">Caricamento meteo...</string>
+    <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
+    <string name="menu_add">Aggiungi città</string>
+    <string name="menu_more">Dettagli</string>
+    <string name="install_tencent">Scarica app Weibo</string>
+    <string name="share_qq">Condividi tramite Tencent Weibo</string>
+    <string name="share_sina">Condividi tramite Weibo</string>
 </resources>
