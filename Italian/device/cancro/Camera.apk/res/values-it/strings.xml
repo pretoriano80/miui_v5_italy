@@ -585,8 +585,8 @@ ed esci dall'inquadratura"</string>
     <string name="face_analyze_info">%1$s %2$s anni</string>
     <string name="face_analyze_info_male">Uomo</string>
     <string name="face_analyze_info_female">Donna</string>
-    <string name="face_beauty_intelligent_title">Recgolazione automatica viso</string>
-    <string name="face_beauty_manual_title">Recgolazione manuale viso</string>
+    <string name="face_beauty_intelligent_title">Reg.automatica viso</string>
+    <string name="face_beauty_manual_title">Reg.manuale viso</string>
     <string name="face_beauty_simple_mode_title">Regolazione viso</string>
     <string name="camera_face_beauty_default">i:0</string>
     <string name="camera_face_beauty_simple_mode_close">i:0</string>

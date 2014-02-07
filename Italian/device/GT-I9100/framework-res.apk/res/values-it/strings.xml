@@ -1700,7 +1700,7 @@ per account %s"</string>
     <string name="dont_show_again_message">Non mostrare più</string>
     <string name="set_bing_as_default">Impostare Bing come motore di ricerca predefinito?</string>
     <string name="ms_domain_site">Sito dominio Microsoft</string>
-    <string name="unsupported_in_popupbrowser">Funzione non supportata nel Browser popup</string>
+    <string name="unsupported_in_popupbrowser">Funzione non supportata nel Browser pop-up</string>
     <string name="find_on_page_abb">Trova nella pagina</string>
     <string name="tw_clipboard_already_exists">Già esiste</string>
     <string name="tw_clipboard_no_items_to_paste">Nessun elemento da incollare</string>

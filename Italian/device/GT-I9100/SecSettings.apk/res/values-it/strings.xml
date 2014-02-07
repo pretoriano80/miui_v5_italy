@@ -2321,8 +2321,8 @@ Poiché l'utilizzo dei dati viene misurato dal dispositivo in uso e il proprio p
     <string name="pen_detachment_sound_title">Suono collegamento/scollegamento penna</string>
     <string name="battery_saving_title">Risparmio energetico</string>
     <string name="battery_saving_msg">La disattivazione del rilevamento penna quando la penna è collegata può prolungare la durata della batteria</string>
-    <string name="pen_open_quick_note">Apertura Popup Note</string>
-    <string name="pen_open_quick_note_msg">Apertura Popup Note</string>
+    <string name="pen_open_quick_note">Apertura Pop-up Note</string>
+    <string name="pen_open_quick_note_msg">Apertura Pop-up Note</string>
     <string name="hovering_use_popup_title">Attivare Anteprima con sensore?</string>
     <string name="hovering_use_popup_msg">Non è possibile abilitare Anteprima con sensore e TalkBack contemporaneamente. TalkBack verrà disabilitato</string>
     <string name="hovering_title">Anteprima S Pen</string>
@@ -2341,7 +2341,7 @@ Poiché l'utilizzo dei dati viene misurato dal dispositivo in uso e il proprio p
     <string name="pen_quick_command_title">Impostazioni dei Comandi rapidi</string>
     <string name="pen_quick_command_msg">Crea i movimenti della penna per aprire le applicazioni selezionate o esegue attività</string>
     <string name="loss_prevention_alert_title">Allarme S Pen</string>
-    <string name="loss_prevention_alert_msg">Avviso sonoro e visualizzazione popup quando camminate con il dispositivo con S Pen scollegata</string>
+    <string name="loss_prevention_alert_msg">Avviso sonoro e visualizzazione pop-up quando camminate con il dispositivo con S Pen scollegata</string>
     <string name="loss_prevention_alert_Popup_title">Attenzione</string>
     <string name="loss_prevention_alert_Popup_msg">Il numero di passi necessari prima che si visualizzi la notifica può variare da persona a persona. Anche alcuni movimenti simili a una camminata possono attivare la funzione di notifica</string>
     <string name="pen_help_hovering">Anteprima S Pen</string>
@@ -2368,8 +2368,8 @@ Poiché l'utilizzo dei dati viene misurato dal dispositivo in uso e il proprio p
     <string name="pen_help_gesture_back_msg">Per andare indietro alla schermata precedente, tracciate il segno minore di (&lt;) tenendo premuto il pulsante della S Pen</string>
     <string name="pen_help_gesture_menu_title">Apri menu</string>
     <string name="pen_help_gesture_menu_msg">Per aprire le opzioni del tasto Menu, tracciate un accento circonflesso (^) tenendo premuto il pulsante della S Pen</string>
-    <string name="pen_help_gesture_note_title">Apertura Popup Note</string>
-    <string name="pen_help_gesture_note_msg">Per aprire Popup Note, toccate due volte lo schermo tenendo premuto il pulsante della S Pen</string>
+    <string name="pen_help_gesture_note_title">Apertura Pop-up Note</string>
+    <string name="pen_help_gesture_note_msg">Per aprire Pop-up Note, toccate due volte lo schermo tenendo premuto il pulsante della S Pen</string>
     <string name="pen_help_gesture_command_title">Apertura Comandi rapidi</string>
     <string name="pen_help_gesture_command_msg">"Per aprire i Comandi rapidi, trascinate la S Pen dal basso verso l'alto della schermata tenendo premuto il pulsante"</string>
     <string name="pen_help_gesture_capture_title">Cattura schermata</string>

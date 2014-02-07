@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Guard</string>
+    <string name="app_name">Privacy</string>
     <string name="fw_blocked">Statistiche bloccate</string>
     <string name="fw_blocked_count" formatted="false">%d chiamate e %d messaggi bloccati</string>
-    <string name="tab_title">Guard</string>
-    <string name="tab_block_log">Firewall</string>
+    <string name="tab_title">Privacy</string>
+    <string name="tab_block_log">Registro</string>
     <string name="tab_blacklist">Blacklist</string>
-    <string name="tab_sms">Registro messaggi</string>
-    <string name="tab_call">Registro chiamate</string>
+    <string name="tab_sms">Messaggi</string>
+    <string name="tab_call">Chiamate</string>
     <string name="bl_block_info" formatted="false">Bloccato: Numero %d, dettagli %d</string>
     <string name="bl_no_block_call">Tutte le chiamate bloccate verranno registrate qui</string>
     <string name="bl_no_block_sms">Tutti i messaggi bloccati verranno registrati qui</string>
@@ -82,8 +82,8 @@
     <string name="st_filter_keywords_setting_summary1">I messaggi da numeri sconosciuti verranno bloccati.</string>
     <string name="st_filter_keywords_setting_summary2">Aggiungi più parole separandola con la virgola.</string>
     <string name="st_advanced_setting_group">Impostazioni avanzate</string>
-    <string name="st_block_unknown_call">Blocca tutte le chiamate sconosciute</string>
-    <string name="st_block_unknown_sms">Blocca tutti i messaggi sconosciuti</string>
+    <string name="st_block_unknown_call">Blocca chiamate da sconosciuti</string>
+    <string name="st_block_unknown_sms">Blocca messaggi da sconosciuti</string>
     <string name="st_other_setting_group">Altre impostazioni</string>
     <string name="st_show_block_notification">Mostra notifiche bloccate</string>
 </resources>

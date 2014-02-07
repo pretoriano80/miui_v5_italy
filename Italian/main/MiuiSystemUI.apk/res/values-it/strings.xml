@@ -147,7 +147,7 @@
     <string name="settings_show_statusBar_notification">Mostra notifiche nella barra di stato</string>
     <string name="filter_item_preview_image">Anteprima</string>
     <string name="filter_item_description">Puoi impostare il tipo di notifica da \"Impostazioni-Impostazioni barra notifiche-Notifiche personalizzate\"</string>
-    <string name="settings_notification_bar">Notification bar</string>
+    <string name="settings_notification_bar">Pannello notifiche</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
     <string name="settings_toggle_collapse_after_clicked">Chiudi quando premuto</string>
     <string name="settings_screenshot_notification_disabled">Mostra informazioni Screenshot</string>
@@ -248,11 +248,13 @@
     <string name="headset_settings">Cuffie collegate</string>
     <string name="headset_info">Personalizza tasto funzioni</string>
     <string name="headset_custom">Personalizza</string>
+    <string name="oldman_status_bar_time_format">HH:mm</string>
     <string name="oldman_airplane_mode_text">Aereo</string>
     <string name="oldman_incall_text">In arrivo</string>
     <string name="audio_effect_settings">Imposta tipo di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Configura</string>
+    <string name="usb_share_net_info">Utilizza la connessione Internet del compu</string>
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Lumin.</string>

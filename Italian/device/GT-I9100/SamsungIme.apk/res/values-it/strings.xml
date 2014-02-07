@@ -239,7 +239,7 @@ Es. di una lingua che non supporta la scrittura in corsivo: 한국어"</string>
     <string name="accessibility_description_voice">Inserimento vocale</string>
     <string name="accessibility_description_ocr">Riconoscimento caratteri</string>
     <string name="accessibility_description_change_keyboard_type">Cambia tipo di tastiera</string>
-    <string name="accessibility_description_sym_popup">Mostra tastiera simboli popup</string>
+    <string name="accessibility_description_sym_popup">Mostra tastiera simboli pop-up</string>
     <string name="accessibility_description_expand">Espandi</string>
     <string name="accessibility_description_close">Chiudi</string>
     <string name="use_system_language">Utilizzare lingua di sistema</string>

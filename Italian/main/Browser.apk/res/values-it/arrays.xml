@@ -13,6 +13,11 @@
         <item>yahoo</item>
         <item>bing</item>
     </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Sempre attivato</item>
+        <item>Chiedimi sempre</item>
+        <item>Disattivato</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Il browser aprirà questa pagina</item>
         <item>Personalizza</item>
@@ -55,6 +60,12 @@
     <string-array name="bookmarks">
         <item>Google</item>
         <item>https://www.google.com/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://www.msn.com/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>
@@ -182,9 +193,13 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Pagina avanti/indietro</item>
+        <item>Scheda avanti/indietro</item>
+    </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Pagina avanti/indietro</item>
-        <item>Cambia scheda</item>
+        <item>Cambia finestra</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Mai</item>

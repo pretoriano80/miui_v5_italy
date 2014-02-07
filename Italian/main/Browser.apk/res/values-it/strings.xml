@@ -264,13 +264,13 @@
     <string name="search_hint">Cerca o digita un URL</string>
     <string name="search_button_text">Vai</string>
     <string name="search_settings_description">Segnalibri e cronologia web</string>
-    <string name="popup_window_attempt">Consentire al sito di aprire una finestra popup?</string>
+    <string name="popup_window_attempt">Consentire al sito di aprire una finestra pop-up?</string>
     <string name="allow">Consenti</string>
     <string name="block">Blocca</string>
     <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
     <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
     <string name="too_many_subwindows_dialog_title">Finestra pop-up già aperta</string>
-    <string name="too_many_subwindows_dialog_message">È possibile aprire solo un popup alla volta.</string>
+    <string name="too_many_subwindows_dialog_message">È possibile aprire solo un pop-up alla volta.</string>
     <string name="download_no_sdcard_dlg_title">Archivio USB non dispon.</string>
     <string name="download_no_sdcard_dlg_msg">Per scaricare %s è necessario un archivio USB.</string>
     <string name="download_sdcard_busy_dlg_title">Archivio USB non dispon.</string>
@@ -357,7 +357,7 @@
     <string name="accessibility_state_incognito">Pagina in incognito</string>
     <string name="accessibility_state_frozen">Pagina salvata</string>
     <string name="accessibility_transition_navscreen">Gestione finestre</string>
-    <string name="pref_content_block_float_popups">Blocca popup</string>
+    <string name="pref_content_block_float_popups">Blocca pop-up contestuali</string>
     <string name="miui_search_notification_title">Ricerca rapida</string>
     <string name="miui_search_notification_message">Apri ricerca rapida</string>
     <string name="miui_quicksearch_enable_pref_title">Notifiche ricerca rapida</string>

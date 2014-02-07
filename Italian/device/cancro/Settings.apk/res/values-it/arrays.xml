@@ -51,12 +51,12 @@
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
-        <item>Europe</item>
+        <item>Europa</item>
         <item>Africa</item>
         <item>Asia</item>
         <item>Australia</item>
-        <item>Pacific</item>
-        <item>All</item>
+        <item>Pacifico</item>
+        <item>Tutti</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 secondi</item>
@@ -233,11 +233,11 @@
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Non usare mai il controllo HDCP</item>
-        <item>Usa il controllo HDCP solo pe rcontenuti DRM</item>
+        <item>Usa il controllo HDCP solo per contenuti DRM</item>
         <item>Usa sempre il controllo HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animationi disattivate</item>
+        <item>Animazioni disattivate</item>
         <item>Scala animazioni .5x</item>
         <item>Scala animazioni 1x</item>
         <item>Scala animazioni 1.5x</item>
@@ -391,10 +391,10 @@
         <item>5 secondi</item>
         <item>10 secondi</item>
         <item>20 secondi</item>
-        <item>Always</item>
+        <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositico connesso, creazione sessione...</item>
+        <item>Dispositivo connesso, creazione sessione...</item>
         <item>Sessione creata</item>
         <item>Disattivazione sessione...</item>
         <item>Sessione fallita</item>
@@ -417,7 +417,7 @@ i driver devono essere installati manualmente"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Ignora il popup del Setup Wizard)
+        <item>"(Ignora il pop-up del Setup Wizard)
 l'unità di archiviazione XIAOMI verrà visualizzata sul tuo computer
 Apri e seleziona Setup.exe per l'installazione"</item>
         <item></item>

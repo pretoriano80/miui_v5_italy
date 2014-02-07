@@ -49,7 +49,7 @@
     <string name="uninstall">Disinstalla</string>
     <string name="starting_preset_app">Inizio...</string>
     <string name="install">Installa</string>
-    <string name="cant_remove_folder">Impossible rimuovere cartella non vuota.</string>
+    <string name="cant_remove_folder">Impossibile rimuovere cartella non vuota.</string>
     <string name="failed_to_drop">Spostamento fallito.</string>
     <string name="failed_to_drop_widget_nospace">Spostamento fallito, spazio non sufficiente!</string>
     <string name="failed_to_drop_widget_invalid">Inserimento non valido.</string>

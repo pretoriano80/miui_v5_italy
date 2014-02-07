@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="auto_startup_application_manage">Avvio automatico</string>
-    <string name="auto_startup_count">%d applicazioni sono autorizzate ad avviarsi automaticamente</string>
-    <string name="man_add_application">"Autorizza manualmente le applicazioni per l'avvio automatico"</string>
+    <string name="auto_startup_count">"%d app autorizzata(e) all'avvio automatico"</string>
+    <string name="man_add_application">"Autorizza manualmente l'avvio automatico"</string>
     <string name="application_item_disable">Nega</string>
     <string name="application_item_permission">Consenti</string>
     <string name="application_item_already_permission">Autorizzata</string>
     <string name="application_forbid_auto_startup">Nega a %s la possibilità di avviarsi in background</string>
-    <string name="floating_window_switch_label">Mostra popup</string>
-    <string name="floating_window_switch_label_disable">Nascondi popup</string>
+    <string name="floating_window_switch_label">Mostra pop-up</string>
+    <string name="floating_window_switch_label_disable">Nascondi pop-up</string>
     <string name="app_floating_window_dlg_enable">"L'attivazione delle impostazioni per la finestra mobile di %1$s necessita il riavvio. Confermi di volerle attivare?"</string>
     <string name="app_floating_window_dlg_disable">"La disattivazione delle impostazioni della finestra mobile di %1$s chiuderà l'applicazione in modo forzato. Confermare la disattivazione?"</string>
     <string name="dlg_ok">OK</string>
@@ -16,25 +16,25 @@
     <string name="cache_manage_title">Cancellazione %1$d file in cache, spazio libero %2$s</string>
     <string name="cache_list_empty_hints">Nessun file in cache.</string>
     <string name="optimize_title_cache">Cache</string>
-    <string name="optimize_title_ad">File pubblicitari</string>
+    <string name="optimize_title_ad">Pubblicità</string>
     <string name="optimize_title_apk">Pacchetti</string>
     <string name="optimize_title_residual">Residui</string>
     <string name="button_text_quick_scan">Avvia scansione</string>
     <string name="button_text_a_key_clean_up">Pulizia</string>
     <string name="button_text_a_key_optimize">Ottimizza adesso</string>
     <string name="button_text_done">Completato</string>
-    <string name="button_text_cancel">annulla</string>
+    <string name="button_text_cancel">Annulla</string>
     <string name="deep_cleaning">Avanzata</string>
     <string name="rubbish_cleaning">Pulizia di sistema</string>
     <string name="storage_size_title">Archiviazione</string>
     <string name="storage_size_content">%1$s Utilizzati | %2$s Disponibili</string>
     <string name="quick_scan_doing_title">Scansione...</string>
-    <string name="quick_scan_done_title">Scansione co!</string>
+    <string name="quick_scan_done_title">Scansione completata!</string>
     <string name="quick_scan_cleaning_title">Pulizia...</string>
     <string name="quick_scan_result_title">%s elementi trovati</string>
     <string name="quick_scan_result_summary">La pulizia inizierà tra %d sec</string>
     <string name="optimize_cache_header_left">File cache: %d</string>
-    <string name="optimize_ad_header_left">File pubblicitari: %d</string>
+    <string name="optimize_ad_header_left">Pubblicità: %d</string>
     <string name="optimize_apk_header_left">Pacchetti installazione: %d</string>
     <string name="optimize_large_file_header_left">Grandi file: %d</string>
     <string name="optimize_residual_header_left">Residui: %d</string>
@@ -69,7 +69,7 @@
     <string name="deep_clean_tips_residual_title">Residui：</string>
     <string name="deep_clean_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui.</string>
     <string name="deep_clean_tips_large_file_title">Grandi file：</string>
-    <string name="deep_clean_tips_large_file_content">"File di grandi dimensioni(ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
+    <string name="deep_clean_tips_large_file_content">"File di grandi dimensioni (ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
     <string name="toast_qucik_scan_list_empty">Sembra tutto ok, pulizia non necessaria!</string>
     <string name="quick_scan_list_loading_hits">Scansione...</string>
     <string name="app_uninstall_residual">Cancellare i file residui delle installazioni?</string>
@@ -122,7 +122,7 @@
     <string name="power_center_state_on">Attivato</string>
     <string name="power_center_state_off">Disattivato</string>
     <string name="power_center_consume_time">%1$s rimanente</string>
-    <string name="power_center_charge_time">La carica verrà completata in %1$s</string>
+    <string name="power_center_charge_time">Carica completata in %1$s</string>
     <string name="power_center_battery_full">Batteria completamente caricata</string>
     <string name="power_chooser_title">Risparmio batteria</string>
     <string name="power_chooser_check_box_title">Risparmio batteria</string>
@@ -165,8 +165,8 @@
     <string name="power_mode_screen_brightness_manual">Manuale: %1$d%%</string>
     <string name="power_mode_screen_brightness_automatic">Automatica: %1$d%%</string>
     <string name="power_mode_sleep">Sospensione</string>
-    <string name="power_mode_sleep_in_seconds">Dopo %1$d secondi di inattività</string>
-    <string name="power_mode_sleep_in_minutes">Dopo %1$d minuti di inattività</string>
+    <string name="power_mode_sleep_in_seconds">"Dopo %1$d secondo(i) di inattività"</string>
+    <string name="power_mode_sleep_in_minutes">"Dopo %1$d minuto(i) di inattività"</string>
     <string name="power_mode_sleep_never">Mai</string>
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_mode_internet">2G/3G</string>
@@ -207,11 +207,11 @@
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Impossibile eliminare: il tuo dispositivo è programmato per passare a questo profilo, 
  Devi modificare le impostazioni prima di eliminare questo profilo."</string>
     <string name="power_save_choose_mode">Seleziona un profilo</string>
-    <string name="power_save_low_battery_title">Risparmia consumo quando la batteria è in esaurimento</string>
-    <string name="power_save_low_battery_auto_save_title">Risparmia consumo quando la batteria è in esaurimento</string>
-    <string name="power_save_low_battery_seekbar_title">Batteria in esaurimento quando è inferiore al: %1$d%%</string>
-    <string name="power_save_low_battery_option_title">Quando la batteria è in esaurimento passa a</string>
-    <string name="power_save_low_battery_option_summary">Quando la batteria è al di sopra della soglia minima il dispositivo tornerà al profilo più utilizzato di recente</string>
+    <string name="power_save_low_battery_title">Risparmia quando in esaurimento</string>
+    <string name="power_save_low_battery_auto_save_title">Risparmia quando in esaurimento</string>
+    <string name="power_save_low_battery_seekbar_title">Considera scarica sotto il: %1$d%%</string>
+    <string name="power_save_low_battery_option_title">Quando scarica passa a</string>
+    <string name="power_save_low_battery_option_summary">Quando al di sopra della soglia minima il dispositivo tornerà al profilo più utilizzato di recente</string>
     <string name="power_save_low_battery_percentage_ten">10%</string>
     <string name="power_save_low_battery_percentage_twenty">20%</string>
     <string name="power_save_low_battery_percentage_thirty">30%</string>
@@ -406,7 +406,7 @@
     <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione. Rendere attendibile questa applicazione ?"</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
 Consentire l'avvio automatico?"</string>
-    <string name="auto_start_summary">"%1$d applicazioni autorizzate per l'avvio automatico"</string>
+    <string name="auto_start_summary">"%1$d app autorizzate all'avvio automatico"</string>
     <string name="auto_start_title">Gestione avvio autom.</string>
     <string name="perm_app_enable">Richiesti permessi monitor</string>
     <string name="perm_app_header">Gestione permessi</string>
@@ -415,7 +415,7 @@ Consentire l'avvio automatico?"</string>
     <string name="perm_root_manage_empty">Nessuna delle tue applicazioni ha autorizzazioni ROOT</string>
     <string name="perm_app_manage_empty">Non stai controllando alcuna app</string>
     <string name="perm_support_hints">Powered by LBE</string>
-    <string name="power_autorun_control_title">Auto-start</string>
+    <string name="power_autorun_control_title">Avvio automatico</string>
     <string name="power_autorun_control_desc">Aumentando il numero delle applicazioni con avvio automatico il consumo della batteria potrebbe aumentare</string>
     <string name="power_usage_sort_title">Mostra consumo batteria</string>
     <string name="power_usage_sort_desc">Ordina per consumo decrescente</string>
@@ -488,7 +488,7 @@ Consentire l'avvio automatico?"</string>
     <string name="valuation">Pulizia consigliata</string>
     <string name="virus_scan">Scansione virus</string>
     <string name="network_assistant">Utilizzo dati</string>
-    <string name="anti_spam">Lista blocco</string>
+    <string name="anti_spam">Privacy</string>
     <string name="permission_mgr">Permessi</string>
     <string name="cleaner">Pulizia</string>
     <string name="power_mgr">Consumo</string>
@@ -710,8 +710,8 @@ Consentire l'avvio automatico?"</string>
     <string name="cancel">Annulla</string>
     <string name="mem_lock">Blocca</string>
     <string name="mem_unlock">Sblocca</string>
-    <string name="last_check_date_today">Ultima scansione: oggi</string>
-    <string name="last_check_date_yesterday">Ultima scansione: ieri</string>
+    <string name="last_check_date_today">Ultima scansione: oggi\u0020</string>
+    <string name="last_check_date_yesterday">Ultima scansione: ieri\u0020</string>
     <string name="last_check_never_checked">Scansione consigliata (prima volta)</string>
     <string name="last_check_canceled">Scansione consigliata: la scansione precedente è stata interrotta prima della fine</string>
     <string name="last_checked_default">"Scansione consigliata: l'ultima scansione è di %s fa"</string>
@@ -800,8 +800,8 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_package_label_unknown">sconosciuto</string>
     <string name="virus_scan_not_found_virus">nessun virus rilevato</string>
     <string name="virus_scan_not_found_risk">nessun rischio rilevato</string>
-    <string name="virus_scan_last_scan_today">Ultima scansione: oggi</string>
-    <string name="virus_scan_last_scan_yesterday">Ultima scansione: ieri</string>
+    <string name="virus_scan_last_scan_today">Ultima scansione: oggi\u0020</string>
+    <string name="virus_scan_last_scan_yesterday">Ultima scansione: ieri\u0020</string>
     <string name="virus_scan_last_scan_date">"L'ultima scansione risale a %d giorni fa</string>
     <string name="virus_scan_unknown_virus_name">Sconosciuto</string>
     <string name="virus_scan_is_cloud_scanning">Scansione MiCloud...</string>
@@ -2995,19 +2995,19 @@ Seleziona il sistema operativo utilizzato:"</string>
 segui i passaggi per completare l'installazione"</string>
     <string name="msd_install_retry_windows_xp">"Se il tuo computer non rileva correttamente il MI-2,
 prova in questo modo:
-"<li>Disconnetti e riconnetti il cavo USB del MI-2 dal computer.</li>"
+"<li>Disconnetti e riconnetti il cavo USB del Mi3W dal computer.</li>"
 "<li>Installa di nuovo i driver.</li></string>
-    <string name="msd_install_retry_windows_vista">"Se il tuo computer non rileva correttamente il MI-2,
+    <string name="msd_install_retry_windows_vista">"Se il tuo computer non rileva correttamente il Mi3W,
 prova in questo modo:
-"<li>Disconnetti e riconnetti il cavo USB del MI-2 dal computer.</li></string>
-    <string name="msd_install_retry_mac">"Se il tuo computer non rileva correttamente il MI-2,
+"<li>Disconnetti e riconnetti il cavo USB del Mi3W dal computer.</li></string>
+    <string name="msd_install_retry_mac">"Se il tuo computer non rileva correttamente il Mi3W,
 prova in questo modo:
 "<li>"Esegui una ricerca sul computer per
 Android File Transfer,
 e lancialo manualmente。"</li>"
-"<li>Disconnetti e riconnetti il cavo USB del MI-2 dal computer.</li>"
+"<li>Disconnetti e riconnetti il cavo USB del Mi3W dal computer.</li>"
 "<li>Installa di nuovo i driver.</li></string>
-    <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il MI-2,
+    <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il Mi3W,
 prova in questo modo:
 1) Usa il tool di installazione sudo aptitude install mtpfs libfuse-dev libmad0-dev
 2) Create a directory mkdir /media/mtp
@@ -3019,8 +3019,8 @@ prova in questo modo:
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
     <string name="msd_driver_download">Scarica i driver</string>
-    <string name="msd_driver_windows_xp_download">Vai su http://miuiandroid.com/windows/ per scaricare i driver per PC</string>
-    <string name="msd_driver_mac_download">Vai su http://miuiandroid.com/mac/ per scaricare i driver per MAC</string>  
+    <string name="msd_driver_windows_xp_download">"Per scaricare i driver per PC vai su http://miui.com/win"</string>
+    <string name="msd_driver_mac_download">"Per scaricare i driver per MAC vai su http://miui.com/mac"</string>  
     <string name="vpn_settings_password">Impostazioni Password VPN</string>
     <string name="vpn_safe">Sicurezza VPN</string>
     <string name="vpn_configure">Configura VPN</string>
