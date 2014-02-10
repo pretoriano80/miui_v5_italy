@@ -227,7 +227,7 @@
         <item>Lungo</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Non controllare  mai</item>
+        <item>Non controllare mai</item>
         <item>Controlla solo contenuti DRM</item>
         <item>Controlla sempre</item>
     </string-array>

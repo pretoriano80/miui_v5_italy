@@ -30,7 +30,7 @@
     <string name="permlab_uninstall_shortcut">Disinstalla collegamenti</string>
     <string name="permdesc_uninstall_shortcut">"Permette all' applicazione di rimuovere collegamenti senza richiesta."</string>
     <string name="permlab_install_widget">Installa widget</string>
-    <string name="permdesc_install_widget">"Consenti ad un'applicazione di installare widget senza l'intervento dell'utente"Allows an application to add widgets without user intervention.</string>
+    <string name="permdesc_install_widget">"Consenti ad un'applicazione di installare widget senza l'intervento dell'utente."</string>
     <string name="permlab_read_settings">Leggi impostazioni Home e collegamenti</string>
     <string name="permdesc_read_settings">"Permette all' applicazione di leggere le impostazioni e i collegamenti in Home"</string>
     <string name="permlab_write_settings">Scrivi le impostazioni Home e i collegamenti</string>
@@ -44,8 +44,8 @@
     <string name="editing_tips">Aggiungi o modifica widget</string>
     <string name="cant_remove_system_app">Applicazione di sistema. Impossibile rimuovere.</string>
     <string name="cant_remove_retained_app">"Impossibile disinstallare applicazioni personalizzate dall'operatore"</string>
+    <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>
     <string name="uninstall_dialog_title_format">Disinstalla applicazione \"%s\"?</string>
-    <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>    
     <string name="uninstall">Disinstalla</string>
     <string name="starting_preset_app">Inizio...</string>
     <string name="install">Installa</string>
@@ -123,7 +123,7 @@
     <string name="gadget_weather_title_24">Meteo 2X4</string>
     <string name="gadget_weather_title_14">Meteo 1X4</string>
     <string name="gadget_weather_app_not_installed">Installa MIUI Weather</string>
-    <string name="gadget_weather_time_format">D/MM EEE</string>
+    <string name="gadget_weather_time_format">dd/MM EEE</string>
     <string name="gadget_weather_theme_type">Tipo di widget</string>
     <string name="gadget_weather_download_title">Scarica</string>
     <string name="gadget_weather_download_message">Scaricamento pacchetto tema richiesto: %1$s. dimensione: %2$s. Riseleziona dopo il completamento del download</string>
@@ -196,5 +196,5 @@
     <string name="status_bar_toggle_power_high">Prestazioni</string>
     <string name="screen_rotation_freeze_message">Rotazione schermo bloccata su modalità landscape</string>
     <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
-    <string name="screen_button_enabled_message">I tasti funzione in basso </string>
+    <string name="screen_button_enabled_message">I tasti funzione in basso</string>
 </resources>

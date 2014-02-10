@@ -50,7 +50,7 @@
     <string name="optimize_tips_cache_title">Cache：</string>
     <string name="optimize_tips_cache_content">Generati dai processi che li richiedono solo temporaneamente (ad esempio le anteprime delle foto).</string>
     <string name="optimize_tips_residual_title">Residui：</string>
-    <string name="optimize_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui."</string>
+    <string name="optimize_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui.</string>
     <string name="quick_scan_apk_list_item_version_hit">Versione: %s</string>
     <string name="apk_status_uninstalled">Non installato</string>
     <string name="apk_status_installed_old">Vecchia versione</string>
@@ -69,7 +69,7 @@
     <string name="deep_clean_tips_residual_title">Residui：</string>
     <string name="deep_clean_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui.</string>
     <string name="deep_clean_tips_large_file_title">Grandi file：</string>
-    <string name="deep_clean_tips_large_file_content">"File di grandi dimensioni (ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
+    <string name="deep_clean_tips_large_file_content">File di grandi dimensioni (ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
     <string name="toast_qucik_scan_list_empty">Sembra tutto ok, pulizia non necessaria!</string>
     <string name="quick_scan_list_loading_hits">Scansione...</string>
     <string name="app_uninstall_residual">Cancellare i file residui delle installazioni?</string>
@@ -165,8 +165,8 @@
     <string name="power_mode_screen_brightness_manual">Manuale: %1$d%%</string>
     <string name="power_mode_screen_brightness_automatic">Automatica: %1$d%%</string>
     <string name="power_mode_sleep">Sospensione</string>
-    <string name="power_mode_sleep_in_seconds">"Dopo %1$d secondo(i) di inattività"</string>
-    <string name="power_mode_sleep_in_minutes">"Dopo %1$d minuto(i) di inattività"</string>
+    <string name="power_mode_sleep_in_seconds">Dopo %1$d secondo(i) di inattività</string>
+    <string name="power_mode_sleep_in_minutes">Dopo %1$d minuto(i) di inattività</string>
     <string name="power_mode_sleep_never">Mai</string>
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_mode_internet">2G/3G</string>
@@ -201,7 +201,7 @@
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_delete_dialog_title">Elimina profilo personalizzato</string>
     <string name="power_dialog_delete_dialog_delete">Eliminare profilo personalizzato e i dati delle relative impostazioni? Questa azione è irreversibile!</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">"Impossibile eliminare: stai utilizzando questo profilo."</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">Impossibile eliminare: stai utilizzando questo profilo.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Impossibile eliminare: il tuo dispositivo è impostato per passare automaticamente a questo profilo quando la batteria è in esaurimento,
  Devi modificare le impostazioni prima di eliminare questo profilo."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Impossibile eliminare: il tuo dispositivo è programmato per passare a questo profilo, 
@@ -384,8 +384,8 @@
     <string name="perm_log_clear_title">Cancella log</string>
     <string name="perm_log_clear_content">Tutti i rapporti verranno cancellati. Sicuro di voler procedere ?</string>
     <string name="perm_privacy_count">Consentiti: %1$d Negati: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d permessi</string>
     <string name="perm_privacy_app_trust_summary">Fidata</string>
+    <string name="perm_privacy_app_count">%1$d permessi</string>
     <string name="perm_privacy_app_trust">Mi fido di questa applicazione</string>
     <string name="perm_privacy_app_trust_summary_off">MIUI controllerà questa applicazione</string>
     <string name="perm_privacy_app_trust_summary_on">MIUI non controllerà questa applicazione</string>
@@ -403,7 +403,7 @@
     <string name="perm_sysopt_boost_auto_start">Permessi avvio autom.</string>
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
     <string name="perm_su_enable_dialog">%1$s sta cercando di ottenere i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
-    <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione. Rendere attendibile questa applicazione ?"</string>
+    <string name="trust_switch_dialog_msg">MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione. Rendere attendibile questa applicazione ?</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
 Consentire l'avvio automatico?"</string>
     <string name="auto_start_summary">"%1$d app autorizzate all'avvio automatico"</string>
@@ -436,7 +436,7 @@ Consentire l'avvio automatico?"</string>
     <string name="protection_category_dangerous_title">A rischio (%d)</string>
     <string name="protection_category_recommend_title">Ottimizzazione consigliata (%d)</string>
     <string name="protection_category_security_title">Cancella (%d)</string>
-    <string name="title_virus_no">Virus </string>
+    <string name="title_virus_no">Virus</string>
     <string name="title_virus_yes">Nessun virus rilevato</string>
     <string name="summary_virus">%2$d virus rilevati</string>
     <string name="title_permission_no">Monitor permessi disattivato</string>
@@ -471,7 +471,6 @@ Consentire l'avvio automatico?"</string>
     <string name="item_mms">Filtra i messaggi indesiderati</string>
     <string name="score_good_state">Il telefono è già ottimizzato</string>
     <string name="score_need_optimize">Si consigli a di ottimizzare</string>
-    <string name="category_key_settings">key_settings</string>
     <string name="preference_key_create_shortcut">key_create_shortcut</string>
     <string name="preference_key_about_version">key_about_version</string>
     <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
@@ -669,7 +668,7 @@ Consentire l'avvio automatico?"</string>
     <string name="whitelist_tab_title">Eccezioni</string>
     <string name="new_bw_list_button">Aggiungi contatto</string>
     <string name="mark_number_dialog_maintitle">Blocca e riporta numero</string>
-    <string name="mark_number_dialog_subtitle">Sviluppato in collaborazione con Sogou </string>
+    <string name="mark_number_dialog_subtitle">Sviluppato in collaborazione con Sogou</string>
     <string name="custom_mark_category">Personalizza</string>
     <string name="smart_antispam">Identifica numeri sconosciuti</string>
     <string name="turn_on_smart_antispam_hint">Identifica chiamate indesiderate</string>
@@ -710,8 +709,8 @@ Consentire l'avvio automatico?"</string>
     <string name="cancel">Annulla</string>
     <string name="mem_lock">Blocca</string>
     <string name="mem_unlock">Sblocca</string>
-    <string name="last_check_date_today">Ultima scansione: oggi\u0020</string>
-    <string name="last_check_date_yesterday">Ultima scansione: ieri\u0020</string>
+    <string name="last_check_date_today">"Ultima scansione: oggi "</string>
+    <string name="last_check_date_yesterday">"Ultima scansione: ieri "</string>
     <string name="last_check_never_checked">Scansione consigliata (prima volta)</string>
     <string name="last_check_canceled">Scansione consigliata: la scansione precedente è stata interrotta prima della fine</string>
     <string name="last_checked_default">"Scansione consigliata: l'ultima scansione è di %s fa"</string>
@@ -791,7 +790,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_others_title">Impostazioni collegate</string>
     <string name="virus_scan_risk_list_empty">Nessun rischio rilevato.</string>
     <string name="virus_scan_virus_list_empty">Nessun virus rilevato.</string>
-    <string name="virus_scan_description">"Questa applicazione rappresenta un rischio elevato per la sicurezza del tuo telefono."</string>
+    <string name="virus_scan_description">Questa applicazione rappresenta un rischio elevato per la sicurezza del tuo telefono.</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_Cancel">Annulla</string>
     <string name="virus_scan_app_is_stop_scan">Interrompere scansione?</string>
@@ -800,9 +799,9 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_package_label_unknown">sconosciuto</string>
     <string name="virus_scan_not_found_virus">nessun virus rilevato</string>
     <string name="virus_scan_not_found_risk">nessun rischio rilevato</string>
-    <string name="virus_scan_last_scan_today">Ultima scansione: oggi\u0020</string>
-    <string name="virus_scan_last_scan_yesterday">Ultima scansione: ieri\u0020</string>
-    <string name="virus_scan_last_scan_date">"L'ultima scansione risale a %d giorni fa</string>
+    <string name="virus_scan_last_scan_today">"Ultima scansione: oggi "</string>
+    <string name="virus_scan_last_scan_yesterday">"Ultima scansione: ieri "</string>
+    <string name="virus_scan_last_scan_date">"L'ultima scansione risale a %d giorni fa"</string>
     <string name="virus_scan_unknown_virus_name">Sconosciuto</string>
     <string name="virus_scan_is_cloud_scanning">Scansione MiCloud...</string>
     <string name="additional_system_update" />
@@ -1387,7 +1386,7 @@ Consentire a tutte le applicazioni che lo richiedonon?"</string>
     <string name="wifi_skipped_message">"ATTENZIONE: potresti riscontrare costi inaspettati.
 
 La configurazione del telefono richiede un discreto quantitativo di attivaà di rete."</string>
-    <string name="wifi_and_mobile_skipped_message">"ATTENZIONE: fino a che non avrai una connessione Internet disponibile il telefono non sarà in grado di verificare se il software è aggiornato."</string>
+    <string name="wifi_and_mobile_skipped_message">ATTENZIONE: fino a che non avrai una connessione Internet disponibile il telefono non sarà in grado di verificare se il software è aggiornato.</string>
     <string name="wifi_connect_failed_message">Il telefono non riesce a connettersi a questa rete Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Impostazioni Wi-Fi avanzate</string>
     <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi-Fi</string>
@@ -1677,11 +1676,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
     <string name="master_clear_summary">Cancella tutti i dati sul telefono</string>
-    <string name="master_clear_desc">Questa operazione cancellerà tutti i dati memorizzati nella memoria interna del telefono
-
-&lt;li>Il tuo account Google&lt;/li>
-&lt;li>Dati utente e di sistema e impostazioni&lt;/li>
-&lt;li>App scaricate&lt;/li>"</string>
+    <string name="master_clear_desc">Questa operazione cancellerà tutti i dati memorizzati nella memoria interna del telefono &lt;li>Il tuo account Google&lt;/li> &lt;li>Dati utente e di sistema e impostazioni&lt;/li> &lt;li>App scaricate&lt;/li></string>
     <string name="master_clear_accounts">"
 
 Al momento sei collegato ai seguenti account:
@@ -1702,7 +1697,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
     <string name="master_clear_confirm_title">Reimpostare?</string>
     <string name="media_format_title">Formatta Scheda SD</string>
-    <string name="media_format_summary">"Cancella i dati sulla SD"</string>
+    <string name="media_format_summary">Cancella i dati sulla SD</string>
     <string name="media_format_desc">"Cancellare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
     <string name="media_format_button_text">Cancella archivio USB</string>
     <string name="media_format_final_desc">"Cancellare l'archivio USB, eliminando tutti i file memorizzati al suo interno? Questa azione è irreversibile."</string>
@@ -2051,7 +2046,7 @@ Puoi aggiungere una parola toccando il pulsante Aggiungi (+)."</string>
     <string name="dev_settings_warning_message">Queste impostazioni sono a solo scopo di sviluppo. Possono causare comportamenti anomali o malfunzionamenti sul dispositivo.</string>
     <string name="verify_apps_over_usb_title">Verify apps over USB</string>
     <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
-    <string name="enforce_read_external_title">Proteggi archivio USB </string>
+    <string name="enforce_read_external_title">Proteggi archivio USB</string>
     <string name="enforce_read_external_summary">"Le applicazioni devono richiedere i permessi per leggere l'archivio USB"</string>
     <string name="enforce_read_external_confirm_title">Proteggere archivio USB?</string>
     <string name="enforce_read_external_confirm_message">"Quando l'archivio USB è protetto, le applicazioni devono richiedere i permessi per leggere i dati sull'archivio esterno.
@@ -2072,7 +2067,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_settings_title">Impostazioni di accessibilità</string>
     <string name="accessibility_services_title">Servizi</string>
     <string name="accessibility_system_title">Sistema</string>
-   <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
+    <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
     <string name="accessibility_screen_magnification_summary">"Quanado questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
 
 Durante l'ingrandimento puoi:
@@ -2098,7 +2093,6 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"Aggiorna l'ingrandimento dello schermo nel passaggio tra applicazioni"</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Termina con tasto accensione</string>
     <string name="accessibility_toggle_speak_password_preference_title">Pronuncia la password</string>
-    <string name="accessibility_long_press_timeout_title">Ritardo tocco e pressione</string>
     <string name="accessibility_menu_item_settings">Impostazioni</string>
     <string name="accessibility_feature_state_on">attivato</string>
     <string name="accessibility_feature_state_off">Disattivato</string>
@@ -2333,7 +2327,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per proseguire con la configurazione.
 
-Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
+Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
@@ -2417,7 +2411,6 @@ Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="show_hw_overdraw_summary">Da buono a debole: blu, verde, rosso chiaro, rosso</string>
     <string name="disable_overlays">Disattiva sovrapposizione HW</string>
     <string name="disable_overlays_summary">Usa sempre la GPU per composizione schermo</string>
-    <string name="enable_traces_title">Abilita tracce</string>
     <string name="debug_layout">Mostra bordi sovrapposizione</string>
     <string name="debug_layout_summary">Mostra bordi, margini, etc.</string>
     <string name="show_cpu_usage">Mostra utilizzo CPU</string>
@@ -2486,7 +2479,7 @@ Alcuni account potrebbero anche copiare automaticamente tutti i cambiamenti dal 
 
 Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > Account."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Disattivare la sincronizzazione automaticamente?</string>
-    <string name="data_usage_auto_sync_off_dialog">"Questo risparmierà uso di traffico dati e batteria, ma dovrai sincronizzare manualmente ogni account per aggiornare le informazioni recenti. Inoltre non riceverai notifiche sugli aggiornamenti."</string>
+    <string name="data_usage_auto_sync_off_dialog">Questo risparmierà uso di traffico dati e batteria, ma dovrai sincronizzare manualmente ogni account per aggiornare le informazioni recenti. Inoltre non riceverai notifiche sugli aggiornamenti.</string>
     <string name="data_usage_cycle_editor_title">Data reimpostazione ciclo utilizzo</string>
     <string name="data_usage_cycle_editor_subtitle">Data di ogni mese:</string>
     <string name="data_usage_cycle_editor_positive">Imposta</string>
@@ -2502,9 +2495,9 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="data_usage_uninstalled_apps_users">Utenti e applicazioni rimossi</string>
     <string name="data_usage_received_sent">%1$s ricevuti, %2$s inviati</string>
     <string name="data_usage_total_during_range">%2$s: circa %1$s utilizzati</string>
-    <string name="data_usage_total_during_range_mobile">"%2$s: circa %1$s usati, come misurato dal tuo telefono. Il conteggio dei dati fatto dal tuo operatore potrebbe essere differente."</string>
+    <string name="data_usage_total_during_range_mobile">%2$s: circa %1$s usati, come misurato dal tuo telefono. Il conteggio dei dati fatto dal tuo operatore potrebbe essere differente.</string>
     <string name="data_usage_metered_title">Hotspot Mobili</string>
-    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hospot mobili. Alcune applicazioni potrebbero avere restrizioni per l'utilizzo di queste reti in background. Potresti anche ricevere avvisi per l'utilizzo di queste reti con download di grandi dimensioni.</string>
+    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hospot mobili. Alcune applicazioni potrebbero avere restrizioni per l'utilizzo di queste reti in background. Potresti anche ricevere avvisi per l'utilizzo di queste reti con download di grandi dimensioni."</string>
     <string name="data_usage_metered_mobile">Reti mobili</string>
     <string name="data_usage_metered_wifi">Reti Wi-Fi</string>
     <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili attiva la connessione Wi-Fi.</string>
@@ -2567,7 +2560,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="user_list_title">Utenti e profili</string>
     <string name="user_add_user_menu">Aggiungi utente e pofilo</string>
     <string name="user_summary_restricted_profile">Profilo riservato</string>
-    <string name="user_need_lock_message">"Prima di poter creare un profilo riservato, dovrai impostare un blocco schermo per proteggere le tue applicazioni ed i tuoi dati."</string>
+    <string name="user_need_lock_message">Prima di poter creare un profilo riservato, dovrai impostare un blocco schermo per proteggere le tue applicazioni ed i tuoi dati.</string>
     <string name="user_set_lock_button">Imposta blocco</string>
     <string name="user_summary_not_set_up">Non impostare</string>
     <string name="user_summary_restricted_not_set_up">Non impostare - Profilo riservato</string>
@@ -2813,9 +2806,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
     <string name="connected_wifi">Wi-Fi connessa</string>
-    <string name="incoming_call_vibrate_abbreviation">Chiamate\u0020</string>
-    <string name="notification_vibrate_abbreviation">Notifiche\u0020</string>
-    <string name="mms_vibrate_abbreviation">Messaggi\u0020</string>
+    <string name="incoming_call_vibrate_abbreviation">"Chiamate "</string>
+    <string name="notification_vibrate_abbreviation">"Notifiche "</string>
+    <string name="mms_vibrate_abbreviation">"Messaggi "</string>
     <string name="breathing_light_color_title">Colore LED</string>
     <string name="breathing_light_color_menu_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>
@@ -2856,7 +2849,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="activating">Attivazione...</string>
     <string name="wifi_enable_watchdog_service_summary">Non utilizzare una rete Wi-Fi se non ha una buona connessione Internet</string>
     <string name="wifi_disabled_help">La rete è tata esclusa a causa della scarsa intensità. Disattiva questa funzione da > Wi-Fi > Impostazioni avanzate.</string>
-    <string name="wifi_wps_overlap_error">"E' stata rilevata un'altra sessione Wi-Fi protetta. Riprova tra pochi minuti".</string>
+    <string name="wifi_wps_overlap_error">"E' stata rilevata un'altra sessione Wi-Fi protetta. Riprova tra pochi minuti."</string>
     <string name="wifi_p2p_wps_setup">Impostazione Wi-Fi protetta</string>
     <string name="default_input_method">Seleziona Tastiera Predefinita</string>
     <string name="volume_category_title">Volume</string>
@@ -2934,7 +2927,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
     <string name="sound_category_calls_and_notification_title">Suoneria &amp; notifiche</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">"Regola la dimensione dei caratteri e del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc.".</string>
+    <string name="font_size_summary">Regola la dimensione dei caratteri e del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc..</string>
     <string name="font_size_small">Piccolo</string>
     <string name="font_size_normal">Normale</string>
     <string name="font_size_medium">Medio</string>
@@ -2968,7 +2961,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="dirac_mode_piston_100">Auricolari Xiaomi</string>
     <string name="dirac_mode_general">Generale</string>
     <string name="equalizer">Equalizzatore</string>
-    <string name="wifi_menu_wfd">Visualizzazione  Wi-Fi</string>
+    <string name="wifi_menu_wfd">Visualizzazione Wi-Fi</string>
     <string name="wfd_settings_title">Impostazioni visualizzazione Wi-Fi</string>
     <string name="wfd_settings_description">Connetti allo schermo tramite Wi-Fi</string>
     <string name="wfd_enabler_title">Abilita Wi-Fi Display</string>
@@ -3019,8 +3012,8 @@ prova in questo modo:
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
     <string name="msd_driver_download">Scarica i driver</string>
-    <string name="msd_driver_windows_xp_download">"Per scaricare i driver per PC vai su http://miui.com/win"</string>
-    <string name="msd_driver_mac_download">"Per scaricare i driver per MAC vai su http://miui.com/mac"</string>  
+    <string name="msd_driver_windows_xp_download">Per scaricare i driver per PC vai su http://miui.com/win</string>
+    <string name="msd_driver_mac_download">Per scaricare i driver per MAC vai su http://miui.com/mac</string>
     <string name="vpn_settings_password">Impostazioni Password VPN</string>
     <string name="vpn_safe">Sicurezza VPN</string>
     <string name="vpn_configure">Configura VPN</string>
@@ -3237,4 +3230,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="miracast_PC2THOR_streaming_on">Miracast non è disponibile perchè un PC è in streaming su questo dispositivo</string>
     <string name="miracast_disable_dhcp">Disattiva HDCP</string>
     <string name="miracast_enable_dhcp">attiva HDCP</string>
+    <string name="category_key_settings">key_settings</string>
+    <string name="accessibility_long_press_timeout_title">Ritardo tocco e pressione</string>
+    <string name="enable_traces_title">Abilita tracce</string>
 </resources>
