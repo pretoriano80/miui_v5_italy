@@ -95,7 +95,6 @@
     <string name="opt_progress_started">Ottimizzazione…</string>
     <string name="opt_progress_done">Completato</string>
     <string name="opt_score_desc">pts</string>
-    <string name="opt_score">83</string>
     <string name="opt_done_desc">Completato</string>
     <string name="opt_cancel_desc">Annulla</string>
     <string name="opt_resume_desc">Continue</string>
@@ -213,7 +212,7 @@
     <string name="power_save_low_battery_title">Risparmia quando in esaurimento</string>
     <string name="power_save_low_battery_auto_save_title">Risparmia quando in esaurimento</string>
     <string name="power_save_low_battery_seekbar_title">Considera scarica sotto il: %1$d%%</string>
-    <string name="power_save_low_battery_option_title">Quando in esaurimento passa a</string>
+    <string name="power_save_low_battery_option_title">Quando scarica passa a</string>
     <string name="power_save_low_battery_option_summary">Quando al di sopra della soglia minima il dispositivo tornerà al profilo più utilizzato di recente</string>
     <string name="power_save_low_battery_percentage_ten">10%</string>
     <string name="power_save_low_battery_percentage_twenty">20%</string>
@@ -421,6 +420,7 @@ Consentire l'avvio automatico?"</string>
     <string name="perm_log_empty">Registro vuoto</string>
     <string name="perm_root_manage_empty">Nessuna delle tue applicazioni ha autorizzazioni ROOT</string>
     <string name="perm_app_manage_empty">Non stai controllando alcuna app</string>
+    <string name="perm_support_hints">Powered by LBE</string>
     <string name="power_autorun_control_title">Avvio automatico</string>
     <string name="power_autorun_control_desc">Aumentando il numero delle applicazioni con avvio automatico il consumo della batteria potrebbe aumentare</string>
     <string name="power_usage_sort_title">Mostra consumo batteria</string>
@@ -483,7 +483,6 @@ Consentire l'avvio automatico?"</string>
     <string name="hello_world">Hello world!</string>
     <string name="optimize_now">Avvia</string>
     <string name="score">Punteggio</string>
-    <string name="seventy">70</string>
     <string name="valuation">Pulizia consigliata</string>
     <string name="virus_scan">Scansione virus</string>
     <string name="network_assistant">Utilizzo dati</string>
@@ -812,7 +811,7 @@ Consentire l'avvio automatico?"</string>
     <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="yes">Si</string>
+    <string name="yes">Sì</string>
     <string name="create">Crea</string>
     <string name="device_info_default">Sconosciuto</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>

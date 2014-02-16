@@ -614,4 +614,5 @@
     <string name="webapp_addtodeskpop_append">App aggiunta alla home</string>
     <string name="dialog_geolocation_reject">Nascondi posizione</string>
     <string name="dialog_geolocation_share">Mostra posizione</string>
+    <string name="webapp_bottom_bar_already_addtodesk">Già aggiunto nella home</string>
 </resources>

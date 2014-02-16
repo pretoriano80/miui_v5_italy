@@ -2,7 +2,7 @@
 <resources>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="status_bar_date_formatter">%2$s</string>
-    <string name="app_label">UI sistema</string>
+    <string name="app_label">UI di sistema</string>
     <string name="status_bar_recent_remove_item_title">"Rimuovi dall'elenco"</string>
     <string name="status_bar_recent_inspect_item_title">Informazioni applicazione</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione recente</string>
@@ -20,6 +20,7 @@
     <string name="status_bar_settings_auto_rotation">Rotazione automatica schermo</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_notifications">Notifiche</string>
+    <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth con tethering</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Configura metodi di immissione</string>
@@ -136,6 +137,7 @@
     <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
     <string name="call_status_dialing">Composizione</string>
     <string name="status_bar_style_settings">Impostazioni Barra di Stato</string>
+    <string name="status_bar_and_notification_bar">Pannello notifiche e barra di stato</string>
     <string name="settings_toggle_layout_style">Stile comandi</string>
     <string name="settings_toggle_layout_style_compact">Compatto</string>
     <string name="settings_toggle_layout_style_single_page">Pagina</string>
@@ -149,18 +151,20 @@
     <string name="settings_notification_bar">Pannello notifiche</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
     <string name="settings_toggle_collapse_after_clicked">Chiudi quando premuto</string>
-    <string name="settings_screenshot_notification_disabled">Mostra informazioni Screenshot</string>
-    <string name="settings_expanded_view">Vista notifiche ampliata</string>
+    <string name="settings_show_screenshot_notification">Mostra notifiche screenshot</string>
     <string name="settings_status_bar">Barra di stato</string>
     <string name="settings_show_network_speed">Mostra velocità rete</string>
-    <string name="settings_expandable_under_fullscreen">Attiva a schermo intero</string>
-    <string name="settings_expandable_under_fullscreen_summary">"Visualizza scorrendo dall'alto verso basso"</string>
     <string name="settings_expandable_under_keyguard">Attiva con blocco tastiera</string>
-    <string name="settings_expandable_under_keyguard_summary">Solo su blocco tastiera non sicuro</string>
+    <string name="settings_show_carrier">Mostra operatore</string>
+    <string name="settings_custom_carrier">Modifica nome operatore</string>
+    <string name="settings_no_carrier">Nessuno</string>
+    <string name="settings_show_carrier_summary">Mostra solo su lockscreen</string>
+    <string name="settings_basic_settings">Impostazioni base</string>
+    <string name="settings_advanced">Impostazioni aggiuntive</string>
+    <string name="settings_show_flow_info">Mostra informazioni traffico</string>
     <string name="settings_toggle_position_divider_page">I comandi sopra questa barra sono attivi (%1$d)</string>
     <string name="settings_toggle_position_divider_list">I comandi sopra questa barra saranno visibili</string>
     <string name="settings_toggle_position_reset">Ripristina comandi</string>
-    <string name="settings_show_flow_info">Mostra informazioni traffico</string>
     <string name="camera_key_action_setting_title">Tasto MI</string>
     <string name="camera_key_action_category_title">"Utilizza se l'applicazione Fotocamera non è aperta"</string>
     <string name="camera_key_action_none_title">Nessuna azione</string>
@@ -247,10 +251,13 @@
     <string name="headset_settings">Cuffie collegate</string>
     <string name="headset_info">Personalizza tasto funzioni</string>
     <string name="headset_custom">Personalizza</string>
+    <string name="oldman_status_bar_time_format">HH:mm</string>
+    <string name="oldman_airplane_mode_text">Aereo</string>
+    <string name="oldman_incall_text">In arrivo</string>
     <string name="audio_effect_settings">Imposta tipo di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Configura</string>
-    <string name="usb_share_net_info">Utiliza la rete Internet del computer</string>
+    <string name="usb_share_net_info">Utilizza la connessione Internet del compu</string>
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Lumin.</string>
@@ -287,5 +294,4 @@
     <string name="screen_rotation_freeze_message">Rotazione schermo bloccata in modalità landscape</string>
     <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
     <string name="screen_button_enabled_message">I tasti funzione in basso sono abilitati</string>
-    <string name="settings_notification_icon">Notifiche nella barra di stato</string>
 </resources>
