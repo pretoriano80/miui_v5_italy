@@ -12,11 +12,11 @@
     <string name="enable_notification_summary">Avvisami in caso di cambiamenti nelle previsioni</string>
     <string name="enable_notification_city">Hai attivato %s notifiche meteo, verranno inviate delle notifiche di sistema quando si verificheranno cambiamenti inaspettati del tempo come pioggia, neve o bruschi cambiamenti di temperatura.</string>
     <string name="sms_notification">Condividi tramite SMS</string>
-    <string name="send_sms_notification">Inoltra notiifiche meteo</string>
+    <string name="send_sms_notification">Inoltra notifiche meteo</string>
     <string name="send_sms_notification_summary">Invia il meteo i oggi ai tuoi contatti tramite SMS</string>
     <string name="location_management">Località</string>
     <string name="enable_gps">GPS</string>
-    <string name="add_city">Aggiungi località</string>
+    <string name="add_city">Aggiungi città</string>
     <string name="cancel">Annulla</string>
     <string name="menu_send_sms">Invia</string>
     <string name="app_love_sms_title">Contenuti messaggio</string>
