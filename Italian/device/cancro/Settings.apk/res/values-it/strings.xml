@@ -380,7 +380,6 @@
     <string name="perm_hips_disable_title">Monitor Permessi</string>
     <string name="perm_hips_disable_content">Disabilitando questa funzione MIUI smetterà di monitorare le richieste delle applicazioni limitando così la protezione della sicurezza e della privacy. Sicuro di volerla disabilitare ?</string>
     <string name="perm_su_enable_title">Permessi di ROOT</string>
-    <string name="perm_su_enable_summary">Concedi permessi di root ale app</string>
     <string name="perm_su_enable_content">"Abilitando questa funzione consentirai alle applicazioni di richiedere i permessi di ROOT. Nota: concedendo i permessi di ROOT potresti causare perdita di dati, instabilità del sistema e danni all'hardware. Sicuro di volere procedere?"</string>
     <string name="perm_log_clear_title">Cancella log</string>
     <string name="perm_log_clear_content">Tutti i rapporti verranno cancellati. Sicuro di voler procedere ?</string>
@@ -2744,9 +2743,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="screen_timeout_title">Timeout schermo</string>
     <string name="touch_title">Tocco</string>
     <string name="touch_sensitive_title">Modalità guanti</string>
-    <string name="touch_sensitive_summary">rendi il touchscreen estremamente sensibile quando indossi i guanti</string>
+    <string name="touch_sensitive_summary">Rendi il touchscreen estremamente sensibile quando indossi i guanti</string>
     <string name="touch_sensitive_turn_off_title">Modalità Guanti disabilitata</string>
-    <string name="touch_sensitive_turn_off_summary">Disattivar per evitare operazioni accidentali quando il telefono è in tasca?</string>
+    <string name="touch_sensitive_turn_off_summary">Disattivare per evitare operazioni accidentali quando il telefono è in tasca?</string>
     <string name="touch_sensitive_turn_off_confirm">OK</string>
     <string name="touch_sensitive_turn_off_cancel">Annulla</string>
     <string name="screen_never_timeout_title">Sempre attivo</string>

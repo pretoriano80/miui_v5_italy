@@ -385,7 +385,7 @@
     <string name="perm_hips_disable_title">Monitor Permessi</string>
     <string name="perm_hips_disable_content">Disabilitando questa funzione MIUI smetterà di monitorare le richieste delle applicazioni limitando così la protezione della sicurezza e della privacy. Sicuro di volerla disabilitare ?</string>
     <string name="perm_su_enable_title">Permessi di ROOT</string>
-    <string name="perm_su_enable_summary">Concedi permessi di root ale app</string>
+    <string name="perm_su_enable_summary">Concedi permessi di root alle app</string>
     <string name="perm_su_enable_content">"Abilitando questa funzione consentirai alle applicazioni di richiedere i permessi di ROOT. Nota: concedendo i permessi di ROOT potresti causare perdita di dati, instabilità del sistema e danni all'hardware. Sicuro di volere procedere?"</string>
     <string name="perm_log_clear_title">Cancella log</string>
     <string name="perm_log_clear_content">Tutti i rapporti verranno cancellati. Sicuro di voler procedere ?</string>

@@ -782,7 +782,7 @@ Motivo: \"%s\""</string>
     <string name="frequency_none">Non ricordarmi</string>
     <string name="dirty_contacts_notification_title">Vuoi sincronizzare i contatti?</string>
     <string name="dirty_contacts_notification_description">"%d modifiche ai contatti locali non sono state sincronizzate con l'account"</string>
-    <string name="dirty_contacts_notification_message">(Puoi disabilitare il promemoria nell eimpostazioni dei Contatti)</string>
+    <string name="dirty_contacts_notification_message">\u0020(Puoi disabilitare il promemoria nelle impostazioni dei Contatti)</string>
     <string name="remind_btn_sync_now">Sincronizza Adesso</string>
     <string name="remind_btn_ignore">Ignora</string>
     <string name="display_only_phones">Mostra solo contatti con numero</string>
