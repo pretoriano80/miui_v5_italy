@@ -7,8 +7,8 @@
     <string name="start_backup">Inizio Backup</string>
     <string name="button_cancel">Annulla</string>
     <string name="backup_empty">Nessun backup trovato</string>
-    <string name="backup_items_sysdata_tailer">" Dati Sistema"</string>
-    <string name="backup_items_app_tailer">" Dati Apps"</string>
+    <string name="backup_items_sysdata_tailer">" Dati Sistema, "</string>
+    <string name="backup_items_app_tailer">" Dati Apps "</string>
     <string name="backup_failed">Backup fallito, riprovare</string>
     <string name="backup_recently">" (Ultimo)"</string>
     <string name="sdcard_unmounted">SD Card non trovata o non montata!</string>

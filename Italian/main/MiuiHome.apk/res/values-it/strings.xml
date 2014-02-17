@@ -41,7 +41,11 @@
     <string name="menu_edit">Modifica</string>
     <string name="menu_sort">Ordina icone desktop</string>
     <string name="menu_launcher_setting">Launcher</string>
+    <string name="editing_tips">Modifica home</string>
+    <string name="multi_selecting_tips">"Tocca un'icona per iniziare"</string>
     <string name="editing_tips">Aggiungi o modifica widget</string>
+    <string name="editing_set_wallpaper_tips">Cambia sfondo</string>
+    <string name="editing_set_transition_effect_tips">Cambia gli effetti di transizione</string>
     <string name="cant_remove_system_app">Applicazione di sistema. Impossibile rimuovere.</string>
     <string name="cant_remove_retained_app">"Impossibile disinstallare applicazioni personalizzate dall'operatore"</string>
     <string name="uninstall_dialog_message">La disinstallazione rimuoverà tutti i dati</string>
@@ -69,6 +73,8 @@
     <string name="default_folder_title_game">Giochi</string>
     <string name="default_folder_title_security">Sicurezza</string>
     <string name="default_shortcut_title_10086">google.com</string>
+    <string name="online_wallpaper">Online</string>
+    <string name="custom_wallpaper_picker">Modifica</string>
     <string name="reset_scene_prompt">La scena verrà ripristinata al layout predefinito</string>
     <string name="preferences_title">Preferenze</string>
     <string name="preferences_general_title">Impostazioni Generali</string>
@@ -97,12 +103,15 @@
     <string name="buffering">Buffering...</string>
     <string name="emptyplaylist">Playlist vuota</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
+    <string name="gadget_search_label">Ricerca</string>
     <string name="global_search_hint">Inserire le parole da cercare</string>
     <string name="widget_global_search">Ricerca Globale</string>
     <string name="gadget_clear_button_label">Termina processi</string>
+    <string name="gadget_clock_label">Orologio</string>
     <string name="gadget_clock_12_label">Orologio 1x2</string>
     <string name="gadget_clock_22_label">Orologio 2x2</string>
     <string name="gadget_clock_24_label">Orologio 2x4</string>
+    <string name="gadget_photo_label">Cornice</string>
     <string name="gadget_photo_44_label">Cornice 4x4</string>
     <string name="gadget_photo_22_label">Cornice 2x2</string>
     <string name="gadget_photo_24_label">Cornice 2x4</string>
@@ -120,6 +129,7 @@
     <string name="photo_load_failed">Impossibile caricare foto!</string>
     <string name="frame_load_failed">Impossibile caricare il widget Cornice!</string>
     <string name="gadget_weather_loading">Nessun dato meteo</string>
+    <string name="gadget_weather_title">Meteo</string>
     <string name="gadget_weather_title_24">Meteo 2X4</string>
     <string name="gadget_weather_title_14">Meteo 1X4</string>
     <string name="gadget_weather_app_not_installed">Installa MIUI Weather</string>
@@ -146,6 +156,7 @@
     <string name="free_style_londing_text">Scatena la tua immaginazione…</string>
     <string name="toggle_select_title">Seleziona comando</string>
     <string name="toggle_title">Comando</string>
+    <string name="settings_shortcut">Impostazioni collegamenti</string>
     <string name="free_style_edit_tab_shortcut">Collegamenti</string>
     <string name="free_style_edit_tab_free_component">Componenti Free</string>
     <string name="free_style_edit_tab_widget">Widget</string>
