@@ -52,54 +52,54 @@
 	<Item value="Foschia"/>
     </string-array>
     <string-array name="weather_details_key">
-        <item>Unavailable</item>
-        <item>Suitable</item>
-        <item>Good</item>
-        <item>Avoid if possible</item>
-        <item>Not recommended</item>
-        <item>Ideal</item>
-        <item>Moderate</item>
-        <item>Weak</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Very strong</item>
-        <item>Cool</item>
-        <item>Comfortable</item>
-        <item>Very hot</item>
-        <item>Hot</item>
-        <item>Warm</item>
-        <item>Cool</item>
-        <item>Cooler</item>
-        <item>Cold</item>
-        <item>Freezing</item>
-        <item>High</item>
-        <item>Middle</item>
-        <item>Low</item>
-        <item>Clear skies</item>
-        <item>Cloudy</item>
-        <item>Rain</item>
-        <item>Sand storm</item>
-        <item>Snow</item>
-        <item>Relatively suitable conditions</item>
-        <item>Suitable conditions</item>
-        <item>Cloudy</item>
-        <item>Less than ideal</item>
-        <item>Ideal conditions</item>
-        <item>Poor conditions</item>
-        <item>Average conditions</item>
+        <item>Non disponibile</item>
+        <item>Non male</item>
+        <item>Buono</item>
+        <item>Evita se puoi</item>
+        <item>Non consigliato</item>
+        <item>Ideale</item>
+        <item>Moderato</item>
+        <item>Debole</item>
+        <item>Medio</item>
+        <item>Forte</item>
+        <item>Molto forte</item>
+        <item>Fresco</item>
+        <item>Piacevole</item>
+        <item>Molto caldo</item>
+        <item>Caldo</item>
+        <item>Caldo</item>
+        <item>Fresco</item>
+        <item>Molto fresco</item>
+        <item>Freddo</item>
+        <item>Gelo</item>
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Bassa</item>
+        <item>Cielo sereno</item>
+        <item>Nuvoloso</item>
+        <item>Pioggia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Neve</item>
+        <item>Condizioni relativamente adeguate</item>
+        <item>Condizioni adeguate</item>
+        <item>Nuvoloso</item>
+        <item>Non ottimali</item>
+        <item>Condizioni ottimali</item>
+        <item>Condizioni non ottimali</item>
+        <item>Condizioni medie</item>
     </string-array>
     <string-array name="weather_image_tips">
         <item></item>
         <item></item>
         <item></item>
         <item></item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"It's going to rain today, remember to bring an umbrella!"</item>
+        <item>"Sta piovendo molto, ricorda di prendere l'ombrello."</item>
+        <item>"Sta piovendo molto, ricorda di prendere l'ombrello."</item>
+        <item>"Sta piovendo molto, ricorda di prendere l'ombrello."</item>
+        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
+        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
+        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
+        <item>"Se esci, ricorda di prendere l'ombrello!"</item>
         <item>"It's drizzling outside, you should bring an umbrella!"</item>
         <item>"There's a mix of rain and snow outside, remember to bring an umbrella!"</item>
         <item>"It's snowing heavily, remember to wear a hat and scarf!"</item>
