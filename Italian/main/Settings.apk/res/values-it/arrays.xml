@@ -167,7 +167,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
-        <item>OSolo se in carica</item>
+        <item>Solo se in carica</item>
         <item>Mai</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
@@ -262,9 +262,9 @@
         <item>Limite predefinito</item>
         <item>Nessun processo in background</item>
         <item>1 processo al massimo</item>
-        <item>2 processo al massimo</item>
-        <item>3 processo al massimo</item>
-        <item>4 processo al massimo</item>
+        <item>2 processi al massimo</item>
+        <item>3 processi al massimo</item>
+        <item>4 processi al massimo</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
