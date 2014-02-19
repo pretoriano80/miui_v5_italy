@@ -368,9 +368,9 @@
         <item>Scimmia</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
+        <item>Chiedi</item>
+        <item>Nega sempre</item>
+        <item>Consenti sempre</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
@@ -485,7 +485,7 @@ l'unità di archiviazione MI3 dovrebbe comparire sul tuo computer"</item>
         <item>"Per Vista o versioni successive,
 il MI3 music player comparirà sul tuo computer"</item>
         <item>"Se installi questi driver
-Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
+Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
@@ -519,7 +519,7 @@ Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Connetti automaticamente</item>
         <item>Connetti manualmente</item>
         <item>Chiedi sempre</item>
-/string-array>
+</string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuti</item>
         <item>15 minuti</item>
