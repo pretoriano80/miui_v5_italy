@@ -149,7 +149,7 @@
         <item>Connesso</item>
         <item>Invitato</item>
         <item>Fallito</item>
-        <item>disponibile</item>
+        <item>Disponibile</item>
         <item>Fuori portata</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">

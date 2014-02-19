@@ -46,12 +46,12 @@
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
-        <item>Europe</item>
+        <item>Europa</item>
         <item>Africa</item>
         <item>Asia</item>
         <item>Australia</item>
-        <item>Pacific</item>
-        <item>All</item>
+        <item>Pacifico</item>
+        <item>Tutti</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 secondi</item>
@@ -145,7 +145,7 @@
         <item>Connesso</item>
         <item>Invitato</item>
         <item>Fallito</item>
-        <item>disponibile</item>
+        <item>Disponibile</item>
         <item>Fuori portata</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
@@ -353,26 +353,12 @@
         <item>Bianco</item>
         <item>Viola</item>
     </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
-    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nessuna</item>
         <item>Lancia task manager</item>
         <item>Lancia assistente vocale</item>
         <item>Lancia Google now</item>
         <item>Chiudi applicazione corrente</item>
-    </string-array>
-    <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
@@ -386,7 +372,7 @@
         <item>5 secondi</item>
         <item>10 secondi</item>
         <item>20 secondi</item>
-        <item>Always</item>
+        <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Dispositico connesso, creazione sessione...</item>

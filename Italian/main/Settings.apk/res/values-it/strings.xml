@@ -86,7 +86,24 @@
     <string name="list_sub_view_item_install">Installa</string>
     <string name="list_sub_view_item_lock">Blocca</string>
     <string name="list_sub_view_item_unlock">Sblocca</string>
-    <string name="opt_clean_garbage">%d Mb cancellati</string>
+    <string name="memory_suffix">GB</string>
+    <string name="memory_used_suffix">Utilizzati</string>
+    <string name="memory_available_suffix">Disponibile</string>
+    <string name="scanning_prefix">Scansione:%s</string>
+    <string name="cleanning_prefix">Pulizia:%s</string>
+    <string name="scanning_start_hints">Preparazione scansione</string>
+    <string name="pref_category_title_auto_update_cleanup_db">Impostazioni aggiornamento pulizia database</string>
+    <string name="pref_title_auto_update_cleanup_db">Aggiornamento automatico</string>
+    <string name="pref_summary_auto_update_cleanup_db">Aggiornamento attivo：%s</string>
+    <string name="pref_title_manual_check_cleanup_db_update">Aggiorna adesso</string>
+    <string name="msg_cleanup_db_update_checking">Verifica...</string>
+    <string name="msg_update_error_code_success">Aggiornamento completato</string>
+    <string name="msg_update_error_code_no_newer_db">Aggiornamento non necessario</string>
+    <string name="msg_update_error_code_already_running">Aggiornamento</string>
+    <string name="msg_update_error_code_network_error">Errore di rete, riprovare più tardi!</string>
+    <string name="msg_update_error_code_unknown_error">Errore sconosciuto, riprovare più tardi!</string>
+    <string name="msg_cleanup_db_update_time_unknown">Aggiornaemnto attivo：sconosciuto</string>
+	<string name="opt_clean_garbage">%d Mb cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
     <string name="opt_freed_ram">Liberati %dMb di memoria</string>
     <string name="opt_virus_scan">Scansiona adesso</string>
@@ -409,6 +426,7 @@
     <string name="perm_sysopt_boost_auto_start">Permessi avvio autom.</string>
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
     <string name="perm_su_enable_dialog">%1$s sta cercando di ottenere i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
+    <string name="perm_notice">Nota</string>
     <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione. Rendere attendibile questa applicazione ?"</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
 Consentire l'avvio automatico?"</string>
@@ -466,6 +484,8 @@ Consentire l'avvio automatico?"</string>
     <string name="title_app_update_yes">Tutte le applicazioni sono aggiornate</string>
     <string name="title_data_flow_no">Monitor dati disattivato</string>
     <string name="title_data_flow_yes">Monitor dati attivato</string>
+    <string name="title_show_notification_yes">Mostra in pannello notifiche: attivato</string>
+    <string name="title_show_notification_no">Mostra in pannello notifiche: disattivato</string>
     <string name="button_text_fix">Correggi</string>
     <string name="button_text_view">Mostra</string>
     <string name="button_text_security">Sicurezza</string>
@@ -477,7 +497,6 @@ Consentire l'avvio automatico?"</string>
     <string name="item_mms">Filtra i messaggi indesiderati</string>
     <string name="score_good_state">Il telefono è già ottimizzato</string>
     <string name="score_need_optimize">Si consigli a di ottimizzare</string>
-    <string name="category_key_settings">key_settings</string>
     <string name="app_name">Sicurezza</string>
     <string name="action_settings">Impostazioni</string>
     <string name="hello_world">Hello world!</string>
@@ -490,6 +509,7 @@ Consentire l'avvio automatico?"</string>
     <string name="permission_mgr">Permessi</string>
     <string name="cleaner">Pulizia</string>
     <string name="power_mgr">Consumo</string>
+    <string name="quick_cleanup">Pulisci</string>
     <string name="protection_adb">USB debugging</string>
     <string name="protection_perm">Impostazione permessi</string>
     <string name="protection_sms">Filtro SMS</string>
@@ -736,6 +756,14 @@ Consentire l'avvio automatico?"</string>
     <string name="activity_title_settings">Impostazioni</string>
     <string name="toast_shortcut_install">Collegamento aggiunto</string>
     <string name="toast_shortcut_uninstall">Collegamento rimosso</string>
+    <string name="menu_item_notification_title">Mostra in pannello notifiche</string>
+    <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_garbage_text_error">Errore</string>
+    <string name="menu_item_notification_power_text">Consumo</string>
+    <string name="menu_item_notification_antispam_text_normal">Spam</string>
+    <string name="menu_item_notification_antispam_text_avail">Spam</string>
+    <string name="button_text_view_power">Mostra consumo</string>
+    <string name="notification_title_firewall_blocked">Bloccato</string>
     <string name="virus_scan_virus_title">%d virus rilevati!</string>
     <string name="virus_scan_risk_title">%d app sospette rilevate</string>
     <string name="virus_button_clear">Pulizia</string>
@@ -805,6 +833,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_last_scan_date">"L'ultima scansione risale a %d giorni fa</string>
     <string name="virus_scan_unknown_virus_name">Sconosciuto</string>
     <string name="virus_scan_is_cloud_scanning">Scansione MiCloud...</string>
+    <string name="virus_scan_clean_dialog_message">Pulizia in corso...</string>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
     <string name="input_method_selector_show_automatically_value">0</string>
@@ -1758,7 +1787,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="lockpattern_change_lock_pin_label">Cambia PIN di sblocco</string>
     <string name="lockpattern_need_to_unlock">Conferma sequenza salvata</string>
     <string name="lockpattern_need_to_unlock_footer" />
-    <string name="lockpattern_need_to_unlock_wrong">Prova ancora:</string>
+    <string name="lockpattern_need_to_unlock_wrong">Prova di nuovo:</string>
     <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Inserisci una sequenza di sblocco</string>
     <string name="lockpattern_recording_intro_footer">Premi Menu per visualizzare la guida.</string>
