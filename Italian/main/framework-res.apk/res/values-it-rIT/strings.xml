@@ -1335,4 +1335,6 @@ per l'account %s"</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
     <string name="media_route_chooser_grouping_done">OK</string>
+	<string name="safe_media_volume_warning">"Alzare il volume oltre il limite consigliato?
+Utilizzare un volume molto alto per lunghi periodi può danneggiare l'udito."</string>
 </resources>
