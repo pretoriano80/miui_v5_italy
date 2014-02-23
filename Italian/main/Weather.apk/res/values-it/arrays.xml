@@ -25,31 +25,31 @@
         <item>piacere:</item>
     </string-array>
     <string-array name="weather_image">
-        <Item value="Sereno"/>
-        <Item value="Nuvoloso"/>
-        <Item value="Foschia"/>
-	<Item value="Nebbia"/>
-	<Item value="Forte temporale"/>
-	<Item value="Temporale"/>
-	<Item value="Pioggia abbondante"/>
-	<Item value="Temporale"/>
-	<Item value="Pioggia moderata"/>
-	<Item value="Pioggia molto forte"/>
-	<Item value="Pioggia"/>
-	<Item value="Piogge leggere"/>
-	<Item value="Nevischio"/>
-	<Item value="Forti nevicate"/>
-	<Item value="Nevicate sparse"/>
-	<Item value="Forti nevicate"/>
-	<Item value="Neve"/>
-	<Item value="Nevicate leggere"/>
-	<Item value="Forte tempesta di sabbia"/>
-	<Item value="Tempesta di sabbia"/>
-	<Item value="Tempesta di sabbia leggera"/>
-	<Item value="Tempesta di sabbia"/>
-	<Item value="Grandine"/>
-	<Item value="Pulviscolo"/>
-	<Item value="Foschia"/>
+        <item>Sereno</item>
+        <item>Nuvoloso</item>
+        <item>Foschia</item>
+        <item>Nebbia</item>
+        <item>Forte temporale</item>
+        <item>Temporale</item>
+        <item>Pioggia abbondante</item>
+        <item>Temporale</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia molto forte</item>
+        <item>Pioggia</item>
+        <item>Piogge leggere</item>
+        <item>Nevischio</item>
+        <item>Forti nevicate</item>
+        <item>Nevicate sparse</item>
+        <item>Forti nevicate</item>
+        <item>Neve</item>
+        <item>Nevicate leggere</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Tempesta di sabbia leggera</item>
+        <item>Tempesta di sabbia</item>
+        <item>Grandine</item>
+        <item>Pulviscolo</item>
+        <item>Foschia</item>
     </string-array>
     <string-array name="weather_details_key">
         <item>Non disponibile</item>

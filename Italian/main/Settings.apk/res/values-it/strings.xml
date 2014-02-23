@@ -88,7 +88,7 @@
     <string name="list_sub_view_item_unlock">Sblocca</string>
     <string name="memory_suffix">GB</string>
     <string name="memory_used_suffix">Utilizzati</string>
-    <string name="memory_available_suffix">Disponibile</string>
+    <string name="memory_available_suffix">Disponibili</string>
     <string name="scanning_prefix">Scansione:%s</string>
     <string name="cleanning_prefix">Pulizia:%s</string>
     <string name="scanning_start_hints">Preparazione scansione</string>
@@ -246,9 +246,9 @@
     <string name="power_save_on_time_option_summary">Al termine di questo periodo il dispositivo tornerà al profilo utilizzato precedentemente</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_consume_rank_title">Utilizzo batteria</string>
-    <string name="power_consume_rank_software">Apps</string>
+    <string name="power_consume_rank_software">Applicazioni</string>
     <string name="power_consume_rank_hardware">Hardware</string>
-    <string name="power_consume_total_software">Apps: %1$d%%</string>
+    <string name="power_consume_total_software">Applicazioni: %1$d%%</string>
     <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
     <string name="power_consume_other">Altro</string>
     <string name="battery_desc_other_apps">Batteria utilizzata da altre app</string>
@@ -703,7 +703,7 @@ Consentire l'avvio automatico?"</string>
     <string name="restore_default_settings">Ripristina impostazioni predefinite</string>
     <string name="quick_clean">Pulisci</string>
     <string name="realtime_protection">Protezione</string>
-    <string name="free_ram">Memoria utilizzata</string>
+    <string name="free_ram">Memoria</string>
     <string name="cache_garbage">File cache</string>
     <string name="optimize_done">Ottimizzazione completata!</string>
     <string name="work_done">OK</string>

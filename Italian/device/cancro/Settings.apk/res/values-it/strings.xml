@@ -86,7 +86,7 @@
     <string name="list_sub_view_item_unlock">Sblocca</string>
     <string name="memory_suffix">GB</string>
     <string name="memory_used_suffix">Utilizzati</string>
-    <string name="memory_available_suffix">Disponibile</string>
+    <string name="memory_available_suffix">Disponibili</string>
     <string name="scanning_prefix">Scansione:%s</string>
     <string name="cleanning_prefix">Pulizia:%s</string>
     <string name="scanning_start_hints">Preparazione scansione</string>

@@ -4,7 +4,7 @@
         <item>15 minuti</item>
         <item>30 minuti</item>
         <item>45 minuti</item>
-        <item>1 Ore</item>
+        <item>1 ora</item>
     </string-array>
     <string-array name="sleep_duration_values_seconds">
         <item>900</item>

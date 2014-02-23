@@ -762,14 +762,7 @@ Motivo: \"%s\""</string>
     <string name="noContactHelpTextAccountsInfo">Sincronizza Google, contatti Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina dati salvati nell'account Xiaomi e su MiTalk"</string>
     <string name="recent_contacts_label">Recenti</string>
-    <string name="pick_favorites_list_title">%1$d contatti preferiti</string>
-    <string name="pick_recent_list_title">%1$d contatti recenti</string>
     <string name="noRecentContacts">Nessun contatto recente</string>
-    <string name="hint_search_contacts">%d contatti</string>
-    <string name="hint_search_phone_numbers">%d numeri contatti</string>
-    <string name="hint_search_emails">%d E-mail</string>
-    <string name="pick_favorites_contacts_list_title">%1$d contatti preferiti</string>
-    <string name="pick_recent_contacts_list_title">%1$d contatti recenti</string>
     <string name="loading_groups">Caricamento gruppi…</string>
     <string name="loading_group_members">Caricamento membri gruppo…</string>
     <string name="loading_recent">Caricamento contatti recenti…</string>
@@ -790,7 +783,7 @@ Motivo: \"%s\""</string>
     <string name="frequency_none">Non ricordarmi</string>
     <string name="dirty_contacts_notification_title">Vuoi sincronizzare i contatti?</string>
     <string name="dirty_contacts_notification_description">"%d modifiche ai contatti locali non sono state sincronizzate con l'account"</string>
-    <string name="dirty_contacts_notification_message">\u0020(Puoi disabilitare il promemoria nelle impostazioni dei Contatti)</string>
+    <string name="dirty_contacts_notification_message">" (Puoi disabilitare il promemoria nelle impostazioni dei Contatti)"</string>
     <string name="remind_btn_sync_now">Sincronizza Adesso</string>
     <string name="remind_btn_ignore">Ignora</string>
     <string name="display_only_phones">Mostra solo contatti con numero</string>
@@ -1019,7 +1012,6 @@ Tocca l'icona Unisci in basso pe riniziare."</string>
     <string name="prepare_import">preparazione importazione</string>
     <string name="device_import_message">Importazione</string>
     <string name="bluetooth_connection_failed_toast">Connessione Bluetooth interrotta</string>
-    <string name="device_import_done_toast">%1$d contatti importati</string>
     <string name="device_import_progress_toast">%1$d contatti appena importati</string>
     <string name="no_contact_in_other_phone">Nessun contatto nel telefono</string>
     <string name="sina_weibo">Sina Weibo</string>
@@ -1101,4 +1093,12 @@ Tocca l'icona Unisci in basso pe riniziare."</string>
     <string name="yellowpage_navigation_search_result_service_error">Servizio momentaneamente non disponibile</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Errore sconosciuto!</string>
     <string name="yellowpage_navigation_menu_order">Il mio ordine</string>
+    <string name="device_import_done_toast">%1$d contatti importati</string>
+    <string name="hint_search_contacts">%d contatti</string>
+    <string name="hint_search_emails">%d E-mail</string>
+    <string name="hint_search_phone_numbers">%d numeri contatti</string>
+    <string name="pick_favorites_contacts_list_title">%1$d contatti preferiti</string>
+    <string name="pick_favorites_list_title">%1$d contatti preferiti</string>
+    <string name="pick_recent_contacts_list_title">%1$d contatti recenti</string>
+    <string name="pick_recent_list_title">%1$d contatti recenti</string>
 </resources>
