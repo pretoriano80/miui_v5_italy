@@ -388,7 +388,7 @@
     <string name="history_track">Cronologia</string>
     <string name="history_most_visited">I più visitati</string>
     <string name="history_saved_webpage">Salva pagina web</string>
-    <string name="clear_history_group">Cancella cronologia</string>
+    <string name="clear_history_group">Cancella cronologia (%s pagine)</string>
     <string name="open_history_group_in_new_window">Apri la cronologia in una nuova finestra</string>
     <string name="open_history_most_visited_group_in_new_window">Apri tutte le pagine più visitate</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Sicuro di voler cancellare la cronologia?</string>
@@ -433,7 +433,7 @@
     <string name="pref_ua_title">Gestione User Agent</string>
     <string name="pref_ua_string">Stringa User Agent</string>
     <string name="pref_ua_mione_entry">Mi-One</string>
-    <string name="pref_ua_mione_value">6</string>
+    <string name="pref_ua_mione_value">4</string>
     <string name="dump_counters">Dump contatori V8</string>
     <string name="dump_dom_tree">Dump albero DOM nel file</string>
     <string name="dump_render_tree">Dump render albero nel file</string>

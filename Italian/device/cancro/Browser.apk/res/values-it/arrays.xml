@@ -59,7 +59,7 @@
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
-        <item>https://www.google.com/</item>
+        <item>http://www.google.com/</item>
         <item>Picasa</item>
         <item>http://picasaweb.google.com/</item>
         <item>Yahoo!</item>
@@ -174,17 +174,17 @@
     </string-array>
     <string-array name="google_in_list">
         <item>search_google</item>
-        <item>ic_search_engine_google_list_item</item>
+        <item>ic_search_engine_google</item>
         <item>google</item>
     </string-array>
     <string-array name="yahoo_in_list">
         <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo_list_item</item>
+        <item>ic_search_engine_yahoo</item>
         <item>yahoo</item>
     </string-array>
     <string-array name="bing_in_list">
         <item>search_bing</item>
-        <item>ic_search_engine_bing_list_item</item>
+        <item>ic_search_engine_bing</item>
         <item>bing</item>
     </string-array>
     <string-array name="pref_ua_choices">
