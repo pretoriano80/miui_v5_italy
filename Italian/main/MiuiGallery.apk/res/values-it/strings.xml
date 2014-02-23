@@ -434,13 +434,14 @@ i tuoi amici."</string>
     <string name="error_album_not_exist">Album inesistente.</string>
     <string name="error_invalid_link">"Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione".</string>
     <string name="error_socket_timeout">Timout di rete, riprovare più tardi</string>
+    <string name="error_share_with_creator">Sei già membro di quersto album</string>
     <string name="error_cloud_not_active">Album MiCloud non utilizzato</string>
     <string name="cloud_camera_display_name">Non ordinati</string>
     <string name="camera_folder_display_name">Foto</string>
     <string name="cloud_screenshots_display_name">Screenshot</string>
     <string name="miui_capture_screen_folder_display_name">Screenshot</string>
     <string name="internal_camera_folder_display_name">Foto Intere</string>
-    <string name="internal_miui_capture_screen_folder_display_name">Screenshot Interni</string>
+    <string name="internal_miui_capture_screen_folder_display_name">Screenshot interni</string>
     <string name="miliao_folder_display_name">MiTalk</string>
     <string name="miliao_painting_folder_display_name">Disegni MiTalk</string>
     <string name="miliao_saved_folder_display_name">MiTalk Salvato</string>
@@ -451,7 +452,7 @@ i tuoi amici."</string>
     <string name="androidesk_wallpapers">Android Desk Wallpapers</string>
     <string name="dcim_opaipic">Opaipic</string>
     <string name="mtxx">MTXX</string>
-    <string name="miliao_saved">MiChat</string>
+    <string name="miliao_saved">MiTalk</string>
     <string name="tencent_qq_hd_pic">QQ HD</string>
     <string name="immomo_camera">Immomo</string>
     <string name="weikan_weikan">Weikan TV</string>
@@ -464,7 +465,7 @@ i tuoi amici."</string>
     <string name="renren_image">RenRen</string>
     <string name="ppmm_gallery">PPMM</string>
     <string name="dcim_100media">Taobao TMall</string>
-    <string name="beautyphone">Beauty Phone</string>
+    <string name="beautyphone">Beauty phone</string>
     <string name="dcim_viva_pics">VIVA</string>
     <string name="baidu_flyflow_downloads">Baidu Browser</string>
     <string name="mtgif">MTGIF</string>

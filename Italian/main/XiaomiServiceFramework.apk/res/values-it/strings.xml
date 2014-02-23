@@ -64,6 +64,7 @@
     <string name="login_instead_reg">Accedi utilizzando questo numero di telefono</string>
     <string name="get_back_pwd">Recupera password account</string>
     <string name="login_failed">Accesso fallito</string>
+    <string name="logout_failed">Errore di uscita</string>
     <string name="error_network">Problemi con la connessione di rete</string>
     <string name="error_dup_phone">Il telefono è stato registrato</string>
     <string name="error_server">Problemi con il server</string>

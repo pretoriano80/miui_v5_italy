@@ -103,7 +103,7 @@
     <string name="msg_update_error_code_network_error">Errore di rete, riprovare più tardi!</string>
     <string name="msg_update_error_code_unknown_error">Errore sconosciuto, riprovare più tardi!</string>
     <string name="msg_cleanup_db_update_time_unknown">Aggiornaemnto attivo：sconosciuto</string>
-	<string name="opt_clean_garbage">%d Mb cancellati</string>
+    <string name="opt_clean_garbage">%d Mb cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
     <string name="opt_freed_ram">Liberati %dMb di memoria</string>
     <string name="opt_virus_scan">Scansiona adesso</string>
@@ -446,7 +446,9 @@ Consentire l'avvio automatico?"</string>
     <string name="power_mode_select_title">Modalità consumo</string>
     <string name="power_mode_select_desc">seleziona la modalità che si soddisfa maggiormente alle tue necessità</string>
     <string name="power_used_prefix">Consumo</string>
+    <string name="power_used_hours_test">8</string>
     <string name="power_used_hours">ore</string>
+    <string name="power_used_mins_test">23</string>
     <string name="power_used_mins">min</string>
     <string name="power_battery_history_days">%1$d giorni\u0020%2$d ore\u0020%3$d min</string>
     <string name="power_battery_history_hours">%1$d ore %2$d min</string>
@@ -496,12 +498,13 @@ Consentire l'avvio automatico?"</string>
     <string name="item_app_permission">Permessi applicazione</string>
     <string name="item_mms">Filtra i messaggi indesiderati</string>
     <string name="score_good_state">Il telefono è già ottimizzato</string>
-    <string name="score_need_optimize">Si consigli a di ottimizzare</string>
+    <string name="score_need_optimize">Si consiglia di ottimizzare il telefono</string>
     <string name="app_name">Sicurezza</string>
     <string name="action_settings">Impostazioni</string>
     <string name="hello_world">Hello world!</string>
     <string name="optimize_now">Avvia</string>
     <string name="score">Punteggio</string>
+    <string name="seventy">70</string>
     <string name="valuation">Pulizia consigliata</string>
     <string name="virus_scan">Scansione virus</string>
     <string name="network_assistant">Utilizzo dati</string>
@@ -2090,6 +2093,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="power_usage_summary_title">Batteria</string>
     <string name="power_usage_summary">Consumo batteria</string>
     <string name="power_usage_not_available">Dati uso batteria non dispon.</string>
+    <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="battery_since_unplugged">Utilizzo batteria dallo scollegamento</string>
     <string name="battery_since_reset">Utilizzo batteria dal ripristino</string>
     <string name="battery_stats_on_battery">%1$s con la batteria</string>

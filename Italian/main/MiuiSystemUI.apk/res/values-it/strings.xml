@@ -291,7 +291,7 @@
     <string name="status_bar_toggle_power_low">Risparmio</string>
     <string name="status_bar_toggle_power_mid">Normale</string>
     <string name="status_bar_toggle_power_high">Prestazioni</string>
-    <string name="screen_rotation_freeze_message">Rotazione schermo bloccata in modalità landscape</string>
+    <string name="screen_rotation_freeze_message">Rotazione automatica disattivata</string>
     <string name="screen_button_disabled_message">I tasti funzione in basso sono bloccati. Puoi riabilitarli premendo \"Home\" e \"Power\"</string>
     <string name="screen_button_enabled_message">I tasti funzione in basso sono abilitati</string>
 </resources>

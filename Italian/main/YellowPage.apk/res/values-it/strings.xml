@@ -2,11 +2,14 @@
 <resources>
     <string name="app_label">Pagine Gialle</string>
     <string name="phone_info_divider">" ｜ "</string>
+    <string name="call">Chiama</string>
     <string name="check_network">Mostra impostazioni di rete</string>
     <string name="try_again">Prova di nuovo</string>
     <string name="network_unavaliable">Rete non disponibile, verifica impostazioni di rete</string>
     <string name="service_unavailiable">La rete in uso non è buona, riprovare più tardi</string>
     <string name="data_error">Spiacenti, questi servizi non sono disponibili, riprovare più tardi</string>
+    <string name="locating_fail">Impossibile localizzare, verifica i servizi di localizzazione e riprova.</string>
+    <string name="no_more_result">Nessun altro risultato</string>
     <string name="yellow_page_detail_title">Informazioni</string>
     <string name="yellow_page_call_log_title">Registro chiamate</string>
     <string name="yellow_page_website">Sito ufficiale</string>
@@ -77,6 +80,7 @@
     <string name="recharge_phone_number_error">Numero di telefono non valido.</string>
     <string name="recharge_user_confirm_title">Conferma</string>
     <string name="recharge_user_confirm_summary">"YTi verranno addebitati %1$s per RMB%2$s 
+
 Totale: RMB%3$s"</string>
     <string name="recharge_order_id">ID ordine：</string>
     <string name="recharge_status_description">Stato:</string>
@@ -86,6 +90,8 @@ Totale: RMB%3$s"</string>
     <string name="recharge_order_pay">Pagamento</string>
     <string name="recharge_history">Cronologia ricariche</string>
     <string name="recharge_history_empty">Nessuna cronologia</string>
+    <string name="recharge_my_phone_number">Il mio numero</string>
+    <string name="recharge_unknown_number">Sconosciuto</string>
     <string name="packages_pay">Acquista</string>
     <string name="packages_pay_confirm">Conferma pagamento</string>
     <string name="packages_title">Preferenze pacchetto dati</string>
@@ -125,6 +131,7 @@ Totale: RMB%3$s"</string>
     <string name="balance_inquiry_default_sp_name">Operatore</string>
     <string name="balance_inquiry_send_sms_hint">Verrà inviato un SMS gratuito per richiedere il tuo saldo</string>
     <string name="balance_inquiry_send_sms_summmary">Controlla il saldo</string>
+    <string name="balance_inquiry_send_sms_fail_hint">Impossibile inviare SMS. Verifica lo stato della SIM.</string>
     <string name="navigation_search_automatically_positioned_city">Città attuale</string>
     <string name="navigation_search_positioning">Ricerca posizione...</string>
     <string name="navigation_search_positioning_failed">Impossibile localizzare città</string>
@@ -132,8 +139,9 @@ Totale: RMB%3$s"</string>
     <string name="navigation_search_hot_cities">Principali</string>
     <string name="navigation_search_all_cities">Tutte</string>
     <string name="order_empty_hint">Nessun ordine</string>
-    <string name="order_merchant_title">I miei ordini - %s</string>
-    <string name="order_id">Ordine rif: %s</string>
+    <string name="order_merchant_title">I miei ordini</string>
+    <string name="order_merchant_title_format">%1$s-%2$s</string>
+    <string name="order_id">ID ordine: %s</string>
     <string name="order_status">%s</string>
     <string name="order_price">%s</string>
     <string name="general_yellow_page_title">Generale</string>
@@ -145,4 +153,7 @@ Totale: RMB%3$s"</string>
     <string name="general_menu_delete_recent">Cancella recenti</string>
     <string name="general_cancel_favorite_ok">Preferiti rimossi</string>
     <string name="general_delete_recent_ok">Recenti eliminati</string>
+    <string name="nearby_yellow_page_title">Vicino</string>
+    <string name="nearby_no_yellow_page">Nessun risultato vicino</string>
+    <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
 </resources>

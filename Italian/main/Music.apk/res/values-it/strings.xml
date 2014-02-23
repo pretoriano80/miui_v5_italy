@@ -315,6 +315,7 @@
     <string name="expired">Scaduto</string>
     <string name="enabled">Attivato</string>
     <string name="valid_period">"Valido da: "</string>
+    <string name="period_format">%1$s-%2$s</string>
     <string name="vip_bought">"Hai già acquistato l'accesso alla musica di migliore qualità"</string>
     <string name="vip_expired">Il tuo accesso alla musica di qualità migliore è scaduto</string>
     <string name="vip_rebuy">Rinnova</string>
@@ -337,5 +338,4 @@
     <string name="album_artist_format" formatted="false">%s , %s</string>
     <string name="channel_postfix">MHZ</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
-    <string name="dirac_mode_off">Dirac disattivato</string>
 </resources>

@@ -141,6 +141,7 @@ il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="resource_comment_footer">I messaggi vuoti non verranno mostrati.</string>
     <string name="resource_comment_no_comment">Nessun commento</string>
     <string name="resource_comment_current_version">Versione attuale</string>
+    <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_upload_hint">I commenti verranno mostrati dopo la moderazione.</string>
     <string name="resource_comment_sending">Inserimento commento…</string>
     <string name="resource_comment_upload_failed">Impossibile aggiungere commenti!</string>
@@ -1028,9 +1029,7 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="add_xiaomi_account_dialog_btn">Utilizza account Xiaomi</string>
     <string name="keep_local_btn">Salva solo sul telefono</string>
     <string name="batch_delete">Elimina contatti</string>
-    <string name="batch_delete_msg">"Sei sicuro di voler eliminare i %d contatti selezionati?
-
-    Se si utilizza un servizio di sincronizzazione contatti, le informazioni verranno eliminate."</string>
+    <string name="batch_delete_msg">Sei sicuro di voler eliminare i %d contatti selezionati? Se si utilizza un servizio di sincronizzazione contatti, le informazioni verranno eliminate.</string>
     <string name="starred_contacts">Preferiti</string>
     <string name="other_contacts">Altri</string>
     <string name="set_photo_failed_msg">Impossibile impostare avatar</string>
@@ -1092,15 +1091,8 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Errore sconosciuto!</string>
     <string name="yellowpage_navigation_menu_order">Il mio ordine</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
-    <string name="device_import_done_toast">%1$d contatti importati</string>
-    <string name="hint_search_contacts">%d contatti</string>
-    <string name="hint_search_emails">%d E-mail</string>
-    <string name="hint_search_phone_numbers">%d numeri contatti</string>
-    <string name="import_weibo_notification_title">Importazione contatti Sina weibo…</string>
-    <string name="pick_favorites_list_title">%1$d contatti preferiti</string>
-    <string name="pick_favorites_contacts_list_title">%1$d contatti preferiti</string>
-    <string name="pick_recent_contacts_list_title">%1$d contatti recenti</string>
-    <string name="pick_recent_list_title">%1$d contatti recenti</string>
-    <string name="progress_notifier_message" formatted="false">Importazione %s/%s: %s</string>
-    <string name="t9_search_guide">Digita numero contatto o cerca contatto con T9.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Attiva servizio localizzazione rete</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Consente rilevazione dei servizi in base alla città in cui ti trovi, attivando il servizio di localizzazione Wi-Fi e Rete Mobile puoi migliorare la qualità dei servizi.</string>
+    <string name="yellowpage_navigation_network_location_enable">Attiva adesso</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Attiva in seguito</string>
 </resources>

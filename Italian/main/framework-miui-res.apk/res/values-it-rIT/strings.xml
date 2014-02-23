@@ -341,6 +341,7 @@
     <string name="month_of_september">Set</string>
     <string name="multi_select_title">%1$s selezionati</string>
     <string name="national_day" />
+    <string name="national_father_day">Festa del papà</string>
     <string name="never">Mai</string>
     <string name="new_years_day" />
     <string name="no_sim">SIM non inserita, servizio non disponibile</string>
@@ -431,7 +432,7 @@
     <string name="share">Condividi</string>
     <string name="perm_data_update_lab">Aggiornamento dati</string>
     <string name="perm_data_update_dspt">Consenti di aggiornare i dati</string>
-    <string name="device_xiaomi">Telefono Xiaomi</string>
+    <string name="device_xiaomi">Xiaomi</string>
     <string name="miui_device_name">Android</string>
     <string name="sim_unavailable">SIM non disponibile</string>
     <string name="sim_locked">SIM bloccata</string>
