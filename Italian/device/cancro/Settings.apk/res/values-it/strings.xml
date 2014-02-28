@@ -2888,7 +2888,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="vibrate_category_title">Vibrazione</string>
     <string name="vibrate_in_normal_title">Vibrazione</string>
     <string name="silent_mode_title">Silenzioso</string>
-    <string name="media_feedback_enable_title">Vibrate with beat</string>
+    <string name="media_feedback_enable_title">Vibra con il ritmo</string>
     <string name="wifi_wapi_certification_dont_exist">La password di rete inserita non è corretta. provare di nuovo.</string>
     <string name="please_type_passphrase">Inserisci password Wi-Fi</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -2966,7 +2966,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="font_size_large">Grande</string>
     <string name="font_size_huge">Enorme</string>
     <string name="virus_scan_app_stop_scan">Interrompi scansione</string>
-    <string name="password_guard">Sicurezza</string>
+    <string name="password_guard">Password</string>
     <string name="title_dolby_control">Controllo Dolby</string>
     <string name="dolby_mode_off">Disattivato</string>
     <string name="dolby_mode_music">Modalità Musica</string>

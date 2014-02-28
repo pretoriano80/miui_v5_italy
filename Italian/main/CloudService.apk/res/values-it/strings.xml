@@ -11,4 +11,7 @@
     <string name="pref_summary_sync_display_photo_on_wifi_only">Si consiglia di attivare per non avere un consumo dati eccessivo</string>
     <string name="find_device">Trova dispositivo</string>
     <string name="find_device_stop_noise">Premi \"OK\" per fermare il suono di avviso</string>
+    <string name="find_device_noise_title">Suono localizzazione dispositivo</string>
+    <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
+    <string name="sync_item_calllog_summary">Sincronizza il registro delle chiamate ricevute ed effettuate su questo telefono</string>
 </resources>

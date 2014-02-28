@@ -46,7 +46,6 @@
     <string name="screenshot_saving_text">Screenshot in corso di salvataggio.</string>
     <string name="screenshot_saved_title">Screenshot acquisito.</string>
     <string name="screenshot_saved_text">Tocca per visualizzare il tuo screenshot.</string>
-    <string name="screenshot_failed_title">Impossibile acquisire lo screenshot.</string>
     <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
     <string name="accessibility_back">Indietro</string>
     <string name="accessibility_home">Home</string>

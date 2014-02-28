@@ -10,6 +10,10 @@
     <string name="chooser_wallpaper">Scegli sfondo da</string>
     <string name="activity_not_found">"L'applicazione non è installata sul telefono."</string>
     <string name="cancel_action">Annulla</string>
+    <string name="apply_as_lock_wallpaper">Applica</string>
+    <string name="apply_as_lock_wallpaper_message">Applicare questo sfondo anche alla lockscreen?</string>
+    <string name="lock_screen_failed_message">Impossibile applicare</string>
+    <string name="lock_screen_success_message">Applicato</string>
     <string name="menu_item_add_item">Aggiungi alla Home</string>
     <string name="group_shortcuts">Collegamenti</string>
     <string name="group_folder">Nuova cartella</string>
