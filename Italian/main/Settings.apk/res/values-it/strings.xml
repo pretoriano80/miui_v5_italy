@@ -310,6 +310,9 @@
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Impossibile eliminare, il tuo dispositivo è impostato per passare a questa configurazione quando la batteria è in carica. Potresti aver bisogno di modificare le impostazioni della batteria prima di cancellare questa modalità.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Impossibile eliminare, il tuo dispositivo è impostato per passare a questa configurazione quando termina il tempo programmato. Potresti aver bisogno di modificare le impostazioni della batteria prima di cancellare questa modalità.</string>
     <string name="power_mode_chooser_button_text">Applica</string>
+    <string name="menu_item_force_stop">Forza interruzione</string>
+    <string name="menu_item_uninstall">Disinstalla</string>
+    <string name="menu_item_app_details">Dettagli</string>
     <string name="application_info_label">Informazioni applicazione</string>
     <string name="version_text">versione %1$s</string>
     <string name="security_relative">Sicurezza</string>
@@ -319,7 +322,7 @@
     <string name="perm_manage_tab_title">Permessi</string>
     <string name="app_manage_tab_title">Applicazioni</string>
     <string name="app_log_tab_title">Registro permessi</string>
-    <string name="perm_copyright">Supportato da LBE Privacy Guard</string>
+    <string name="perm_copyright">Powered by LBE Privacy Guard</string>
     <string name="perm_version">Versione: %1$s</string>
     <string name="perm_configuration">Impostazioni</string>
     <string name="perm_user_app">Applicazioni scaricate (%d)</string>

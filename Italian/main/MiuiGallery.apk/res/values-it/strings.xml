@@ -350,6 +350,8 @@ i tuoi amici."</string>
     <string name="cloud_album_set_scan_qr_code">QR code</string>
     <string name="scan_qr_code_failure">Impossibile scansionare QR code.</string>
     <string name="big_screen_alertdialog_title">Proiettore</string>
+    <string name="comma">, </string>
+    <string name="quotation">\"%s\"</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Altro</string>

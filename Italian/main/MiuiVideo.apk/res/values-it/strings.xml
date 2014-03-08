@@ -39,6 +39,7 @@
     <string name="variety">综艺</string>
     <string name="comment">Comments</string>
     <string name="livetv">Live</string>
+    <string name="online_video">Video Online</string>
     <string name="comment_hint">(300 character limit)</string>
     <string name="comment_hint_tip">Your comment will be displayed after a brief review.</string>
     <string name="comment_max_error">Your comment cannot exceed 300 characters</string>
@@ -166,6 +167,7 @@
     <string name="button_information">Information</string>
     <string name="be_living_status">Live</string>
     <string name="forecast_living_status">Direct broadcast</string>
+    <string name="start_time">start time</string>
     <string name="to_live_status">Waiting for broadcast to begin</string>
     <string name="will_live_status">Live</string>
     <string name="end_live_status">Broadcast has ended</string>
@@ -213,7 +215,6 @@
     <string name="in_pause">Paused</string>
     <string name="paused">Paused</string>
     <string name="offline_continue">Continue</string>
-    <string name="offline_episode">%d</string>
     <string name="offline_media_more">Cahce more</string>
     <string name="media_source_unavailable">Source is unavailable</string>
     <string name="download_add_success">Add download task success</string>
@@ -302,8 +303,8 @@
     <string name="buffering">Buffering...</string>
     <string name="airkan_video_playing_in">Video in</string>
     <string name="airkan_video_playing">riproduzione</string>
-    <string name="airkan_tips">"Premi qui per trasmettere il video
-su box o TV"</string>
+    <string name="airkan_tips">"Premi qui per trasmettere il videosu
+box o TV"</string>
     <string name="menu_item_orientation_auto_sensor_action">Abilita Rotazione</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Disabilita Rotazione</string>
     <string name="menu_item_screen_shot">Screenshot</string>
@@ -318,8 +319,7 @@ su box o TV"</string>
     <string name="loading_video_netplay_label_v5">Caricamento stream, attendere prego...</string>
     <string name="buffering_video_netplay_label_v5">Buffering...</string>
     <string name="to_be_play_label_v5">Inizio riproduzione</string>
-    <string name="episode_prefix">episodio</string>
-    <string name="episode_suffix">集</string>
+    <string name="episode_suffix">Il primo di %d</string>
     <string name="about_version_label">Versione:</string>
     <string name="about_developer_label">Sviluppatore</string>
     <string name="about_developer_name">MIUI</string>
@@ -332,4 +332,11 @@ su box o TV"</string>
     <string name="menu_item_enable_3d_mode">Attiva 3D</string>
     <string name="menu_item_disable_3d_mode">Disattiva 3D</string>
     <string name="toast_message_set_misound">Configura MiAudio</string>
+    <string name="vp_select_ci">Seleziona</string>
+    <string name="vp_offline">Offline</string>
+    <string name="vp_next_ci">Avanti</string>
+    <string name="vp_standard_definition">SD</string>
+    <string name="vp_high_definition">HD</string>
+    <string name="vp_super_definition">Super</string>
+    <string name="vp_full_high_definition">1080P</string>
 </resources>

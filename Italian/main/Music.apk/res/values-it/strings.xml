@@ -321,8 +321,11 @@
     <string name="vip_rebuy">Rinnova</string>
     <string name="data_usage_warning">Utilizzo dati</string>
     <string name="data_usage_warning_summary">Utilizzando la connessione dati per ascoltare in streaming musica di alta qualità i costi potrebbero aumentare.</string>
-    <string name="albumsongseparator" />
-    <string name="notification_artist_album">%2$s %1$s</string>
+    <string name="source_from">Fonte: %1$s</string>
+    <string name="albumsongseparator">"
+"</string>
+    <string name="notification_artist_album">"%2$s 
+%1$s"</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

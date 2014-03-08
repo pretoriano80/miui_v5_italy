@@ -164,6 +164,7 @@
     <string name="text_done">Ok</string>
     <string name="text_save">Salva</string>
     <string name="adjust_no_network_update_data_fail">Impossibile aggiornare i dati, prova di nuovo dopo aver controllato le impostazioni di connessione.</string>
+    <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
     <string name="custom_adjust_title">Regola impostazioni personalizzate</string>
     <string name="custom_adjust_sender">Numero mittente</string>
     <string name="custom_adjust_command">Contenuto dal mittente</string>

@@ -58,6 +58,8 @@
     <string name="user_notice_yp_detail_summary_format">"L'informazione parziale di questa risorsa deve essere aggiornata online, leggi %1$s e %2$s, click \"Agree\" means that you agree the above content and should obey the agreement, click \"Cancel\" to view the cached info only.</string>
     <string name="about_smart_antispam_summary">Informazioni sul rilevamento di numeri sconosciuti da parte di Smart Antispam</string>
     <string name="about_telephone_fraud">Informazioni sulle Truffe telefoniche</string>
+    <string name="notify_connect_every_time">Chiedi ogni volta i permessi di rete</string>
+    <string name="do_not_remind_me">Non ricordarmelo più</string>
     <string name="title_about_yellow_page">Informazioni</string>
     <string name="payment_back">Indietro</string>
     <string name="payment_failed_common_problems">Si è verificato un errore durante il pagamento.</string>
@@ -79,7 +81,7 @@
     <string name="recharge_payment_result_progress_summary">Controllo risultato pagamento…</string>
     <string name="recharge_phone_number_error">Numero di telefono non valido.</string>
     <string name="recharge_user_confirm_title">Conferma</string>
-    <string name="recharge_user_confirm_summary">"YTi verranno addebitati %1$s per RMB%2$s 
+    <string name="recharge_user_confirm_summary">"Ti verranno addebitati %1$s per RMB%2$s 
 
 Totale: RMB%3$s"</string>
     <string name="recharge_order_id">ID ordine：</string>
@@ -111,7 +113,8 @@ Totale: RMB%3$s"</string>
     <string name="express_inquiry_button_text">Traccia</string>
     <string name="express_inquiry_serial_number_prefix">"Numero seriale: "</string>
     <string name="express_inquiry_no_result">Nessun risultato.</string>
-    <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
+    <string name="express_inquiry_internal_failure">"Si è verificato un errore.
+Verifica il tuo numero di tracciamento."</string>
     <string name="express_inquiry_data_owner_prefix">Informazioni di tracciamento fornite da</string>
     <string name="express_inquiry_data_owner_suffix" />
     <string name="scan">Scansiona</string>

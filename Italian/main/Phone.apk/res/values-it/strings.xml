@@ -801,6 +801,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="call_record_notification_message_miui">Clicca per vedere %s</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Registrazione interrotta perchè la scheda SD non è montata.</string>
     <string name="call_record_notification_message_start_failed">"Il dispositivo di registrazione è in uso da un'altra applicazione".</string>
+    <string name="call_record_error_access">Impossibile registrare in moda</string>
     <string name="call_record_notification_title_error_miui">Registrazione chiamata fallita</string>
     <string name="call_record_notification_title_miui">Registrazione chiamata completata</string>
     <string name="call_record_sd_error_miui">Errore accesso scheda SD!</string>
