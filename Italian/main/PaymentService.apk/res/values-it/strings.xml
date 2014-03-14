@@ -91,13 +91,13 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="paytool_msp_not_installed">Non hai installato il plugin %1$s per la sicurezza mobile, installarlo adesso?</string>
     <string name="progress_paytool_creating">Creazione ordine %1$s …</string>
     <string name="progress_paytool_installing">Installazione plugin  %1$s per la sicurezza mobile…</string>
+    <string name="prepaid_grid_carrier_hint">Seleziona operatore</string>
+    <string name="prepaid_grid_denomination_hint">Seleziona importo</string>
     <string name="prepaid_picker_hint_1_1">1.</string>
     <string name="prepaid_picker_hint_1_2">Supportate solo ricariche mono uso;</string>
     <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">Il valore nominale deve essere equivalente a quello della carta prepagata. La selezione di un importo diverso annullerà la carta. Questa operazione non può essere annullata.</string>
     <string name="prepaid_picker_hint_2_2_b">"Se il valore nominale della carta prepagata non è &lt;font color=red>￥%1$s&lt;/font>, la carta verrà annullata. Xiaomi non è responsabile per qualsiasi perdita di denaro causata da errori dell'utente."</string>
-    <string name="prepaid_picker_title_default">Seleziona importo</string>
-    <string name="prepaid_picker_title_selected">importo</string>
     <string name="prepaid_number_edit_hint">Numero</string>
     <string name="prepaid_password_edit_hint">Password</string>
     <string name="prepaid_edit_limit">numeri</string>
@@ -116,8 +116,6 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="msg_picker_hint_1_2">La ricarica tramite SMS potrebbe essere più costosa: &lt;font color=red>￥2 = 1 MiCredit&lt;/font></string>
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Gli operatori addebitano ￥0.1 di costi per ogni ricarica</string>
-    <string name="msg_picker_hint_3_1">3.</string>
-    <string name="msg_picker_hint_3_2">RIcarica mensile massima: ￥300</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Ricarica fallita</string>
     <string name="progress_msg_creating">Creazione ordine di ricarica…</string>
@@ -202,6 +200,8 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit in omaggio</string>
     <string name="recharge_push_notification_prime_title">%1$d ha aggiunto %2$s MiCredit sul tuo account</string>
     <string name="recharge_push_notification_sub_title">Ricarica completata.</string>
+    <string name="giftcard_expire_notification_prime_title">Accidenti! Il tuo codice promozionale sta per scadere...</string>
+    <string name="giftcard_expire_notification_sub_title">La tua scheda regalo Mi scade il %1$s</string>
     <string name="title_mili_center">MiCredit</string>
     <string name="title_recharge_record">Registro ricariche</string>
     <string name="title_pay_record">Registro pagamenti</string>
@@ -219,6 +219,7 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="mibi_license_title">Accordo utente</string>
     <string name="mibi_license_message">Tocca OK se accetti i termini e le condizioni descritte in %1$s.</string>
     <string name="mibi_license_message_span">Accordo Utente MiCredit</string>
+    <string name="btn_agree">Sono d'accordo</string>
     <string name="security_setting">Impostazioni di sicurezza</string>
     <string name="lockscreen_forgot_pattern_button_text">&lt;u>Sequenza dimenticata&lt;/u></string>
     <string name="lockpattern_recording_intro_header">Disegna sequenza di sblocco:</string>

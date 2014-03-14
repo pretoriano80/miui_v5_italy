@@ -18,7 +18,7 @@
     <string name="minute">min.</string>
     <string name="seconds">sec.</string>
     <string name="review_success">Commento inviato</string>
-    <string name="subchannel_all">全部</string>
+    <string name="subchannel_all">Tutto</string>
     <string name="filter_media">Filtro</string>
     <string name="clear_history">Cancella cronologia</string>
     <string name="clear_cache">Cancella la cache delle immagini</string>
@@ -67,6 +67,7 @@
     <string name="count_ge">%d file</string>
     <string name="gong_count_xiang">%d file</string>
     <string name="gong_count_dlna">%d DLNA</string>
+    <string name="visit_postfix">| visitato di recente</string>
     <string name="jni_res_connect_error">Impossibile connettersi alla rete</string>
     <string name="jni_res_timout">Connessione di rete scaduta</string>
     <string name="jni_res_session_timout">Sessione utente scaduta</string>
@@ -215,12 +216,11 @@
     <string name="in_pause">Pausa</string>
     <string name="paused">Pausa</string>
     <string name="offline_continue">Continua</string>
-    <string name="offline_episode">%d</string>
     <string name="offline_media_more">Più cache</string>
     <string name="media_source_unavailable">Origine non disponibile</string>
     <string name="download_add_success">Download aggiunto correttamente</string>
     <string name="download_is_in_tasklist">È stato inserito nella lista cache</string>
-    <string name="download_is_success">E' stato memorizzato nella cache</string>
+    <string name="download_is_success">"E' stato memorizzato nella cache"</string>
     <string name="download_file_fail">"Accesso ai file locali non riuscita, forse non c'è spazio sulla scheda SD"</string>
     <string name="download_geturl_fail">Acquisizione URL fallita, si prega di controllare la rete e riprovare.</string>
     <string name="download_fail">Cache fallita</string>
