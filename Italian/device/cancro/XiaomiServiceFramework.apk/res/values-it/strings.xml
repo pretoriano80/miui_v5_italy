@@ -252,8 +252,8 @@
     <string name="micloud_user_id">ID Xiaomi</string>
     <string name="micloud_storage_space">Spazio di archiviazione MiCloud</string>
     <string name="micloud_user_space_usage">Spazio utilizzato</string>
-    <string name="micloud_web_discription_01">Accesso a http://i.xiaomi.com</string>
-    <string name="micloud_web_discription_02">per archiviare i tuoi file ed accedere ad essi da qualunque posto</string>
+    <string name="micloud_web_discription_01" />
+    <string name="micloud_web_discription_02">Accedi a http://i.xiaomi.com per archiviare i tuoi file ed accedervi da qualunque posto</string>
     <string name="micloud_gallery_image">Immagini MiCloud</string>
     <string name="micloud_gallery_video">Video MiCloud</string>
     <string name="micloud_app_data">Backup app MiCloud</string>
