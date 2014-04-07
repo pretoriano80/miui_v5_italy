@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Testo molto piccolo</item>
+        <item>Testo piccolo</item>
+        <item>Testo normale</item>
+        <item>Testo grande</item>
+        <item>Testo molto grande</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Mostra la schermata più recente messaggio dopo aver eliminato un messaggio"</item>
+        <item>"Mostra  la schermata più vecchia dopo aver eliminato un messaggio"</item>
+        <item>"Mostra la schermata dell'elenco dei messaggi dopo aver eliminato un messaggio"</item>
+    </string-array>
+</resources>
