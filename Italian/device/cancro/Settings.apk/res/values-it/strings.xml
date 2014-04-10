@@ -2322,7 +2322,6 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Attivo</string>
     <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Tempo di attività dispositivo</string>
     <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
     <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>

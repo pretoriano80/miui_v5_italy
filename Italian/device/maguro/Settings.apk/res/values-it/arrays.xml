@@ -157,19 +157,6 @@
         <item>Bloccato</item>
         <item>Evitamento temporaneo di connessione debole</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="wifi_ap_security">
         <item>Aperta</item>
         <item>WPA PSK</item>
@@ -484,16 +471,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
-    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Medio</item>
@@ -578,19 +555,6 @@
         <item>Bianco</item>
         <item>Viola</item>
     </string-array>
-    <string-array name="always_enabled_app_list">
-        <item>com.android.providers.applications</item>
-        <item>com.android.providers.calendar</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.providers.downloads</item>
-        <item>com.android.providers.drm</item>
-        <item>com.android.providers.media</item>
-        <item>com.android.providers.telephony</item>
-        <item>com.android.providers.userdictionary</item>
-        <item>com.miui.providers.userbook</item>
-        <item>com.miui.providers.weather</item>
-        <item>com.miui.yellowpage</item>
-    </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
@@ -648,57 +612,14 @@
         <item>20000</item>
         <item>-1</item>
     </string-array>
-    <string-array name="font_size_title">
-        <item>@string/font_size_small</item>
-        <item>@string/font_size_normal</item>
-        <item>@string/font_size_medium</item>
-        <item>@string/font_size_large</item>
-    </string-array>
     <integer-array name="font_size_preference_preview_size">
         <item>14</item>
         <item>18</item>
         <item>22</item>
         <item>27</item>
     </integer-array>
-    <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_names">
-        <item>@string/dolby_ieq_flat</item>
-        <item>@string/dolby_ieq_open</item>
-        <item>@string/dolby_ieq_rich</item>
-        <item>@string/dolby_ieq_focused</item>
-    </string-array>
-    <string-array name="dirac_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0,0,0</item>
-        <item>2,1,-1,0,-1,-1,2</item>
-        <item>0,0,0,-1,-1.5,0,0</item>
-        <item>0,-1.5,-2.5,0,0,-1.5,0</item>
-        <item>0,0,0,0,1.5,3,3</item>
-        <item>1.5,1.5,-1.5,0,-1.5,0,1</item>
-        <item>1,2,-3,2,0,0.5,1</item>
-        <item>1.5,1.5,-0.5,0,-1.5,0,0</item>
-        <item>0,0,-1,-1,1,1,0</item>
-        <item>0,2,1,0,-1,-1,2</item>
-        <item>1,0,0,-1,-2,0,0</item>
-    </string-array>
-    <string-array name="dirac_equalizer_preset_names">
-        <item>@string/eq_flat</item>
-        <item>@string/eq_rock</item>
-        <item>@string/eq_jazz</item>
-        <item>@string/eq_pop</item>
-        <item>@string/eq_classical</item>
-        <item>@string/eq_hiphop</item>
-        <item>@string/eq_blues</item>
-        <item>@string/eq_electronic</item>
-        <item>@string/eq_country</item>
-        <item>@string/eq_dance</item>
-        <item>@string/eq_metal</item>
-    </string-array>
     <string-array name="wfd_status">
-        <item>Dispositico connesso, creazione sessione...</item>
+        <item>Dispositivo connesso, creazione sessione...</item>
         <item>Sessione creata</item>
         <item>Disattivazione sessione...</item>
         <item>Sessione fallita</item>
@@ -738,7 +659,7 @@ Apri e seleziona AndroidFileTransfer.dmg per l'installazione"</item>
         <item>"2.L'unità di archiviazione MI 2 verrà visualizzata sul tuo computer
 Adesso puoi trasferire i tuoi dati"</item>
         <item></item>
-        <item>"Il comuter aprirà e leggerà automaticamente i dati del telefono
+        <item>"Il computer aprirà e leggerà automaticamente i dati del telefono
 Adesso puoi trasferire i file"</item>
         <item></item>
     </string-array>
@@ -748,7 +669,7 @@ l'unità di archiviazione MI 2 dovrebbe comparire sul tuo computer"</item>
         <item>"Per Vista o versioni successive,
 il MI 2 music player comparirà sul tuo computer"</item>
         <item>"Se installi questi driver
-Il comuter aprirà e leggerà automaticamente i dati del telefono"</item>
+Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
