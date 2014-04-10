@@ -22,13 +22,13 @@
     <string name="skip">Non registrare</string>
     <string name="review_cancel">ANNULLA</string>
     <string name="pref_camera_id_title">Seleziona Fotocamera</string>
-    <string name="pref_camera_id_default">0</string>
+
     <string name="pref_camera_recordlocation_title">Rileva posizione</string>
-    <string name="pref_camera_recordlocation_default">false</string>
+
     <string name="pref_camera_recordlocation_entry_off">Off</string>
     <string name="pref_camera_recordlocation_entry_on">On</string>
     <string name="pref_camera_sound_title">Suono fotocamera</string>
-    <string name="pref_camera_sound_default">on</string>
+
     <string name="pref_camera_sound_title_entry_off">Disattivato</string>
     <string name="pref_camera_sound_title_entry_on">Attivato</string>
     <string name="pref_camera_sound_entry_off">off</string>
@@ -38,11 +38,11 @@
     <string name="pref_captrue_mirror_title">Fotoc.frontale (effetto specchio)</string>
     <string name="pref_captrue_mirror_entry_off">Disattivato</string>
     <string name="pref_captrue_mirror_entry_on">Attivato</string>
-    <string name="pref_captrue_mirror_default">off</string>
-    <string name="pref_captrue_mirror_value_off">off</string>
-    <string name="pref_captrue_mirror_value_on">on</string>
+
+	
+	
     <string name="pref_video_quality_title">Qualità video</string>
-    <string name="pref_video_quality_default">5</string>
+
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
     <string name="pref_video_quality_entry_720p">HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>
@@ -51,7 +51,7 @@
     <string name="pref_video_quality_entry_vga">VGA</string>
     <string name="pref_video_quality_entry_wqvga">WQVGA</string>
     <string name="pref_video_time_lapse_frame_interval_title">Intervallo time lapse</string>
-    <string name="pref_video_time_lapse_frame_interval_default">120</string>
+
     <string name="pref_video_time_lapse_frame_interval_entry_2">Intervallo di 0.06 secondi(2 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">Intervallo di 0.12 secondi(4 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi(10 volte)</string>
@@ -87,41 +87,41 @@
     <string name="pref_camera_picturesize_professional_entry_1280x960">1.3Mp(1280x960)</string>
     <string name="pref_camera_picturesize_professional_entry_1280x720">0.9Mp(1280x720)</string>
     <string name="pref_camera_picturesize_professional_entry_1024x768">0.8Mp(1024x768)</string>
-    <string name="pref_camera_jpegquality_default">fine</string>
-    <string name="pref_camera_picture_size_default">3600X2160</string>
-    <string name="pref_camera_front_picture_size_default">1280x720</string>
-    <string name="pref_camera_picture_format_default">jpeg</string>
+
+
+
+ 
     <string name="pref_camera_picture_format_title">Formato Immagine</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Non compresso</string>
-    <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
-    <string name="pref_camera_picture_format_value_raw">raw</string>
+
+
     <string name="pref_camera_jpegquality_title">Qualità</string>
     <string name="pref_camera_jpegquality_entry_superfine">Super fine</string>
     <string name="pref_camera_jpegquality_entry_fine">Fine</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
-    <string name="pref_camera_histogram_default">disable</string>
+
     <string name="pref_camera_histogram_title">Istogramma</string>
     <string name="pref_camera_histogram_entry_enable">Abilita</string>
     <string name="pref_camera_histogram_entry_disable">Disabilita</string>
-    <string name="pref_camera_histogram_value_enable">enable</string>
-    <string name="pref_camera_histogram_value_disable">disable</string>
+
+ 
     <string name="pref_camera_focusmode_title">Messa a fuoco</string>
     <string name="pref_camera_focusmode_entry_auto">Auto</string>
     <string name="pref_camera_focusmode_entry_normal">Normale</string>
     <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
     <string name="pref_camera_focusmode_entry_macro">Macro</string>
     <string name="pref_camera_focusmode_entry_continuous">CAF</string>
-    <string name="pref_camera_focusmode_value_default">auto</string>
-    <string name="pref_camera_flashmode_default">auto</string>
-    <string name="pref_camera_skin_beautify_default">off</string>
+
+	
+
     <string name="pref_camera_flashmode_no_flash">no_flash</string>
     <string name="pref_camera_flashmode_title">Flash</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_on">On</string>
     <string name="pref_camera_flashmode_entry_off">Off</string>
-    <string name="pref_camera_video_flashmode_default">off</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
+
+
     <string name="pref_camera_whitebalance_title">Bilanciamento bianco</string>
     <string name="pref_camera_whitebalance_k_value_title">Bilanciamento bianco K</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -129,7 +129,7 @@
     <string name="pref_camera_whitebalance_entry_daylight">Diurno</string>
     <string name="pref_camera_whitebalance_entry_fluorescent">Fluor.</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Nuv.</string>
-    <string name="pref_camera_coloreffect_default">none</string>
+	
     <string name="pref_camera_coloreffect_title">Effetti colore</string>
     <string name="pref_camera_coloreffect_entry_none">Nessuno</string>
     <string name="pref_camera_coloreffect_entry_mono">Mono</string>
@@ -140,7 +140,7 @@
     <string name="pref_camera_coloreffect_entry_blackboard">Bordi neri</string>
     <string name="pref_camera_coloreffect_entry_whiteboard">Bordi bianchi</string>
     <string name="pref_camera_coloreffect_entry_sepia_blue">Blu Seppia</string>
-    <string name="pref_camera_touchafaec_default">touch-on</string>
+
     <string name="pref_camera_touchafaec_title">Tocco AF/AEC</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
@@ -154,11 +154,11 @@
     <string name="pref_camera_saturation_entry_middle">Media</string>
     <string name="pref_camera_saturation_entry_high">Alta</string>
     <string name="pref_camera_default_suffix">(Default)</string>
-    <string name="pref_camera_sharpness_default">middle</string>
+
     <string name="pref_camera_sharpness_title">Nitidezza</string>
-    <string name="pref_camera_contrast_default">middle</string>
+ 
     <string name="pref_camera_contrast_title">Contrasto</string>
-    <string name="pref_camera_saturation_default">middle</string>
+
     <string name="pref_camera_saturation_title">Saturazione</string>
     <string name="pref_camera_scenemode_default">auto</string>
     <string name="pref_camera_scenemode_title">Modalità Scena</string>
@@ -175,14 +175,14 @@
     <string name="pref_camera_scenemode_entry_sports">Sport</string>
     <string name="pref_camera_scenemode_entry_backlight">Controluce</string>
     <string name="pref_camera_scenemode_entry_flowers">Fiori</string>
-    <string name="pref_camera_scenedetect_default">off</string>
+
     <string name="pref_camera_scenedetect_title">Auto-selezione Scena</string>
     <string name="not_selectable_in_scene_mode">Non selezionabile in Modalità Scena</string>
     <string name="pref_exposure_title">Esposizione</string>
-    <string name="pref_exposure_default">0</string>
+
     <string name="pref_camera_denoise_title">Modalità Wavelet Denoise</string>
-    <string name="pref_camera_denoise_default">denoise-on</string>
-    <string name="pref_camera_iso_default">auto</string>
+
+
     <string name="pref_camera_iso_title">Seleziona ISO</string>
     <string name="pref_camera_iso_entry_auto">Auto</string>
     <string name="pref_camera_iso_entry_iso100">ISO100</string>
@@ -191,13 +191,13 @@
     <string name="pref_camera_iso_entry_iso800">ISO800</string>
     <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
     <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
-    <string name="pref_camera_iso_value_auto">auto</string>
-    <string name="pref_camera_iso_value_iso100">ISO100</string>
-    <string name="pref_camera_iso_value_iso200">ISO200</string>
-    <string name="pref_camera_iso_value_iso400">ISO400</string>
-    <string name="pref_camera_iso_value_iso800">ISO800</string>
-    <string name="pref_camera_iso_value_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_value_iso3200">ISO3200</string>
+
+  
+
+   
+    
+    
+ 
     <string name="pref_camera_preview_entry_off">off</string>
     <string name="pref_camera_preview_entry_1000">1 secondo</string>
     <string name="pref_camera_preview_entry_2000">2 secondi</string>
@@ -207,7 +207,7 @@
     <string name="pref_camera_preview_value_2000">2000</string>
     <string name="pref_camera_preview_value_5000">5000</string>
     <string name="pref_camera_antibanding_title">Anti Banding</string>
-    <string name="pref_camera_antibanding_default">50hz</string>
+
     <string name="pref_camera_antibanding_entry_0">Off</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -218,24 +218,24 @@
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
-    <string name="pref_camera_hfr_default">90</string>
+   
     <string name="pref_camera_hfr_title">Framerate video</string>
     <string name="pref_camera_hfr_entry_off">Off</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
-    <string name="pref_camera_hfr_value_off">off</string>
-    <string name="pref_camera_hfr_value_2x">60</string>
-    <string name="pref_camera_hfr_value_3x">90</string>
-    <string name="pref_camera_hfr_value_4x">120</string>
+   
+   
+    
+    
     <string name="pref_video_speed_title">Velocità video</string>
-    <string name="pref_video_speed_default">normale</string>
+    
     <string name="pref_video_speed_entry_normal">Normale</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
-    <string name="pref_video_speed_value_normal">normal</string>
-    <string name="pref_video_speed_value_fast">fast</string>
-    <string name="pref_video_speed_value_slow">slow</string>
+    
+   
+    
     <string name="pano_too_fast_prompt">Troppo Veloce</string>
     <string name="pano_how_to_use_prompt">Premi il tasto per iniziare la foto panoramica</string>
     <string name="pano_how_to_use_prompt_to_move">Mantenere il telefono in posizione fissa durante l\'esecuzione</string>
@@ -247,7 +247,7 @@
     <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pano_review_saving_indication_str">Salvataggio...</string>
     <string name="tap_to_focus">Tocca per mettere a fuoco</string>
-    <string name="pref_video_effect_default">none</string>
+   
     <string name="effect_none">Nessuno</string>
     <string name="effect_goofy_face_squeeze">Spremi</string>
     <string name="effect_goofy_face_big_eyes">Occhi grandi</string>
@@ -274,44 +274,26 @@ ed esci dall'inquadratura"</string>
     <string name="accessibility_camera_picker">Fotocamera frontale o posteriore</string>
     <string name="accessibility_zoom_control">Controllo zoom</string>
     <string name="empty">" "</string>
-    <string name="pref_camera_autoexposure_default">frame-average</string>
     <string name="pref_camera_autoexposure_title">Metodo esposizione automatica</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Multi-Zona</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Media ponderata al centro</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
-    <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
-    <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
-    <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
-    <string name="pref_camera_videoencoder_default">h264</string>
-    <string name="pref_camera_audioencoder_default">aac</string>
     <string name="pref_camera_audio_capture_title">Scatto vocale</string>
-    <string name="pref_camera_video_duration_default">10</string>
     <string name="pref_camera_video_duration_title">Durata Video</string>
     <string name="pref_camera_video_duration_entry_mms">30 secondi(MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10 minuti</string>
     <string name="pref_camera_video_duration_entry_30">30 minuti</string>
     <string name="pref_camera_video_duration_entry_120">2 ore</string>
-    <string name="pref_camera_skinToneEnhancement_default">disable</string>
     <string name="pref_camera_skinToneEnhancement_title">Miglioramento Skin Tone Enhancement</string>
     <string name="pref_camera_skinToneEnhancement_entry_auto">Miglioramento Automatico</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Abilita</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Disattiva</string>
-    <string name="pref_camera_skinToneEnhancement_value_auto">auto</string>
-    <string name="pref_camera_skinToneEnhancement_value_enable">enable</string>
-    <string name="pref_camera_skinToneEnhancement_value_disable">disable</string>
     <string name="pref_camera_zsl_title">Scatto rapido</string>
-    <string name="pref_camera_zsl_default">on</string>
-    <string name="pref_camera_selectablezoneaf_default">auto</string>
     <string name="pref_camera_zsl_entry_off">Disattivato</string>
     <string name="pref_camera_zsl_entry_on">Attivato</string>
-    <string name="pref_camera_zsl_value_off">off</string>
-    <string name="pref_camera_zsl_value_on">on</string>
-    <string name="pref_camera_facedetection_default">on</string>
     <string name="pref_camera_facedetection_title">Riconoscimento Viso</string>
     <string name="pref_camera_facedetection_entry_off">Disattivato</string>
     <string name="pref_camera_facedetection_entry_on">Attivato</string>
-    <string name="pref_camera_powermode_default">Normal_Power</string>
-    <string name="pref_camera_redeyereduction_default">disable</string>
     <string name="error_app_unsupported_raw_wavelet">La riduzione di onde non funzionerà scattando foto normalmente</string>
     <string name="pref_camera_redeyereduction_title">Occhi Rossi</string>
     <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
@@ -328,7 +310,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_ae_bracket_hdr_value_off">Off</string>
     <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
     <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
-    <string name="pref_camera_ae_bracket_hdr_default">Off</string>
     <string name="hdr_exit_button_text">Esci dalla modalità HDR</string>
     <string name="hand_night_exit_button_text">Esci dalla modalità Notte</string>
     <string name="videocamera_settings_label">Impostazioni Fotocamera</string>
@@ -346,17 +327,13 @@ ed esci dall'inquadratura"</string>
     <string name="pref_video_continuous_focus_entryvalue_default">caf-off</string>
     <string name="pref_camera_referenceline_entry_off">Disattivato</string>
     <string name="pref_camera_referenceline_entry_on">Attivato</string>
-    <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
-    <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
     <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Funzioni tasto volume</string>
-    <string name="pref_camera_volumekey_function_default">zoom</string>
     <string name="pref_camera_long_pressing_burst_shooting_title">Scatto multiplo</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Disattivato</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Attivato</string>
-    <string name="pref_camera_long_pressing_burst_shooting_default">on</string>
     <string name="pref_camera_current_k_value">Valore attuale</string>
     <string name="error_fail_to_start_audio_capture">Impossibile registrare audio: il microfono potrebbe essere in uso da un\'altra applicazione.</string>
     <string name="toast_start_audio_capture">Riproduci un suono al momento dello scatto</string>
@@ -368,12 +345,9 @@ ed esci dall'inquadratura"</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Lo scatto multiplo non è supportato quando la registrazione audio è attivata.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Lo scatto multiplo non è supportato quando ISO non è impostato su Auto </string>
     <string name="time_lapse_error">Dimensione video non valida per la registrazione programmata.</string>
-    <string name="pref_camera_movie_solid_default">on</string>
     <string name="pref_camera_movie_solid_title">Stabilizzazione video</string>
     <string name="pref_camera_movie_solid_entry_off">Disattivato</string>
     <string name="pref_camera_movie_solid_entry_on">Attivato</string>
-    <string name="pref_camera_movie_solid_value_off">off</string>
-    <string name="pref_camera_movie_solid_value_on">on</string>
     <string name="pref_camera_storage_external_default">off</string>
     <string name="pref_camera_storage_external_title">Memoria</string>
     <string name="pref_camera_storage_external_entry_off">Memoria telefono</string>
@@ -523,7 +497,4 @@ ed esci dall'inquadratura"</string>
     <string name="pref_scan_qrcode_title">Scansiona Codici QR</string>
     <string name="pref_scan_qrcode_entry_off">Disattivato</string>
     <string name="pref_scan_qrcode_entry_on">Attivato</string>
-    <string name="pref_scan_qrcode_default">on</string>
-    <string name="pref_scan_qrcode_value_off">off</string>
-    <string name="pref_scan_qrcode_value_on">on</string>
 </resources>
