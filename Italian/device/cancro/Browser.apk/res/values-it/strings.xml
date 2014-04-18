@@ -432,7 +432,6 @@
     <string name="pref_ua_title">Gestione User Agent</string>
     <string name="pref_ua_string">Stringa User Agent</string>
     <string name="pref_ua_mione_entry">Mi-One</string>
-    <string name="pref_ua_mione_value">4</string>
     <string name="dump_counters">Dump contatori V8</string>
     <string name="dump_dom_tree">Dump albero DOM nel file</string>
     <string name="dump_render_tree">Dump render albero nel file</string>
@@ -491,9 +490,6 @@
     <string name="pref_setting_title">Impostazioni pagina</string>
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="pref_images_preload_summary">" Consenti al browser di pre-caricare le immagini quando il server lo permette"</string>
-    <string name="pref_images_preload_value_never">0</string>
-    <string name="pref_images_preload_value_wifi_only">1</string>
-    <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_title">Pre-caricamento immagini</string>
     <string name="pref_images_preload_dialogtitle">Immagini in pre-caricamento...</string>
     <string name="pref_images_preload_value_never_summary">Non pre-caricare mai le immagini</string>

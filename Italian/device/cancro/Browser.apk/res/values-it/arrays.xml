@@ -131,20 +131,6 @@
         <item>shipin</item>
         <item>tupian</item>
     </string-array>
-    <integer-array name="readmode_content_font_size">
-        <item>16</item>
-        <item>18</item>
-        <item>20</item>
-        <item>24</item>
-        <item>28</item>
-    </integer-array>
-    <integer-array name="readmode_title_font_size">
-        <item>24</item>
-        <item>26</item>
-        <item>28</item>
-        <item>32</item>
-        <item>36</item>
-    </integer-array>
     <string-array name="menu_theme_setting">
         <item>Bianco</item>
         <item>Giallo</item>
