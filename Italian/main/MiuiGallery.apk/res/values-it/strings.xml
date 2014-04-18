@@ -302,10 +302,8 @@ i tuoi amici."</string>
     <string name="menu_item_sort">Ordina</string>
     <string name="menu_item_sort_name_asc">Per nome (A-Z)</string>
     <string name="menu_item_sort_name_desc">Per nome (Z-A)</string>
-    <string name="menu_item_sort_size_asc">Dimensione crescente</string>
-    <string name="menu_item_sort_size_desc">Dimensione decrescente</string>
-    <string name="menu_item_sort_visit_asc">Frequenza crescente</string>
-    <string name="menu_item_sort_visit_desc">Frequenza decrescente</string>
+    <string name="menu_item_sort_size_asc">Dimensione (crescente)</string>
+    <string name="menu_item_sort_size_desc">Dimensione (decrescente)</string>
     <string name="menu_item_sort_date_asc">Data crescente</string>
     <string name="menu_item_sort_date_desc">Data decrescente</string>
     <string name="operation_rename">Rinomina</string>
@@ -474,6 +472,7 @@ i tuoi amici."</string>
     <string name="autohomemain">Autohomemain</string>
     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
     <string name="tieba">Tie Ba</string>
+    <string name="yellow_page">Cartella</string>
     <string name="scan_barcode_to_join">"Scansiona il QR code per entrare nell'album."</string>
     <string name="where_is_barcode">"Dov'è il QR code?"</string>
     <string name="scan_barcode_guide">"Per avere il QR code dell'album, tocca l'icona Condividi nell'angolo in alto a destra.".</string>

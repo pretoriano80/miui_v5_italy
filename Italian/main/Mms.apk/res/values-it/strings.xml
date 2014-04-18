@@ -473,4 +473,5 @@
 Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="feedback_description_hint">Inserisci qui il tuo feedback</string>
     <string name="feedback_submit">Invia</string>
+    <string name="confirm_send_mms">Uno dei destinatari include un indirizzo email. Questo messaggio verrà inviato come MMS, potrebbero quindi essere addebitati costi aggiuntivi dal tuo operatore.</string>
 </resources>

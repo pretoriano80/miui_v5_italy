@@ -9,40 +9,38 @@
     <string-array name="reminder_minutes_labels">
         <item>Mai</item>
         <item>0 minuti</item>
-        <item>1 minuto</item>
         <item>5 minuti</item>
         <item>10 minuti</item>
         <item>15 minuti</item>
-        <item>20 minuti</item>
-        <item>25 minuti</item>
         <item>30 minuti</item>
-        <item>45 minuti</item>
         <item>1 ora</item>
-        <item>2 ore</item>
-        <item>3 ore</item>
-        <item>12 ore</item>
-        <item>24 ore</item>
+        <item>1 giorno</item>
         <item>2 giorni</item>
         <item>1 settimana</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
+        <item>Mai</item>
         <item>0 minuti</item>
-        <item>1 minuto</item>
         <item>5 minuti</item>
         <item>10 minuti</item>
         <item>15 minuti</item>
-        <item>20 minuti</item>
-        <item>25 minuti</item>
         <item>30 minuti</item>
-        <item>45 minuti</item>
         <item>1 ora</item>
-        <item>2 ore</item>
-        <item>3 ore</item>
-        <item>12 ore</item>
-        <item>24 ore</item>
+        <item>1 giorno</item>
         <item>2 giorni</item>
         <item>1 settimana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Preferenza default</item>

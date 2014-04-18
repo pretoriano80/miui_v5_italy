@@ -222,6 +222,7 @@
     <string name="offline_media_more">Più cache</string>
     <string name="media_source_unavailable">Origine non disponibile</string>
     <string name="download_add_success">Download aggiunto correttamente</string>
+    <string name="download_delete">Rimuovi processo</string>
     <string name="download_is_in_tasklist">È stato inserito nella lista cache</string>
     <string name="download_is_success">"E' stato memorizzato nella cache"</string>
     <string name="download_file_fail">"Accesso ai file locali non riuscita, forse non c'è spazio sulla scheda SD"</string>
@@ -256,6 +257,7 @@
     <string name="lekan">Lekan</string>
     <string name="dianyingwang">M1905</string>
     <string name="letv">Letv</string>
+    <string name="cnlive">cnlive</string>
     <string name="unknown_source">Origine sconosciuta</string>
     <string name="hint_can_not_get_source_info">"Non riesci a trovare le informazioni dell'origine video"</string>
     <string name="hint_without_selected_set">Nessuna origine selezionata, ricerca automatica in corso…</string>

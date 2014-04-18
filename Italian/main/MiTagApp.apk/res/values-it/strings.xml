@@ -91,8 +91,9 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="wireless_network">Wireless &amp; networks</string>
     <string name="display">Display</string>
     <string name="sound">Sound</string>
-    <string name="mode">mode</string>
-    <string name="communication">Phone</string>
+    <string name="mode">Modalità</string>
+    <string name="personal">Personale</string>
+    <string name="communication">TElefono</string>
     <string name="shortcut">Quick tasks</string>
     <string name="wifi">WLAN</string>
     <string name="click_to_choose">Touch to open</string>

@@ -65,7 +65,7 @@
         <item>2 minuti</item>
         <item>5 minuti</item>
         <item>10 minuti</item>
-        <item>Mai</item>
+        <item>30 minuti</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>

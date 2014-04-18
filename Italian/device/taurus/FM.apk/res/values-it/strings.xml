@@ -154,4 +154,6 @@
     <string name="toast_fm_recorder_storage_full">Memoria piena,la registrazione non può essere effettuata</string>
     <string name="toast_fm_not_stated">Radio FM non avviata</string>
     <string name="toast_fm_error_startfailed">"Registrazione fallita, un'altra applicazione potrebbe utilizzare la funzione di registrazione. Verifica e controlla di nuovo."</string>
+    <string name="toast_fm_recorder_access_error">Impossibile registrare in modalità Ospite</string>
+    <string name="msg_fm_starting">Avvio…</string>
 </resources>
