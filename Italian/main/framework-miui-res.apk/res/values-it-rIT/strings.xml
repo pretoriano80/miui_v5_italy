@@ -492,12 +492,12 @@ Prova di nuovo tra %d secondi."</string>
     <string name="forget_password_string">Recupera</string>
     <string name="miui_unlockscreen_password_wrong">Prova di nuovo</string>
     <string name="contact_carrier_message">"Contatta l'operatore per qualsiasi domanda"</string>
-    <string name="input_puk_code">Inserisci PUK</string>
+    <string name="input_puk_code">PUK</string>
     <string name="input_puk_code_to_unlock">Iserisci PUK per sbloccare il dispositivo</string>
     <string name="unlocking_sim_card">Sblocco SIM</string>
     <string name="short_pukcode_error_msg">Inserisci almento 8 numeri</string>
     <string name="short_pincode_error_msg">Inserisci 4-8 numeri</string>
-    <string name="input_pin_code">Inserisci PIN</string>
+    <string name="input_pin_code">PIN</string>
     <string name="input_pin_code_to_unlock">Inserisci PIN per sbloccare il dispositivo</string>
     <string name="pincode_set_to_default_msg">PIN impostato come 1234, ripristina il PIN qui.</string>
     <string name="incorrect_pukcode_remaining_attempts">PUK non corretto, tentativi rimasti: %d</string>
@@ -510,5 +510,4 @@ Prova di nuovo tra %d secondi."</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Apri impostazioni Wi-Fi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
-    <string name="alarm_message_12_hour_formate">aah:mm</string>
 </resources>
