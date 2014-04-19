@@ -8,19 +8,19 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;amp;language={language}</item>
     </string-array>
-    <string-array name="search_engines">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
+    <string-array name="menu_theme_setting">
+        <item>Bianco</item>
+        <item>Giallo</item>
+        <item>Grigio</item>
+        <item>Marrone</item>
+        <item>Verde</item>
+        <item>Blu</item>
+        <item>Scuro</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Sempre attivato</item>
         <item>Chiedimi sempre</item>
         <item>Disattivato</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Il browser aprirà questa pagina</item>
-        <item>Personalizza</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Molto piccolo</item>
@@ -29,11 +29,6 @@
         <item>Grande</item>
         <item>Molto grande</item>
     </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Lontano</item>
-        <item>Medio</item>
-        <item>Vicino</item>
-    </string-array>
     <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -41,6 +36,16 @@
         <item>iPad</item>
         <item>Froyo-N1</item>
         <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Mai</item>
@@ -131,15 +136,6 @@
         <item>shipin</item>
         <item>tupian</item>
     </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Bianco</item>
-        <item>Giallo</item>
-        <item>Grigio</item>
-        <item>Marrone</item>
-        <item>Verde</item>
-        <item>Blue</item>
-        <item>Scuro</item>
-    </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -153,6 +149,11 @@
     <string-array name="pref_fling_on_border_choices">
         <item>Pagina avanti/indietro</item>
         <item>Cambia finestra</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Małe</item>
+        <item>Średnie</item>
+        <item>Duże</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Mai</item>

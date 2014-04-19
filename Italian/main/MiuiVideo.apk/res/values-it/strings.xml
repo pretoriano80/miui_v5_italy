@@ -275,6 +275,7 @@
     <string name="no_video">Nessun video</string>
     <string name="dlna_name">Shared device</string>
     <string name="dlna_list_name">DLNA device</string>
+    <string name="check_network">Impossibile connettersi alla rete, controlalre la connessione</string>
     <string name="temp_play_history_button_label">Mostra cronologia</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Siamo spiacenti, il formato video selezionato non può essere riprodotto in streaming sul dispositivo.</string>
     <string name="vp_VideoView_error_text_unknown">Siamo spiacenti, il formato video selezionato non può essere riprodotto.</string>
