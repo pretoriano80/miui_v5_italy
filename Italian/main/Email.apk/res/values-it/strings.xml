@@ -14,8 +14,6 @@
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="email_package_name">com.android.email</string>
-    <string name="compose_help_context">compose</string>
-    <string name="wait_help_context">wait</string>
     <string name="main_help_context">ttl</string>
     <string name="trigger_save_char">s</string>
     <string name="trigger_compose_char">c</string>
@@ -62,10 +60,8 @@
     <string name="retry">Riprova</string>
     <string name="search_hint">Cerca email</string>
     <string name="no_conversations">Nessun messaggio.</string>
-    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
     <string name="done">Return</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="app_name">Email</string>
     <string name="permission_read_attachment_label">Lettura allegati email</string>
     <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
@@ -350,8 +346,6 @@ CC: %4$s
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_eas">eas</string>
     <string name="application_mime_type">application/email-ls</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contact Content Provider</string>
     <string name="account_cache_provider">Account Cache Provider</string>
     <string name="from">Da</string>
@@ -542,7 +536,6 @@ CC: %4$s
     <string name="search_results_loaded">%1$d</string>
     <string name="network_error">No connection</string>
     <string name="load_more">Load more</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="shortcut_name_title">Name folder shortcut</string>
     <string name="wait_for_sync_title">Waiting for sync</string>
     <string name="wait_for_sync_body">Your email will appear shortly.</string>
@@ -580,7 +573,6 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="auto_advance_summary">Choose which screen to show after you delete a message</string>
     <string name="auto_advance_help_title">"Set auto-advance preference
 (after you delete, etc.)"</string>
-    <string name="prefDefault_autoAdvance">list</string>
     <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
     <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
     <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
@@ -606,7 +598,6 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="silent_ringtone">Silent</string>
     <string name="preference_removal_action_title">Archive &amp; delete actions</string>
     <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
-    <string name="prefDefault_removal_action">archive</string>
     <string name="preferences_default_reply_all_title">Reply all</string>
     <string name="preferences_default_reply_all_summary">Use as default for message replies</string>
     <string name="preference_swipe_title_archive">Swipe to archive</string>
