@@ -85,8 +85,8 @@
         <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> eliminata.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other"CArtelle modificate.</item>
-        <item quantity="one">CArtella modificata.</item>
+        <item quantity="other">Cartelle modificate.</item>
+        <item quantity="one">Cartella modificata.</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d nuovi messaggi. Mostra.</item>
