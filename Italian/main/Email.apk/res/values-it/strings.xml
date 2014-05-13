@@ -708,6 +708,7 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="wrong_password">Wrong password!</string>
     <string name="file_rar_not_support">Does not support encrypted rar file!</string>
     <string name="file_not_found">File not found on the mail server!</string>
+    <string name="request_entity_large">Request file too large!</string>
     <string name="file_not_found_reDownload">File not found, please try again!</string>
     <string name="file_deleted_success">File deleted successfully!</string>
     <string name="download_complete_not_cancel">Download is complete, cancel failed!</string>
@@ -722,7 +723,10 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="no_matched_attachment">No matched attachments!</string>
     <string name="always_bcc_myself">Mail Always Bcc Myself</string>
     <string name="local_search">Local Search</string>
+    <string name="conversation_item_mark_read">Read</string>
+    <string name="conversation_item_mark_unread">Unread</string>
     <string name="no_mails">No Mails</string>
+    <string name="default_signature">Sent via Xiaomi</string>
     <string name="contact_list_add_btn">Add</string>
     <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
     <string name="spaceChar">" "</string>
@@ -735,4 +739,10 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="updated_at">Last Updated%1$s</string>
     <string name="updated_just_now">Just Updated</string>
     <string name="time_error">Time Promblem</string>
+    <string name="outbox_alert_title_sent_failed">Failed sending email</string>
+    <string name="outbox_alert_description_sent_failed">"Cause: The attachement
+size exceeds receiving limit"</string>
+    <string name="outbox_alert_button_confirm">Edit</string>
+    <string name="blank_feedback_toast">The feedback is blank, please input feedback!</string>
+    <string name="ApplicationIconMore99">99+</string>
 </resources>
