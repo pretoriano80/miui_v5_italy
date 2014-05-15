@@ -572,6 +572,9 @@ Consentire l'avvio automatico?"</string>
     <string name="power_autorun_empty">Nessuna applicazione installata</string>
     <string name="power_autorun_apps_empty">Nessuna applicazione in avvio automatico</string>
     <string name="power_perm_logs_empty">Nessun registro</string>
+    <string name="dialog_title_auto_start_tips">"Informazioni sull'avvio automatico"</string>
+    <string name="dialog_message_auto_start_tips">"Alcune applicazioni di sicurezza potrebbero erroneamente indicare che MIUI ha impedito l'avvio automatico. Per controllare i permessi concessi alle singole applicazioni vai in Impostazioni > Applicazioni."</string>
+    <string name="button_text_known">OK</string>
     <string name="process_manage_title">%1$d processi terminati, %2$s di memoria liberati</string>
     <string name="process_list_empty_hints">Nessun processo in cache.</string>
     <string name="protection_category_dangerous_title">A rischio (%d)</string>
@@ -3216,4 +3219,5 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="preferred_app_settings_default">Predefinito</string>
     <string name="preferred_app_settings_reset">Ripristina imp. predefinite</string>
     <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>
+    <string name="translation_contributors_title">Traduttori</string>
 </resources>
