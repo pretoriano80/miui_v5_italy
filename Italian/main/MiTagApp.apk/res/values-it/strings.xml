@@ -71,7 +71,7 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="saving">Saving…</string>
     <string name="bump_write_alert">To apply these settings, touch the back of your phone to the tile</string>
     <string name="pwd_pref">Protect tag from rewriting</string>
-    <string name="pwd_pref_desc">寫入貼紙時將激活貼紙的寫保護功能，他人改寫你的貼紙需要提供密碼</string>
+    <string name="pwd_pref_desc">Quando questa funzione di protezione viene attivata, sarà richiesta una passowrd per scrivere nuovamente il tag</string>
     <string name="pwd_prot_on">ON</string>
     <string name="pwd_prot_off">OFF</string>
     <string name="input_password">Please enter the four numerical password</string>
@@ -88,6 +88,7 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="err_fail_to_write">Failed to write tag</string>
     <string name="err_no_enough_space">No enough space on tag</string>
     <string name="err_fail_to_erase">Failed to erase tag</string>
+    <string name="err_tag_read_only">Non puoi scrivere su questo tag</string>
     <string name="wireless_network">Wireless &amp; networks</string>
     <string name="display">Display</string>
     <string name="sound">Sound</string>

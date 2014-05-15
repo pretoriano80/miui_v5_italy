@@ -255,6 +255,7 @@
     <string name="country_name_zw">ZW</string>
     <string name="day_of_month">" %d"</string>
     <string name="delete">Elimina</string>
+    <string name="double_seventh_day" />
     <string name="error_forbidden">Il tuo account riscontra alcuni problemi. Sincronizzazione disabilitata.</string>
     <string name="error_not_acceptable">Errore del server. Sincronizzazione disabilitata.</string>
     <string name="error_title">Errore sincronizzazione per %s</string>
@@ -452,11 +453,6 @@
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inseritto la tua password in modo sbagliato per %d volte. Dopo altri %d tentativi sbagliati, ti verrà richiesto di sbloccare il telefono con i dettagli del tuo account.
 
 Prova di nuovo tra %d secondi."</string>
-    <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
-    <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
-    <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-    <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
-    <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="volume_ring_description">Volume suoneria e notifiche</string>
     <string name="login_website_in_case_forget_password">Visita http://i.xiaomi.com per ripristinare la tua password</string>
     <string name="anti_aggression_day" />
@@ -476,7 +472,28 @@ Prova di nuovo tra %d secondi."</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">Impossibile inviare SMS in modalità Ospite</string>
     <string name="grant_permissions_apps">Consenti accesso applicazione</string>
     <string name="grant_permissions_account">Consenti accesso account</string>
+    <string name="hksar_establishment_day" />
+    <string name="the_first_weekday_after_christmas" />
+    <string name="good_friday">Orange Friday!</string>
+    <string name="day_following_good_friday" />
+    <string name="easter">Pasqua</string>
     <string name="v5_date_time_picker_dialog_title">Imposta ora promemoria</string>
+    <string name="open_wifi_settings">Apri connessione di rete</string>
+    <string name="sync_data_merge_warning_desc">I dati di %s presenti nel telefono verranno uniti con i dati non ripristinabili in cloud, fai attenzione!</string>
+    <string name="sync_data_recover_warning_title">Avviso sul ripristino dei dati</string>
+    <string name="sync_data_recover_warning_desc">I dati di %s sul tuo telefono verranno ripristinati dal cloud, fai attenzione!</string>
+    <string name="sync_data_merge_warning_ok">Unisci</string>
+    <string name="sync_data_merge_warning_cancel">Annulla</string>
+    <string name="sync_data_recover_warning_ok">Ripristina</string>
+    <string name="sync_data_recover_warning_cancel">Annulla</string>
+    <string name="sync_data_contact">Contatti</string>
+    <string name="sync_data_mms">SMS</string>
+    <string name="sync_data_cloud_album">Galleria</string>
+    <string name="sync_data_call_log">Registro chiamate</string>
+    <string name="sync_data_notes">Note</string>
+    <string name="sync_data_msg_seperate">,</string>
+    <string name="sync_data_loading">Recupero informazioni dal server</string>
+    <string name="sync_data_merge_warning_title">Avviso unione dati</string>
     <string name="lockscreen_emergency_call">Chiamata emergenza</string>
     <string name="lockscreen_forgot_pattern_button_text">Sequenza dimenticata?</string>
     <string name="lockscreen_transport_prev_description">Traccia precedente</string>
@@ -508,6 +525,5 @@ Prova di nuovo tra %d secondi."</string>
     <string name="pin_operation_failed">Operazione PIN fallita.</string>
     <string name="return_to_me_message">Si prega di riportare al proprietario.</string>
     <string name="unlock_string">OK</string>
-    <string name="open_wifi_settings">Apri impostazioni Wi-Fi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
 </resources>
