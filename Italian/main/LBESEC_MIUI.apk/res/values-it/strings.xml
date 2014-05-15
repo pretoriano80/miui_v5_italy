@@ -123,6 +123,9 @@
     <string name="HIPS_Perm_Recorder_Video">Registrazione video</string>
     <string name="HIPS_Perm_Recorder_Audio">Registrazione audio</string>
     <string name="HIPS_Perm_Recorder_VoiceCall">Registra chiamate vocali</string>
+    <string name="HIPS_Perm_DisableKeyguard">Sblocco schermo</string>
+    <string name="HIPS_Perm_DisableKeyguard_Desc">Sblocca schermo</string>
+    <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s applicazioni possono sbloccare lo schermo</string>
     <string name="app_name">Permessi</string>
     <string name="Generic_Copyright">Powered by team LBE</string>
     <string name="Generic_Version">Versione: %1$s</string>
