@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alarm_in_furture">
+        <item>Sveglia tra meno di un minuto</item>
+        <item>Sveglia tra %1$s</item>
+        <item>Sveglia tra %2$s</item>
+        <item>Sveglia tra %1$s %2$s</item>
+        <item>Sveglia tra %3$s</item>
+        <item>Sveglia tra %1$s %3$s</item>
+        <item>Sveglia tra %2$s %3$s</item>
+        <item>Sveglia tra %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ieri</item>
+        <item>Oggi</item>
+        <item>Domani</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Giorni lavorativi\u0020</item>
+        <item>Lun-Ven</item>
+        <item>Personalizza</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Lun - Ven</item>
+        <item>Personalizzata</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>Questa sveglia è impostata a meno di un minuto da adesso.</item>
         <item>Questa sveglia è impostata a %1$s da adesso.</item>
@@ -33,33 +61,5 @@
         <item>Nessuno</item>
         <item>Sospendi</item>
         <item>Disattiva</item>
-    </string-array>
-    <string-array name="alarm_in_furture">
-        <item>Sveglia tra meno di un minuto</item>
-        <item>Sveglia tra %1$s</item>
-        <item>Sveglia tra %2$s</item>
-        <item>Sveglia tra %1$s %2$s</item>
-        <item>Sveglia tra %3$s</item>
-        <item>Sveglia tra %1$s %3$s</item>
-        <item>Sveglia tra %2$s %3$s</item>
-        <item>Sveglia tra %1$s %2$s %3$s</item>
-    </string-array>
-    <string-array name="days">
-        <item>Ieri</item>
-        <item>Oggi</item>
-        <item>Domani</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Una volta</item>
-        <item>Tutti i giorni</item>
-        <item>Giorni lavorativi\u0020</item>
-        <item>Lun-Ven</item>
-        <item>Personalizza</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Una volta</item>
-        <item>Tutti i giorni</item>
-        <item>Lun - Ven</item>
-        <item>Personalizzata</item>
     </string-array>
 </resources>
