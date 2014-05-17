@@ -58,6 +58,7 @@
     <string name="cancel_btn_label">Annulla</string>
     <string name="default_folder_title_tools">Strumenti</string>
     <string name="default_folder_title_recommend">Preferiti</string>
+    <string name="default_folder_title_game">Giochi</string>
     <string name="default_folder_title_security">Sistema</string>
     <string name="default_shortcut_title_10086">google.com</string>
     <string name="online_wallpaper">Online</string>

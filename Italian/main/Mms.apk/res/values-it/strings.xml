@@ -104,11 +104,7 @@
     <string name="pref_notification_settings_title">Notifiche</string>
     <string name="pref_mms_settings_title">Messaggi multimediali (MMS)</string>
     <string name="pref_summary_mms_read_reports">Richiedi conferma di lettura per ogni messaggio inviato</string>
-    <string name="pref_summary_delete_limit">%1$s messaggi per conversazione</string>
     <string name="pref_title_mms_read_reports">Conferme di lettura</string>
-    <string name="pref_title_sms_delete">Elimina vecchi messaggi</string>
-    <string name="pref_title_mms_delete">Limite MMS</string>
-    <string name="pref_messages_to_save">Imposta numero di messaggi da salvare</string>
     <string name="prefDefault_vibrateWhen">never</string>
     <string name="prefDefault_vibrate_true">always</string>
     <string name="prefDefault_vibrate_false">never</string>
@@ -124,7 +120,6 @@
     <string name="confirm_delete_group_message">I messaggi di gruppo verranno eliminati.</string>
     <string name="confirm_delete_message">Il messaggio verrà eliminato.</string>
     <string name="confirm_delete_locked_message">Eliminare questo messaggio bloccato?</string>
-    <string name="confirm_restore_all_title">Ripristinare tutti i messaggi da questo numero?</string>
     <string name="confirm_no_block_title">Non bloccare numero e ripristinare tutti i messaggi?</string>
     <string name="confirm_no_block_positive">Non bloccare e ripristina</string>
     <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>
@@ -161,7 +156,6 @@
     <string name="message_class_label">"Classe messaggio: "</string>
     <string name="error_code_label">"Codice errore: "</string>
     <string name="menu_edit">Modifica</string>
-    <string name="menu_delete_messages">Elimina messaggi</string>
     <string name="menu_lock">Blocca messaggio</string>
     <string name="menu_unlock">Sblocca messaggio</string>
     <string name="sim_copy_to_phone_memory">Copia su memoria telefono</string>
@@ -258,8 +252,6 @@
     <string name="to_count">%d contatti</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="new_message_arrived">Nuovo messaggio ricevuto</string>
-    <string name="festival_sms_category_count_format">(%s)</string>
-    <string name="festival_sms_loading">Caricamento...</string>
     <string name="refresh">Aggiorna</string>
     <string name="refresh_failed">Aggiornamento fallito</string>
     <string name="database_corruption">Database corrotto, ricostruzione database</string>
@@ -361,9 +353,6 @@
     <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Messaggi cloud</string>
     <string name="mx_enable">Abilita messaggi cloud</string>
-    <string name="mx_warning_notice">"Verrà inviato un SMS per attivare i messaggi cloud. Saranno applicate le tariffe previste dall'operatore"</string>
-    <string name="mx_int_warning_notice">Verrà inviato un SMS internazionale per attivare i Messaggi Cloud, verranno applicate le tariffe previste dal proprio operatore</string>
-    <string name="mx_btn_enable">Abilita</string>
     <string name="ex_type_sms">SMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>
     <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
@@ -376,17 +365,6 @@
     <string name="msg_type_hint_sms">Messaggio di testo</string>
     <string name="msg_type_hint_mms">Messaggio Multimediale</string>
     <string name="msg_type_hint_mx">Messaggio Cloud</string>
-    <string name="mx_reactivate">Ri-attiva Messaggi Cloud</string>
-    <string name="mx_activate_error_title">Impossibile attivare messaggi cloud</string>
-    <string name="mx_activate_error_sim_change">SIM modificata, è necessario riattivare i messaggi cloud</string>
-    <string name="mx_activate_error_malformed_info">Impossibile attivare messaggi cloud, è necessario riattivare i messaggi cloud</string>
-    <string name="mx_activate_error_server">Attivazione server dei messaggi cloud fallita</string>
-    <string name="mx_activate_hint_sim_change">SIM modificata, è necessario riattivare i messaggi cloud. Attivarli adesso?</string>
-    <string name="mx_activate_int_hint_sim_change">"Lo stato della SIM è stato modificato. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
-    <string name="mx_activate_hint_malformed_info">Operazione interrotta, è necessario riattivare i messaggi cloud. Attivarli adesso?</string>
-    <string name="mx_activate_int_hint_malformed_info">"Richiesta elaborazione errore. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
-    <string name="mx_activate_hint_server">Attivazione server fallita per attivazione Messaggi Cloud. Attivare adesso?</string>
-    <string name="mx_activate_int_hint_server">"Attivazione server dei messaggi cloud fallita. E' necessario l'invio di un SMS internazionale per riattivare i Messaggi Cloud. Vuoi riattivarli adesso?"</string>
     <string name="need_download">Sincronizzazione in corso...</string>
     <string name="found_wild_messages_title">Scarica Messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite MiCloud, vuoi scaricarli ?</string>
@@ -397,10 +375,6 @@
     <string name="mx_online">In linea</string>
     <string name="mx_offline">Non in linea</string>
     <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, potrebbero essere applicati dei costi dal tuo operatore. Continuare?"</string>
-    <string name="mx_enable_int_popup_msg">"I Messaggi Cloud consentono di inviare messaggi tra utenti MIUI. Per l'attivazione è necessario l'invio di un SMS internazionale, il costo dipende dalle tariffe previste dall'operatore".</string>
-    <string name="mx_activation_done">Messaggi Cloud abilitati</string>
-    <string name="mx_activate_popup_msg">MiMessaging consente agli utenti MIUI di inviare messaggi tra di loro senza utilizzare il traffico dati mobile.</string>
-    <string name="mx_activate_int_popup_msg">MiMessaging consente agli utenti MIUI di inviare messaggi tra di loro senza utilizzare il traffico dati mobile.</string>
     <string name="mx_btn_enable_now">Attiva MiMessaging</string>
     <string name="loading_mms">Caricamento MMS…</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>
@@ -444,7 +418,6 @@
     <string name="type_vcard">vCard</string>
     <string name="add_slide_before">Aggiungi slide (prima)</string>
     <string name="context_menu_add_to_browser_favorite">Aggiungi preferiti browser</string>
-    <string name="restore_all_button_msg">Ripristina tutti i messaggi da questo numero</string>
     <string name="no_block_button_msg">Non bloccare messaggi da questo numero</string>
     <string name="restore_blocked_message">Ripristina messaggio bloccato</string>
     <string name="overwrite_edited_content">Il contenuto modificato verrà sovrascritto, continuare?</string>
@@ -461,7 +434,6 @@
     <string name="title_collapse_sp_messages">Raccogli i messaggi del provider</string>
     <string name="pref_collapse_sp_messages_summary">"Raccogli i messaggi del provider in un'unica lista"</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
-    <string name="sp_mark_as_read">Segnare tutti i messaggi come già letti?</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso...</string>
     <string name="refill_now">Ricarica</string>
     <string name="toast_feedback_start">Invio dati feedback…</string>
@@ -474,4 +446,5 @@ Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="feedback_description_hint">Inserisci qui il tuo feedback</string>
     <string name="feedback_submit">Invia</string>
     <string name="confirm_send_mms">Uno dei destinatari include un indirizzo email. Questo messaggio verrà inviato come MMS, potrebbero quindi essere addebitati costi aggiuntivi dal tuo operatore.</string>
+    <string name="quick_reply">Rispondi</string>
 </resources>

@@ -305,7 +305,7 @@
     <string name="vip_recommend_sub_title">Solo 5 RMB al mese</string>
     <string name="vip_recommend_summary">Scarica o ascolta in streaming tutte le canzoni dei tuoi artisti preferiti su Baidu Music a 320 kbps.</string>
     <string name="vip_recommend_buy">Acquista (RMB 5 per 1 mese)</string>
-    <string name="vip_recommend_rebuy">"Rinnovia l'accesso VIP per 30 giorni con 5 MiCredit</string>
+    <string name="vip_recommend_rebuy">"Rinnova l'accesso VIP per 30 giorni con 5 MiCredit</string>
     <string name="vip_recommend_exchange">Utilizza codice regalo</string>
     <string name="music_quality">Qualità musica</string>
     <string name="higher_quality_music">Migliore qualità musica</string>
@@ -332,6 +332,8 @@
     <string name="sync_disable_toast">Puoi attivare successivamente in Impostazioni > Account > Mi Cloud</string>
     <string name="login_and_enable">Accedi e sincronizza</string>
     <string name="sync_enable_toast">Puoi modificare questa opzione in Impostazioni > Account > Mi Cloud</string>
+    <string name="volume_alert_playback_alert_title">Avviso volume</string>
+    <string name="volume_alert_playback_message">"Per prevenire possibili danni all'udito, non mantenere il volume ad alti livelli per lunghi periodi."</string>
     <string name="albumsongseparator">"
 "</string>
     <string name="notification_artist_album">"%2$s 

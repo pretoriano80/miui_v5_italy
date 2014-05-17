@@ -106,6 +106,7 @@
     <string name="menu_preferences">Impostazioni</string>
     <string name="pref_content_title">Contenuto della pagina</string>
     <string name="pref_content_block_popups">Blocca pop-up</string>
+    <string name="pref_content_cloud_speedup">Attiva aumento velocità cloud</string>
     <string name="pref_content_javascript">Attiva JavaScript</string>
     <string name="pref_content_open_in_background">Apri in background</string>
     <string name="pref_content_plugins">Attiva plug-in</string>
@@ -505,6 +506,9 @@
     <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Sync tabs</string>
     <string name="sub_sync_item_browser_title_cloud_tab_summary">Sync open tabs of browser on different devices</string>
+    <string name="xiaomi_bookmark_title">Xiaomi</string>
+    <string name="ssl_certificate">Certificato di sicurezza</string>
+    <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="actionbar_share">Condividi</string>
     <string name="actionbar_web_search">Ricerca web</string>
     <string name="accessibility_content_view">Visualizzazione web</string>
@@ -570,7 +574,7 @@
     <string name="webview_js_dialog_before_unload_negative_button">Rimani su questa pagina</string>
     <string name="webview_js_dialog_before_unload">"%s
 
-Confermare l'uscita da quest apagina?"</string>
+Confermare l'uscita da questa pagina?"</string>
     <string name="webview_ok">OK</string>
     <string name="webview_cancel">Annulla</string>
     <string name="webview_js_dialog_title">La pagina \"%s\" dice:</string>

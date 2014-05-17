@@ -92,7 +92,11 @@
         <item quantity="other">%d brani che verranno scaricati.</item>
         <item quantity="one">1 brano che verrà scaricato..</item>
     </plurals>
-    <plurals name="Promemoria scadenza Nvip">
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d giorni rimanenti</item>
+        <item quantity="one">%d giorno rimanente</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
         <item quantity="other">Il tuo accesso alla musica di alta qualità sta per scadere (%d giorni rimanenti)</item>
     </plurals>
 </resources>

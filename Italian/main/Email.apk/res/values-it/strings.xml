@@ -58,6 +58,8 @@
     <string name="policy_require_encryption">Richiede la crittografia del dispositivo</string>
     <string name="auth_error_notification_title">Errore di autenticazione</string>
     <string name="auth_error_notification_text">Tocca per modificare impostazioni account per %s</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="app_name">Email</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
     <string name="retry">Riprova</string>
     <string name="search_hint">Cerca email</string>
@@ -290,7 +292,7 @@ CC: %4$s
     <string name="prefDialogTitle_conversationListIcon">Immagine mittente</string>
     <string name="provider_note_live">"Solo alcuni account \"Plus\" includono l'accesso POP che consente la connessione del programma. Se non riesci ad accedere con l'indirizzo email e la password corretti, potresti non disporre di un account \"Plus\" a pagamento. Avvia il browser web per avere accesso a questi account email."</string>
     <string name="provider_note_t_online">"Prima di configurare questo account email, visita il sito web T-Online e crea una password per l'accesso email POP3."</string>
-    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="exchange_name">Exchange</string>
     <string name="system_account_create_failed">"Impossibile creare l'account. Riprova."</string>
     <string name="device_admin_label">Posta</string>
     <string name="device_admin_description">Abilita norme di sicurezza specificate dal server</string>
@@ -358,6 +360,8 @@ CC: %4$s
     <string name="save_draft">Salva bozza</string>
     <string name="discard">Elimina</string>
     <string name="compose">Scrivi</string>
+    <string name="compose_send">Invia</string>
+    <string name="compose_sent">Inviato correttamente</string>
     <string name="contact_select">Seleziona contatti</string>
     <string name="formatted_subject">%1$s%2$s</string>
     <string name="reply_subject_label">Re:</string>
@@ -377,6 +381,9 @@ CC: %4$s
     <string name="confirm_send_message_with_no_subject">"Nessun testo presente nell'oggetto del messaggio."</string>
     <string name="confirm_send_message_with_no_body">Nessun testo presente nel corpo del messaggio.</string>
     <string name="confirm_send_message">Inviare il messaggio?</string>
+    <string name="confirm_save_message_title">SAlvare come bozza?</string>
+    <string name="confirm_save_message_yes">Sì</string>
+    <string name="confirm_save_message_no">No</string>
     <string name="message_discarded">Messaggio eliminato.</string>
     <string name="signature">"
 
@@ -649,12 +656,14 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
     <string name="empty_email_tip">Impossibile inviare email vuota</string>
+    <string name="empty_account_tip">"Impossibile trovare l'account"</string>
     <string name="remove_account">Rimuovi account</string>
     <string name="remove_account_confirm">"L'account \"%1$s\" verrÃ  rimosso da WPSMail."</string>
     <string name="hint_quick_reply_all">Rispondi a tutti</string>
     <string name="Folders">Cartelle</string>
-    <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
-    <string name="name_or_number_is_error">User name or password error</string>
+    <string name="search_txt_size_limit_prompt">La stringa di ricerca deve essere più lunga di 3 caratteri. 3。</string>
+    <string name="account_setup_service_not_set">Le impostazioni del tuo account non sono ancora state configurate</string>
+    <string name="name_or_number_is_error">Nome utente o errore password</string>
     <string name="account_set_up_notice">Just a few steps, you can set up an email account for the majority of</string>
     <string name="please_fill_in_your_mailbox_information">Inserisci i dati del tuo account %s:</string>
     <string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account:</string>
@@ -681,6 +690,12 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="password_changed_prompt">"Couldn't sign in."</string>
     <string name="protocol">Protocol</string>
     <string name="account_set_up_change_type_note">If you want to set the switching account before POP3 and IMAP, you must first delete the account, re configure login.</string>
+    <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
+    <string name="wait_for_sync_body_txt_array_2">1–30</string>
+    <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
+    <string name="wait_for_sync_body_txt_array_4">system alert</string>
+    <string name="wait_for_sync_body_txt_array_5">.</string>
+    <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
     <string name="contact_list_title">Contact List</string>
     <string name="contact_list_search_hint">Search for contacts</string>
     <string name="attachment_mgr_name">Attachment</string>
@@ -690,6 +705,7 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="download_cancel_confirm_title">Cancel the download?</string>
     <string name="downlaod_cancel_confirm_download">Cancel download</string>
     <string name="downlaod_cancel_continue_download">Cancel</string>
+    <string name="downlaod_nonWifi_confirm_message">Download will consume the traffic, please confirm</string>
     <string name="menu_att_mgr">Attachments</string>
     <string name="menu_att_mgr_order_default">Default</string>
     <string name="menu_att_mgr_order_mime">Sort by format</string>
@@ -727,14 +743,23 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="conversation_item_mark_unread">Unread</string>
     <string name="no_mails">No Mails</string>
     <string name="default_signature">Sent via Xiaomi</string>
+    <string name="account_name_toast">Duplicate with existing one, please rename</string>
     <string name="contact_list_add_btn">Add</string>
     <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
     <string name="spaceChar">" "</string>
+<<<<<<< HEAD
     <string name="search_result">Search Result :</string>
     <string name="not_subject">No Subject</string>
     <string name="pull_to_refresh">Pull to refresh</string>
     <string name="release_to_refresh">Release to refresh</string>
     <string name="refreshing">Refreshingâ€¦</string>
+=======
+    <string name="search_result">Risultati:</string>
+    <string name="not_subject">(Nessun oggetto)</string>
+    <string name="pull_to_refresh">Trascina per aggiornare</string>
+    <string name="release_to_refresh">Rilascia per aggiornare</string>
+    <string name="refreshing">Aggiornamento…</string>
+>>>>>>> 8feae62463e61b8e4ce2fe058f1e97fe1e39266b
     <string name="not_updated_yet">No yet Updated</string>
     <string name="updated_at">Last Updated%1$s</string>
     <string name="updated_just_now">Just Updated</string>
@@ -745,4 +770,34 @@ size exceeds receiving limit"</string>
     <string name="outbox_alert_button_confirm">Edit</string>
     <string name="blank_feedback_toast">The feedback is blank, please input feedback!</string>
     <string name="ApplicationIconMore99">99+</string>
+<<<<<<< HEAD
 </resources> 
+=======
+    <string name="parase_setup_data">Recupero dati di configurazione...</string>
+    <string name="allread">Tutto letto</string>
+    <string name="eas_template">domain\\user</string>
+    <string name="upgrade_network_error">Errore di rete, verifica la tua connessione</string>
+    <string name="checking_message">Controllo versione…</string>
+    <string name="no_update">"Hai l'ultima versione, non è necessario aggiornare"</string>
+    <string name="upgrade_check">CErca aggiornamenti</string>
+    <string name="no_display_this_version">Non mostrare questa versione</string>
+    <string name="now_version">Versione attuale：</string>
+    <string name="new_version">Nuova versione：</string>
+    <string name="new_feature_desc">Changelog：</string>
+    <string name="new_down_desc1">Suggerimenti：</string>
+    <string name="new_down_desc2">Will save the previous version of the usage records</string>
+    <string name="new_down_desc3">"L'aggiornamento richiede un elevato traffico dati, consigliamo di eseguirlo sotto copertura Wi-Fi"</string>
+    <string name="download_now">Scarica adesso</string>
+    <string name="start_download">Avvia il download</string>
+    <string name="donot_download">Temporarily download</string>
+    <string name="upgrade_now">Aggiorna subito</string>
+    <string name="donot_upgrade">Temporarily upgrade</string>
+    <string name="downloading">Download in corso</string>
+    <string name="upgrade_title">Aggiornamento</string>
+    <string name="download_complete_title">Download completato</string>
+    <string name="no_enough_space">Spazio insufficiente</string>
+    <string name="no_sdcard">Scheda SD non present eo occupata</string>
+    <string name="download_complete_message">"Premi sul tasto di aggiornamento per scaricare l'ultma versione！"</string>
+    <string name="file_size">Dimensione</string>
+</resources>
+>>>>>>> 8feae62463e61b8e4ce2fe058f1e97fe1e39266b

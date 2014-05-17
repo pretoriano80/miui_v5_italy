@@ -132,6 +132,8 @@
     <string name="user_guide_for_toggle_list">Premi qui per personalizzare la lista comandi</string>
     <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
     <string name="call_status_dialing">Composizione</string>
+    <string name="call_status_ringing">Chiamata in corso</string>
+    <string name="reject_call">Rifiuto chiamata</string>
     <string name="status_bar_style_settings">Impostazioni Barra di Stato</string>
     <string name="status_bar_and_notification_bar">Pannello notifiche e barra di stato</string>
     <string name="settings_toggle_layout_style">Stile comandi</string>
@@ -247,9 +249,6 @@
     <string name="headset_settings">Cuffie collegate</string>
     <string name="headset_info">Personalizza tasto funzioni</string>
     <string name="headset_custom">Personalizza</string>
-    <string name="oldman_status_bar_time_format">HH:mm</string>
-    <string name="oldman_airplane_mode_text">Aereo</string>
-    <string name="oldman_incall_text">In arrivo</string>
     <string name="audio_effect_settings">Imposta tipo di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Configura</string>
