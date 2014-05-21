@@ -88,7 +88,7 @@
     <string name="data_wipe_from_phone">Elimina i dati dal telefono</string>
     <string name="login_notice">Accesso...</string>
     <string name="data_sync_notice">Usa il tuo Account Xiaomi per sincronizzare Messaggi, Contatti e altri dati.</string>
-    <string name="cmcc_data_sync_notice">Usa il tuo Account Xiaomi per sincronizzare Messaggi, Contatti e altri dati. allo stesso tempo puoi porvare anhe i servizi cloud Xiaomi.</string>
+    <string name="cmcc_data_sync_notice">Usa il tuo Account Xiaomi per sincronizzare Messaggi, Contatti e altri dati. allo stesso tempo puoi provare anche i servizi cloud Xiaomi.</string>
     <string name="sync_dspt">Attiva sincronizzazione</string>
     <string name="send_sms_for_sync_notice">Verrà inviato un SMS di attivazione, continuare?</string>
     <string name="failed_to_send_activate_email">Invio Email di attivazione fallito</string>
@@ -217,7 +217,7 @@
     <string name="activate_status_desc_wait_for_sms_fail">Impossibile ricevere SMS di attivazione dal server</string>
     <string name="activate_status_desc_request_activation_sms">Richiesta SMS di attivazione dal server verso il tuo telfono</string>
     <string name="activate_status_desc_request_activation_sms_server_error">"Si è verificato un errore del server durante la richiesta dell'SMS di attivazione"</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">The phone number you entered is invalid</string>
+    <string name="activate_status_desc_request_activation_sms_phone_error">Il numero di telefono inserito non è valido</string>
     <string name="activate_status_desc_getting_gateway">Recupero gateway SMS</string>
     <string name="activate_status_desc_failed_getting_gateway">Impossibile recuperare gateway SMS</string>
     <string name="activate_status_desc_prepare_sending_sms">Preparazione invio SMS di attivazione al gateway</string>
@@ -228,8 +228,8 @@
     <string name="activate_status_desc_acquire_phone_number_server_error">"Si è verificato un errore del server durante l'acquisizione del numero."</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Impossibile recuperare il numero.</string>
     <string name="activate_status_desc_registering_sim_account">Registrazione SIM sul server</string>
-    <string name="activate_status_desc_registering_sim_account_server_error">A server error occured while registering SIM card</string>
-    <string name="activate_status_desc_checking_xiaomi_account">Checking Xiaomi account on server</string>
+    <string name="activate_status_desc_registering_sim_account_server_error">Si è verificato un errore del server durante la registrazione della SIM</string>
+    <string name="activate_status_desc_checking_xiaomi_account">Verifica account Xiaomi sul server</string>
     <string name="activate_status_desc_checking_xiaomi_account_server_error">A server error occured while checking Xiaomi account</string>
     <string name="activate_status_desc_registering_xiaomi_account">Registering Xiaomi account on server</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">A server error occured while registering Xiaomi account</string>
