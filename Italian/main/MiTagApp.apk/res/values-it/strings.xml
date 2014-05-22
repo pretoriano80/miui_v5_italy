@@ -182,7 +182,7 @@ tocca un altro tag con il retro del tuo telefono."</string>
     <string name="alarm_summary_24h">kk:mm</string>
     <string name="alarm_time">Orariom allarme</string>
     <string name="alarm_label">Etichetta allarme (opzionale)</string>
-    <string name="hint_input_alarm_label">Inserisci l'etichetta dell'allarme</string>
+    <string name="hint_input_alarm_label">"Inserisci l'etichetta dell'allarme"</string>
     <string name="torch">Torcia</string>
     <string name="music">Esegui musica</string>
     <string name="vibrate_mode">Vibrazione</string>
