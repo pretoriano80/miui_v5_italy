@@ -60,7 +60,7 @@
     <string name="system_backup_apply_helper">Il terminale si riavvierà automaticamente e inizierà il processo di aggiornamento.\u0020</string>
     <string name="system_backup_helper">L\'aggiornamento di sistema non cancellerà i dati utente. E\' comunque consigliato di eseguire un backup dei propri dati prima di aggiornare</string>
     <string name="system_backup_ask">Chiedi sempre</string>
-    <string name="system_backup_error_message">MIUI backup non è stato trovato, esegui manualmente il backup</string>
+    <string name="system_backup_error_message">Backup MIUI non trovato, esegui manualmente il backup</string>
     <string name="md5_check_cancelled">Verifica MD5 annullata</string>
     <string name="no_updatecheck_executed">Verifica aggiornamento non eseguita</string>
     <string name="no_updates_found">Hai già l\'ultima versione installata</string>
@@ -86,8 +86,8 @@
     <string name="unstable_build">Build Non Stabile</string>
     <string name="about_device">Informazioni</string>
     <string name="emegency_build">Build:</string>
-    <string name="wifi_not_available_title">Wi-Fi non connessa</string>
-    <string name="wifi_not_available_body">E\' consigliato utilizzare la Wi-Fi per scaricare aggiornamenti con file di grandi dimensioni. Non stai utilizzando la Wi-Fi adesso, sicuro di voler continuare?</string>
+    <string name="wifi_not_available_title">Wi-Fi non connesso</string>
+    <string name="wifi_not_available_body">E\' consigliato utilizzare il Wi-Fi per scaricare aggiornamenti con file di grandi dimensioni. Non stai utilizzando il Wi-Fi adesso, sicuro di voler continuare?</string>
     <string name="paused_queued_for_network">In attesa della connessione di rete</string>
     <string name="paused_queued_for_wifi">In attesa di connessione Wi-Fi</string>
     <string name="boot_recovery">Riavvia in Recovery</string>
@@ -113,7 +113,7 @@
     <string name="check_update_policy">Verifica impostazioni di aggiornamento</string>
     <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo Wi-Fi</string>
     <string name="update_monthly_build_only">Aggiorna solo con build Mensile</string>
-    <string name="install_file_explorer">Si preg di installare File Explorer</string>
+    <string name="install_file_explorer">Si prega di installare File Explorer</string>
     <string name="share_update">Condividi informazioni di aggiornamento</string>
     <string name="share">Condividi</string>
     <string name="share_update_content_unsign">Ho aggiornato MIUI alla %1$s! Per il changelog dettagliato visita %2$s</string>
@@ -136,7 +136,7 @@
     <string name="choose_recommend">Seleziona se consigliare o meno</string>
     <string name="refuse_recommend_reason">Inserisci un motivo</string>
     <string name="update_feedback">Feedback sull\'aggiornamento</string>
-    <string name="update_feedback_expired">"E' un peccato che tu ti sia perso il Feedback Aggiornamento! Contribuisci al sondaggio il prossimo Martedì"</string>
+    <string name="update_feedback_expired">"E' un peccato che tu non sia riuscito a darci il feedback sull'aggiornamento! Contribuisci al sondaggio il prossimo Martedì"</string>
     <string name="update_happy">Soddisfatto</string>
     <string name="update_general">Non male</string>
     <string name="update_sad">Deluso</string>
