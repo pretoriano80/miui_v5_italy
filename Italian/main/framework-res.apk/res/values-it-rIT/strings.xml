@@ -377,7 +377,7 @@ Tentativi rimasti:"</string>
     <string name="permlab_getTasks">recupero applicazioni in esecuzione</string>
     <string name="permdesc_getTasks">"Consente all'applicazione di recuperare informazioni sulle attività in esecuzione ed eseguite di recente. Le applicazioni dannose potrebbero essere in grado di scoprire informazioni riservate su altre applicazioni."</string>
     <string name="permlab_getDetailedTasks">retrieve details of running apps</string>
-    <string name="permdesc_getDetailedTasks">Consente all'applicazione di ottenere informazioni dettagliate sui processi in esecuzione, ora e recenti. Applicazioni dannose potrebbero scoprire informazioni private riguardo altre app.</string>
+    <string name="permdesc_getDetailedTasks">"Consente all'applicazione di ottenere informazioni dettagliate sui processi in esecuzione, ora e recenti. Applicazioni dannose potrebbero scoprire informazioni private riguardo altre app."</string>
     <string name="permlab_reorderTasks">riordinamento applicazioni in esecuz.</string>
     <string name="permdesc_reorderTasks">"Consente a un'applicazione di spostare attività in primo e secondo piano. Le applicazioni dannose possono imporsi ponendosi automaticamente in primo piano."</string>
     <string name="permlab_removeTasks">"interruzione dell'esecuzione di applicazioni"</string>
