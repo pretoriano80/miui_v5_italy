@@ -622,7 +622,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="domain_address">Dominio Sip</string>
-    <string name="username">Userame</string>
+    <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="display_name">Nome visualizzato</string>
     <string name="proxy_address">Indirizzo proxy</string>
