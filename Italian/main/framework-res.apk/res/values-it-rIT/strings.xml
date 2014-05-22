@@ -312,7 +312,7 @@ Tentativi rimasti:"</string>
     <string name="shutdown_confirm">Il telefono verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="reboot_safemode_title">Riavvia in safe mode</string>
-    <string name="reboot_safemode_confirm">Vuoi riavviar ein safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
+    <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="no_recent_tasks">Nessuna applicazione recente.</string>
     <string name="global_actions">Opzioni telefono</string>
@@ -377,15 +377,15 @@ Tentativi rimasti:"</string>
     <string name="permlab_getTasks">recupero applicazioni in esecuzione</string>
     <string name="permdesc_getTasks">"Consente all'applicazione di recuperare informazioni sulle attività in esecuzione ed eseguite di recente. Le applicazioni dannose potrebbero essere in grado di scoprire informazioni riservate su altre applicazioni."</string>
     <string name="permlab_getDetailedTasks">retrieve details of running apps</string>
-    <string name="permdesc_getDetailedTasks">Allows the app to retrieve detailed information about currently and recently running tasks. Malicious apps may discover private information about other apps.</string>
+    <string name="permdesc_getDetailedTasks">Consente all'applicazione di ottenere informazioni dettagliate sui processi in esecuzione, ora e recenti. Applicazioni dannose potrebbero scoprire informazioni private riguardo altre app.</string>
     <string name="permlab_reorderTasks">riordinamento applicazioni in esecuz.</string>
     <string name="permdesc_reorderTasks">"Consente a un'applicazione di spostare attività in primo e secondo piano. Le applicazioni dannose possono imporsi ponendosi automaticamente in primo piano."</string>
     <string name="permlab_removeTasks">"interruzione dell'esecuzione di applicazioni"</string>
     <string name="permdesc_removeTasks">"Consente a un'applicazione di rimuovere le attività e terminare le loro applicazioni. Le applicazioni dannose possono disturbare il comportamento di altre applicazioni."</string>
-    <string name="permlab_startAnyActivity">start any activity</string>
-    <string name="permdesc_startAnyActivity">Allows the app to start any activity, regardless of permission protection or exported state.</string>
-    <string name="permlab_setScreenCompatibility">set screen compatibility</string>
-    <string name="permdesc_setScreenCompatibility">Allows the app to control the screen compatibility mode of other applications. Malicious applications may break the behavior of other applications.</string>
+    <string name="permlab_startAnyActivity">avvia qualsiasi attività</string>
+    <string name="permdesc_startAnyActivity">Consente all'applicazione di avviare qualsiasi attività, indipendentemente dalla protezione permessi e dallo stato esportato.</string>
+    <string name="permlab_setScreenCompatibility">imposta compatibilità schermo/string>
+    <string name="permdesc_setScreenCompatibility">Consente all'applicazione di controllare la modalità di compatibilità dello schermo di altre applicazioni. Applicazioni dannose potrebbero danneggiare il comportamento di altre applicazioni.</string>
     <string name="permlab_setDebugApp">attivazione debug delle applicazioni</string>
     <string name="permdesc_setDebugApp">"Consente a un'applicazione di attivare il debug per un'altra applicazione. Le applicazioni dannose possono sfruttare questa possibilità per interrompere altre applicazioni."</string>
     <string name="permlab_changeConfiguration">modifica impostazioni UI</string>
@@ -438,8 +438,8 @@ Tentativi rimasti:"</string>
     <string name="permdesc_readInputState">"Consente il rilevamento da parte delle applicazioni dei tasti premuti anche durante l'interazione con un'altra applicazione (come nel caso di inserimento di una password). Non dovrebbe essere mai necessario per le normali applicazioni."</string>
     <string name="permlab_bindInputMethod">associaz. a un metodo di inserimento</string>
     <string name="permdesc_bindInputMethod">"Consente l'associazione all'interfaccia principale di un metodo di inserimento. Non dovrebbe essere mai necessario per le normali applicazioni."</string>
-    <string name="permlab_bindAccessibilityService">bind to an accessibility service</string>
-    <string name="permdesc_bindAccessibilityService">Allows the holder to bind to the top-level interface of an accessibility service. Should never be needed for normal apps.</string>
+    <string name="permlab_bindAccessibilityService">associazione ad un servizio di acccessibilità</string>
+    <string name="permdesc_bindAccessibilityService">Consente al titolare di collegare all'interfaccia di primo livello di un servizio di accessibilità. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
     <string name="permlab_bindTextService">associazione a un servizio di testo</string>
     <string name="permdesc_bindTextService">"Consente al titolare di collegarsi all'interfaccia di primo livello di un servizio di testo (ad esempio SpellCheckerService). Non dovrebbe essere mai necessaria per le normali applicazioni."</string>
     <string name="permlab_bindVpnService">associazione a un servizio VPN</string>
@@ -454,8 +454,8 @@ Tentativi rimasti:"</string>
     <string name="permdesc_setOrientation">"Consente a un'applicazione di cambiare la rotazione dello schermo in qualsiasi momento. Non dovrebbe essere mai necessario per le normali applicazioni."</string>
     <string name="permlab_setPointerSpeed">cambio velocità del puntatore</string>
     <string name="permdesc_setPointerSpeed">"Consente a un'applicazione di modificare la velocità del puntatore del mouse o del trackpad in qualsiasi momento. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
-    <string name="permlab_setKeyboardLayout">change keyboard layout</string>
-    <string name="permdesc_setKeyboardLayout">Allows the app to change the keyboard layout. Should never be needed for normal apps.</string>
+    <string name="permlab_setKeyboardLayout">cambia disposizione tastieria</string>
+    <string name="permdesc_setKeyboardLayout">Consente all'applicazione di modificare la disposizione dei tasti sulla tastiera. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
     <string name="permlab_signalPersistentProcesses">invio segnali Linuz alle applicazioni</string>
     <string name="permdesc_signalPersistentProcesses">"Consente all'applicazione di richiedere l'invio del segnale fornito a tutti i processi persistenti."</string>
     <string name="permlab_persistentActivity">esecuzione permanente delle applicazioni</string>
@@ -482,8 +482,8 @@ Tentativi rimasti:"</string>
     <string name="permdesc_diagnostic">"Consente a un'applicazione di leggere le risorse del gruppo diag e scrivere a esse, per esempio i file in /dev. Questa capacità potrebbe influire sulla stabilità e sicurezza del sistema. Dovrebbe essere utilizzata SOLTANTO per diagnostiche specifiche dell'hardware effettuate dal produttore o dall'operatore."</string>
     <string name="permlab_changeComponentState">attivazione/disattivazione componenti applicazioni</string>
     <string name="permdesc_changeComponentState">"Consente a un'applicazione di attivare o disattivare un componente di un'altra applicazione. Le applicazioni dannose possono sfruttare questa possibilità per disattivare importanti funzionalità del telefono. Prestare attenzione con questa autorizzazione perché è possibile rendere inutilizzabili, incoerenti o instabili i componenti delle applicazioni."</string>
-    <string name="permlab_grantRevokePermissions">grant or revoke permissions</string>
-    <string name="permdesc_grantRevokePermissions">Allows an application to grant or revoke specific permissions for it or other applications. Malicious applications may use this to access features you have not granted them.</string>
+    <string name="permlab_grantRevokePermissions">consenti o revoca permessi</string>
+    <string name="permdesc_grantRevokePermissions">Consente ad una applicazione di concedere o revocare permessi specifici per se o per altre applicazioni. Le applicazioni dannose potrebbero usare questo permesso per ottenere degli accessi a cui tu non hai dato il consenso.</string>
     <string name="permlab_setPreferredApplications">impostazione applicazioni preferite</string>
     <string name="permdesc_setPreferredApplications">"Consente la modifica da parte di un'applicazione delle applicazioni preferite. Le applicazioni dannose potrebbero essere in grado di modificare automaticamente le applicazioni in esecuzione, effettuando lo spoofing delle applicazioni esistenti per raccogliere dati riservati."</string>
     <string name="permlab_writeSettings">modifica impostazioni di sistema globali</string>
@@ -501,9 +501,9 @@ Tentativi rimasti:"</string>
     <string name="permlab_writeContacts">scrittura dati di contatto</string>
     <string name="permdesc_writeContacts">"Consente a un'applicazione di modificare i dati (gli indirizzi) di contatto memorizzati sul telefono. Le applicazioni dannose possono sfruttare questa possibilità per cancellare o modificare i dati di contatto."</string>
     <string name="permlab_readCallLog">lettura registro chiamate</string>
-    <string name="permdesc_readCallLog">"Allows the app to read your phone's call log, including data about incoming and outgoing calls. This permission allows apps to save your call log data, and malicious apps may share call log data without your knowledge."</string>
+    <string name="permdesc_readCallLog">"Consenti all'applicazione di leggere il registro delle tue chiamate, inclusi i dati su chiamate in arrivo ed effettuate. Questo permesso consente all'applicazione di salvare i dati del tuo registro chiama, ma applicazioni dannose potrebbero condividere i dati del tuo registro chiamate senza che tu ne sia a conoscenza."</string>
     <string name="permlab_writeCallLog">write call log</string>
-    <string name="permdesc_writeCallLog">"Allows the app to modify your phone's call log, including data about incoming and outgoing calls. Malicious apps may use this to erase or modify your call log."</string>
+    <string name="permdesc_writeCallLog">"Consenti all'applicazione di modificare il registro delle tue chiamate, inclusi i dati su chiamate in arrivo ed effettuate. Le applicazioni dannose potrebbero usarlo per cancellare od alterare il tuo registro chiamate."</string>
     <string name="permlab_readProfile">lettura dei tuoi dati profilo</string>
     <string name="permdesc_readProfile">"Consente all'applicazione di leggere le informazioni del profilo personale memorizzato sul dispositivo, come il tuo nome e le tue informazioni di contatto. Ciò significa che l'applicazione è in grado di identificarti e di inviare le tue informazioni di profilo ad altri."</string>
     <string name="permlab_writeProfile">scrittura dati del profilo</string>
@@ -624,8 +624,8 @@ Tentativi rimasti:"</string>
     <string name="permdesc_changeWifiState">"Consente a un'applicazione di connettersi/disconnettersi da punti di accesso Wi-Fi e di apportare modifiche alle reti Wi-Fi configurate."</string>
     <string name="permlab_changeWifiMulticastState">consenti ricezione multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">"Consente a un'applicazione di ricevere pacchetti non direttamente indirizzati al tuo dispositivo. Può essere utile durante la ricerca di servizi offerti nelle vicinanze. Consuma di più rispetto alla modalità non multicast."</string>
-    <string name="permlab_bluetoothAdmin">access Bluetooth settings</string>
-    <string name="permdesc_bluetoothAdmin">Allows the app to configure the local Bluetooth phone, and to discover and pair with remote devices.</string>
+    <string name="permlab_bluetoothAdmin">accesso alle impostazioni Bluetooth</string>
+    <string name="permdesc_bluetoothAdmin">Consente all'applicazione di configurare il Bluetooth del tuo telefono, e di scoprire ed accoppiarsi con dispositivi remoti.</string>
     <string name="permlab_accessWimaxState">visualizzazione stato WiMAX</string>
     <string name="permdesc_accessWimaxState">"Consente a un'applicazione di visualizzare le informazioni relative allo stato della rete WiMAX."</string>
     <string name="permlab_changeWimaxState">modifica stato WiMAX</string>
@@ -767,7 +767,7 @@ Tentativi rimasti:"</string>
     <string name="keyguard_password_wrong_puk_code">Codice PUK errato!</string>
     <string name="keyguard_password_pin_failed">Operazione PIN fallita!</string>
     <string name="keyguard_password_puk_failed">Operazione PUK fallita!</string>
-    <string name="keyguard_pin_accepted">Code Accepted!</string>
+    <string name="keyguard_pin_accepted">Codice Accettato!</string>
     <string name="keyguard_label_text">Per sbloccare, premi Menu, poi 0.</string>
     <string name="emergency_call_dialog_number_for_display">Numero di emergenza</string>
     <string name="lockscreen_carrier_default">Nessun servizio.</string>
@@ -798,8 +798,8 @@ Contatta il fornitore del tuo servizio wireless per ricevere un'altra scheda SIM
     <string name="lockscreen_transport_play_description">Pulsante Riproduci</string>
     <string name="lockscreen_transport_stop_description">Pulsante di arresto</string>
     <string name="emergency_calls_only">Solo chiamate di emergenza</string>
-    <string name="lockscreen_sim_error_message_short">Cartanon Valida.</string>
-    <string name="lockscreen_sim_error_message">SIM card is Invalid.</string>
+    <string name="lockscreen_sim_error_message_short">Carta non Valida.</string>
+    <string name="lockscreen_sim_error_message">La carta SIM non è valida.</string>
     <string name="lockscreen_network_locked_message">Rete bloccata</string>
     <string name="lockscreen_perso_locked_message">La SIM/RUIM è bloccata Perso</string>
     <string name="lockscreen_sim_puk_locked_message">La SIM è bloccata tramite PUK.</string>
@@ -847,9 +847,9 @@ Visita "<b>google.com/accounts/recovery</b></string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="granularity_label_character">character</string>
-    <string name="granularity_label_word">word</string>
+    <string name="granularity_label_word">parola</string>
     <string name="granularity_label_link">link</string>
-    <string name="granularity_label_line">line</string>
+    <string name="granularity_label_line">riga</string>
     <string name="hour_ampm" formatted="false">%-l%P</string>
     <string name="hour_cap_ampm" formatted="false">%-l%p</string>
     <string name="factorytest_failed">Test di fabbrica non riuscito</string>
@@ -885,10 +885,10 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
     <string name="autofill_city_re">city|town|ort|stadt|suburb|ciudad|provincia|localidad|poblacion|ville|commune|localita|市区町村|cidade|Город|市|分區</string>
     <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
-    <string name="autofill_address_type_same_as_re">same as</string>
-    <string name="autofill_address_type_use_my_re">use my</string>
-    <string name="autofill_billing_designator_re">bill</string>
-    <string name="autofill_shipping_designator_re">ship</string>
+    <string name="autofill_address_type_same_as_re">usa lo stesso</string>
+    <string name="autofill_address_type_use_my_re">usa il mio</string>
+    <string name="autofill_billing_designator_re">fatturazione</string>
+    <string name="autofill_shipping_designator_re">spedizione</string>
     <string name="autofill_email_re">e.?mail|メールアドレス|Электронной.?Почты|邮件|邮箱|電郵地址</string>
     <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
     <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
@@ -940,12 +940,12 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="permdesc_packageVerificationAgent">"Consente all'applicazione di verificare se un pacchetto è installabile."</string>
     <string name="permlab_bindPackageVerifier">associazione a verifica pacchetto</string>
     <string name="permdesc_bindPackageVerifier">Permette al proprietario di effettuare richieste relative alle verifiche dei pacchetti. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
-    <string name="permlab_serialPort">access serial ports</string>
-    <string name="permdesc_serialPort">Allows the holder to access serial ports using the SerialManager API.</string>
-    <string name="permlab_accessContentProvidersExternally">access content providers externally</string>
-    <string name="permdesc_accessContentProvidersExternally">Allows the holder to access content providers from the shell. Should never be needed for normal apps.</string>
-    <string name="permlab_updateLock">discourage automatic device updates</string>
-    <string name="permdesc_updateLock">Allows the holder to offer information to the system about when would be a good time for a noninteractive reboot to upgrade the device.</string>
+    <string name="permlab_serialPort">accesso alle porte serali</string>
+    <string name="permdesc_serialPort">Consente al titolare su accedere alle porte seriali usando le API SerialManager.</string>
+    <string name="permlab_accessContentProvidersExternally">accesso ai provider di contenuti dall'esterno</string>
+    <string name="permdesc_accessContentProvidersExternally">Consente al titolare di accedere ai provider di contenuti dalla shell. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
+    <string name="permlab_updateLock">scoraggia aggiornamenti automatici del dispositivo</string>
+    <string name="permdesc_updateLock">Consente al titolare di offrire informazioni al sistema riguardo a quando potrebbe essere un buon momento per un riavvio senza intervento dell'utente per eseguire l'aggiornamento del dispositivo.</string>
     <string name="save_password_message">Memorizzare la password nel browser?</string>
     <string name="save_password_notnow">Non ora</string>
     <string name="save_password_remember">Memorizza</string>
@@ -959,8 +959,8 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="menu_delete_shortcut_label">Canc</string>
     <string name="searchview_description_search">Cerca</string>
     <string name="searchview_description_query">Query di ricerca</string>
-    <string name="searchview_description_clear">Cancella query</string>
-    <string name="searchview_description_submit">Invia query</string>
+    <string name="searchview_description_clear">Cancella ricerca</string>
+    <string name="searchview_description_submit">Avvia ricerca</string>
     <string name="searchview_description_voice">Ricerca vocale</string>
     <string name="enable_explore_by_touch_warning_title">"Abilitare Esplora con il Tocco?"</string>
     <string name="enable_explore_by_touch_warning_message">%1$s vuole attivare Esplora con il Tocco. Quando Esplora con il Tocco è attivato, puoi udire la descrizione di ciò che tocchi o eseguire gesture per interagire con il telefono.</string>
@@ -1019,7 +1019,7 @@ Vuoi chiuderla?"</string>
 
 Vuoi chiuderla?"</string>
     <string name="anr_application_process">%1$s non risponde. Vuoi chiuderla?</string>
-    <string name="anr_process">2Il processo %1$s non risponde.
+    <string name="anr_process">Il processo %1$s non risponde.
 
 Vuoi chiuderlo?"</string>
     <string name="force_close">OK</string>
@@ -1329,7 +1329,7 @@ per l'account %s"</string>
     <string name="activity_resolver_use_once">Solo una volta</string>
     <string name="default_audio_route_name">Telefono</string>
     <string name="default_audio_route_name_headphones">Cuffie</string>
-    <string name="default_audio_route_name_dock_speakers">Speaker Dock</string>
+    <string name="default_audio_route_name_dock_speakers">Dock altoparlanti</string>
     <string name="default_audio_route_name_hdmi">Audio HDMI</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
