@@ -116,7 +116,7 @@
     <string-array name="weather_sms_content">
         <item>Ricorda di usare la protezione solare.</item>
         <item>Oggi sarà nuvoloso.</item>
-        <item>Il tempo sta per peggiorare. Cerca di stare all'interno.</item>
+        <item>"Il tempo sta per peggiorare. Cerca di stare all'interno."</item>
         <item>Guida con prudenza :)</item>
         <item>"Piove forte, ricordati di portare con te un ombrello."</item>
         <item>"Piove forte, ricordati di portare con te un ombrello."</item>
@@ -134,11 +134,11 @@
         <item>"Sta nevicando, ricordati di indossare berretta e sciarpa!"</item>
         <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
         <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
-        <item>c'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto.</item>
-        <item>c'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto.</item>
+        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
+        <item>"C'è una fortissima tempesta di sabbia, ricordati di indossare una mascherina per il volto."</item>
         <item>"Non capita tutti i giorni di vedere la grandine! Cammina con attenzione!"</item>
-        <item>La qualitù dell'aria è pessima, cerca di rimanere in casa.</item>
-        <item>La qualitù dell'aria è pessima, cerca di rimanere in casa.</item>
+        <item>"La qualità dell'aria è pessima, cerca di rimanere in casa."</item>
+        <item>"La qualità dell'aria è pessima, cerca di rimanere in casa."</item>
     </string-array>
     <string-array name="weather_sms_addons">
         <item>"Previsioni per oggi a @: $."</item>
@@ -214,7 +214,7 @@
         <item>2</item>
         <item>Porta con te qualche strato aggiuntivo!</item>
         <item>3</item>
-        <item>Il tempo non è l'ideale; porta con te qualche strato aggiuntivo!</item>
+        <item>"Il tempo non è l'ideale; porta con te qualche strato aggiuntivo!"</item>
         <item>4</item>
         <item>Fai gli esercizi in casa!</item>
     </string-array>
@@ -230,7 +230,7 @@
         <item>23</item>
         <item>Cielo sereno e temperatura non gradevole</item>
         <item>24</item>
-        <item>Caldo e  umido! :(</item>
+        <item>Caldo e umido! :(</item>
     </string-array>
     <string-array name="weather_info_wcar">
         <item>0</item>
@@ -264,7 +264,7 @@
         <item>3</item>
         <item>Piovera a intermittenza durante il giorno.</item>
         <item>5</item>
-        <item>Buone condizioni per l'asciugatura.</item>
+        <item>"Buone condizioni per l'asciugatura."</item>
         <item>4</item>
         <item>Asciuga i tuoi vesiti in casa.</item>
         <item>31</item>
