@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="picker_title">Seleziona apk</string>
-    <string name="shortmessage">Meggarrio breve</string>
-    <string name="send_sound">Invi con audio</string>
-    <string name="send_2d_code">Invia codice2D</string>
+    <string name="shortmessage">SMS</string>
+    <string name="send_sound">Invia tramite audio</string>
+    <string name="send_2d_code">Invia codice 2D</string>
     <string name="send_nfc">Invia tramite NFC</string>
     <string name="scan_title">Metti a fuoo il codice 2D</string>
     <string name="recv_sound">Ricezione audio</string>
@@ -41,7 +41,7 @@
     <string name="scan_tip">Assicurati che il destinatario abbia la connessione attivata e possa ricevere i file</string>
     <string name="send_to">Invia a:</string>
     <string name="send_cancel_tip">Trasferimento non completato. Sicuro di voler interrompere il trasferimento ed uscire?</string>
-    <string name="send_cancel_tip2">Annulla invio. Inviato(i) %1$d / %2$d file</string>
+    <string name="send_cancel_tip2">Invio annullato. Inviato(i) %1$d / %2$d file</string>
     <string name="send_finish_tip">%1$d file invato(i) a:</string>
     <string name="sent">Inviato</string>
     <string name="send_finish">File inviato!</string>
@@ -57,7 +57,7 @@
     <string name="about_to_send">Invio file</string>
     <string name="wanna_receive">Ricevi</string>
     <string name="receive_cancel_tip">Ricezione non completata. Sicuro di voler interrompere il trasferimento ed uscire?</string>
-    <string name="receive_cancel_tip2">annulla ricezione. Ricevuto(i) %1$d / %2$d file</string>
+    <string name="receive_cancel_tip2">Ricezione annullata. Ricevuto(i) %1$d / %2$d file</string>
     <string name="cancel_send">Annulla</string>
     <string name="cancel_receive">Annulla</string>
     <string name="received">Ricevuto</string>
@@ -153,7 +153,7 @@ in [ %1$s ]"</string>
     <string name="unselect_all">Deseleziona tutto</string>
     <string name="delete">Elimina</string>
     <string name="delete_history_message">Confermi di voler eliminare tutta la cronologia?</string>
-    <string name="can_not_send_this_file">Impossibile inviar eil file!</string>
+    <string name="can_not_send_this_file">Impossibile inviare il file!</string>
     <string name="already_select_files">%1$d elementi selezionati</string>
     <string name="pause">Pausa</string>
     <string name="start">Avvia</string>
@@ -165,7 +165,7 @@ in [ %1$s ]"</string>
     <string name="press_to_view_receive_history">Apri cronologia file ricevuti</string>
     <string name="file_share_download_complete">File condiviso ricevuto!</string>
     <string name="please_select_share">Seleziona il file da condividere</string>
-    <string name="only_support_single_share">"E' supportata solo la condivisione di file singoli!"</string>
+    <string name="only_support_single_share">"E' supportata solo la condivisione di singoli file!"</string>
     <string name="file_downloading">File in download</string>
     <string name="file_restore">Ripristina file</string>
     <string name="file_uploading">Caricamento file</string>

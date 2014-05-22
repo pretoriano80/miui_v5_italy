@@ -134,7 +134,7 @@
     <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
     <string name="call_status_dialing">Composizione</string>
     <string name="call_status_ringing">Chiamata in corso</string>
-    <string name="reject_call">Rifiuto chiamata</string>
+    <string name="reject_call">Rifiuta la chiamata</string>
     <string name="status_bar_style_settings">Impostazioni Barra di Stato</string>
     <string name="status_bar_and_notification_bar">Pannello notifiche e barra di stato</string>
     <string name="settings_toggle_layout_style">Stile comandi</string>

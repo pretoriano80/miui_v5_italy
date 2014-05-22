@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Eliminare queste %1$d conversazioni?</item>
-        <item quantity="one">Eliminare queste conversazioni?</item>
+        <item quantity="one">Eliminare questa conversazione?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Queste conversazioni contengono elementi uniti, sicuro di volerle eliminare?</item>
@@ -53,11 +53,11 @@
         <item quantity="one">Cancellare le bozze da questa conversazione?</item>
     </plurals>
     <plurals name="conversation_unstarred">
-        <item quantity="other">Unstarring %1$d conversazioni.</item>
-        <item quantity="one">Unstarring %1$d conversazione.</item>
+        <item quantity="other">Stella rimossa da %1$d conversazioni.</item>
+        <item quantity="one">Stella rimossa da %1$d conversazione.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> silenziose.</item>
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> silenzioze.</item>
         <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> silenziosa.</item>
     </plurals>
     <plurals name="conversation_spammed">
