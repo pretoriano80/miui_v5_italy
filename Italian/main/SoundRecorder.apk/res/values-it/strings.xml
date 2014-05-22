@@ -95,7 +95,7 @@
     <string name="back">Indietro</string>
     <string name="toast_uninstall_fileexplorer">FileExplorer non è installato!</string>
     <string name="record_download">Scarica da Mi Cloud</string>
-    <string name="record_download_msg">LE registrazioni possono essere riprodotte solo dopo che sono state completaemnte scaricate.</string>
+    <string name="record_download_msg">Le registrazioni possono essere riprodotte solo dopo che sono state completaemnte scaricate.</string>
     <string name="record_download_msg_reload">Questa registrazione non esiste</string>
     <string name="record_download_complete">Completato</string>
     <string name="record_download_paused">In pausa</string>
@@ -109,11 +109,11 @@
     <string name="record_downloading_notification_count">%d in download</string>
     <string name="record_downloading_notification_complete">Download completato</string>
     <string name="sync_records">Sincronizza con Mi Cloud</string>
-    <string name="sync_only_in_wifi">Usa solo Wi-Fi per sincronizzare</string>
+    <string name="sync_only_in_wifi">Sincronizza solo se sei in Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">"Il registratore utilizzerà la tua connessione dati per scaricare o caricare registrazioni quando l'opzione è disattivata"</string>
     <string name="sync_only_in_wifi_alert">"Disattivando questa opzione potresti incrementare l'utilizzo dei dati (questo potrebbe comportare dei costi aggiuntivi)."</string>
     <string name="wifi_recommended_title">Avviso traffico</string>
-    <string name="wifi_recommended_body">"Scaricando da rete dati mobile：
+    <string name="wifi_recommended_body">"Scaricamento da rete dati mobile：
  potrebbe comportare costi aggiuntivi."</string>
     <string name="button_queue_for_wifi">Coda</string>
     <string name="button_start_now">Download</string>
