@@ -383,9 +383,9 @@ Tentativi rimasti:"</string>
     <string name="permlab_removeTasks">"interruzione dell'esecuzione di applicazioni"</string>
     <string name="permdesc_removeTasks">"Consente a un'applicazione di rimuovere le attività e terminare le loro applicazioni. Le applicazioni dannose possono disturbare il comportamento di altre applicazioni."</string>
     <string name="permlab_startAnyActivity">avvia qualsiasi attività</string>
-    <string name="permdesc_startAnyActivity">Consente all'applicazione di avviare qualsiasi attività, indipendentemente dalla protezione permessi e dallo stato esportato.</string>
+    <string name="permdesc_startAnyActivity">"Consente all'applicazione di avviare qualsiasi attività, indipendentemente dalla protezione permessi e dallo stato esportato."</string>
     <string name="permlab_setScreenCompatibility">imposta compatibilità schermo/string>
-    <string name="permdesc_setScreenCompatibility">Consente all'applicazione di controllare la modalità di compatibilità dello schermo di altre applicazioni. Applicazioni dannose potrebbero danneggiare il comportamento di altre applicazioni.</string>
+    <string name="permdesc_setScreenCompatibility">"Consente all'applicazione di controllare la modalità di compatibilità dello schermo di altre applicazioni. Applicazioni dannose potrebbero danneggiare il comportamento di altre applicazioni."</string>
     <string name="permlab_setDebugApp">attivazione debug delle applicazioni</string>
     <string name="permdesc_setDebugApp">"Consente a un'applicazione di attivare il debug per un'altra applicazione. Le applicazioni dannose possono sfruttare questa possibilità per interrompere altre applicazioni."</string>
     <string name="permlab_changeConfiguration">modifica impostazioni UI</string>
