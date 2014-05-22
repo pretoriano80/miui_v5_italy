@@ -86,7 +86,7 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="err_tag_not_supported">"Il tuo telefono non supporta i tag"</string>
     <string name="err_fail_to_read">Non è stato possibile leggere il tag</string>
     <string name="err_fail_to_write">Non è stato possibile scrivere il tag</string>
-    <string name="err_no_enough_space">Non c'è abbastanza spazio sul tag</string>
+    <string name="err_no_enough_space">"Non c'è abbastanza spazio sul tag"</string>
     <string name="err_fail_to_erase">Non è stato possibile cancellare il tag</string>
     <string name="err_tag_read_only">Non puoi scrivere su questo tag</string>
     <string name="wireless_network">Wireless &amp; reti</string>
