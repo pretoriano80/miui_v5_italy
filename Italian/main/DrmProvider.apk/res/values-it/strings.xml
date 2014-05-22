@@ -2,7 +2,7 @@
 <resources>
     <string name="app_label">Protezione DRM</string>
     <string name="permlab_accessDrm">Accesso al contenuto DRM.</string>
-    <string name="permdesc_accessDrm">Consenti alle applicazioni di accedere a contenuti rotetti da DRM.</string>
+    <string name="permdesc_accessDrm">Consenti alle applicazioni di accedere a contenuti protetti da DRM.</string>
     <string name="permlab_installDrm">Installa contenuto DRM.</string>
     <string name="permdesc_installDrm">Consenti alle applicazioni di installare contenuti protetti da DRM.</string>
 </resources>
