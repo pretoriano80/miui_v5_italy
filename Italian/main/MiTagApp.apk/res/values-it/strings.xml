@@ -81,7 +81,7 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="input_new_password">Prego inserire la nuova password di 4 cifre</string>
     <string name="error_password">Errore password</string>
     <string name="help_title">Aiuto</string>
-    <string name="err_nfc_off">Abilita l'NFC in Impostazioni > Wireless &amp; reti > Altro > NFC</string>
+    <string name="err_nfc_off">"Abilita l'NFC in Impostazioni > Wireless &amp; reti > Altro > NFC"</string>
     <string name="err_no_nfc">"Il tuo telefono non supporta l'NFC. Questa app potrebbe non funzionare."</string>
     <string name="err_tag_not_supported">"Il tuo telefono non supporta i tag"</string>
     <string name="err_fail_to_read">Non è stato possibile leggere il tag</string>
