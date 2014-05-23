@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dialog_insufficient_space_on_external">Spazio insufficiente nell\'archiviazione esterna</string>
+    <string name="dialog_insufficient_space_on_cache">Spazio insufficiente nella memoria interna</string>
+    <string name="auto_restart_under_wifi">Alla prossima connessione WiFi il file verrà scaricato automaticamente</string>
+    <string name="task_already_exist">Operazione già esistente</string>
     <string name="app_label">Download Manager</string>
     <string name="permlab_downloadManager">Accesso al download manager.</string>
     <string name="permdesc_downloadManager">"Permetti all'applicazione di accedere al download manager e di usarlo per scaricare file. Applicazioni maligne possono usarlo per interrompere i downloads e accedere a informazioni personali."</string>
@@ -36,7 +40,4 @@ Tocca %s per iniziare il download di questo file alla prossima connessione Wi-Fi
     <string name="button_cancel_download">Annulla</string>
     <string name="button_start_now">Inizia adesso</string>
     <string name="download_percent">%d%%</string>
-    <string name="dialog_insufficient_space_on_external">Spazio insufficiente nell\'archiviazione esterna</string>
-    <string name="dialog_insufficient_space_on_cache">Spazio insufficiente nella memoria interna</string>
-    <string name="auto_restart_under_wifi">Alla prossima connessione WiFi il file verrà scaricato automaticamente</string>
 </resources>
