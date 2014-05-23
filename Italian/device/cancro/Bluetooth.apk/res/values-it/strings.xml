@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
+    <string name="miui_transfer_inbound_title">Ricevuti</string>
+    <string name="miui_transfer_outbound_title">Inviati</string>
     <string name="permlab_bluetoothShareManager">Accesso al download manager.</string>
     <string name="permdesc_bluetoothShareManager">"Permetti all' applicazione di accedere al BluetoothShare manager e usarlo per trasferire file."</string>
     <string name="permlab_bluetoothWhitelist">Accesso terminale whitelist bluetooth.</string>
@@ -104,9 +107,6 @@
     <string name="transfer_clear_dlg_title">Elimina</string>
     <string name="sharedUserId" />
     <string name="process" />
-    <string name="miui_transfer_history_title">CronologiaBluetooth</string>
-    <string name="miui_transfer_inbound_title">Ricevuti</string>
-    <string name="miui_transfer_outbound_title">Inviati</string>
     <string name="pbap_session_key_dialog_title">Digita la chiave per la sessione %1$s</string>
     <string name="pbap_session_key_dialog_header">Chiave sessione Bluetooth necessaria</string>
     <string name="pbap_acceptance_timeout_message">Tempo per la connessione con %1$s esaurito</string>
