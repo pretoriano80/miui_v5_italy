@@ -384,7 +384,7 @@ Tentativi rimasti:"</string>
     <string name="permdesc_removeTasks">"Consente a un'applicazione di rimuovere le attività e terminare le loro applicazioni. Le applicazioni dannose possono disturbare il comportamento di altre applicazioni."</string>
     <string name="permlab_startAnyActivity">avvia qualsiasi attività</string>
     <string name="permdesc_startAnyActivity">"Consente all'applicazione di avviare qualsiasi attività, indipendentemente dalla protezione permessi e dallo stato esportato."</string>
-    <string name="permlab_setScreenCompatibility">imposta compatibilità schermo/string>
+    <string name="permlab_setScreenCompatibility">imposta compatibilità schermo</string>
     <string name="permdesc_setScreenCompatibility">"Consente all'applicazione di controllare la modalità di compatibilità dello schermo di altre applicazioni. Applicazioni dannose potrebbero danneggiare il comportamento di altre applicazioni."</string>
     <string name="permlab_setDebugApp">attivazione debug delle applicazioni</string>
     <string name="permdesc_setDebugApp">"Consente a un'applicazione di attivare il debug per un'altra applicazione. Le applicazioni dannose possono sfruttare questa possibilità per interrompere altre applicazioni."</string>
@@ -439,7 +439,7 @@ Tentativi rimasti:"</string>
     <string name="permlab_bindInputMethod">associaz. a un metodo di inserimento</string>
     <string name="permdesc_bindInputMethod">"Consente l'associazione all'interfaccia principale di un metodo di inserimento. Non dovrebbe essere mai necessario per le normali applicazioni."</string>
     <string name="permlab_bindAccessibilityService">associazione ad un servizio di acccessibilità</string>
-    <string name="permdesc_bindAccessibilityService">Consente al titolare di collegare all'interfaccia di primo livello di un servizio di accessibilità. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
+    <string name="permdesc_bindAccessibilityService">"Consente al titolare di collegare all'interfaccia di primo livello di un servizio di accessibilità. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_bindTextService">associazione a un servizio di testo</string>
     <string name="permdesc_bindTextService">"Consente al titolare di collegarsi all'interfaccia di primo livello di un servizio di testo (ad esempio SpellCheckerService). Non dovrebbe essere mai necessaria per le normali applicazioni."</string>
     <string name="permlab_bindVpnService">associazione a un servizio VPN</string>
@@ -455,7 +455,7 @@ Tentativi rimasti:"</string>
     <string name="permlab_setPointerSpeed">cambio velocità del puntatore</string>
     <string name="permdesc_setPointerSpeed">"Consente a un'applicazione di modificare la velocità del puntatore del mouse o del trackpad in qualsiasi momento. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_setKeyboardLayout">cambia disposizione tastieria</string>
-    <string name="permdesc_setKeyboardLayout">Consente all'applicazione di modificare la disposizione dei tasti sulla tastiera. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
+    <string name="permdesc_setKeyboardLayout">"Consente all'applicazione di modificare la disposizione dei tasti sulla tastiera. Non dovrebbe mai essere necessario per le normali applicazioni."</string>
     <string name="permlab_signalPersistentProcesses">invio segnali Linuz alle applicazioni</string>
     <string name="permdesc_signalPersistentProcesses">"Consente all'applicazione di richiedere l'invio del segnale fornito a tutti i processi persistenti."</string>
     <string name="permlab_persistentActivity">esecuzione permanente delle applicazioni</string>
@@ -625,7 +625,7 @@ Tentativi rimasti:"</string>
     <string name="permlab_changeWifiMulticastState">consenti ricezione multicast Wi-Fi</string>
     <string name="permdesc_changeWifiMulticastState">"Consente a un'applicazione di ricevere pacchetti non direttamente indirizzati al tuo dispositivo. Può essere utile durante la ricerca di servizi offerti nelle vicinanze. Consuma di più rispetto alla modalità non multicast."</string>
     <string name="permlab_bluetoothAdmin">accesso alle impostazioni Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Consente all'applicazione di configurare il Bluetooth del tuo telefono, e di scoprire ed accoppiarsi con dispositivi remoti.</string>
+    <string name="permdesc_bluetoothAdmin">"Consente all'applicazione di configurare il Bluetooth del tuo telefono, e di scoprire ed accoppiarsi con dispositivi remoti."</string>
     <string name="permlab_accessWimaxState">visualizzazione stato WiMAX</string>
     <string name="permdesc_accessWimaxState">"Consente a un'applicazione di visualizzare le informazioni relative allo stato della rete WiMAX."</string>
     <string name="permlab_changeWimaxState">modifica stato WiMAX</string>
@@ -942,10 +942,10 @@ Seleziona OK per continuare o Annulla per rimanere nella pagina corrente.</strin
     <string name="permdesc_bindPackageVerifier">Permette al proprietario di effettuare richieste relative alle verifiche dei pacchetti. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
     <string name="permlab_serialPort">accesso alle porte serali</string>
     <string name="permdesc_serialPort">Consente al titolare su accedere alle porte seriali usando le API SerialManager.</string>
-    <string name="permlab_accessContentProvidersExternally">accesso ai provider di contenuti dall'esterno</string>
+    <string name="permlab_accessContentProvidersExternally">"accesso ai provider di contenuti dall'esterno"</string>
     <string name="permdesc_accessContentProvidersExternally">Consente al titolare di accedere ai provider di contenuti dalla shell. Non dovrebbe mai essere necessario per le normali applicazioni.</string>
     <string name="permlab_updateLock">scoraggia aggiornamenti automatici del dispositivo</string>
-    <string name="permdesc_updateLock">Consente al titolare di offrire informazioni al sistema riguardo a quando potrebbe essere un buon momento per un riavvio senza intervento dell'utente per eseguire l'aggiornamento del dispositivo.</string>
+    <string name="permdesc_updateLock">"Consente al titolare di offrire informazioni al sistema riguardo a quando potrebbe essere un buon momento per un riavvio senza intervento dell'utente per eseguire l'aggiornamento del dispositivo."</string>
     <string name="save_password_message">Memorizzare la password nel browser?</string>
     <string name="save_password_notnow">Non ora</string>
     <string name="save_password_remember">Memorizza</string>
