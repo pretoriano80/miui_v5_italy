@@ -48,7 +48,8 @@
     <string name="micloud_activate_retry_btn">"Riprova l'attivazione"</string>
     <string name="micloud_account_not_actived">"L'account non è stato attivato"</string>
     <string name="micloud_active_email_visit">Visita %s</string>
-    <string name="micloud_click_email_to_valid">Fare clic sul link di attivazione nel messaggio inviato alla tua casella di posta</string>
+    <string name="micloud_click_email_to_valid">"
+Fare clic sul link di attivazione nel messaggio inviato alla tua casella di posta"</string>
     <string name="micloud_resend_active_email">Invia di nuovo Email di attivazione</string>
     <string name="micloud_delete_account">Elimina account</string>
     <string name="micloud_active_email_sent_1">Abbiamo inviato un link di attivazione al tuo indirizzo e-mail:</string>
