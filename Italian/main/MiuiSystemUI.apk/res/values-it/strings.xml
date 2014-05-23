@@ -253,7 +253,7 @@
     <string name="audio_effect_settings">Imposta tipo di cuffie</string>
     <string name="audio_effect_info">Ottimizza audio</string>
     <string name="audio_effect_custom">Configura</string>
-    <string name="usb_share_net_info">Utilizza la connessione Internet del compu</string>
+    <string name="usb_share_net_info">Utilizza la connessione Internet del computer</string>
     <string name="status_bar_toggle_ac">Accesso</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Lumin.</string>
@@ -282,7 +282,7 @@
     <string name="status_bar_toggle_ringtone">Suoneria</string>
     <string name="status_bar_toggle_ring">Suona</string>
     <string name="status_bar_toggle_sync_auto">Sinc.Auto</string>
-    <string name="status_bar_toggle_sync_manual">Sinc.Manu.</string>
+    <string name="status_bar_toggle_sync_manual">Sinc.Man.</string>
     <string name="status_bar_toggle_syncing">Sincronizza</string>
     <string name="status_bar_toggle_power_low">Risparmio</string>
     <string name="status_bar_toggle_power_mid">Normale</string>
