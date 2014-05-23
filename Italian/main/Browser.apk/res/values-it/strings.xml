@@ -88,6 +88,7 @@
     <string name="menu_save_snapshot">Salva per lettura offline</string>
     <string name="saving_snapshot">Salvataggio…</string>
     <string name="snapshot_failed">Impossibile salvare per la lettura offline.</string>
+    <string name="snapshot_successed">Salva per la lettura offline in un secondo momento</string>
     <string name="contextmenu_openlink">Apri</string>
     <string name="contextmenu_savelink">Salva link</string>
     <string name="contextmenu_sharelink">Condividi link</string>
@@ -480,7 +481,9 @@
     <string name="network_show_wifi_setting_tip_dialog_setting_title">Quando utilizzi la rete dati mobile per accedere ad Internet, MIUI ti segnalerà se nelle vicinanze ci sono reti Wi-Fi disponibili</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rete Wi-Fi disponibile</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Rete Wi-Fi trovata, vuoi connetterti?</string>
-    <string name="network_show_wifi_setting_tip_dialog_notshow">Salva</string>
+    <string name="dont_remind_again">Ricorda la mia selezione</string>
+    <string name="use_cellular_network_alert_title">Avviso di rete</string>
+    <string name="use_cellular_network_alert_message">Wi-Fi non disponibile，utilizzare la rete dati mobile?</string>
     <string name="user_defined_webpage">Aggiungi URL</string>
     <string name="quicklink_user_define_webpage_title">Nome</string>
     <string name="quicklink_user_define_webpage_url">URL</string>

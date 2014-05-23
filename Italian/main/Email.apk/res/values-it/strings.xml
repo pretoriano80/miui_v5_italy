@@ -60,6 +60,13 @@
     <string name="auth_error_notification_text">Tocca per modificare impostazioni account per %s</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="app_name">Email</string>
+    <string name="account_setup_options_mail_window_auto">Automatico</string>
+    <string name="account_setup_options_mail_window_1day">Ultimo giorno</string>
+    <string name="account_setup_options_mail_window_3days">Ultimi tre giorni</string>
+    <string name="account_setup_options_mail_window_1week">Ultima settimana</string>
+    <string name="account_setup_options_mail_window_2weeks">Ultime due settimane</string>
+    <string name="account_setup_options_mail_window_1month">Ultimo mese</string>
+    <string name="account_setup_options_mail_window_all">Tutto</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
     <string name="retry">Riprova</string>
     <string name="search_hint">Cerca email</string>
