@@ -546,8 +546,8 @@
     <string name="auto_startup_dialog_msg">"MIUI consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
 Consentire l'avvio automatico?"</string>
     <string name="auto_start_summary">"%1$d app autorizzate all'avvio automatico"</string>
-    <string name="auto_start_title">Gestione avvio autom.</string>
-    <string name="perm_app_enable">Richiesti permessi monitor</string>
+    <string name="auto_start_title">Gestione avvio automatico</string>
+    <string name="perm_app_enable">Monitor richieste di permessi</string>
     <string name="perm_app_header">Gestione permessi</string>
     <string name="perm_app_title">Gestione permessi applicazioni</string>
     <string name="perm_log_empty">Registro vuoto</string>
