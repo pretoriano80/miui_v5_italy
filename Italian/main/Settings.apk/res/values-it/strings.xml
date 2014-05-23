@@ -956,8 +956,8 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_update_now">Aggiorna adesso</string>
     <string name="virus_scan_use_cloud">Definizioni virus cloud</string>
     <string name="virus_scan_can_use_wifi">Usa definizioni online per la scansione</string>
-    <string name="virus_scan_monitoring">Installa il monitor</string>
-    <string name="virus_scan_judge_is_virus">"Controlla le app per i virus prima dell'installazione"</string>
+    <string name="virus_scan_monitoring">Verifica installazioni</string>
+    <string name="virus_scan_judge_is_virus">"Controlla le applicazioni per i virus prima dell'installazione"</string>
     <string name="virus_scan_viruslib_version">Versione definizioni virus: %s</string>
     <string name="virus_scan_settings">Impostazioni</string>
     <string name="virus_scanner_lib_update_success">Le definizioni dei virus sono state aggiornate automaticamente. ^_^</string>
