@@ -1089,13 +1089,13 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="imei_invalid">IMEI non valido</string>
     <string name="meid_invalid">MEID non valido</string>
     <string name="check_unsynchronized_accounts">Verifica contatti non sincronizzati</string>
-    <string name="frequency_three_days">Controlla e ricordami ogni tre giorni</string>
-    <string name="frequency_weekly">Controlla e ricordami ogni settimana</string>
-    <string name="frequency_none">Non ricordarmi</string>
+    <string name="frequency_three_days">Controlla e ricordamelo ogni tre giorni</string>
+    <string name="frequency_weekly">Controlla e ricordamelo ogni settimana</string>
+    <string name="frequency_none">Non ricordarmelo</string>
     <string name="dirty_contacts_notification_title">Vuoi sincronizzare i contatti?</string>
     <string name="dirty_contacts_notification_description">"%d modifiche ai contatti locali non sono state sincronizzate con l'account"</string>
     <string name="dirty_contacts_notification_message">\u0020(Puoi disabilitare il promemoria nelle impostazioni dei Contatti)</string>
-    <string name="remind_btn_sync_now">Sincronizza Adesso</string>
+    <string name="remind_btn_sync_now">Sincronizza adesso</string>
     <string name="remind_btn_ignore">Ignora</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="scan">Scansiona</string>
