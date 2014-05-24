@@ -20,43 +20,27 @@
     <string name="button_recharge_pay">Conferma</string>
     <string name="button_recharge">Ricarica</string>
     <string name="balance_payment">%1$s MiCredit</string>
-    <string name="balance_giftcard_payment">%1$s MiCredit（%2$s-MiCredit carta regalo）</string>
-    <string name="balance_no_giftcard_payment">%1$s MiCredit (impossibile utilizzare la gift card MiCredit per questo ordine)</string>
+    <string name="balance_giftcard_payment">%1$s MiCredit（%2$s-Carta regalo MiCredit）</string>
+    <string name="balance_no_giftcard_payment">%1$s MiCredit (impossibile utilizzare la carta regalo MiCredit per questo ordine)</string>
     <string name="balance">Saldo: %1$s MiCredit</string>
-    <string name="giftcard_value">(%1$s-MiCredit carta regalo)</string>
+    <string name="giftcard_value">(%1$s-Carta regalo MiCredit)</string>
     <string name="frozen">(Congelato)</string>
     <string name="mili_center">MiCredit</string>
     <string name="memu_refresh">Aggiorna</string>
     <string name="error_mili_summary">Fondi insufficienti.</string>
-    <string name="error_network_title">Errore di rete</string>
     <string name="error_network_summary">Impossibile collegarsi alla rete.</string>
-    <string name="error_auth_title">Errore di accesso</string>
     <string name="error_auth_summary">"Errore di accesso, eseguire nuovamente l'accesso".</string>
-    <string name="error_has_bought_title">"Ripeti l'acquisto"</string>
     <string name="error_has_bought_summary">Hai già acquistato questo prodotto.</string>
     <string name="error_server_title">Errore server</string>
-    <string name="error_server_summary">SErrore server. Prova di nuovo più tardi</string>
-    <string name="error_common_title">Errore di sistema</string>
     <string name="error_common_summary">Errore di sistema. Riprova più tardi.</string>
-    <string name="error_user_id_mismatch_title">Errore account</string>
     <string name="error_user_id_mismatch_summary">Verifica ed accedi di nuovo al tuo account</string>
     <string name="error_illegal_order_title">Errore ordine</string>
-    <string name="error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
-    <string name="error_verify_title">Nessun permesso</string>
-    <string name="error_verify_summary">La tua applicazione non ha i permessi per richiedere il servizio</string>
     <string name="error_expired_summary">Il tuo ordine è scaduto</string>
-    <string name="error_frozen_title">Account congelato</string>
     <string name="error_frozen_summary">"Il tuo account è stato congelato. 
 Contatta il servizio clienti Xiaomi."</string>
     <string name="error_account_changed_title">Account modificato</string>
     <string name="error_account_changed_summary">"Le informazioni del tuo account sono state modificate.
 Accedi di nuovo."</string>
-    <string name="error_too_frequent_visits_title">Whoa...vacci piano!</string>
-    <string name="error_too_frequent_visits_summary">"Limite di azioni per account superato.
-Attendi 5 minuti e prova di nuovo."</string>
-    <string name="error_giftcard_summary">Impossibile recuperare le informazioni della carta regalo.</string>
-    <string name="error_bankcard_verify_summary">Impossibile verificare numero carta.</string>
-    <string name="error_cert_date_title">Errore data certificato</string>
     <string name="error_cert_date_summary">"Errore data certificato. 
 Verifica la data locale e prova di nuovo."</string>
     <string name="title_recharge">Ricarica MiCredit</string>

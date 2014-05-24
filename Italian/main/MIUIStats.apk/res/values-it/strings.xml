@@ -18,6 +18,6 @@
     <string name="notification_ticker">Statistiche Inviate</string>
     <string name="notification_title">Statistiche MIUIAndroid</string>
     <string name="notification_desc">Attiva o disattiva Statistiche Anonime</string>
-    <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/>Learn More&lt;/a></string>
+    <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/>Maggiori informazioni&lt;/a></string>
     <string name="preview_title">Anteprima</string>
 </resources>

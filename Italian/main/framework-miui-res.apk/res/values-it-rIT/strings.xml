@@ -262,7 +262,7 @@
     <string name="error_unauthorized">"Troppi errori nell'autenticazione account. Sincronizzazione disabilitata."</string>
     <string name="every_day">Ogni giorno</string>
     <string name="experimental_validate">Verifica</string>
-    <string name="experimental_validate_fail">Verificafallita, prova di nuovo</string>
+    <string name="experimental_validate_fail">Verifica fallita, prova di nuovo</string>
     <string name="experimental_validate_password">Password</string>
     <string name="experimental_validate_progress">Verifica in corso...</string>
     <string name="experimental_validate_thanks">Grazie!</string>

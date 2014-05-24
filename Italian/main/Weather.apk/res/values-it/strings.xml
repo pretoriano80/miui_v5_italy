@@ -15,15 +15,17 @@
     <string name="send_sms_notification">Inoltra notifiche meteo</string>
     <string name="send_sms_notification_summary">Invia il meteo i oggi ai tuoi contatti tramite SMS</string>
     <string name="location_management">Località</string>
-    <string name="enable_gps">GPS</string>
+    <string name="gps_hint">Posizione attualen</string>
     <string name="add_city">Aggiungi città</string>
+    <string name="edit_city">Modifica</string>
     <string name="cancel">Annulla</string>
     <string name="menu_send_sms">Invia</string>
     <string name="app_love_sms_title">Contenuti messaggio</string>
     <string name="app_love_view_title">Anteprima</string>
     <string name="app_love_font_lng">%s</string>
-    <string name="app_nohave_net">Nessuna rete rilevata</string>
-    <string name="app_unquiet_net">Connessione di rete debole</string>
+    <string name="network_unavailable">Impossibile collegarsi alla rete. Verifica la connessione di rete e riprova.</string>
+    <string name="weather_data_unreachable">Impossibile recuperare informazioni meteo. Aspetta un minuto o due e riprova.</string>
+    <string name="app_unquiet_net">Bad network connection</string>
     <string name="widget_loading">Nessun dato meteo</string>
     <string name="act_find_city_hot_title">Città principali</string>
     <string name="act_find_city_title">Aggiungi località</string>
@@ -31,7 +33,7 @@
     <string name="act_find_city_hint">Cerca</string>
     <string name="act_set_city_find_side_on">Trova località</string>
     <string name="act_set_city_find_side">Localizzazione città...</string>
-    <string name="local_city">Città locali</string>
+    <string name="local_city" />
     <string name="act_set_city_re_find_side">Localizzazione...</string>
     <string name="act_set_city_find_side_error">Impossibile localizzare.</string>
     <string name="act_city_find_gps_error">Seleziona manualmente una città nella lista.</string>
@@ -39,6 +41,7 @@
     <string name="act_weather_cycle_update">Aggiornamento…</string>
     <string name="act_weather_update_time">%s aggiornato</string>
     <string name="act_weather_cycle_low_temp">minima</string>
+    <string name="act_weather_cycle_no_forcast">Sconosciuto</string>
     <string name="act_weather_range_title">Previsioni meteo a breve termine</string>
     <string name="act_weather_range_select">Seleziona una città</string>
     <string name="menu_around">"Nei d'intorni"</string>
@@ -54,7 +57,7 @@
     <string name="share_weather_title">Condividi dati meteo</string>
     <string name="share_button_text">Condividi</string>
     <string name="share_choice_titile">Condividi informazioni meteo</string>
-    <string name="share_content">\#MIUI weather#</string>
+    <string name="share_content">MIUI weather</string>
     <string name="share_weather_content">"\#MIUI weather#
 Il tempo a %1$s oggi è %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_aqi_content">"\#MIUI weather#
@@ -83,6 +86,7 @@ La qualità dell'aria a %1$s oggi è: %2$s, %3$s. %4$s %5$s."</string>
     <string name="alert_provider_title">Notifiche località</string>
     <string name="alert_provider_message">"Devi attivare l'accesso alla posizione tramite la rete mobile."</string>
     <string name="button_allow">Consenti</string>
+    <string name="button_abandon">Annulla modifiche</string>
     <string name="button_not_allow">Nega</string>
     <string name="location_allow_err">Impossibile localizzare.</string>
     <string name="format_date_wmd">dd/MM EEE</string>
@@ -99,6 +103,7 @@ La qualità dell'aria a %1$s oggi è: %2$s, %3$s. %4$s %5$s."</string>
     <string name="aqi_quality_index_unhealthy">non salutare</string>
     <string name="aqi_quality_index_dangerous">pericolosa</string>
     <string name="aqi_quality_index_hazardous">molto pericolosa</string>
+    <string name="aqi_quality_index_break">Terribile!</string>
     <string name="aqi_details_good">Il tempo è ideale per uscire fuori.</string>
     <string name="aqi_details_fine">Le persone particolarmente sensibili dovrebbero evitare sforzi intensi o prolungati.</string>
     <string name="aqi_details_light_pollution">Le persone con problemi di cuore o polmonari, anziani ed i bambini dovrebbero evitare sforzi intensi o prolungati.</string>
@@ -110,7 +115,8 @@ La qualità dell'aria a %1$s oggi è: %2$s, %3$s. %4$s %5$s."</string>
     <string name="act_aqi_so2_title">SO2</string>
     <string name="act_aqi_no2_title">NO2</string>
     <string name="first_start_network_toast_text">Accedi alla rete per recuperare le informazioni meteo.</string>
-    <string name="act_weather_find_city_search_online">Trova città online</string>
+    <string name="act_weather_find_city_net_no_good">Impossibile collegarsi alla rete</string>
+    <string name="act_weather_find_city_click_retry">Riprova</string>
     <string name="act_weather_find_city_connect_net">Verifica la tua connessione di rete e riprova.</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
@@ -121,4 +127,8 @@ La qualità dell'aria a %1$s oggi è: %2$s, %3$s. %4$s %5$s."</string>
     <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
     <string name="menu_add">Aggiungi città</string>
     <string name="menu_more">Dettagli</string>
+    <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+    <string name="location_tag">Posizione</string>
+    <string name="act_weather_find_city_no_result">Nessun risultato</string>
+    <string name="act_weather_find_city_added">Città aggiunta</string>
 </resources>

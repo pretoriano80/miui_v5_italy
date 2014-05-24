@@ -32,6 +32,7 @@
     <string name="cancel">Stop</string>
     <string name="timer_message_with_hour">timer a %1$d ore e %2$d minuti</string>
     <string name="timer_message">%1$d minuti</string>
+    <string name="timer_message_with_seconds">%1$d secondi</string>
     <string name="shutdown_alarm_title">Avviso spegnimento</string>
     <string name="shutdown_alarm_enable_summary">Avviso spegnimento abilitato</string>
     <string name="shutdown_alarm_disable_summary">Disabilita spegnimento sveglia</string>
@@ -48,6 +49,7 @@
     <string name="alarm_alert">Imposta suoneria</string>
     <string name="alarm_screen">Imposta stile sveglia</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>
     <string name="alarm_list_title">Sveglie</string>
     <string name="add_alarm">Aggiungi sveglia</string>

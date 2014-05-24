@@ -95,8 +95,8 @@
 The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
 Feedback implementation. 
 Users can use this switch to completely turn off the anti-vibration"</string>
-  <string name="setting_keeplive_desc">"Allow application run at background.
-It can cause more battery consumption"</string>
+  <string name="setting_keeplive_desc">"Consenti esecuzione applicazione in background.
+Potrebbe aumentare il consumo della batteria"</string>
     <string name="setting_speed_text">Velocità</string>
     <string name="setting_keeplive_text">Esegui in background</string>
     <string name="setting_instant_photo_text">Prima metti a fuoco</string>

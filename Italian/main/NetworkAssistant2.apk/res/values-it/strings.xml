@@ -19,6 +19,8 @@ rimanenti"</string>
     <string name="main_traffic_used_only">Utilizzati: %s</string>
     <string name="main_alert_message_no_mobile_package">"Limite dati rete mobile non impostato"</string>
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
+    <string name="main_alert_message_slot_no_data_connection">"Lo sto SIM non supporta
+la connessione alla rete dati mobile"</string>
     <string name="firewall_activity_lable">Limite utilizzo dati da applicazione</string>
     <string name="firewall_applist">Applicazioni</string>
     <string name="firewall_rule_group_title_mobile">Dati</string>

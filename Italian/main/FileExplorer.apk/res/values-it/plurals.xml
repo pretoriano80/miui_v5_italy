@@ -4,7 +4,7 @@
         <item quantity="other">Elimina %1$d file</item>
         <item quantity="zero">Elimina %1$d file</item>
         <item quantity="one">Elimina 1 file</item>
-        <item quantity="two">Eliminae %1$d file</item>
+        <item quantity="two">Elimina %1$d file</item>
         <item quantity="few">Elimina %1$d file</item>
         <item quantity="many">Elimina %1$d file</item>
     </plurals>
