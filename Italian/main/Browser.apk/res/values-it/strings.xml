@@ -501,7 +501,7 @@
     <string name="js_disable_confirm_message">Disabilitando il JavaScript alcuni siti potrebbero apparire in modo non corretto</string>
     <string name="cloud_tab">Cloud Tab</string>
     <string name="sync_item_browser_title">Sincr. browser</string>
-    <string name="sync_item_browser_summary">Sincronizza i dati sul tuo cloud, e rende semplice l'uso del browser su altri dispositivi</string>
+    <string name="sync_item_browser_summary">"Sincronizza i dati sul tuo cloud, e rende semplice l'uso del browser su altri dispositivi"</string>
     <string name="sub_sync_item_browser_title_history">Sincr. cronologia</string>
     <string name="sub_sync_item_browser_title_history_summary">Sincronizza la cronologia del browser</string>
     <string name="sub_sync_item_browser_title_novel">Sincr. segnalibri</string>
