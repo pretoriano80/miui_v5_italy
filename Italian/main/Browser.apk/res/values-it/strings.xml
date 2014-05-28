@@ -14,7 +14,7 @@
     <string name="readmode_page_load_error">Impossibile caricare pagina. :(</string>
     <string name="readmode_already_add_to_bookshelf">Aggiunto alla libreria.</string>
     <string name="readmode_login_message">Devi accedere in modalità lettura.</string>
-    <string name="readmode_pay_message">Devi acquistare i llibro per leggere i capitoli seguenti.</string>
+    <string name="readmode_pay_message">Devi acquistare i libro per leggere i capitoli seguenti.</string>
     <string name="readmode_recommend_message">"Hai già letto questo libro. :)"</string>
     <string name="readmode_login">Accedi</string>
     <string name="readmode_pay">Compra libro</string>
