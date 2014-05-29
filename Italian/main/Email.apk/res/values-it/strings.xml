@@ -53,7 +53,7 @@
     <string name="policy_html_truncation">Restringi dimensione email HTML</string>
     <string name="policy_require_sd_encryption">Richiede crittografia della scheda SD</string>
     <string name="policy_dont_allow_attachments">Non consentire allegati</string>
-    <string name="policy_max_attachment_size">LImita dimensione allegati</string>
+    <string name="policy_max_attachment_size">Limita dimensione allegati</string>
     <string name="policy_require_manual_sync_roaming">Consenti solo sincronizzazione manuale durante il roaming</string>
     <string name="policy_require_encryption">Richiede la crittografia del dispositivo</string>
     <string name="auth_error_notification_title">Errore di autenticazione</string>
@@ -334,7 +334,7 @@ CC: %4$s
     <string name="pop3_name">POP3</string>
     <string name="folder_picker_title">Invio risposta</string>
     <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
-    <string name="sent_folder_selection_title">Selez. cartella posta inviata server %s</string>
+    <string name="sent_folder_selection_title">Selez. cartella Posta inviata server %s</string>
     <string name="account_waiting_for_folders_msg">Caricamento elenco cartelle…</string>
     <string name="email_feedback_uri" />
     <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -388,7 +388,7 @@ CC: %4$s
     <string name="confirm_send_message_with_no_subject">"Nessun testo presente nell'oggetto del messaggio."</string>
     <string name="confirm_send_message_with_no_body">Nessun testo presente nel corpo del messaggio.</string>
     <string name="confirm_send_message">Inviare il messaggio?</string>
-    <string name="confirm_save_message_title">SAlvare come bozza?</string>
+    <string name="confirm_save_message_title">Salvare come bozza?</string>
     <string name="confirm_save_message_yes">Sì</string>
     <string name="confirm_save_message_no">No</string>
     <string name="message_discarded">Messaggio eliminato.</string>
@@ -524,7 +524,7 @@ CC: %4$s
     <string name="sending_message">Invio messaggio…</string>
     <string name="invalid_recipient">Indirizzo non valido.</string>
     <string name="show_elided">▶ Mostra testo citato</string>
-    <string name="hide_elided">▼ NAscondi testo citato</string>
+    <string name="hide_elided">▼ Nascondi testo citato</string>
     <string name="message_invite_title">Invito calendario</string>
     <string name="message_invite_calendar_view">Mostra nel calendario</string>
     <string name="message_invite_label_attending">Parteciperai?</string>
@@ -592,12 +592,12 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="message_details_title">Dettagli messaggio</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
-    <string name="auto_advance_help_title">"Set auto-advance preference
-(after you delete, etc.)"</string>
+    <string name="auto_advance_help_title">"Preferenze autoavanzamento
+(dopo eliminazioni, ecc.)"</string>
     <string name="prefDefault_autoAdvance">list</string>
-    <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
-    <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
-    <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
+    <string name="clear_display_images_whitelist_title">Azzera consenso immagini</string>
+    <string name="clear_display_images_whitelist_dialog_title">Azzerare i consensi immagini?</string>
+    <string name="clear_display_images_whitelist_dialog_message">Non visualizza più le immagini in linea nei messaggi da mittenti precedentemente approvati.</string>
     <string name="sender_whitelist_cleared">Le immagini non verranno mostrate automaticamente.</string>
     <string name="preferences_signature_title">Firma</string>
     <string name="preferences_signature_dialog_title">Firma</string>
@@ -687,7 +687,7 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="account_type_imap">Imap</string>
     <string name="set_network">Imposta rete</string>
     <string name="net_check_title">Errore di rete, verifica la tua rete</string>
-    <string name="wait_for_sync_body_2">Il server Exchange ti contatterà tra 1-30 secondi.Conferma le impostazioni di sicurezza ed attiva. Fai attenzione agli avvisi di sistema.</string>
+    <string name="wait_for_sync_body_2">Il server Exchange ti contatterà tra 1-30 secondi. Conferma le impostazioni di sicurezza ed attiva. Fai attenzione agli avvisi di sistema.</string>
     <string name="default_imap">IMAP</string>
     <string name="default_pop3">POP3</string>
     <string name="default_exchange">EXCHANGE</string>
@@ -729,9 +729,9 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="att_mgr_title_order_size">Dimensione file</string>
     <string name="input_password_prompt">Inserisci la password:</string>
     <string name="wrong_password">Password sbagliata!</string>
-    <string name="file_rar_not_support">Non supporta file .rar protetti!</string>
+    <string name="file_rar_not_support">File .rar protetti non supportati!</string>
     <string name="file_not_found">File non trovato sul server di posta!</string>
-    <string name="request_entity_large">FIle richiesto troppo grande!</string>
+    <string name="request_entity_large">File richiesto troppo grande!</string>
     <string name="file_not_found_reDownload">File non trovato, prova di nuovo!</string>
     <string name="file_deleted_success">File eliminato correttamente!</string>
     <string name="download_complete_not_cancel">Download completato, annullamento fallito!</string>
@@ -771,23 +771,23 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="ApplicationIconMore99">99+</string>
     <string name="parase_setup_data">Recupero dati di configurazione...</string>
     <string name="allread">Tutto letto</string>
-    <string name="eas_template">domain\\user</string>
+    <string name="eas_template">dominio\\utente</string>
     <string name="upgrade_network_error">Errore di rete, verifica la tua connessione</string>
     <string name="checking_message">Controllo versione…</string>
     <string name="no_update">"Hai l'ultima versione, non è necessario aggiornare"</string>
-    <string name="upgrade_check">CErca aggiornamenti</string>
+    <string name="upgrade_check">Cerca aggiornamenti</string>
     <string name="no_display_this_version">Non mostrare questa versione</string>
     <string name="now_version">Versione attuale：</string>
     <string name="new_version">Nuova versione：</string>
     <string name="new_feature_desc">Changelog：</string>
     <string name="new_down_desc1">Suggerimenti：</string>
-    <string name="new_down_desc2">Will save the previous version of the usage records</string>
+    <string name="new_down_desc2">Verrà salvata la precedente versione del registro utilizzo</string>
     <string name="new_down_desc3">"L'aggiornamento richiede un elevato traffico dati, consigliamo di eseguirlo sotto copertura Wi-Fi"</string>
     <string name="download_now">Scarica adesso</string>
     <string name="start_download">Avvia il download</string>
-    <string name="donot_download">SAcarica in seguito</string>
+    <string name="donot_download">Scarica in seguito</string>
     <string name="upgrade_now">Aggiorna subito</string>
-    <string name="donot_upgrade">TAggiorna in seguito</string>
+    <string name="donot_upgrade">Aggiorna in seguito</string>
     <string name="downloading">Download in corso</string>
     <string name="upgrade_title">Aggiornamento</string>
     <string name="download_complete_title">Download completato</string>
