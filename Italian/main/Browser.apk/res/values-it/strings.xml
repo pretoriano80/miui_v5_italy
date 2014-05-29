@@ -372,7 +372,7 @@
     <string name="search">Cerca</string>
     <string name="clear_search_history">Cancella cronologia</string>
     <string name="search_baidu">Baidu</string>
-    <string name="search_sogou">Segou</string>
+    <string name="search_sogou">Sogou</string>
     <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo</string>
     <string name="search_bing">Bing</string>
@@ -587,4 +587,13 @@ Confermare l'uscita da questa pagina?"</string>
     <string name="webview_today">Oggi</string>
     <string name="webview_last_month">Il mese passato</string>
     <string name="webview_older">Più vecchi</string>
+    <string name="date_picker_dialog_other_button_label">Altro</string>
+    <string name="copy_to_clipboard_failure_message">Impossibile copiare negli appunti</string>
+    <string name="miuichromium_error_page_title">"Impossibile trovare questa pagina"</string>
+    <string name="miuichromium_error_page_reason_network">Mostra URL link</string>
+    <string name="miuichromium_error_page_mobile">Rete mobile</string>
+    <string name="miuichromium_error_page_wlan">Impostazioni Wi-Fi</string>
+    <string name="miuichromium_error_page_reason_server">Il browser non può caricare questa pagina</string>
+    <string name="miuichromium_error_page_reload">Ricarica</string>
+    <string name="miuichromium_error_page_url">Mostra URL pagina</string>
 </resources>

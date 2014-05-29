@@ -117,7 +117,7 @@
     <string name="pref_title_manual_check_cleanup_db_update">Aggiorna adesso</string>
     <string name="pref_category_title_garbage_cleanup_check">Impostazioni di pulizia</string>
     <string name="pref_title_garbage_cleanup_check_time">Avviso cestino</string>
-    <string name="pref_summary_garbage_cleanup_check_time">Notifica quando il cestino raggiunge una certa dimensione</string>
+    <string name="pref_summary_garbage_cleanup_check_size">Notifica quando il cestino raggiunge una certa dimensione</string>
     <string name="pref_title_garbage_cleanup_check_size">Limite avviso cestino</string>
     <string name="pref_title_expand_cache_group">Espandi i gruppi cache</string>
     <string name="pref_summary_expand_cache_group">I gruppi nella lista cache verranno espansi in modo predefinito</string>
