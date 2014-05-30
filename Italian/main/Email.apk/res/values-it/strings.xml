@@ -428,6 +428,8 @@ CC: %4$s
     <string name="menu_show_original">Ripristina ridim. autom.</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_search">Cerca</string>
+    <string name="menu_resend_all">Reinvia tutto</string>
+    <string name="outbox_no_mails">Nessuna mail in uscita</string>
     <string name="mark_important">Segna come importante</string>
     <string name="mark_not_important">Segna come Non importante</string>
     <string name="add_cc_label">Aggiungi Cc/Ccn</string>
@@ -688,6 +690,10 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="set_network">Imposta rete</string>
     <string name="net_check_title">Errore di rete, verifica la tua rete</string>
     <string name="wait_for_sync_body_2">Il server Exchange ti contatterà tra 1-30 secondi. Conferma le impostazioni di sicurezza ed attiva. Fai attenzione agli avvisi di sistema.</string>
+    <string name="device_activity_btn_str">Invio per attivare</string>
+    <string name="device_not_activiey_lint1">Il gestore del dispositivo non è attivato</string>
+    <string name="device_not_activiey_lint2">Il servizio exchange non funziona correttamente</string>
+    <string name="device_activity_lint_str">"Attiva completamento dell'aggiornamento per il servizio di posta e attiva la funzione di sicurezza"</string>
     <string name="default_imap">IMAP</string>
     <string name="default_pop3">POP3</string>
     <string name="default_exchange">EXCHANGE</string>
