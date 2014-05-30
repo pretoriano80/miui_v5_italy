@@ -7,12 +7,12 @@
     <string name="label_order_name">Prodotto:</string>
     <string name="label_order_price">Prezzo:</string>
     <string name="label_balance">Saldo:</string>
-    <string name="label_giftcard">CArta regalo:</string>
+    <string name="label_giftcard">Carta regalo:</string>
     <string name="title_bind_phone">Collegamento telefono No.</string>
     <string name="summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver collegato il numero di telefono.</string>
-    <string name="button_sms_code">Coferma</string>
+    <string name="button_sms_code">Conferma</string>
     <string name="title_sms_code">Inserisci il codice di verifica del telefono</string>
-    <string name="summary_sms_code">er garantire la sicurezza del tuo account, inserisci il codice di verifica ricevuto dal telefono %1$s, quindi completa il pagamento</string>
+    <string name="summary_sms_code">Per garantire la sicurezza del tuo account, inserisci il codice di verifica ricevuto dal telefono %1$s, quindi completa il pagamento</string>
     <string name="sms_code_hint">Codice di verifica telefono</string>
     <string name="sms_code_error">Errore nel codice di verifica del telefono, richiedilo di nuovo</string>
     <string name="order_price">%1$s MiCredit</string>
