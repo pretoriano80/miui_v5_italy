@@ -229,7 +229,7 @@ ed esci dall'inquadratura"</string>
     <string name="accessibility_open_more_ptions">Attiva altre opzioni</string>
     <string name="accessibility_close_more_ptions">Disattiva altre opzioni</string>
     <string name="accessibility_more_ptions_opened">Altre opzioni attivate</string>
-    <string name="accessibility_more_ptions_closed">Altre opzioni attivate</string>
+    <string name="accessibility_more_ptions_closed">Altre opzioni disattivate</string>
     <string name="accessibility_skin_beautify_opened">Miglioramento tonalità pelle attivato</string>
     <string name="accessibility_skin_beautify_closed">Miglioramento tonalità pelle disattivato</string>
     <string name="empty">" "</string>
