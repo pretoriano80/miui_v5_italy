@@ -483,10 +483,10 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_hdr_type_title">Tipo di HDR</string>
     <string name="pref_camera_hdr_type_entry_normal">Normale</string>
     <string name="pref_camera_hdr_type_entry_live">Live</string>
-    <string name="pref_camera_ubi_focus_title">Fuoco Ubi</string>
-    <string name="simple_mode_button_text_ubi_focus">Chiudi modalità Fuoco Ubi</string>
-    <string name="ubi_focus_exit_button_text">Esci dalla modalità Fuoco Ubi</string>
-    <string name="pref_camera_auto_chroma_flash_title">Flash Chroma automatico</string>
+    <string name="pref_camera_ubi_focus_title">Ubi-focus</string>
+    <string name="simple_mode_button_text_ubi_focus">Chiudi modalità Ubi-focus</string>
+    <string name="ubi_focus_exit_button_text">Esci dalla modalità Ubi-focus</string>
+    <string name="pref_camera_auto_chroma_flash_title">Chroma-flash automatico</string>
     <string name="pref_touch_down_capture_title">Ripresa Touch Down</string>
     <string name="toast_cannot_preview_image_when_screen_locked">Impossibile vedere immagini o video quando lo schermo è bloccato.</string>
     <string name="accessibility_ev_control">Controllo di compensazione esposizione</string>
