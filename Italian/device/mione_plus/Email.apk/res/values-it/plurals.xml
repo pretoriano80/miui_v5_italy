@@ -22,12 +22,12 @@
         <item quantity="one">%d account</item>
     </plurals>
     <plurals name="message_view_selected_message_count">
-        <item quantity="other">%d selezionato</item>
+        <item quantity="other">%d selezionati</item>
         <item quantity="one">%d selezionato</item>
     </plurals>
     <plurals name="message_view_show_attachments_action">
-        <item quantity="other">Allegati %1$d</item>
-        <item quantity="one">Allegato %1$d</item>
+        <item quantity="other">%1$d allegati</item>
+        <item quantity="one">%1$d allegato</item>
     </plurals>
     <plurals name="message_delete_confirm">
         <item quantity="other">Eliminare questi messaggi?</item>
