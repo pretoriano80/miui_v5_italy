@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="camera_error_title">Errore Fotocamera</string>
+    <string name="camera_error_title">Errore fotocamera</string>
     <string name="cannot_connect_camera_once">Impossibile avviare fotocamera</string>
     <string name="cannot_connect_camera_twice">Impossibile avviare fotocamera, riavviare il telefono</string>
-    <string name="camera_disabled">La Fotocamera è stata disabilitata in base alle norme di sicurezza.</string>
+    <string name="camera_disabled">La fotocamera è stata disabilitata in base alle norme di sicurezza.</string>
     <string name="camera_label">Fotocamera</string>
     <string name="video_camera_label">Videocamera</string>
     <string name="wait">Attendere prego…</string>
-    <string name="no_storage">"Monta l'archiviazione USB prima di utilizzare la Fotocamera."</string>
+    <string name="no_storage">"Monta l'archiviazione USB prima di utilizzare la fotocamera."</string>
     <string name="not_enough_space">Scheda SD piena.</string>
     <string name="preparing_sd">Scheda SD in preparazione…</string>
     <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
     <string name="confirm_restore_title">Ripristina impostazioni predefinite</string>
-    <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della Fotocamera ?</string>
+    <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della fotocamera ?</string>
     <string name="confirm_change_mode_title">Cambia modalità</string>
     <string name="confirm_change_to_expert_mode_message">Passare alla modalità professionale ?</string>
     <string name="confirm_change_to_simple_mode_message">Passare alla modalità semplice ?</string>
@@ -55,7 +55,7 @@
     <string name="pref_video_time_lapse_frame_interval_entry_450">Intervallo di 15 secondi(450 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">Intervallo di 30 secondi(900 volte)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1800">Intervallo di 60 secondi(1800 volte)</string>
-    <string name="pref_camera_settings_category">Impostazioni Fotocamera</string>
+    <string name="pref_camera_settings_category">Impostazioni fotocamera</string>
     <string name="pref_camcorder_settings_category">Impostazioni Videocamera</string>
     <string name="pref_camera_picturesize_title">Dimensione foto</string>
     <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
@@ -280,8 +280,8 @@ ed esci dall'inquadratura"</string>
     <string name="hdr_exit_button_text">Esci dalla modalità HDR</string>
     <string name="raw_data_exit_button_text">Esci dall modalità RAW</string>
     <string name="hand_night_exit_button_text">Esci dalla modalità Notte</string>
-    <string name="videocamera_settings_label">Impostazioni Fotocamera</string>
-    <string name="camera_settings_label">Impostazioni Fotocamera</string>
+    <string name="videocamera_settings_label">Impostazioni fotocamera</string>
+    <string name="camera_settings_label">Impostazioni fotocamera</string>
     <string name="pref_grp_picture_settings">Impostazioni Immagini</string>
     <string name="pref_grp_capture_settings">Impostazioni Scatto</string>
     <string name="pref_advanced_settings">Avanzate</string>
