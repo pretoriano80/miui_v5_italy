@@ -8,8 +8,8 @@
         <item>Testo molto grande</item>
     </string-array>
     <string-array name="general_preference_auto_advance_summary_array">
-        <item>"Mostra la schermata più recente messaggio dopo aver eliminato un messaggio"</item>
-        <item>"Mostra  la schermata più vecchia dopo aver eliminato un messaggio"</item>
-        <item>"Mostra la schermata dell'elenco dei messaggi dopo aver eliminato un messaggio"</item>
+        <item>"Mostra il messaggio più recente dopo aver eliminato un messaggio"</item>
+        <item>"Mostra il messaggio più vecchio dopo aver eliminato un messaggio"</item>
+        <item>"Mostra l'elenco della posta in arrivo dopo aver eliminato un messaggio"</item>
     </string-array>
 </resources>
