@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Installazione Certificato</string>
+    <string name="app_name">Installazione certificato</string>
     <string name="pick_file_title">Scegli certificato</string>
     <string name="pkcs12_password_dialog_title">Estrai certificato</string>
     <string name="extracting_pkcs12">Estrazione…</string>
@@ -29,6 +29,6 @@
     <string name="cert_read_error">Impossibile installare perchè il certificato non può essere letto.</string>
     <string name="no_cert_file_found">"Nessun certificato nell'archivio USB."</string>
     <string name="sdcard_not_present">Scheda SD non disponibile.</string>
-    <string name="only_primary_user_allowed">Solo il porprietario di questo dispositivo può installare certificati.</string>
+    <string name="only_primary_user_allowed">Solo il proprietario di questo dispositivo può installare certificati.</string>
     <string name="credential_usage_label">Utilizzo credenziali:</string>
 </resources>
