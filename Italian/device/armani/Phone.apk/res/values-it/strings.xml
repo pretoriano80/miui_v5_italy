@@ -1176,17 +1176,17 @@ select preferred network automatically"</string>
     <string name="suspect_info">Non accettare la chiamata, possibile tentativo di truffa!</string>
     <string name="sim_manage_call_via">Chiama tramite</string>
     <string name="sim_picker_settings">Pick SIM card for settings</string>
-    <string name="network_settings">Network Settings</string>
+    <string name="network_settings">Impostazioni di rete</string>
     <string name="gprs_state_off">Off</string>
     <string name="sim_picker_timer_miui">(%1$ds)</string>
     <string name="sim_slot_alert_title">SIM card slot hints</string>
-    <string name="sim_slot_alert_message_3g">Insert the %s SIM card into the first slot, you can enjoy high-speed 3G network.</string>
-    <string name="sim_slot_alert_message_disable">Keep the %s SIM card is inserted into the first slot, it may not work properly.</string>
+    <string name="sim_slot_alert_message_3g">Inserisci la %s carta nel primo slot, puoi così apprezzare la rete 3G ad alta velocità.</string>
+    <string name="sim_slot_alert_message_disable">Mantenendo la %s carta SIM inserita nel primo slot, potrebbe non funzionare a dovere.</string>
     <string name="sim_slot_alert_shutdown">Shutdown</string>
-    <string name="sim_slot_alert_cancel">Continue using</string>
-    <string name="oldman_answer_call_button_text">answer</string>
-    <string name="oldman_reject_call_button_text">reject</string>
-    <string name="oldman_end_call_button_text">end</string>
-    <string name="oldman_dialpad_button_text">dialpad</string>
+    <string name="sim_slot_alert_cancel">Continua usando</string>
+    <string name="oldman_answer_call_button_text">rispondi</string>
+    <string name="oldman_reject_call_button_text">rifiuta</string>
+    <string name="oldman_end_call_button_text">fine</string>
+    <string name="oldman_dialpad_button_text">tastierino</string>
     <string name="oldman_speaker_button_text" />
 </resources>
