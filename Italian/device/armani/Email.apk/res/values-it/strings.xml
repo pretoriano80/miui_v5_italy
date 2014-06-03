@@ -390,10 +390,10 @@ CC: %4$s
     <string name="general_preference_text_zoom_large">Testo grande</string>
     <string name="general_preference_text_zoom_huge">Testo molto grande</string>
     <string name="general_preference_reply_all_label">Rispondi a tutti</string>
-    <string name="general_preference_reply_all_summary">Imposta \"Rispondi a tutti\" come opzione predefinita per le risposte</string>
+    <string name="general_preference_reply_all_summary">"Imposta \"Rispondi a tutti\" come opzione predefinita per le risposte"</string>
     <string name="general_preferences_clear_trusted_senders_title">Chiedi di mostrare le immagini</string>
     <string name="general_preferences_clear_trusted_senders_summary">"Le immagini all'interno dei messaggi non verranno visualizzate automaticamente"</string>
-    <string name="trusted_senders_cleared">Impostazioni di \"Mostra immagini\" cancellate.</string>
+    <string name="trusted_senders_cleared">"Impostazioni di \"Mostra immagini\" cancellate."</string>
     <string name="position_of_count">%1$d di %2$s</string>
     <string name="waitinf_for_sync_message_1">In attesa di sincronizzazione</string>
     <string name="waitinf_for_sync_message_2">Le email verranno visualizzate a breve.</string>
@@ -408,7 +408,7 @@ CC: %4$s
     <string name="more_than_999">999+</string>
     <string name="search_hint">Cerca email</string>
     <string name="search_mailbox_hint">Cerca in %1$s</string>
-    <string name="search_header_text_fmt">Risultati di ricerca per \"%1$s\"</string>
+    <string name="search_header_text_fmt">"Risultati di ricerca per \"%1$s\""</string>
     <string name="search_slow_warning_title">In attesa dei risultati</string>
     <string name="search_slow_warning_message">Alcuni server possono richiedere molto tempo.</string>
     <string name="action_bar_mailbox_list_title">Cartelle</string>
