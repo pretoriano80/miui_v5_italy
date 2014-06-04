@@ -1118,8 +1118,8 @@ Passare comunque al nuovo operatore?"</string>
     <string name="delete_selected_sim_entry_miui">Elimina i contatti selezionati</string>
     <string name="import_all_sim_entry_miui">Importa tutto</string>
     <string name="delete_all_sim_contacts_miui">Elimina tuuti i contatti SIM</string>
-    <string name="cdma_three_way_calls_miui">Chiamata Tripla</string>
-    <string name="cdma_conference_call_miui">Conference Call</string>
+    <string name="cdma_three_way_calls_miui">Chiamata tripla</string>
+    <string name="cdma_conference_call_miui">Conference call</string>
     <string name="respond_via_sms_canned_response_1_miui">Al momento non sono disponibile, richiamerò io più tardi.</string>
     <string name="respond_via_sms_canned_response_2_miui">Ti chiamo dopo.</string>
     <string name="respond_via_sms_canned_response_3_miui">Non posso parlare in questo momento. Cosa succede?</string>
@@ -1179,7 +1179,7 @@ verrà selezionata automaticamente</string>
     <string name="network_settings">Impostazioni di rete</string>
     <string name="gprs_state_off">Off</string>
     <string name="sim_picker_timer_miui">(%1$ds)</string>
-    <string name="sim_slot_alert_title">SIM card slot hints</string>
+    <string name="sim_slot_alert_title">Suggerimento slot carta SIM</string>
     <string name="sim_slot_alert_message_3g">Inserisci la %s carta nel primo slot, puoi così apprezzare la rete 3G ad alta velocità.</string>
     <string name="sim_slot_alert_message_disable">Mantenendo la %s carta SIM inserita nel primo slot, potrebbe non funzionare a dovere.</string>
     <string name="sim_slot_alert_shutdown">Shutdown</string>
