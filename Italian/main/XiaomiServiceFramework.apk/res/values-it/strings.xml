@@ -250,7 +250,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="activate_popup_desc_new_mixed_sim_cards">"Le tue carte SIM sono cambiate. Verranno inviati un SMS normale e un SMS internazionale per attivare le 2 nuove carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
     <string name="activate_popup_desc_new_2_sim_cards">"Le tue carte SIM sono cambiate. Verranno inviati due SMS per attivare le 2 nuove carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Le tue carte SIM sono cambiate. Verranno inviati due SMS internazionali per attivare le 2 carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_new_sim_card_downlink">La tua carta SIM è cambiata. Prego inserire il numero della tua carta SIM, in modo da abiltiare feature come %s</string>
+    <string name="activate_popup_desc_new_sim_card_downlink">La tua carta SIM è cambiata. Prego inserire il numero della tua carta SIM, in modo da abilitare feature come %s</string>
     <string name="activate_popup_title_register_account">Registra account</string>
     <string name="activate_popup_desc_register_account">Verrà inviato un SMS per registrare il tuo account Xiaomi</string>
     <string name="activate_popup_desc_register_account_intl">Verrà inviato un SMS internazionale per registrare il tuo account Xiaomi</string>
