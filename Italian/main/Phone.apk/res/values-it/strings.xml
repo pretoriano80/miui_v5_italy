@@ -167,7 +167,8 @@
     <string name="disable">Disattiva</string>
     <string name="change_num">Aggiorna</string>
     <string name="vm_changed">Numero segreteria modificato.</string>
-    <string name="vm_change_failed">"Modifica del numero di segreteria non riuscita.Se il problema persiste, contattare l'operatore di telefonia."</string>
+    <string name="vm_change_failed">"Modifica del numero di segreteria non riuscita.
+Se il problema persiste, contattare l'operatore di telefonia."</string>
     <string name="fw_change_failed">"Modifica del numero di inoltro non riuscita. Se il problema persiste,
 contattare l'operatore di telefonia."</string>
     <string name="fw_get_in_vm_failed">"Recupero e salvataggio delle impostazioni correnti dei numeri di deviazione non riusciti.

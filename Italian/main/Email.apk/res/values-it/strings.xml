@@ -719,6 +719,7 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="downlaod_cancel_confirm_download">Annulla download</string>
     <string name="downlaod_cancel_continue_download">Annulla</string>
     <string name="downlaod_nonWifi_confirm_message">Il download consumerà traffico, confermare</string>
+    <string name="mail">Email</string>
     <string name="menu_att_mgr">Allegati</string>
     <string name="menu_att_mgr_order_default">Predefinito</string>
     <string name="menu_att_mgr_order_mime">Ordina per formato</string>
@@ -727,6 +728,12 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="menu_att_mgr_order_rev_date">Ordina per data</string>
     <string name="colon">:</string>
     <string name="more_atts_total">%1$d allegati</string>
+    <string name="dialog_insufficient_space_on_external">Impossibile completare il download. Spazio insufficiente sull memoria esterna.</string>
+    <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna on sufficiente</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Spazio insufficiente per %s.</string>
+    <string name="dialog_auto_download_failed">Impossibile completare il download automatico</string>
+    <string name="att_download_failed_title">Download allegato fallito</string>
+    <string name="att_download_failed_content">Download fallito</string>
     <string name="menu_att_mgr_order_size">Ordina per dimensione</string>
     <string name="att_mgr_title_order_mime">Formato</string>
     <string name="att_mgr_title_order_name">Nome</string>
@@ -778,27 +785,13 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="parase_setup_data">Recupero dati di configurazione...</string>
     <string name="allread">Tutto letto</string>
     <string name="eas_template">dominio\\utente</string>
-    <string name="upgrade_network_error">Errore di rete, verifica la tua connessione</string>
-    <string name="checking_message">Controllo versione…</string>
-    <string name="no_update">"Hai l'ultima versione, non è necessario aggiornare"</string>
-    <string name="upgrade_check">Cerca aggiornamenti</string>
-    <string name="no_display_this_version">Non mostrare questa versione</string>
-    <string name="now_version">Versione attuale：</string>
-    <string name="new_version">Nuova versione：</string>
-    <string name="new_feature_desc">Changelog：</string>
-    <string name="new_down_desc1">Suggerimenti：</string>
-    <string name="new_down_desc2">Verrà salvata la precedente versione del registro utilizzo</string>
-    <string name="new_down_desc3">"L'aggiornamento richiede un elevato traffico dati, consigliamo di eseguirlo sotto copertura Wi-Fi"</string>
-    <string name="download_now">Scarica adesso</string>
-    <string name="start_download">Avvia il download</string>
-    <string name="donot_download">Scarica in seguito</string>
-    <string name="upgrade_now">Aggiorna subito</string>
-    <string name="donot_upgrade">Aggiorna in seguito</string>
-    <string name="downloading">Download in corso</string>
-    <string name="upgrade_title">Aggiornamento</string>
-    <string name="download_complete_title">Download completato</string>
-    <string name="no_enough_space">Spazio insufficiente</string>
-    <string name="no_sdcard">Scheda SD non presente o occupata</string>
-    <string name="download_complete_message">"Premi sul tasto di aggiornamento per scaricare l'ultima versione!"</string>
-    <string name="file_size">Dimensione</string>
+    <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
+    <string name="xiaomi_update_dialog_message">"Introduzione della versione %1$s
+Dimensione: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Introduzione della versione %1$s
+Dimensione aggiornamento delta: %2$s"</string>
+    <string name="xiaomi_external_storage_unavailable">Archiviazione non disponibile, verificare la scheda SD.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
 </resources>

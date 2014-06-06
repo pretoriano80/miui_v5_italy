@@ -2,6 +2,8 @@
 <resources>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="status_bar_date_formatter">%2$s</string>
+    <string name="oldman_airplane_mode_text">Aereo</string>
+    <string name="oldman_incall_text">incall</string>
     <string name="app_label">UI di sistema</string>
     <string name="status_bar_recent_remove_item_title">"Rimuovi dall'elenco"</string>
     <string name="status_bar_recent_inspect_item_title">Informazioni applicazione</string>
@@ -60,6 +62,7 @@
     <string name="accessibility_phone_one_bar">Telefono: una barra.</string>
     <string name="accessibility_phone_two_bars">Telefono: due barre.</string>
     <string name="accessibility_phone_three_bars">Telefono: tre barre.</string>
+    <string name="accessibility_phone_four_bars">Telefono: quattro barre.</string>
     <string name="accessibility_phone_signal_full">Massimo segnale telefonico.</string>
     <string name="accessibility_no_data">Nessun dato.</string>
     <string name="accessibility_data_one_bar">Dati: una barra.</string>
