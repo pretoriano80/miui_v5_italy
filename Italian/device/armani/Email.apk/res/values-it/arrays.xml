@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Testo molto piccolo</item>
+        <item>Testo piccolo</item>
+        <item>Testo normale</item>
+        <item>Testo grande</item>
+        <item>Testo molto grande</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Mostra il messaggio più recente dopo aver eliminato un messaggio"</item>
+        <item>"Mostra il messaggio più vecchio dopo aver eliminato un messaggio"</item>
+        <item>"Mostra l'elenco della posta in arrivo dopo aver eliminato un messaggio"</item>
+    </string-array>
+</resources>

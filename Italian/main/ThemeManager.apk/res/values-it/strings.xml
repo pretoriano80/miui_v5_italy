@@ -6,7 +6,7 @@
     <string name="resource_app_name">Risorse Browser</string>
     <string name="resource_delete">Elimina</string>
     <string name="resource_price_free">Gratis</string>
-    <string name="resource_price_unit">Crediti MI</string>
+    <string name="resource_price_unit">MiCredit</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">Scheda SD non rilevata.</string>
     <string name="sdcard_not_mounted_dialog_message">Scheda SD non disponibile, inserirne una adesso.</string>
