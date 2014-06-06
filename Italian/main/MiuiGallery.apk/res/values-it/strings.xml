@@ -282,6 +282,7 @@
     <string name="alert_message_open_sync">"E' necessaria la sincronizzazione, vuoi sincronizzare adesso?"</string>
     <string name="open">Apri sincronizzazione</string>
     <string name="cloud_gallery_no_pictures">Nessuna immagine trovata su MiCloud</string>
+    <string name="click_to_add_picture">Premi per aggiungere immagini</string>
     <string name="no_network_connected">Nessuna connessione di rete disponibile</string>
     <string name="initial_cloud_text">In ogni momento e ovunque tu sia, guarda e organizza le tue foto</string>
     <string name="initial_cloud_button_text">"Inizia ad utilizzare l'album cloud"</string>
@@ -314,6 +315,7 @@
     <string name="already_apply_album">Aprire %1$s?</string>
     <string name="no_picture_or_video">Nessuna immagine o video</string>
     <string name="camera_view_none_message">Le foto scattate verranno visualizzate qui.</string>
+    <string name="sync_in_progress_message">Sincronizzazione in corso...</string>
     <string name="none_picture">Nessuna immagine trovata in Galleria</string>
     <string name="show_hidden_albums">Mostra album nascosti</string>
     <string name="not_show_hidden_albums">Non mostrare album nascosti</string>
@@ -360,6 +362,8 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="cloud_album_set_create">Nuovo</string>
     <string name="cloud_album_set_scan_qr_code">QR code</string>
     <string name="scan_qr_code_failure">Impossibile scansionare QR code.</string>
+    <string name="alert_init_merged_title">Tutte le tue foto. Finalmente insieme.</string>
+    <string name="alert_init_merged_message">Adesso le foto del tuo telefono e quelle archiviate su MiCloud verranno mostrate insieme.</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Altro</string>
@@ -507,4 +511,8 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="error_unauthorized">Troppi tentativi di accesso: Sincro. disattivata.</string>
     <string name="error_forbidden">Ci sono alcuni problemi con il tuo account: Sincro. disattivata.</string>
     <string name="error_not_acceptable">Errore del server: Sincro. disattivata.</string>
+    <string name="long_press_to_refocus">Continua a premere per rimettere a fuoco</string>
+    <string name="ubifocus_data_missing">Alcuni dati sono andati persi</string>
+    <string name="ubifocus_map_error">Alcuni dati non sono coretti</string>
+    <string name="ubifocus_refocus_fail_tip">Impossibile rimettere a fuoco a causa di alcuni dati mancanti o errati</string>
 </resources>
