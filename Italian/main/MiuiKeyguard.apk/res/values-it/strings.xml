@@ -49,7 +49,7 @@
     <string name="experimental_validate_progress">Accesso in corso…</string>
     <string name="experimental_validate_fail">Accesso fallito</string>
     <string name="lockscreen_glogin_forgot_pattern">Sblocco account</string>
-    <string name="lockscreen_glogin_too_many_attempts">Troppi tentativi di immissione del pattern</string>
+    <string name="lockscreen_glogin_too_many_attempts">Troppi tentativi di immissione della sequenza</string>
     <string name="lockscreen_glogin_invalid_input">Nome utente o password non validi.</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Il tuo dispositivo è stato bloccato.
 Prego disattivare la modalità aereo."</string>

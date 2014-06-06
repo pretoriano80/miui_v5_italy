@@ -2342,7 +2342,7 @@ prova in questo modo:
     <string name="sim_status_title">Stato SIM</string>
     <string name="slot_status_title">Informazioni IMEI</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="xiaomi_money_service">Centro Crediti MI</string>
+    <string name="xiaomi_money_service">Centro MiCredit</string>
     <string name="lock_settings_common_title">Blocca Impostazioni</string>
     <string name="turn_off_security_lock">Disattiva blocco</string>
     <string name="change_password">Modifica password</string>

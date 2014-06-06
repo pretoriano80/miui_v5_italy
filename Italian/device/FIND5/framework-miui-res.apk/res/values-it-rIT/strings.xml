@@ -91,7 +91,7 @@
     <string name="memory_clear_nothing_result">Nessun quantitativo di memoria da liberare</string>
     <string name="memory_clear_result">"%1$s liberati | %2$s disponibili"</string>
     <string name="miui_copyright_title">Copyright</string>
-    <string name="miui_mibi_license_title">Accordo Utilizzo Crediti MI</string>
+    <string name="miui_mibi_license_title">Accordo Utilizzo MiCredit</string>
     <string name="miui_privacy_policy_title">Termini Privacy</string>
     <string name="miui_user_agreement_title">Accordo utente</string>
     <string name="miui_user_manual_title">Manuale utente</string>

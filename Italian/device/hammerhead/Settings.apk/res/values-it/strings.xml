@@ -3309,7 +3309,7 @@ prova in questo modo:
     <string name="audio_profile_settings_title">Profili audio</string>
     <string name="enable_wifi_display">Attiva Wi-Fi display</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="xiaomi_money_service">Centro Crediti MI</string>
+    <string name="xiaomi_money_service">Centro MiCredit</string>
     <string name="wifi_auto_connect">Connessione automatico</string>
     <string name="select_ssid_type_title">Seleziona SSID</string>
     <string name="gsm_to_wifi_connect_type_title">Mobile->Wi-Fi</string>
