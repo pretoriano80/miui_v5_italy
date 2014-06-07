@@ -437,13 +437,13 @@ Passare comunque al nuovo operatore?"</string>
     <string name="card_title_dialing">Chiamata in corso</string>
     <string name="card_title_redialing">Nuovo tentativo</string>
     <string name="card_title_unconditionalCF">Inoltro chiamate incondizionato abilitato</string>
-    <string name="card_title_conditionalCF">Inoltro chiamate condizionale abilitato</disabilitatoring>
-    <string name="card_title_MOcall_forwarding">Inoltre chiamate in uscita</disabilitato
+    <string name="card_title_conditionalCF">Inoltro chiamate condizionale abilitato</string>
+    <string name="card_title_MOcall_forwarding">Inoltre chiamate in uscita</string>
     <string name="card_title_calliswaiting">Chiamate in attesa</string>
     <string name="card_title_cugcall">Chiamata GCU</string>
     <string name="card_title_outgoing_barred">Chiamate in uscita bloccate</string>
     <string name="card_title_incoming_barred">Chiamate in ingresso bloccate</string>
-    <string name="card_title_clir_suppression_rejected">Soppressione CLIR riufiutata</string>
+    <string name="card_title_clir_suppression_rejected">Soppressione CLIR rifiutata</string>
     <string name="card_title_call_deflected">Chiamata deviata</string>
     <string name="card_title_MTcall_forwarding">La chiamata in entrata è stata inoltrata</string>
     <string name="card_title_forwarded_MTcall">Chiamata in entrata inoltrata</string>

@@ -258,8 +258,6 @@
     <string name="xiaomi_bookmark_title">Xiaomi</string>
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
-    <string name="pref_video_preload_title">Preload videos</string>
-    <string name="pref_video_preload_dialogtitle">Video preloading</string>
     <string name="bookmark_needs_url">Bookmark must have a location.</string>
     <string name="tab_history">History</string>
     <string name="create_shortcut_bookmark">Add shortcut to home</string>
