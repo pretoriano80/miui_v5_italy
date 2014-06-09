@@ -1450,7 +1450,7 @@ per account %s"</string>
     <string name="data_usage_restricted_title">Dati in background limitati</string>
     <string name="data_usage_restricted_body">Tocca per rimuovere restrizione.</string>
     <string name="ssl_certificate">Certificato di sicurezza</string>
-    <string name="ssl_certificate_is_valid">Certificato valido</string>
+    <string name="ssl_certificate_is_valid">Questo certificato è valido</string>
     <string name="issued_to">Emesso per:</string>
     <string name="common_name">Nome comune:</string>
     <string name="org_name">Organizzazione:</string>
