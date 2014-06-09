@@ -345,7 +345,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="callind">Impostazioni funzionalità chiamate</string>
     <string name="sub1">Sottoscrizione 1</string>
     <string name="sub1_summary">Gestione sottoscrizione 1</string>
-    <string name="sub2">Sottosrizione 2</string>
+    <string name="sub2">Sottoscrizione 2</string>
     <string name="sub2_summary">Gestione sottoscrizione 2</string>
     <string name="sub3">Sottoscrizione 3</string>
     <string name="sub3_summary">Gestione sottoscrizione 3</string>
@@ -354,8 +354,6 @@ Passare comunque al nuovo operatore?"</string>
     <string name="fdn">Numeri selezione fissa (NSF)</string>
     <string name="manage_fdn_list">Elenco NSF</string>
     <string name="fdn_activation">Attivazione NSF</string>
-    <string name="fdn_abilitato">Numeri di selezione fissa attivi</string>
-    <string name="disabilitato">Numeri di selezione fissa non attivi</string>
     <string name="enable_fdn">Attiva NSF</string>
     <string name="disable_fdn">Disattiva NSF</string>
     <string name="change_pin2">Cambia PIN2</string>
@@ -529,8 +527,6 @@ Passare comunque al nuovo operatore?"</string>
     <string name="proceed">Procedi</string>
     <string name="xdivert_button">Impostazioni X-Divert</string>
     <string name="xdivert_setting">Impostazioni X-Divert</string>
-    <string name="sum_xdivert_abilitato">X-Divert abilitato</string>
-    <string name="disabilitato">X-Divert disabilitato</string>
     <string name="xdivert_not_supported">X-Divert non supportato da CDMA</string>
     <string name="xdivert_enternumber_error">Inserisci il numero di telefono di entrambe le sottoscrizioni</string>
     <string name="xdivert_partial_set">XDivert è stato impostato solo per la 1a sottoscrizione</string>
@@ -1117,7 +1113,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="deleting_sim_entry_miui">Eliminazione contatti SIM</string>
     <string name="delete_selected_sim_entry_miui">Elimina i contatti selezionati</string>
     <string name="import_all_sim_entry_miui">Importa tutto</string>
-    <string name="delete_all_sim_contacts_miui">Elimina tuuti i contatti SIM</string>
+    <string name="delete_all_sim_contacts_miui">Elimina tutti i contatti SIM</string>
     <string name="cdma_three_way_calls_miui">Chiamata tripla</string>
     <string name="cdma_conference_call_miui">Conference call</string>
     <string name="respond_via_sms_canned_response_1_miui">Al momento non sono disponibile, richiamerò io più tardi.</string>
@@ -1175,9 +1171,9 @@ verrà selezionata automaticamente</string>
     <string name="phone_info_divider">"  |  "</string>
     <string name="suspect_info">Non accettare la chiamata, possibile tentativo di truffa!</string>
     <string name="sim_manage_call_via">Chiama tramite</string>
-    <string name="sim_picker_settings">Pick SIM card for settings</string>
+    <string name="sim_picker_settings">Scegli SIM dalle impostazioni</string>
     <string name="network_settings">Impostazioni di rete</string>
-    <string name="gprs_state_off">Off</string>
+    <string name="gprs_state_off">Disattivato</string>
     <string name="sim_picker_timer_miui">(%1$ds)</string>
     <string name="sim_slot_alert_title">Suggerimento slot carta SIM</string>
     <string name="sim_slot_alert_message_3g">Inserisci la %s carta nel primo slot, puoi così apprezzare la rete 3G ad alta velocità.</string>
