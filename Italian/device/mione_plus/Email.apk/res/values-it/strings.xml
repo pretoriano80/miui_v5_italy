@@ -55,12 +55,6 @@
     <string name="notification_to_account">a %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d nuovi messaggi</string>
     <string name="account_name_display_all">Tutti gli account</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
     <string name="mailbox_name_display_inbox">In arrivo</string>
     <string name="mailbox_name_display_outbox">In uscita</string>
     <string name="mailbox_name_display_drafts">Bozze</string>
@@ -435,7 +429,7 @@ CC: %4$s
     <string name="copy_number">Copia numero di telefono</string>
     <string name="done">Fatto</string>
     <string name="alert_title_selected">Seleziona tutti</string>
-    <string name="alert_selected_all_message">"Hai %d messaggi,selezionarli tutti？"</string>
+    <string name="alert_selected_all_message">Hai %d messaggi,selezionarli tutti？</string>
     <string name="account_setup_index_title">Guida impostazioni account</string>
     <string name="account_setup_index_label">Si prega di scegliere dalla lista il proprio fornitore di servizi email:</string>
     <string name="account_setup_index_other_mails">Altri account email</string>
