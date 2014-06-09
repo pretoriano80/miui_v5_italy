@@ -60,7 +60,7 @@
     <string name="lockscreen_sim_puk_locked_message_short">Blocco PUK</string>
     <string name="lockscreen_sim_locked_message_short">Scheda SIM bloccata</string>
     <string name="permlab_receiveDmRegisterSms">Ricezione SMS DM Register</string>
-    <string name="permdesc_receiveDmRegisterSms">Consente all'applicazione di ricevere e processare messaggi SMS DM Register. Qualasisi app DM non dovrebbe usarlo.</string>
+    <string name="permdesc_receiveDmRegisterSms">"Consente all'applicazione di ricevere e processare messaggi SMS DM Register. Qualasisi app DM non dovrebbe usarlo."</string>
     <string name="lockscreen_password_error">Errore password, riprovare</string>
     <string name="lockscreen_pinword_error">PIN non corretto, riprovare</string>
     <string name="music_no_artist">Nome artista sconosciuto</string>
@@ -116,8 +116,8 @@
     <string name="MMRejectCause6">Telefono non ammesso MM #6</string>
     <string name="usbint_notification_title">Internet via USB attiva</string>
     <string name="wifi_display_bt_hdmi_off_wfd_on">Bluetooth e HDMI verranno spenti quando si attiva il display wireless. Vuoi continuare?</string>
-    <string name="wifi_display_wfd_off_hdmi_on">Il display wireless sarà disattivato se si attiva l'HDMI. Vuoi continuare?</string>
-    <string name="wifi_display_wfd_off_bt_on">Il display wireless sarà disattivato quando si attiva il bluetooth. Vuoi continuare?</string>
+    <string name="wifi_display_wfd_off_hdmi_on">"Il display wireless sarà disattivato se si attiva l'HDMI. Vuoi continuare?"</string>
+    <string name="wifi_display_wfd_off_bt_on">Il display wireless sarà disattivato quando si attiva il Bluetooth. Vuoi continuare?</string>
     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">L'attuale connessione Wi-Fi Direct sarà disattivata quando si attiva la connessione al display wireless. Vuoi continuare?</string>
     <string name="day_month_year_wday" formatted="false">%s %s %s, %s</string>
     <string name="day_year_month_wday" formatted="false">%s %s %s, %s</string>
@@ -173,10 +173,10 @@ Riprova fra %d secondi."</string>
     <string name="wap_browser_keyword">s.139.com</string>
     <string name="wap_browser_url_flag">search_url</string>
     <string name="criticallowtitle">Spazio esaurito</string>
-    <string name="criticallowmessage">La memoria del telefono è piena, prego cancellare i file inutili, altrimenti l'applicazione potrebbe bloccarsi in modo imprevisto</string>
+    <string name="criticallowmessage">"La memoria del telefono è piena, prego cancellare i file inutili, altrimenti l'applicazione potrebbe bloccarsi in modo imprevisto"</string>
     <string name="nq_sms_filter_title">Filtro SMS</string>
-    <string name="nq_sms_filter_message">Questo messaggio This message may deduct fees. Do you want to continue?</string>
-    <string name="nq_sms_filter_yes">Yes</string>
+    <string name="nq_sms_filter_message">Questo messaggio può comportare dei costi. Vuoi continuare?</string>
+    <string name="nq_sms_filter_yes">Si</string>
     <string name="nq_sms_filter_no">No</string>
     <string name="ext_media_checking_notification_title_sd2">Preparazione scheda SD 2</string>
     <string name="ext_media_checking_notification_title_otg">Preparazione memoria USB</string>
@@ -217,7 +217,7 @@ Riprova fra %d secondi."</string>
     <string name="sim_missing_detail">Controllare se la scheda SIM è pronta</string>
     <string name="wap_push_setting_noti_ticker">Accettare il servizio Auto-push o no?</string>
     <string name="wap_push_setting_noti_title">Accettare il servizio Auto-push o no?</string>
-    <string name="wap_push_setting_noti_text">Prego tappare per selezionare</string>
+    <string name="wap_push_setting_noti_text">Prego toccare per selezionare</string>
     <string name="url_dialog_choice_title">Messaggi</string>
     <string name="url_dialog_choice_message">Questo non provocherà l'apertura del browser, continuare?</string>
     <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
@@ -240,7 +240,7 @@ Riprova fra %d secondi."</string>
     <string name="description_direction_right">Scorri verso destra per fermare</string>
     <string name="alarm_alert_snooze_text">Rimanda</string>
     <string name="description_direction_left">Scorri verso sinistra per rimandare</string>
-    <string name="description_direction_up">Scorri verso l'alto per fermare</string>
+    <string name="description_direction_up">"Scorri verso l'alto per fermare"</string>
     <string name="description_direction_down">Scorri verso il basso per rimandare</string>
     <string name="every_day">Ogni giorno</string>
     <string name="never">Mai</string>
@@ -261,7 +261,7 @@ Riprova fra %d secondi."</string>
     <string name="voiceui_quota_end" />
     <string name="voiceui_or">oppure</string>
     <string name="dialog_color_picker">Selettore colore</string>
-    <string name="press_color_to_apply">Premi su un colore per applicarlo</string>
+    <string name="press_color_to_apply">Tocca un colore per applicarlo</string>
     <string name="color_picker_select">-></string>
     <string name="secure_warning_title">Avviso</string>
     <string name="secure_warning_message">Questi contenuti sono protetti da copia. Possono essere riprodotti solo sul dispositivo corrente.</string>
