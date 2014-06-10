@@ -1627,9 +1627,6 @@ La configurazione del telefono richiede un discreto quantitativo di attivaà di 
     <string name="wifi_state_label">Stato Wi-Fi:</string>
     <string name="network_state_label">Stato Rete:</string>
     <string name="supplicant_state_label">Stato Richiedente:</string>
-    <string name="rssi_label">RSSI:</string>
-    <string name="bssid_label">BSSID:</string>
-    <string name="ssid_label">SSID:</string>
     <string name="hidden_ssid_label">SSID Nascosto:</string>
     <string name="ipaddr_label">Ind.IP:</string>
     <string name="macaddr_label">Ind.MAC:</string>
