@@ -1518,7 +1518,6 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_status">Stato</string>
     <string name="wifi_speed">Velocità di collegamento</string>
     <string name="wifi_ip_address">Indirizzo IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Metodo EAP</string>
     <string name="please_select_phase2">Autenticazione fase 2</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
