@@ -1207,7 +1207,6 @@ Consentire l'avvio automatico?"</string>
     <string name="next_label">Avanti</string>
     <string name="language_picker_title">Lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
@@ -1540,17 +1539,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_wps_available_second_item">" (rete protetta disponibile)"</string>
     <string name="wifi_secured_first_item">Protetta con %1$s</string>
     <string name="wifi_secured_second_item">, protetta con %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nessuna</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">"Per migliorare la precisione della localizzazione e eper altri scopi, %1$s vorrebbe attivare la scansione di rete anche se il Wi-Fi è disattivato.
 
 Consentire a tutte le applicazioni che lo richiedonon?"</string>
@@ -1583,14 +1572,8 @@ La configurazione del telefono richiede un discreto quantitativo di attivaà di 
     <string name="wifi_ip_settings_invalid_gateway">"Digita l'indirizzo di un gateway valido."</string>
     <string name="wifi_ip_settings_invalid_dns">Digita un indirizzo DNS valido.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Digita un prefisso di rete di 0-32 caratteri.</string>
-    <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
-    <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
@@ -1615,34 +1598,7 @@ La configurazione del telefono richiede un discreto quantitativo di attivaà di 
     <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s portatile</string>
     <string name="wifi_tether_configure_ssid_default">HotspotAndroid</string>
-    <string name="testing_wifi_info">Informazioni Wi-Fi</string>
-    <string name="disableNetwork">disableNetwork</string>
-    <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
-    <string name="wifi_status_test">Stato Wi-Fi</string>
-    <string name="wifi_update">Aggiorna</string>
-    <string name="wifi_state_label">Stato Wi-Fi:</string>
-    <string name="network_state_label">Stato Rete:</string>
-    <string name="supplicant_state_label">Stato Richiedente:</string>
-    <string name="rssi_label">RSSI:</string>
-    <string name="bssid_label">BSSID:</string>
-    <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">SSID Nascosto:</string>
-    <string name="ipaddr_label">Ind.IP:</string>
-    <string name="macaddr_label">Ind.MAC:</string>
-    <string name="networkid_label">ID Rete:</string>
-    <string name="link_speed_label">Velocità link:</string>
-    <string name="scan_list_label">Risultati scansione:</string>
-    <string name="wifi_state_disabling">Disattivazione</string>
-    <string name="wifi_state_disabled">Disattivato</string>
-    <string name="wifi_state_enabling">Abilitazione</string>
-    <string name="wifi_state_enabled">Abilitato</string>
-    <string name="wifi_state_unknown">Sconosciuto</string>
     <string name="wifi_config_info">Configura Wi-Fi</string>
-    <string name="config_list_label">Reti configurate</string>
     <string name="display_settings_title">Display</string>
     <string name="sound_settings">Audio</string>
     <string name="ringtone_title">Suoneria telefono</string>
@@ -1712,7 +1668,6 @@ La configurazione del telefono richiede un discreto quantitativo di attivaà di 
     <string name="screensaver_settings_button">Impostazioni</string>
     <string name="automatic_brightness">Luminosità automatica</string>
     <string name="title_font_size">Dimensioni carattere</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Dimensione caratteri</string>
     <string name="sim_lock_settings">Impostazioni blocco SIM</string>
     <string name="sim_lock_settings_category">Impostazioni blocco SIM</string>
@@ -2534,7 +2489,6 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per proseguire con la configurazione.
 
 Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
-    <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
@@ -2815,21 +2769,6 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="global_font_change_title">Cambia dimensione testo</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Aiuto</string>
-    <string name="help_url_wifi" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_vpn" />
-    <string name="help_url_sound" />
-    <string name="help_url_battery" />
-    <string name="help_url_accounts" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_tether" />
-    <string name="help_url_dreams" />
-    <string name="help_url_users" />
-    <string name="help_url_location_access" />
-    <string name="help_url_security" />
     <string name="user_account_title">Account per contenuto</string>
     <string name="user_picture_title">Foto ID</string>
     <string name="cell_broadcast_settings">Trasmissioni cella</string>
