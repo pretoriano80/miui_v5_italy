@@ -57,32 +57,32 @@
         <item quantity="one">Stella rimossa da %1$d conversazione.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> silenzioze.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> silenziosa.</item>
+        <item quantity="other">%1$d silenzioze.</item>
+        <item quantity="one">%1$d silenziosa.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> segnate come spam.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> segnata come spam.</item>
+        <item quantity="other">%1$d segnate come spam.</item>
+        <item quantity="one">%1$d segnata come spam.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> non segnate come spam.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> non segnata come spam.</item>
+        <item quantity="other">%1$d non segnate come spam.</item>
+        <item quantity="one">%1$d non segnata come spam.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> segnate come non importanti.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> segnata come non importante.</item>
+        <item quantity="other">%1$d segnate come non importanti.</item>
+        <item quantity="one">%1$d segnata come non importante.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> segnalate come phishing.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> segnalata come phishing.</item>
+        <item quantity="other">%1$d segnalate come phishing.</item>
+        <item quantity="one">%1$d segnalata come phishing.</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archiviate.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archiviata.</item>
+        <item quantity="other">%1$d archiviate.</item>
+        <item quantity="one">%1$d archiviata.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> eliminata.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> eliminata.</item>
+        <item quantity="other">%1$d eliminata.</item>
+        <item quantity="one">%1$d eliminata.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Cartelle modificate.</item>
