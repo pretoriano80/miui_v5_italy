@@ -65,7 +65,7 @@
         <item>2 minuti</item>
         <item>5 minuti</item>
         <item>10 minuti</item>
-        <item>30 minuti</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
@@ -99,11 +99,7 @@
         <item>Lento</item>
         <item>Normale</item>
         <item>Veloce</item>
-        <item>Più veloce</item>
         <item>Molto veloce</item>
-        <item>Rapido</item>
-        <item>Molto rapido</item>
-        <item>Velocissimo</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Molto basso</item>
@@ -139,6 +135,11 @@
         <item>Fallito</item>
         <item>Bloccato</item>
         <item>Evitamento temporaneo di connessione debole</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Aperta</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione pulsante</item>
@@ -184,11 +185,6 @@
         <item>Numero di avvii</item>
         <item>Nome app</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>Nessuno</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Nessuno</item>
         <item>PAP</item>
@@ -220,55 +216,10 @@
         <item>eHRPD</item>
         <item>Non specificato</item>
     </string-array>
-    <string-array name="mvno_type_entries">
-        <item>Nessuno</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
-    </string-array>
     <string-array name="app_install_location_entries">
         <item>Memoria interna</item>
         <item>Scheda SD</item>
         <item>Fai decidere al sistema</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>Posizione</item>
-        <item>Personale</item>
-        <item>Messaggi</item>
-        <item>Dispositivo</item>
-    </string-array>
-    <string-array name="app_ops_labels">
-        <item>Posizione</item>
-        <item>Posizione</item>
-        <item>Posizione</item>
-        <item>Vibrazione</item>
-        <item>Lettura contatti</item>
-        <item>Modifica contatti</item>
-        <item>Lettura registro chiamate</item>
-        <item>Modifica registro chiamate</item>
-        <item>Lettura calendario</item>
-        <item>Modifica calendario</item>
-        <item>Posizione</item>
-        <item>Notifiche</item>
-        <item>Posizione</item>
-        <item>Chiamata</item>
-        <item>Ricezione SMS/MMS</item>
-        <item>Invio SMS/MMS</item>
-        <item>Ricezione SMS/MMS</item>
-        <item>Ricezione SMS/MMS</item>
-        <item>Ricezione SMS/MMS</item>
-        <item>Ricezione SMS/MMS</item>
-        <item>Invio SMS/MMS</item>
-        <item>RIcezione SMS/MMS</item>
-        <item>Invio SMS/MMS</item>
-        <item>Modifica impostazioni</item>
-        <item>Allineamento in alto</item>
-        <item>Accesso notifiche</item>
-        <item>Fotocamera</item>
-        <item>Registrazione audio</item>
-        <item>Riproduzione audio</item>
-        <item>Lettura appunti</item>
-        <item>Modifica appunti</item>    
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Breve</item>
@@ -286,7 +237,7 @@
         <item>Usa sempre il controllo HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animazioni disattivate</item>
+        <item>Animationi disattivate</item>
         <item>Scala animazioni .5x</item>
         <item>Scala animazioni 1x</item>
         <item>Scala animazioni 1.5x</item>
@@ -317,24 +268,7 @@
         <item>720x480 mdpi</item>
         <item>1280x720 tvdpi</item>
         <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi e 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Nessuno</item>
-        <item>Logcat</item>
-        <item>Tracce sistema (Grafici)</item>
-        <item>Richiama stack su glGetError</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Disattivato</item>
-        <item>Disegna zone aggiuntive non rettangolari in blu</item>
-        <item>Evidenzia comandi disegno testati in verde</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Disattivato</item>
-        <item>Su schermo come barre</item>
-        <item>Su schermo come linee</item>
-        <item>Dumpsys gfxinfo in adb shell</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
@@ -369,7 +303,7 @@
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Chiedi</item>
-        <item>Nega sempre</item>
+        <item>Non permettere mai</item>
         <item>Consenti sempre</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
@@ -377,10 +311,10 @@
         <item>Medio</item>
         <item>Debole</item>
     </string-array>
-    <string-array name="media_feedback_level_entries">
+     <string-array name="media_feedback_level_entries">
         <item>Forte</item>
-        <item>Medio</item>
-        <item>Leggero</item>
+        <item>Media</item>
+        <item>Leggera</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
@@ -441,7 +375,7 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositivo connesso, creazione sessione...</item>
+        <item>Dispositico connesso, creazione sessione...</item>
         <item>Sessione creata</item>
         <item>Disattivazione sessione...</item>
         <item>Sessione fallita</item>
@@ -458,13 +392,13 @@
         <item>"Per Windows XP o versioni precedenti,
 i driver devono essere installati manualmente"</item>
         <item>"Per Windows Vista versioni successive,
-il MI 3 music player verrà visualizzato sul tuo computer"</item>
+il music player verrà visualizzato sul tuo computer"</item>
         <item>"Per Mac OS,
 i driver devono essere installati manualmente"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Ignora il pop-up del Setup Wizard)
+        <item>"(Ignora il popup del Setup Wizard)
 l'unità di archiviazione XIAOMI verrà visualizzata sul tuo computer
 Apri e seleziona Setup.exe per l'installazione"</item>
         <item></item>
@@ -473,7 +407,7 @@ Apri e seleziona AndroidFileTransfer.dmg per l'installazione"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2.L'unità di archiviazione MI 3 verrà visualizzata sul tuo computer
+        <item>"2.L'unità di archiviazione MI 2 verrà visualizzata sul tuo computer
 Adesso puoi trasferire i tuoi dati"</item>
         <item></item>
         <item>Trasferisci file come in qualsiasi altro dispositivo di archiviazione</item>
@@ -481,9 +415,9 @@ Adesso puoi trasferire i tuoi dati"</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>"Se installi questi driver
-l'unità di archiviazione MI3 dovrebbe comparire sul tuo computer"</item>
+l'unità di archiviazione MI 2 dovrebbe comparire sul tuo computer"</item>
         <item>"Per Vista o versioni successive,
-il MI3 music player comparirà sul tuo computer"</item>
+il MI 2 music player comparirà sul tuo computer"</item>
         <item>"Se installi questi driver
 Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item></item>
@@ -511,11 +445,11 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Password numerica</item>
         <item>Password mista</item>
     </string-array>
- <string-array name="wifi_connect_type_entries">
-        <item>Connetti automaticamente</item>
-        <item>Connetti manualmente</item>
-        <item>Chiedi sempre</item>
-</string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+        <item>Always ask</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuti</item>
         <item>15 minuti</item>
@@ -533,9 +467,56 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Musica</item>
         <item>E-mail</item>
     </string-array>
-    <string-array name="miracast_policies">
-        <item>Ritardo minimo</item>
-        <item>Normale</item>
-        <item>Qualità migliore</item>
+    <string-array name="network_speed_slow_summary">
+        <item>La rete è lenta a causa del traffico intenso</item>
+        <item>La rete è lenta a causa del segnale debole</item>
+        <item>Spostamento…</item>
+    </string-array>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>First 4 digits</item>
+        <item>Last 4 digits</item>
+        <item>Do not display</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Once</item>
+        <item>Always</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mode)</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>@string/wifi_security_none</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI Certificate</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Only Home</item>
+        <item>Home + Roaming</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Use network-provided time</item>
+        <item>Use GPS-provided time</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Full screen</item>
+        <item>Best fit</item>
+        <item>Original size</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Always</item>
+        <item>Turn off when idle for 5 min</item>
+        <item>Turn off when idle for 10 min</item>
+    </string-array>
+     <string-array name="wifi_ap_wps_mode_entries">
+        <item>Push button</item>
+        <item>PIN from client</item>
     </string-array>
 </resources>

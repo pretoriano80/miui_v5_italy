@@ -501,10 +501,6 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Consenti</item>
         <item>Nega</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativo</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Riduzione rumore a singolo microfono</item>
         <item>Riduzione rumore a doppio microfono</item>
