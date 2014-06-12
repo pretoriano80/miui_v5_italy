@@ -172,7 +172,7 @@
     <string name="large_file_sort_type_name">Ordina per nome</string>
     <string name="msg_system_cache_hints">La pulizia dei dati chace non influenzerà i file delle applicazioni, le impostazioni, gli account, i database, etc.</string>
     <string name="dialog_title_cleanup_system_cache">Cancellare i dati cache?</string>
-    <string name="dialog_msg_cleanup_system_cache">Questa operazione cancellerà i dati cache delle applicazioni.</string>
+    <string name="dialog_msg_cleanup_system_cache">Questa operazione cancellerà i dati nella cache delle applicazioni.</string>
     <string name="dialog_title_cleanup_apps">Eliminare dati applicazioni?</string>
     <string name="dialog_title_backup_and_cleanup_apps">Eseguire il backup ed eliminare i dati applicazione?</string>
     <string name="dialog_msg_cleanup_apps">Tutti i dati di queste app verranno eliminati definitivamente. Inclusi tutti i file, impostazioni, account, database, etc.</string>
@@ -1704,7 +1704,7 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="screensaver_settings_summary_dock">Quando in dock</string>
     <string name="screensaver_settings_summary_off">Disattivato</string>
     <string name="screensaver_settings_disabled_prompt">Per controllare cosa succede quando il telefono è in dock e/o in sospensione, attiva la funzione Daydream.</string>
-    <string name="screensaver_settings_when_to_dream">Daydream</string>
+    <string name="screensaver_settings_when_to_dream">Quando è attivo il daydream</string>
     <string name="screensaver_settings_dream_start">Attiva adesso</string>
     <string name="screensaver_settings_button">Impostazioni</string>
     <string name="automatic_brightness">Luminosità automatica</string>
@@ -1760,7 +1760,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="status_meid_number">MEID</string>
     <string name="status_icc_id">ICCID</string>
     <string name="status_network_type">Tipo di rete cellulare</string>
-    <string name="status_latest_area_info">Informazioni peratore</string>
+    <string name="status_latest_area_info">Informazioni operatore</string>
     <string name="status_data_state">Stato rete cellulare</string>
     <string name="status_service_state">Stato servizio</string>
     <string name="status_signal_strength">Intensità segnale</string>
@@ -1775,7 +1775,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="internal_memory">Archivio interno</string>
     <string name="sd_memory">Archivio USB</string>
     <string name="memory_available">Disponibile</string>
-    <string name="memory_available_read_only">Disponibile (solo-lettura)</string>
+    <string name="memory_available_read_only">Disponibile (sola-lettura)</string>
     <string name="memory_size">Spazio totale</string>
     <string name="memory_calculating_size">Calcolo...</string>
     <string name="memory_apps_usage">Applicazioni</string>
@@ -1784,7 +1784,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_dcim_usage">Foto e video</string>
     <string name="memory_music_usage">Audio</string>
     <string name="memory_media_misc_usage">Vari</string>
-    <string name="memory_media_cache_usage">Dati cache</string>
+    <string name="memory_media_cache_usage">Dati in cache</string>
     <string name="sd_eject">Smonta archivio condiviso</string>
     <string name="sd_eject_summary">Smonta archivio USB interno</string>
     <string name="sd_insert_summary">Inserisci arch. USB da montare</string>
@@ -1792,8 +1792,8 @@ Il PIN potrebbe essere errato."</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">Cancella archivio USB</string>
     <string name="sd_format_summary">"Cancella i dati nell'archivio USB interno, come musica e foto"</string>
-    <string name="memory_clear_cache_title">Cancellare dati cache?</string>
-    <string name="memory_clear_cache_message">Questo cancellerà i dati cache per tutte le app.</string>
+    <string name="memory_clear_cache_title">Cancellare i dati nella cache?</string>
+    <string name="memory_clear_cache_message">Questo cancellerà i dati nella cache per tutte le app.</string>
     <string name="mtp_ptp_mode_summary">Funzione MTP o PTP attiva</string>
     <string name="dlg_confirm_unmount_title">"Smontare l'archivio USB?"</string>
     <string name="dlg_confirm_unmount_text">"Se smonti l'archivio USB, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai l'archivio USB."</string>
@@ -1932,7 +1932,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
     <string name="location_access_title">Accesso alla mia posizione</string>
     <string name="location_access_summary">Permetti alle applicazioni che lo hanno richiesto di rilevare informazioni sulla tua posizione.</string>
-    <string name="location_sources_heading">Posizione risorse</string>
+    <string name="location_sources_heading">Fonti per la localizzazione</string>
     <string name="about_settings">Informazioni sul telefono</string>
     <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
     <string name="legal_information">Informazioni legali</string>
@@ -2040,10 +2040,10 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="reset_app_preferences_title">Cancellare preferenze applicazioni ?</string>
     <string name="reset_app_preferences_desc">"Questo resetterà tutte le preferenze per:
 
- &lt;li>Applicazioni disattivate&lt;/li>
- &lt;li>Notifiche applicazioni disattivate&lt;/li>
- &lt;li>Applicazioni impostate come predefinite&lt;/li>
- &lt;li>Restrizioni per uso dei dati in background&lt;/li>
+<li>Applicazioni disattivate</li>
+<li>Notifiche applicazioni disattivate</li>
+<li>Applicazioni impostate come predefinite</li>
+<li>Restrizioni per uso dei dati in background</li>
 
  Non perderai i dati delle applicazioni."</string>
     <string name="reset_app_preferences_button">Cancella</string>
@@ -2266,8 +2266,8 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_settings_title">Impostazioni di accessibilità</string>
     <string name="accessibility_services_title">Servizi</string>
     <string name="accessibility_system_title">Sistema</string>
-   <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
-    <string name="accessibility_screen_magnification_summary">"Quanado questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
+    <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
 
 Durante l'ingrandimento puoi:
 &lt;li>&lt;ul>Muovere: sposta due o più dita lungo lo schermo.
@@ -2292,7 +2292,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"Aggiorna l'ingrandimento dello schermo nel passaggio tra applicazioni"</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Termina con tasto accensione</string>
     <string name="accessibility_toggle_speak_password_preference_title">Pronuncia la password</string>
-    <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco</string>
+    <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
     <string name="accessibility_menu_item_settings">Impostazioni</string>
     <string name="accessibility_feature_state_on">Attivato</string>
     <string name="accessibility_feature_state_off">Disattivato</string>
@@ -2737,7 +2737,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="vpn_menu_delete">Elimina rete</string>
     <string name="vpn_menu_lockdown">VPN sempre attiva</string>
     <string name="vpn_lockdown_summary">Seleziona un profilo VPN al quale rimanere sempre collegato. Il traffico di rete sarà consentito solo quando collegato a questa VPN.</string>
-    <string name="vpn_lockdown_none">None</string>
+    <string name="vpn_lockdown_none">Nessuna</string>
     <string name="vpn_lockdown_config_error">La VPN sempre attiva richiede un indirizzo IP sia per il server che per il DNS.</string>
     <string name="vpn_no_network">Nessuna connessione di rete. Riprovare più tardi.</string>
     <string name="vpn_missing_cert">Manca un certificato. Modificare il profilo.</string>

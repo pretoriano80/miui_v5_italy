@@ -93,7 +93,7 @@
     <string name="no_map_app">Nessuna applicazione per le mappe</string>
     <string name="no_such_item">"Impossibile trovare l'elemento."</string>
     <string name="edit">Modifica</string>
-    <string name="activity_not_found">Nessuna appl. disponibile per completare azione.</string>
+    <string name="activity_not_found">Applicazione non installata sul telefono.</string>
     <string name="video_err">Impossibile riprodurre il video.</string>
     <string name="group_by_location">Per luogo</string>
     <string name="group_by_time">Per data</string>

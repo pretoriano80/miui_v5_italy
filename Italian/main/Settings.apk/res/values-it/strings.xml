@@ -174,7 +174,7 @@
     <string name="large_file_sort_type_name">Ordina per nome</string>
     <string name="msg_system_cache_hints">La pulizia dei dati chace non influenzerà i file delle applicazioni, le impostazioni, gli account, i database, etc.</string>
     <string name="dialog_title_cleanup_system_cache">Cancellare i dati cache?</string>
-    <string name="dialog_msg_cleanup_system_cache">Questa operazione cancellerà i dati cache delle applicazioni.</string>
+    <string name="dialog_msg_cleanup_system_cache">Questa operazione cancellerà i dati nella cache delle applicazioni.</string>
     <string name="dialog_title_cleanup_apps">Eliminare dati applicazioni?</string>
     <string name="dialog_title_backup_and_cleanup_apps">Eseguire il backup ed eliminare i dati applicazione?</string>
     <string name="dialog_msg_cleanup_apps">Tutti i dati di queste app verranno eliminati definitivamente. Inclusi tutti i file, impostazioni, account, database, etc.</string>
