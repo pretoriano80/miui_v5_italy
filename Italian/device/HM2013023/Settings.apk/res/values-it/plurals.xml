@@ -13,8 +13,8 @@
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a developer.</item>
-        <item quantity="one">You are now %1$d step away from being a developer.</item>
+        <item quantity="other">Sei ora a %1$d passi dal diventare uno sviluppatore.</item>
+        <item quantity="one">Sei ora a %1$d passo dal diventare uno sviluppatore.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">La password deve contenere almeno %d lettere</item>
