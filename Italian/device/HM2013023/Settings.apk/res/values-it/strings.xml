@@ -1385,7 +1385,6 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
-    <string name="bluetooth_device_context_unpair">Dissocia</string>
     <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
     <string name="bluetooth_menu_advanced">Avanzato</string>
@@ -1401,7 +1400,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_disconnect_a2dp_profile">"%1$s verrà disconnesso dall'audio multimediale."</string>
     <string name="bluetooth_disconnect_headset_profile">"%1$s verrà disconnesso dall'audio vivavoce."</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s verrà disconnesso dal dispositivo di input.</string>
-    <string name="bluetooth_disconnect_pan_user_profile">L'accesso Internet tramite %1$s sarà disconnesso.</string>
+    <string name="bluetooth_disconnect_pan_user_profile">"L'accesso Internet tramite %1$s sarà disconnesso."</string>
     <string name="bluetooth_disconnect_pan_nap_profile">%1$s verrà disconnesso dalla condivisione della connessione Internet del telefono.</string>
     <string name="bluetooth_device_advanced_title">Dispositivi Bluetooth associati</string>
     <string name="bluetooth_device_advanced_online_mode_title">Connetti</string>
@@ -1429,7 +1428,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_display_settings_title">Schermo wireless</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Per visualizzare i dispositivi attiva il Wi-Fi.</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perchè il Wi-Fi non è attivo.</string>
-    <string name="wifi_display_search_for_devices">Ricerca display</string>.</string>
+    <string name="wifi_display_search_for_devices">Ricerca display</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
     <string name="wifi_display_no_devices_found">Nessun display wireless rilevato nelle vicinanze.</string>
     <string name="wifi_display_paired_devices">Display wireless associati</string>

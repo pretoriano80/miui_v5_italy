@@ -369,8 +369,7 @@ Per la crittografia è necessaria un'ora o più. Avviate il processo con la batt
     <string name="bluetooth_connection_error_title">Connessione non riuscita</string>
     <string name="bluetooth_connection_error_message">"Impossibile connettere auricolare. Assicuratevi che l'auricolare sia attivo"</string>
     <string name="bluetooth_button_retry">Riprova</string>
-    <string name="bluetooth_preference_scan_title">Ricerca</string>
-    <string name="bluetooth_preference_scan_title">Ricerca dispositivi</string>
+    <string name="bluetooth_preference_scan_title">Cerca dispositivi</string>
     <string name="bluetooth_searching_for_devices">Ricerca…</string>
     <string name="bluetooth_preference_device_settings">Impostazioni dispositivo</string>
     <string name="bluetooth_preference_paired_devices">Dispositivi associati</string>
@@ -378,8 +377,7 @@ Per la crittografia è necessaria un'ora o più. Avviate il processo con la batt
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
-    <string name="bluetooth_device_context_unpair">Dissocia</string>
-    <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
+    <string name="bluetooth_device_context_unpair">Dissocia e disconnetti</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni…</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
