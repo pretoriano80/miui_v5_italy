@@ -2374,7 +2374,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"Aggiorna l'ingrandimento dello schermo nel passaggio tra applicazioni"</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Termina con tasto accensione</string>
     <string name="accessibility_toggle_speak_password_preference_title">Pronuncia la password</string>
-    <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco</string>
+    <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
     <string name="accessibility_menu_item_settings">Impostazioni</string>
     <string name="accessibility_feature_state_on">Attivato</string>
     <string name="accessibility_feature_state_off">Disattivato</string>
@@ -2905,7 +2905,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="vpn_menu_delete">Elimina rete</string>
     <string name="vpn_menu_lockdown">VPN sempre attiva</string>
     <string name="vpn_lockdown_summary">Seleziona un profilo VPN al quale rimanere sempre collegato. Il traffico di rete sarà consentito solo quando collegato a questa VPN.</string>
-    <string name="vpn_lockdown_none">None</string>
+    <string name="vpn_lockdown_none">Nessuna</string>
     <string name="vpn_lockdown_config_error">La VPN sempre attiva richiede un indirizzo IP sia per il server che per il DNS.</string>
     <string name="vpn_no_network">Nessuna connessione di rete. Riprovare più tardi.</string>
     <string name="vpn_missing_cert">Manca un certificato. Modificare il profilo.</string>
@@ -3205,7 +3205,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="home_key">Tasto Home</string>
     <string name="back_key">Tasto indietro</string>
     <string name="screen_key_long_press_timeout">Durata pressione</string>
-    <string name="under_keyguard">Nella lockscreen</string>
+    <string name="under_keyguard">Nella schermata di blocco</string>
     <string name="enable_snapshot_screenlock">Long-press Indietro per foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita tasto Accensione</string>
     <string name="trackball_wake_title">Trackball wake</string>

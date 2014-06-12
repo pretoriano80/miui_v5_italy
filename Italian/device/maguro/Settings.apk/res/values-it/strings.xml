@@ -1993,7 +1993,7 @@ Consentire l'avvio automatico?"</string>
     <string name="home_key">Tasto Home</string>
     <string name="back_key">Tasto Indietro</string>
     <string name="screen_key_long_press_timeout">Durata pressione</string>
-    <string name="under_keyguard">Nella lockscreen</string>
+    <string name="under_keyguard">Nella schermata di blocco</string>
     <string name="enable_snapshot_screenlock">Long-press Indietro per foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita tasto Accensione</string>
     <string name="trackball_wake_title">Trackball wake</string>
@@ -2563,7 +2563,7 @@ Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per co
     <string name="verify_apps_over_usb_summary">Verifica comportamenti dannosi per le applicazioni installate tramite ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Verifica applicazioni su USB</string>
     <string name="vpn_lockdown_config_error">VPN Sempre-attiva richiede un indirizzo IP sia per il server che per il DNS.</string>
-    <string name="vpn_lockdown_none">Nessuno</string>
+    <string name="vpn_lockdown_none">Nessuna</string>
     <string name="vpn_lockdown_summary">Seleziona un profilo VPN a cui rimanere sempre connesso. Il traffico di rete verrà autorizzato solo se connesso a questa VPN.</string>
     <string name="vpn_menu_lockdown">VPN Sempre-attiva</string>
     <string name="wifi_and_mobile_skipped_message">ATTENZIONE: Il telefono non sarà in grado di verificare se il tuo software è aggiornato.</string>

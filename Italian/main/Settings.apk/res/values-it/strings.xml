@@ -2831,7 +2831,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="home_key">Tasto Home</string>
     <string name="back_key">Tasto indietro</string>
     <string name="screen_key_long_press_timeout">Durata pressione</string>
-    <string name="under_keyguard">Nella lockscreen</string>
+    <string name="under_keyguard">Nella schermata di blocco</string>
     <string name="enable_snapshot_screenlock">Long-press Indietro per foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita tasto Accensione</string>
     <string name="trackball_wake_title">Trackball wake</string>
