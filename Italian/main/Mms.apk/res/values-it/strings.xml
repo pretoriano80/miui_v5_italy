@@ -326,7 +326,7 @@
     <string name="attach_subject">Oggetto</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="prepare_send">Preparazione invio...</string>
-    <string name="activity_not_found">Impossibile aprire allegato</string>
+    <string name="activity_not_found">Applicazione non installata sul telefono.</string>
     <string name="activity_not_found_uri">Impossibile trovare programmi per questo</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="chenghu_disable_mms">"Modifica dell'indirizzo MMS non valido"</string>

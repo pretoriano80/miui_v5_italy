@@ -22,8 +22,8 @@
     <string name="default_blank" />
     <string name="transmit_msg_string">Trasmissione a:</string>
     <string name="set">Imposta</string>
-    <string name="stations_list">Lista Stazioni</string>
-    <string name="stations_list_empty">Lista Stazioni vuota</string>
+    <string name="stations_list">Lista stazioni</string>
+    <string name="stations_list_empty">Lista stazioni vuota</string>
     <string name="station_freq_format">%sMHz</string>
     <string name="alert_message_delete_station">Sicuro di voler eliminare la stazione selezionata?</string>
     <string name="msg_noantenna_message">Inserisci le cuffie per migliorare la qualità della ricezione.</string>
