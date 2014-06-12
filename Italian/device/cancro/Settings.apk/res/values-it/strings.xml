@@ -1421,23 +1421,23 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_dock_settings">Impostazioni dock</string>
     <string name="bluetooth_dock_settings_title">Usa dock per audio</string>
     <string name="bluetooth_dock_settings_headset">Come vivavoce</string>
-    <string name="bluetooth_dock_settings_a2dp">Per musica e audio media</string>
+    <string name="bluetooth_dock_settings_a2dp">Per musica e contenuti multimediali</string>
     <string name="bluetooth_dock_settings_remember">Ricorda impostazioni</string>
-    <string name="wifi_display_settings_title">Wi-Fi display</string>
+    <string name="wifi_display_settings_title">Schermo wireless</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Per visualizzare i dispositivi attiva il Wi-Fi.</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wi-Fi display è disattivato perché il Wi-Fi non è attivo.</string>
-    <string name="wifi_display_search_for_devices">Ricerca schermi</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perchè il Wi-Fi non è attivo.</string>
+    <string name="wifi_display_search_for_devices">Ricerca display</string>.</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
-    <string name="wifi_display_no_devices_found">Nessun Wi-Fi Display rilevato.</string>
-    <string name="wifi_display_paired_devices">Wi-Fi Display accoppiati</string>
+    <string name="wifi_display_no_devices_found">Nessun display wireless rilevato nelle vicinanze.</string>
+    <string name="wifi_display_paired_devices">Display wireless associati</string>
     <string name="wifi_display_available_devices">Dispositivi disponibili</string>
-    <string name="wifi_display_status_connecting">Connessione</string>
-    <string name="wifi_display_status_connected">Connessione</string>
+    <string name="wifi_display_status_connecting">Connessione in corso</string>
+    <string name="wifi_display_status_connected">Connesso</string>
     <string name="wifi_display_status_available">Disponibile</string>
-    <string name="wifi_display_details">Impostazioni Wi-Fi Display</string>
+    <string name="wifi_display_details">Impostazioni display wireless</string>
     <string name="wifi_display_disconnect_title">Disconnettere?</string>
-    <string name="wifi_display_disconnect_text">Questa azione chiuderà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
-    <string name="wifi_display_options_title">Opzioni Wi-Fi Display</string>
+    <string name="wifi_display_disconnect_text">Questa azione chiuderà la connessione con %1$s</string>
+    <string name="wifi_display_options_title">Opzioni display wireless</string>
     <string name="wifi_display_options_forget">Dimentica</string>
     <string name="wifi_display_options_done">Fine</string>
     <string name="wifi_display_options_name">Nome</string>
@@ -1497,7 +1497,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione automatica (WPS)</string>
-    <string name="wifi_required_info_text">Per completare la configurazione il tablet deve accedere ad una rete Wi-Fi. Dopo la configurazione potrai cambiare da rete dati mobile a Wi-Fi.</string>
+    <string name="wifi_required_info_text">Per completare la configurazione, il tuo tablet deve accedere ad una rete Wi-Fi. Dopo la configurazione potrai cambiare la connessione in Wi-Fi o tramite rete dati mobile.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Impostazione WPS</string>
     <string name="wifi_wps_setup_msg">Inizio WPS…</string>
@@ -1553,9 +1553,9 @@ Consentire a tutte le applicazioni che lo richiedonon?"</string>
     <string name="wifi_cancel">Annulla</string>
     <string name="wifi_skip_anyway">Salta comunque</string>
     <string name="wifi_dont_skip">Non saltare</string>
-    <string name="wifi_skipped_message">"ATTENZIONE: potresti riscontrare costi inaspettati.
+    <string name="wifi_skipped_message">"ATTENZIONE: Potresti ricevere addebiti imprevisti di traffico dati da parte del tuo operatore.
 
-La configurazione del telefono richiede un discreto quantitativo di attivaà di rete."</string>
+La configurazione del telefono può richiedere una significativa attività di rete."</string>
     <string name="wifi_and_mobile_skipped_message">"ATTENZIONE: fino a che non avrai una connessione Internet disponibile il telefono non sarà in grado di verificare se il software è aggiornato."</string>
     <string name="wifi_connect_failed_message">Il telefono non riesce a connettersi a questa rete Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Impostazioni Wi-Fi avanzate</string>

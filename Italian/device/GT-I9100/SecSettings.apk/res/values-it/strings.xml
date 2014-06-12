@@ -417,7 +417,7 @@ Per la crittografia è necessaria un'ora o più. Avviate il processo con la batt
     <string name="bluetooth_dock_settings">Docking station</string>
     <string name="bluetooth_dock_settings_title">Usa dock per audio</string>
     <string name="bluetooth_dock_settings_headset">Come vivavoce</string>
-    <string name="bluetooth_dock_settings_a2dp">Per musica e contenuto multimediale</string>
+    <string name="bluetooth_dock_settings_a2dp">Per musica e contenuti multimediali</string>
     <string name="bluetooth_dock_settings_remember">Ricorda impostazioni</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Consente lo scambio di dati avvicinando due dispositivi NFC</string>
