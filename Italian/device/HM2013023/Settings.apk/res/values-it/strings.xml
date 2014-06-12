@@ -1783,7 +1783,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="sd_format">Cancella archivio USB</string>
     <string name="sd_format_summary">"Cancella i dati nell'archivio USB interno, come musica e foto"</string>
     <string name="memory_clear_cache_title">Cancellare i dati nella cache?</string>
-    <string name="memory_clear_cache_message"><string name="memory_clear_cache_message">Questo cancellerà i dati nella cache per tutte le app.</string>
+    <string name="memory_clear_cache_message">Questo cancellerà i dati nella cache per tutte le app.</string>
     <string name="mtp_ptp_mode_summary">Funzione MTP o PTP attiva</string>
     <string name="dlg_confirm_unmount_title">"Smontare l'archivio USB?"</string>
     <string name="dlg_confirm_unmount_text">"Se smonti l'archivio USB, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai l'archivio USB."</string>

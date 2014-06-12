@@ -1393,7 +1393,6 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
-    <string name="bluetooth_device_context_unpair">Dissocia</string>
     <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
