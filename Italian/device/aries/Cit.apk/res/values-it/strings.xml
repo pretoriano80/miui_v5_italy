@@ -45,7 +45,7 @@
     <string name="cit_OTG_plugin_check_title">Avvia test OTG</string>
     <string name="cit_OTG_plugout_check_title">Stato OTG disconnesso</string>
     <string name="cit_version_check_summary">Sono state rilevate le seguenti versioni hardware e software</string>
-    <string name="cit_proximity_sensor_check_summary">Copri il sensore di prossimità del telefono con un dito, l'informazione visualizzata va da 0.0 (coperto) in su come dimensione</string>
+    <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità del telefono con un dito, l'informazione visualizzata va da 0.0 (coperto) in su come dimensione"</string>
     <string name="cit_magnetic_sensor_check_summary">Sotto è riportato il valore attuale riportato dal magnetometro nelle direzioni X, Y, Z</string>
     <string name="cit_light_sensor_check_summary">Sono state rilevate le seguenti informazioni sul sensore DAC della luminosità</string>
     <string name="cit_gyroscope_sensor_check_summary">Valori del sensore giroscopico per le coordinate X, Y, Z</string>
@@ -65,7 +65,7 @@
     <string name="cit_audio_loopback_check_summary_first">Il test eseguirà una verifica del loopback del microfono principale</string>
     <string name="cit_audio_loopback_check_summary_second">Turn the phone over and test the other microphones loopback</string>
     <string name="cit_audio_loopback_summary_dualmic_earpiece">Test di chiamata, parlare usando il microfono; in questo modo la voce verrà udita direttamente nelle cuffie.</string>
-    <string name="cit_headset_loopback_check_summary">Il test eseguirà la verifica dell'audio trasmesso direttamente dal microfono alle cuffie</string>
+    <string name="cit_headset_loopback_check_summary">"Il test eseguirà la verifica dell'audio trasmesso direttamente dal microfono alle cuffie"</string>
     <string name="cit_sd_plugin_check_summary">Il test verificherà lo stato di mount della scheda SD, lo schermo mostrerà le carte SD che sono state montate</string>
     <string name="cit_sd_plugout_check_summary">Il test verificherà lo stato di unmount della scheda SD, lo schermo mostrerà le carte SD che sono state smontate</string>
     <string name="cit_keyboard_test_summary">Mostra il tasto hardware attualmente selezioanto, questo test non consente di verificare il tasto home</string>
