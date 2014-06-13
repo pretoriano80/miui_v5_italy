@@ -1382,8 +1382,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
-    <string name="bluetooth_device_context_unpair">Dissocia</string>
-    <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
+    <string name="bluetooth_device_context_unpair">Dissocia e disconnetti</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
@@ -1426,7 +1425,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_display_settings_title">Schermo wireless</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Per visualizzare i dispositivi attiva il Wi-Fi.</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perchè il Wi-Fi non è attivo.</string>
-    <string name="wifi_display_search_for_devices">Ricerca display</string>.</string>
+    <string name="wifi_display_search_for_devices">Ricerca display</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
     <string name="wifi_display_no_devices_found">Nessun display wireless rilevato nelle vicinanze.</string>
     <string name="wifi_display_paired_devices">Display wireless associati</string>
@@ -2485,9 +2484,6 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
     <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti.\u0090"</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
-    <string name="wifi_setup_description_connected">"Tocca \"<b>Avanti</b>\" per proseguire con la configurazione.
-
-Tocca \"<b>Indietro</b>\" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>

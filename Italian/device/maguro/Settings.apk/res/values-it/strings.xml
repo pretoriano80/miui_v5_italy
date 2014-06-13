@@ -407,7 +407,6 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
-    <string name="bluetooth_device_context_unpair">Dissocia</string>
     <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
@@ -2578,7 +2577,7 @@ Ogni utente può accettare aggiornamenti dei permessi per le applicazioni per co
     <string name="wifi_display_options_name">Nome</string>
     <string name="wifi_display_options_title">Opzioni display wireless</string>
     <string name="wifi_display_paired_devices">Display wireless associati</string>
-    <string name="wifi_display_search_for_devices">Ricerca display</string>.</string>
+    <string name="wifi_display_search_for_devices">Ricerca display</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perchè il Wi-Fi non è attivo.</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Per visualizzare i dispositivi attiva il Wi-Fi.</string>

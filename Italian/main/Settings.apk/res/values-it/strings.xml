@@ -1393,7 +1393,6 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
-    <string name="bluetooth_device_context_unpair">Dissocia</string>
     <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
@@ -3220,4 +3219,10 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="preferred_app_settings_reset">Ripristina imp. predefinite</string>
     <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>
     <string name="translation_contributors_title">Traduttori</string>
+    <string name="app_feedback">Segnala Bug</string>
+    <string name="app_backup">Backup</string>
+    <string name="google_backup_section_title">Google backup e ripristino</string>
+    <string name="system_backup_section_title">Backup</string>
+    <string name="local_backup_section_title">Backup locali</string>
+    <string name="local_backup_section_summary">Backup delle impostazioni di sistema, account ed applicazioni, account and apps</string>
 </resources>

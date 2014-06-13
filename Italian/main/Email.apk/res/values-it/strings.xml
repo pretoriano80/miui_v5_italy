@@ -13,10 +13,6 @@
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
-    <string name="email_package_name">com.android.email</string>
-    <string name="compose_help_context">compose</string>
-    <string name="wait_help_context">wait</string>
-    <string name="main_help_context">ttl</string>
     <string name="trigger_save_char">s</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
@@ -71,10 +67,8 @@
     <string name="retry">Riprova</string>
     <string name="search_hint">Cerca email</string>
     <string name="no_conversations">Nessun messaggio.</string>
-    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
     <string name="done">Return</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="permission_read_attachment_label">Lettura allegati email</string>
     <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
     <string name="permission_access_provider_label">Accesso ai dati del provider di posta</string>
@@ -350,10 +344,7 @@ CC: %4$s
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_eas">eas</string>
     <string name="application_mime_type">application/email-ls</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contact Content Provider</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="from">Da</string>
     <string name="to">A</string>
     <string name="cc">Cc</string>
@@ -421,10 +412,6 @@ CC: %4$s
     <string name="menu_move_to">Sposta in</string>
     <string name="menu_move_to_inbox">Sposta in Posta in arrivo</string>
     <string name="menu_manage_folders">Impostazioni cartella</string>
-    <string name="report_rendering_problem">Visualizzato male</string>
-    <string name="report_rendering_improvement">Visualizzato bene</string>
-    <string name="report_rendering_problem_desc">Questo messaggio è visualizzato male.</string>
-    <string name="report_rendering_improvement_desc">Questo messaggio è visualizzato bene.</string>
     <string name="menu_show_original">Ripristina ridim. autom.</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_search">Cerca</string>
@@ -558,7 +545,6 @@ CC: %4$s
     <string name="search_results_loaded">%1$d</string>
     <string name="network_error">Nessuna connessione</string>
     <string name="load_more">Carica altro</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="shortcut_name_title">Abbreviazione nome cartella</string>
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
     <string name="wait_for_sync_body">La tua email comparirà a breve.</string>
@@ -594,9 +580,8 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="message_details_title">Dettagli messaggio</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
     <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
-    <string name="auto_advance_help_title">"Preferenze autoavanzamento
+    <string name="auto_advance_help_title">"Preferenze avanzamento automatico
 (dopo eliminazioni, ecc.)"</string>
-    <string name="prefDefault_autoAdvance">list</string>
     <string name="clear_display_images_whitelist_title">Azzera consenso immagini</string>
     <string name="clear_display_images_whitelist_dialog_title">Azzerare i consensi immagini?</string>
     <string name="clear_display_images_whitelist_dialog_message">Non visualizza più le immagini in linea nei messaggi da mittenti precedentemente approvati.</string>
@@ -622,7 +607,6 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="silent_ringtone">Silenzioso</string>
     <string name="preference_removal_action_title">Archivio e operazioni cancellate</string>
     <string name="prefDialogTitle_removal_action">Archivio e operazioni cancellate</string>
-    <string name="prefDefault_removal_action">archive</string>
     <string name="preferences_default_reply_all_title">Rispondi a tutti</string>
     <string name="preferences_default_reply_all_summary">Usa come predefinito per i messaggi di risposta</string>
     <string name="preference_swipe_title_archive">Scorri per archiviare</string>
@@ -785,6 +769,9 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="parase_setup_data">Recupero dati di configurazione...</string>
     <string name="allread">Tutto letto</string>
     <string name="eas_template">dominio\\utente</string>
+    <string name="outbox_alert_button_resend">Invia di nuovo</string>
+    <string name="outbox_alert_button_no_resend">Non inviare</string>
+    <string name="outbox_alert_mailbox_not_found">Indirizzo email non trovato</string>
     <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
     <string name="xiaomi_update_dialog_message">"Introduzione della versione %1$s
 Dimensione: %2$s"</string>
