@@ -2,7 +2,7 @@
 <resources>
     <string name="versionCode">3</string>
     <string name="versionName">1.0.140225</string>
-    <string name="auto_startup_application_manage">Avvio automatico</string>
+    <string name="auto_startup_application_manage"Avvio automatico</string>
     <string name="auto_startup_count">"%d app autorizzata(e) all'avvio automatico"</string>
     <string name="man_add_application">"Autorizza manualmente l'avvio automatico"</string>
     <string name="application_item_disable">Nega</string>
