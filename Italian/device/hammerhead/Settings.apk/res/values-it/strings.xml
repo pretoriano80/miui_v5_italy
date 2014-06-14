@@ -172,7 +172,7 @@
     <string name="large_file_sort_type_name">Ordina per nome</string>
     <string name="msg_system_cache_hints">La pulizia dei dati chace non influenzerà i file delle applicazioni, le impostazioni, gli account, i database, etc.</string>
     <string name="dialog_title_cleanup_system_cache">Cancellare i dati cache?</string>
-    <string name="dialog_msg_cleanup_system_cache">Questa operazione cancellerà i dati cache delle applicazioni.</string>
+    <string name="dialog_msg_cleanup_system_cache">Questa operazione cancellerà i dati nella cache delle applicazioni.</string>
     <string name="dialog_title_cleanup_apps">Eliminare dati applicazioni?</string>
     <string name="dialog_title_backup_and_cleanup_apps">Eseguire il backup ed eliminare i dati applicazione?</string>
     <string name="dialog_msg_cleanup_apps">Tutti i dati di queste app verranno eliminati definitivamente. Inclusi tutti i file, impostazioni, account, database, etc.</string>
@@ -1237,7 +1237,7 @@ Consentire l'avvio automatico?"</string>
     <string name="roaming_warning">"Consentire il roaming dati? I costi potrebbero essere elevati.</string>
     <string name="roaming_warning_multiuser">"Quando permetti il roaming dati potresti avere degli addebiti consistenti!
 
-Questa impostazion."</string>
+Questa impostazione avrà effetto su tutti gli utenti del telefono."</string>
     <string name="roaming_reenable_title">Attenzione</string>
     <string name="networks">Selezione operatore</string>
     <string name="sum_carrier_select">Scegli un operatore di rete</string>
@@ -1270,7 +1270,7 @@ Questa impostazion."</string>
     <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Digita il testo da visualizzare su lockscreen</string>
-    <string name="show_user_info_on_lockscreen_label">Mostra informazioni utente su lockscreen</string>
+    <string name="show_user_info_on_lockscreen_label">Mostra informazioni utente nella schermata di blocco</string>
     <string name="user_info_settings_title">Informazioni utente</string>
     <string name="show_profile_info_on_lockscreen_label">Mostra info profilo su lockscreen</string>
     <string name="profile_info_settings_title">Profile info</string>
@@ -1379,27 +1379,26 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_pairing_accept">Accoppia</string>
     <string name="bluetooth_pairing_decline">Annulla</string>
     <string name="bluetooth_error_title" />
-    <string name="bluetooth_pairing_error_message">"Impossibile eseguire l'accoppiamento con %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Impossibile eseguire l'accoppiamento con %1$s. La passkey o il PIN è errato."</string>
+    <string name="bluetooth_pairing_error_message">Impossibile associarsi a %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Associazione con %1$s non riuscita. PIN o password errati.</string>
     <string name="bluetooth_pairing_device_down_error_message">Impossibile comunicare con %1$s.</string>
-    <string name="bluetooth_pairing_rejected_error_message">Accoppiamento rifiutato da %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Associazione rifiutata da %1$s.</string>
     <string name="bluetooth_connecting_error_message">Errore durante la connessione a %1$s.</string>
-    <string name="bluetooth_preference_scan_title">Cerca dispositivi</string>
-    <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
+    <string name="bluetooth_preference_scan_title">Ricerca dispositivi</string>
+    <string name="bluetooth_search_for_devices">Ricerca dispositivi</string>
     <string name="bluetooth_searching_for_devices">Ricerca...</string>
     <string name="bluetooth_preference_device_settings">Impostazioni dispositivo</string>
-    <string name="bluetooth_preference_paired_devices">Dispositivi accoppiati</string>
+    <string name="bluetooth_preference_paired_devices">Dispositivi associati</string>
     <string name="bluetooth_preference_found_devices">Dispositivi disponibili</string>
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
-    <string name="bluetooth_device_context_pair_connect">Accoppia e connetti</string>
-    <string name="bluetooth_device_context_unpair">Disaccoppia</string>
-    <string name="bluetooth_device_context_disconnect_unpair">Disconnetti e disaccoppia</string>
+    <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
+    <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
     <string name="bluetooth_menu_advanced">Avanzate</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
-    <string name="bluetooth_empty_list_bluetooth_off">Per visualizzare i dispositivi, attiva Bluetooth.</string>
-    <string name="bluetooth_connect_specific_profiles_title">Connessione a…</string>
+    <string name="bluetooth_empty_list_bluetooth_off">Attiva il Bluetooth per vedere i dispositivi disponibili</string>
+    <string name="bluetooth_connect_specific_profiles_title">Connetti a...</string>
     <string name="bluetooth_profile_a2dp">Audio multimediale</string>
     <string name="bluetooth_profile_headset">Audio telefono</string>
     <string name="bluetooth_profile_opp">Trasferimento file</string>
@@ -1414,23 +1413,23 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_disconnect_hid_profile">%1$s verrà disconnesso dal dispositivo di input.</string>
     <string name="bluetooth_disconnect_pan_user_profile">"L'accesso Internet tramite %1$s verrà disconnesso."</string>
     <string name="bluetooth_disconnect_pan_nap_profile">%1$s verrà disconnesso dalla condivisione della connessione Internet del telefono.</string>
-    <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth accoppiato</string>
+    <string name="bluetooth_device_advanced_title">Dispositivi Bluetooth associati</string>
     <string name="bluetooth_device_advanced_online_mode_title">Connetti</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Connessione a dispositivo Bluetooth</string>
     <string name="bluetooth_device_advanced_profile_header_title">Profili</string>
     <string name="bluetooth_device_advanced_rename_device">Rinomina</string>
-    <string name="bluetooth_device_advanced_enable_opp_title">Consenti trasfer. file arrivo</string>
-    <string name="bluetooth_a2dp_profile_summary_connected">Collegato ad audio media</string>
-    <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio telefono</string>
-    <string name="bluetooth_opp_profile_summary_connected">Collegato al server di trasferimento file</string>
+    <string name="bluetooth_device_advanced_enable_opp_title">Consenti ricezione file</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Connesso ad audio multimediale</string>
+    <string name="bluetooth_headset_profile_summary_connected">"Connesso all'audio del telefono"</string>
+    <string name="bluetooth_opp_profile_summary_connected">Connesso al server di trasferimento file</string>
     <string name="bluetooth_map_profile_summary_connected">Connected to map</string>
     <string name="bluetooth_sap_profile_summary_connected">Connected to SIM Access Server</string>
     <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>    
-    <string name="bluetooth_opp_profile_summary_not_connected">Non collegato al server di trasferimento file</string>
-    <string name="bluetooth_hid_profile_summary_connected">Connesso a dispositivo di input</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Non connesso al server di trasferimento file</string>
+    <string name="bluetooth_hid_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Connessione Internet locale condivisa con dispositivo</string>
-    <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio media</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Connessione Internet locale condivisa con il dispositivo</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio multimediale</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usa per trasferimento file</string>
     <string name="bluetooth_sap_profile_summary_use_for">Use for SIM Access</string>
@@ -1441,19 +1440,19 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_dock_settings">Impostazioni dock</string>
     <string name="bluetooth_dock_settings_title">Usa dock per audio</string>
     <string name="bluetooth_dock_settings_headset">Come vivavoce</string>
-    <string name="bluetooth_dock_settings_a2dp">Per musica e audio media</string>
+    <string name="bluetooth_dock_settings_a2dp">Per musica e contenuti multimediali</string>
     <string name="bluetooth_dock_settings_remember">Ricorda impostazioni</string>
-    <string name="wifi_display_settings_title">Wi-Fi display</string>
+    <string name="wifi_display_settings_title">Schermo wireless</string>
 <string name="wifi_display_enable_menu_item">Enable wireless display</string>
-    <string name="wifi_display_no_devices_found">No nearby devices were found.</string>
-    <string name="wifi_display_status_connecting">Connecting</string>
-    <string name="wifi_display_status_connected">Connected</string>
+    <string name="wifi_display_no_devices_found">Nessun display wireless rilevato nelle vicinanze.</string>
+    <string name="wifi_display_status_connecting">Connessione in corso</string>
+    <string name="wifi_display_status_connected">Connesso</string>
     <string name="wifi_display_status_in_use">In use</string>
-    <string name="wifi_display_status_not_available">Unavailable</string>
-    <string name="wifi_display_details">Display settings</string>
-    <string name="wifi_display_options_title">Wireless display options</string>
-    <string name="wifi_display_options_forget">Forget</string>
-    <string name="wifi_display_options_done">Done</string>
+    <string name="wifi_display_status_not_available">Non disponibile</string>
+    <string name="wifi_display_details">Impostazioni display wireless</string>
+    <string name="wifi_display_options_title">Opzioni display wireless</string>
+    <string name="wifi_display_options_forget">Dimentica</string>
+    <string name="wifi_display_options_done">Fine</string>
     <string name="wifi_display_options_name">Name</string>
     <string name="wifi_display_certification_heading">Certification</string>
     <string name="wifi_display_session_info">Session info</string>
@@ -1465,14 +1464,14 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_display_listen_channel">Listen channel</string>
     <string name="wifi_display_operating_channel">Operating channel</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Per visualizzare i dispositivi attiva il Wi-Fi.</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wi-Fi display è disattivato perché il Wi-Fi non è attivo.</string>
-    <string name="wifi_display_search_for_devices">Ricerca schermi</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perchè il Wi-Fi non è attivo.</string>
+    <string name="wifi_display_search_for_devices">Ricerca display</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
-    <string name="wifi_display_paired_devices">Wi-Fi Display accoppiati</string>
+    <string name="wifi_display_paired_devices">Display wireless associati</string>
     <string name="wifi_display_available_devices">Dispositivi disponibili</string>
     <string name="wifi_display_status_available">Disponibile</string>
     <string name="wifi_display_disconnect_title">Disconnettere?</string>
-    <string name="wifi_display_disconnect_text">Questa azione chiuderà la connessione con: %1$s</string>
+    <string name="wifi_display_disconnect_text">Questa azione chiuderà la connessione con %1$s</string>
     <string name="wifi_display_summary_on">Attivato</string>
     <string name="wifi_display_summary_off">Disattivato</string>
     <string name="wifi_display_summary_disabled">Disattivato</string>
@@ -1529,7 +1528,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione automatica (WPS)</string>
-    <string name="wifi_required_info_text">Per completare la configurazione il tablet deve accedere ad una rete Wi-Fi. Dopo la configurazione potrai cambiare da rete dati mobile a Wi-Fi.</string>
+    <string name="wifi_required_info_text">Per completare la configurazione, il tuo tablet deve accedere ad una rete Wi-Fi. Dopo la configurazione potrai cambiare la connessione in Wi-Fi o tramite rete dati mobile.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Impostazione WPS</string>
     <string name="wifi_wps_setup_msg">Inizio WPS…</string>
@@ -1597,9 +1596,9 @@ Consentire a tutte le applicazioni che lo richiedonon?"</string>
     <string name="wifi_cancel">Annulla</string>
     <string name="wifi_skip_anyway">Salta comunque</string>
     <string name="wifi_dont_skip">Non saltare</string>
-    <string name="wifi_skipped_message">"ATTENZIONE: potresti riscontrare costi inaspettati.
+    <string name="wifi_skipped_message">"ATTENZIONE: Potresti ricevere addebiti imprevisti di traffico dati da parte del tuo operatore.
 
-La configurazione del telefono richiede un discreto quantitativo di attivaà di rete."</string>
+La configurazione del telefono può richiedere una significativa attività di rete."</string>
     <string name="wifi_and_mobile_skipped_message">"ATTENZIONE: fino a che non avrai una connessione Internet disponibile il telefono non sarà in grado di verificare se il software è aggiornato."</string>
     <string name="wifi_connect_failed_message">Il telefono non riesce a connettersi a questa rete Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Impostazioni Wi-Fi avanzate</string>
@@ -1740,7 +1739,7 @@ La configurazione del telefono richiede un discreto quantitativo di attivaà di 
     <string name="screensaver_settings_summary_dock">Quando in dock</string>
     <string name="screensaver_settings_summary_off">Disattivato</string>
     <string name="screensaver_settings_disabled_prompt">Per controllare cosa succede quando il telefono è in dock e/o in sospensione, attiva la funzione Daydream.</string>
-    <string name="screensaver_settings_when_to_dream">Daydream</string>
+    <string name="screensaver_settings_when_to_dream">Quando è attivo il daydream</string>
     <string name="screensaver_settings_dream_start">Attiva adesso</string>
     <string name="screensaver_settings_button">Impostazioni</string>
     <string name="automatic_brightness">Luminosità automatica</string>
@@ -1823,7 +1822,7 @@ Attempts Remaining :"</string>
     <string name="internal_memory">Archivio interno</string>
     <string name="sd_memory">Archivio USB</string>
     <string name="memory_available">Disponibile</string>
-    <string name="memory_available_read_only">Disponibile (solo-lettura)</string>
+    <string name="memory_available_read_only">Disponibile (sola-lettura)</string>
     <string name="memory_size">Spazio totale</string>
     <string name="memory_calculating_size">Calcolo...</string>
     <string name="memory_apps_usage">Applicazioni</string>
@@ -1832,7 +1831,7 @@ Attempts Remaining :"</string>
     <string name="memory_dcim_usage">Foto e video</string>
     <string name="memory_music_usage">Audio</string>
     <string name="memory_media_misc_usage">Vari</string>
-    <string name="memory_media_cache_usage">Dati cache</string>
+    <string name="memory_media_cache_usage">Dati in cache</string>
     <string name="sd_eject">Smonta archivio condiviso</string>
     <string name="sd_eject_summary">Smonta archivio USB interno</string>
     <string name="sd_insert_summary">Inserisci arch. USB da montare</string>
@@ -1840,8 +1839,8 @@ Attempts Remaining :"</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">Cancella archivio USB</string>
     <string name="sd_format_summary">"Cancella i dati nell'archivio USB interno, come musica e foto"</string>
-    <string name="memory_clear_cache_title">Cancellare dati cache?</string>
-    <string name="memory_clear_cache_message">Questo cancellerà i dati cache per tutte le app.</string>
+    <string name="memory_clear_cache_title">Cancellare i dati nella cache?</string>
+    <string name="memory_clear_cache_message">Questo cancellerà i dati nella cache per tutte le app.</string>
     <string name="mtp_ptp_mode_summary">Funzione MTP o PTP attiva</string>
     <string name="dlg_confirm_unmount_title">"Smontare l'archivio USB?"</string>
     <string name="dlg_confirm_unmount_text">"Se smonti l'archivio USB, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai l'archivio USB."</string>
@@ -2000,7 +1999,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
     <string name="location_access_title">Accesso alla mia posizione</string>
     <string name="location_access_summary">Permetti alle applicazioni che lo hanno richiesto di rilevare informazioni sulla tua posizione.</string>
-    <string name="location_sources_heading">Posizione risorse</string>
+    <string name="location_sources_heading">Fonti per la localizzazione</string>
     <string name="about_settings">Informazioni sul telefono</string>
     <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
     <string name="legal_information">Informazioni legali</string>
@@ -2349,7 +2348,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_system_title">Sistema</string>
     <string name="accessibility_captioning_title">Captions</string>
     <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
-    <string name="accessibility_screen_magnification_summary">"Quanado questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
 
 Durante l'ingrandimento puoi:
 &lt;li>&lt;ul>Muovere: sposta due o più dita lungo lo schermo.
@@ -2374,7 +2373,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"Aggiorna l'ingrandimento dello schermo nel passaggio tra applicazioni"</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Termina con tasto accensione</string>
     <string name="accessibility_toggle_speak_password_preference_title">Pronuncia la password</string>
-    <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco</string>
+    <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
     <string name="accessibility_menu_item_settings">Impostazioni</string>
     <string name="accessibility_feature_state_on">Attivato</string>
     <string name="accessibility_feature_state_off">Disattivato</string>
@@ -2905,7 +2904,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="vpn_menu_delete">Elimina rete</string>
     <string name="vpn_menu_lockdown">VPN sempre attiva</string>
     <string name="vpn_lockdown_summary">Seleziona un profilo VPN al quale rimanere sempre collegato. Il traffico di rete sarà consentito solo quando collegato a questa VPN.</string>
-    <string name="vpn_lockdown_none">None</string>
+    <string name="vpn_lockdown_none">Nessuna</string>
     <string name="vpn_lockdown_config_error">La VPN sempre attiva richiede un indirizzo IP sia per il server che per il DNS.</string>
     <string name="vpn_no_network">Nessuna connessione di rete. Riprovare più tardi.</string>
     <string name="vpn_missing_cert">Manca un certificato. Modificare il profilo.</string>
@@ -3205,7 +3204,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="home_key">Tasto Home</string>
     <string name="back_key">Tasto indietro</string>
     <string name="screen_key_long_press_timeout">Durata pressione</string>
-    <string name="under_keyguard">Nella lockscreen</string>
+    <string name="under_keyguard">Nella schermata di blocco</string>
     <string name="enable_snapshot_screenlock">Long-press Indietro per foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita tasto Accensione</string>
     <string name="trackball_wake_title">Trackball wake</string>
