@@ -57,7 +57,7 @@
         <item quantity="one">Stella rimossa da %1$d conversazione.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">%1$d silenzioze.</item>
+        <item quantity="other">%1$d silenziose.</item>
         <item quantity="one">%1$d silenziosa.</item>
     </plurals>
     <plurals name="conversation_spammed">
