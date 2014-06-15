@@ -2440,9 +2440,6 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
     <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti.\u0090"</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
-    <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per proseguire con la configurazione.
-
-Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
