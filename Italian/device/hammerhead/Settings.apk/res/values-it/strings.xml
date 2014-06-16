@@ -2275,7 +2275,7 @@ Puoi aggiungere una parola toccando il pulsante Aggiungi (+)."</string>
     <string name="bugreport_in_power_summary">"Includi nel menu batteria l'opzione per inviare rapporti di errore"</string>
     <string name="keep_screen_on">Rimani attivo</string>
     <string name="keep_screen_on_summary">Lo schermo non va mai in stand-by se sotto carica</string>
-    <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
+    <string name="bt_hci_snoop_log">Attiva log dello snoop HCI su Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
     <string name="bt_trace_log">Enable Bluetooth Trace log</string>
     <string name="bt_trace_log_summary">Enable Bluetooth trace log</string>
@@ -3496,19 +3496,19 @@ prova in questo modo:
     <string name="bugreport_tool_log_toast">Log salvato in %s</string>
     <string name="wifi_tether_setting_title">Impostazioni base tethering</string>
     <string name="audio_profile_settings_title">Profili audio</string>
-    <string name="enable_wifi_display">Attiva Wi-Fi display</string>
+    <string name="enable_wifi_display">Attiva schermo wireless</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">Centro MiCredit</string>
     <string name="wifi_auto_connect">Connessione automatico</string>
-    <string name="select_ssid_type_title">Seleziona SSID</string>
+    <string name="select_ssid_type_title">Seleziona tipologia di SSID</string>
     <string name="gsm_to_wifi_connect_type_title">Mobile->Wi-Fi</string>
-    <string name="wifi_priority_settings_label">Impostazioni di priorità</string>
+    <string name="wifi_priority_settings_label">Impostazioni priorità</string>
     <string name="wifi_priority_type_title">Imposta manualmente priorità AP</string>
     <string name="wifi_priority_type_summary">Consenti di impostare la priorità manualmente per ogni access point</string>
     <string name="wifi_priority_settings_title">Impostazioni priorità AP</string>
     <string name="wifi_priority_settings_summary">Premi pe rimpostare la priorità di ogni access point</string>
-    <string name="wifi_priority_changed" formatted="false">Precedente priorità value=%s,nuova value=%s</string>
-    <string name="wifi_configured_ap_list">Access poin precedenti</string>
+    <string name="wifi_priority_changed" formatted="false">Precedente priorità = %s, nuova = %s</string>
+    <string name="wifi_configured_ap_list">Access point precedenti</string>
     <string name="wifi_priority_label">Priorità</string>
     <string name="wifi_available_title">Connetti a Wi-Fi</string>
     <string name="msg_wlan_signal_found">Rilevato AP Wi-Fi %s, vuoi utilizzare questa rete Wi-Fi? Utilizzando questa rete verrà parzialmente interrotto il servizio dati.</string>
@@ -3562,7 +3562,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="hdmi_3d_help_title">Informazioni sul supporto HDMI 3D stereoscopico</string>
     <string name="power_mode_balanced_title">Attiva alimentazione bilanciata</string>
     <string name="usb_host_mode_text">Attiva modalità host USB</string>
-    <string name="usb_host_mode_subtext">Per utilizzare controller o altre periferiche sulla porta USB, potrebbe incidere sul consumo di batteria</string>
+    <string name="usb_host_mode_subtext">"L'uso di controller o altre periferiche sulla porta USB potrebbe incidere sul consumo di batteria"</string>
     <string name="title_color_calibration">Preselezione calibrazione colore</string>
     <string name="dialog_title_color_calibration">Preselezione calibrazione colore</string>
     <string name="color_calibration_srgb">sRGB</string>
@@ -3572,7 +3572,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="hdmi_color_calibration_none">Nessuna</string>
     <string name="hdmi_3d_display_enable_title">Attiva display 3D</string>
-    <string name="hdmi_3d_display_enable_summary">Attiva supporto giochi 3D</string>
+    <string name="hdmi_3d_display_enable_summary">Attivare per supportare i giochi 3D</string>
     <string name="noise_suppression">Riduzione rumore</string>
     <string name="phone_call_noise_suppression">Riduzione rumore telefono</string>
     <string name="lock_settings_common_title">Impostazioni blocco</string>

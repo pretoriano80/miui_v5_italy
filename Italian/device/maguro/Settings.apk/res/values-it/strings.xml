@@ -2409,7 +2409,7 @@ Queste impostazioni sono valide per tutti gli utenti di questo telefono."</strin
     <string name="dolby_roomsize_summary">Surround sound settings only available while using headset</string>
     <string name="dolby_roomsize_title">Surround：</string>
     <string name="enable_opengl_traces_title">Abilita tracce OpenGL</string>
-    <string name="enable_wifi_display">Abilità visualizzazione Wifi Display</string>
+    <string name="enable_wifi_display">Attiva schermo wireless</string>
     <string name="eq_auto">Personalizza</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Classica</string>
