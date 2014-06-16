@@ -2449,10 +2449,6 @@ Queste impostazioni sono valide per tutti gli utenti di questo telefono."</strin
     <string name="global_change_warning">Questa impostazione avrà effetto su tutti gli utenti del telefono</string>
     <string name="global_font_change_title">Cambia dimensione carattere</string>
     <string name="global_locale_change_title">Cambia lingua</string>
-    <string name="help_url_dreams" />
-    <string name="help_url_location_access" />
-    <string name="help_url_security" />
-    <string name="help_url_users" />
     <string name="install_text">Installa</string>
     <string name="location_access_summary">Permetti alle applicazioni che lo hanno richiesto di rilevare informazioni sulla tua posizione.</string>
     <string name="location_access_title">Accesso alla mia posizione</string>

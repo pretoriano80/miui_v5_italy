@@ -2778,7 +2778,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="user_profile_confirm_remove_title">Rimuovere profilo?</string>
     <string name="user_confirm_remove_self_message">Perderai il tuo spazio ed i tuoi dati su questo telefono. Questa azione è irreversibile.</string>
     <string name="user_confirm_remove_message">Lo spazio e i dati di questo utente scompariranno dal telefono. Questa azione è irreversibile.</string>
-    <string name="user_profile_confirm_remove_message">o spazio e i dati di questo profilo scompariranno dal telefono. Questa azione è irreversibile.</string>
+    <string name="user_profile_confirm_remove_message">Lo spazio e i dati di questo profilo scompariranno dal telefono. Questa azione è irreversibile.</string>
     <string name="user_adding_new_user">Creazione nuovo utente…</string>
     <string name="user_delete_user_description">Elimina utente</string>
     <string name="user_delete_button">Elimina</string>
