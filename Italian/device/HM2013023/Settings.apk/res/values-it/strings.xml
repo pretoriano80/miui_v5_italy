@@ -3754,7 +3754,7 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="wifi_ap_bandwidth_megabyteShort">M/s</string>
     <string name="wifi_ap_bandwidth_KbyteShort">KB/s</string>
     <string name="cpu_dtm_title">Modalità risparmio alimentazione CPU</string>
-    <string name="cpu_dtm_summary">Limita la velocità massimo della CPU per aumentare l'autonomia della batteria e ridurre la temperatura del dispositivo."</string>
+    <string name="cpu_dtm_summary">"Limita la velocità massimo della CPU per aumentare l'autonomia della batteria e ridurre la temperatura del dispositivo."</string>
     <string name="wifi_advanced_ipv4_address_title">Indirizzo IPv4</string>
     <string name="wifi_advanced_ipv6_address_title">Indirizzo IPv6</string>
     <string name="wifi_ipv4_address">Indirizzo IPv4</string>
@@ -3815,7 +3815,7 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="incomming_command_summary_format">Potresti dire %1$s o %2$s per rispondere o rifiutare le chiamate in arrivo.</string>
     <string name="alarm_command_summary_format">Puoi dire %1$s o %2$s per controllare la sveglia.</string>
     <string name="camera_command_summary_format">Puoi dire %1$s o %2$s per scattare.</string>
-    <string name="music_command_summary_format">Puoi dire %1$s e %2$s per controllare l'esecuzione della musica.</string>
+    <string name="music_command_summary_format">"Puoi dire %1$s e %2$s per controllare l'esecuzione della musica."</string>
     <string name="lock_screen_notifications_title">Notifiche schermata di blocco</string>
     <string name="lock_screen_notifications_summary">Mostra notifiche sulla schermata di blocco</string>
     <string name="lock_screen_style_title">Stile schermata di blocco</string>
