@@ -2602,7 +2602,7 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="window_animation_scale_title">Scala animazione finestra</string>
     <string name="transition_animation_scale_title">Scala animazione transizione</string>
     <string name="animator_duration_scale_title">Durata animazione</string>
-    <string name="overlay_display_devices_title">Simulate secondary displays</string>
+    <string name="overlay_display_devices_title">Simula display secondario</string>
     <string name="debug_applications_category">Applicazioni</string>
     <string name="immediately_destroy_activities">Non conservare attività</string>
     <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
