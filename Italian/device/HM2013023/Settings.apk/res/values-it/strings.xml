@@ -3799,5 +3799,5 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="data_connection_dialog_title">Cambia connessione dati</string>
     <string name="wifi_failover_gprs_content">Wi-Fi non disponibile, desideri provare a collegarti alla rete mobile ?</string>
     <string name="change_data_conn_title">Cambia connessione dati</string>
-    <string name="change_data_conn_message">%1$s non è disponibile ora, desideri che la connessione dati prefinita sia %2$s?/string>
+    <string name="change_data_conn_message">%1$s non è disponibile ora, desideri che la connessione dati prefinita sia %2$s?</string>
 </resources>
