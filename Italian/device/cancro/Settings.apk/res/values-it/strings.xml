@@ -2484,9 +2484,6 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
     <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti.\u0090"</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
-    <string name="wifi_setup_description_connected">"Tocca \"<b>Avanti</b>\" per proseguire con la configurazione.
-
-Tocca \"<b>Indietro</b>\" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
@@ -2755,7 +2752,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="user_profile_confirm_remove_title">Rimuovere profilo?</string>
     <string name="user_confirm_remove_self_message">Perderai il tuo spazio ed i tuoi dati su questo telefono. Questa azione è irreversibile.</string>
     <string name="user_confirm_remove_message">Lo spazio e i dati di questo utente scompariranno dal telefono. Questa azione è irreversibile.</string>
-    <string name="user_profile_confirm_remove_message">o spazio e i dati di questo profilo scompariranno dal telefono. Questa azione è irreversibile.</string>
+    <string name="user_profile_confirm_remove_message">Lo spazio e i dati di questo profilo scompariranno dal telefono. Questa azione è irreversibile.</string>
     <string name="user_adding_new_user">Creazione nuovo utente…</string>
     <string name="user_delete_user_description">Elimina utente</string>
     <string name="user_delete_button">Elimina</string>
