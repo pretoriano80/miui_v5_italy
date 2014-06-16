@@ -2760,8 +2760,8 @@ Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="enable_opengl_traces_title">Attiva traccee OpenGL</string>
     <string name="debug_layout">Mostra bordi layout</string>
     <string name="debug_layout_summary">Mostra bordi, margini, etc.</string>
-    <string name="force_rtl_layout_all_locales">Forza direzione di layout RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Forza lo schermo di layout RTL per tutte le versioni locali</string>    
+    <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
+    <string name="force_rtl_layout_all_locales_summary">Forza il layout RTL per lo schermo per tutte le lingue</string>    
     <string name="show_cpu_usage">Mostra utilizzo CPU</string>
     <string name="show_cpu_usage_summary">"Overlay schermo che mostra l'uso corrente della CPU"</string>
     <string name="force_hw_ui">Forza rendering GPU</string>
