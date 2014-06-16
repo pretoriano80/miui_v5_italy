@@ -17,7 +17,7 @@
     <string name="button_continue">Continua</string>
     <string name="backup_finished">Backup completato</string>
     <string name="backup_report">Rapporto Backup</string>
-    <string name="backup_hint">Non spegnere il telefono durante il backup</string>
+    <string name="backup_hint">Non spegnere il telefono</string>
     <string name="menu_patch_delete">Elimina backup</string>
     <string name="delete">Elimina</string>
     <string name="cancel">Annulla</string>
