@@ -2508,7 +2508,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
     <string name="wifi_setup_description_connected">"Tocca \"<b>Avanti</b>\" per proseguire con la configurazione.
 
-Tocca \"<b>Indietro</b>\" per collegarti ad un'altra rete Wi-Fi."</string>
+Tocca \"<b>Indietro</b>\" per collegarti ad un\'altra rete Wi-Fi."</string>
     <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
