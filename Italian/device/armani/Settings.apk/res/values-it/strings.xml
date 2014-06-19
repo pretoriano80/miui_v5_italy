@@ -39,20 +39,20 @@
     <string name="optimize_apk_header_left">Pacchetti installazione: %d</string>
     <string name="optimize_large_file_header_left">Grandi file: %d</string>
     <string name="optimize_residual_header_left">Residui: %d</string>
-    <string name="optimize_installed_apps_header_left">App scaricate: %d</string>
+    <string name="optimize_installed_apps_header_left">Download app:%d</string>
     <string name="optimize_cache_list_empty_content">Nessun file cache.</string>
     <string name="optimize_ad_list_empty_content">Nessun file pubblicitario.</string>
     <string name="optimize_apk_list_empty_content">Nessun pacchetto di installazione.</string>
     <string name="optimize_residual_list_empty_content">Nessun file residuo.</string>
     <string name="optimize_tips_title">Aiuto</string>
-    <string name="optimize_tips_ad_title">File ad：</string>
+    <string name="optimize_tips_ad_title">Pubblicità：</string>
     <string name="optimize_tips_ad_content">Immagini, testo, ed altri dati relativi a pubblicità di provider e negozi di terze parti.</string>
     <string name="optimize_tips_apk_title">Pacchetti：</string>
     <string name="optimize_tips_apk_content">"Utilizzati per l'installazione di applicazioni sul tuo dispositivo, ma non fanno altro che occupare spazio una volta che hai installato l'applicazione."</string>
     <string name="optimize_tips_cache_title">Cache：</string>
     <string name="optimize_tips_cache_content">Generati dai processi che li richiedono solo temporaneamente (ad esempio le anteprime delle foto).</string>
     <string name="optimize_tips_residual_title">Residui：</string>
-    <string name="optimize_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui."</string>
+    <string name="optimize_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui.</string>
     <string name="quick_scan_apk_list_item_version_hit">Versione: %s</string>
     <string name="apk_status_uninstalled">Non installato</string>
     <string name="apk_status_installed_old">Vecchia versione</string>
@@ -79,7 +79,7 @@
     <string name="deep_clean_tips_residual_title">Residui：</string>
     <string name="deep_clean_tips_residual_content">File (ad esempio video, sfondi, musica, etc.) che sono stati scaricati sulla scheda SD del tuo dispositivo da applicazioni che sono state disinstallate. Dato che alcuni di questi file potrebbero essere in uso, consigliamo di utilizzare la funzione Avanzata quando esegui la pulizia dei file residui.</string>
     <string name="deep_clean_tips_large_file_title">Grandi file：</string>
-    <string name="deep_clean_tips_large_file_content">"File di grandi dimensioni (ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
+    <string name="deep_clean_tips_large_file_content">File di grandi dimensioni (ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
     <string name="toast_qucik_scan_list_empty">Sembra tutto ok, pulizia non necessaria!</string>
     <string name="quick_scan_list_loading_hits">Scansione...</string>
     <string name="app_uninstall_residual">Cancellare i file residui delle installazioni?</string>
@@ -115,7 +115,7 @@
     <string name="pref_title_manual_check_cleanup_db_update">Aggiorna adesso</string>
     <string name="pref_category_title_garbage_cleanup_check">Impostazioni di pulizia</string>
     <string name="pref_title_garbage_cleanup_check_time">Avviso cestino</string>
-    <string name="pref_summary_garbage_cleanup_check_time">Notifica quando il cestino raggiunge una certa dimensione</string>
+    <string name="pref_summary_garbage_cleanup_check_size">Notifica quando il cestino raggiunge una certa dimensione</string>
     <string name="pref_title_garbage_cleanup_check_size">Limite avviso cestino</string>
     <string name="pref_title_expand_cache_group">Espandi i gruppi cache</string>
     <string name="pref_summary_expand_cache_group">I gruppi nella lista cache verranno espansi in modo predefinito</string>
@@ -200,7 +200,7 @@
     <string name="garbage_white_list_empty_content">Lista di esclusione vuota</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
     <string name="dialog_title_load_cleanup_engine_error">Errore</string>
-    <string name="dialog_msg_load_cleanup_engine_error">Motore pulizia non funzionante o errore nei pacchetti analizzati.</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Si è verificato un errore nel processo di pulizia , riprovare.</string>
     <string name="opt_clean_garbage">%d Mb cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
     <string name="opt_freed_ram">Liberati %dMb di memoria</string>
@@ -213,7 +213,7 @@
     <string name="opt_score">83</string>
     <string name="opt_done_desc">Completato</string>
     <string name="opt_cancel_desc">Annulla</string>
-    <string name="opt_resume_desc">Continue</string>
+    <string name="opt_resume_desc">Continua</string>
     <string name="opt_state_running">Ottimizzazione...</string>
     <string name="opt_state_pause">Pausa</string>
     <string name="opt_state_done">Completato</string>
@@ -283,8 +283,8 @@
     <string name="power_mode_screen_brightness_manual">Manuale: %1$d%%</string>
     <string name="power_mode_screen_brightness_automatic">Automatica: %1$d%%</string>
     <string name="power_mode_sleep">Sospensione</string>
-    <string name="power_mode_sleep_in_seconds">"Dopo %1$d secondo(i) di inattività"</string>
-    <string name="power_mode_sleep_in_minutes">"Dopo %1$d minuto(i) di inattività"</string>
+    <string name="power_mode_sleep_in_seconds">Dopo %1$d secondo(i) di inattività</string>
+    <string name="power_mode_sleep_in_minutes">Dopo %1$d minuto(i) di inattività</string>
     <string name="power_mode_sleep_never">Mai</string>
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_mode_internet">2G/3G</string>
@@ -319,7 +319,7 @@
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_delete_dialog_title">Elimina profilo personalizzato</string>
     <string name="power_dialog_delete_dialog_delete">Eliminare profilo personalizzato e i dati delle relative impostazioni? Questa azione è irreversibile!</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">"Impossibile eliminare: stai utilizzando questo profilo."</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">Impossibile eliminare: stai utilizzando questo profilo.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Impossibile eliminare: il tuo dispositivo è impostato per passare automaticamente a questo profilo quando la batteria è in esaurimento,
  Devi modificare le impostazioni prima di eliminare questo profilo."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Impossibile eliminare: il tuo dispositivo è programmato per passare a questo profilo, 
@@ -500,7 +500,9 @@
     <string name="perm_su_desc1">Gestisci Permessi ROOT</string>
     <string name="perm_su_disabled">Permessi di ROOT disabilitati</string>
     <string name="perm_su_disabled_in_stable">Permessi di ROOT non disponibili su MIUI Stabile</string>
-    <string name="perm_su_disabled_in_stable_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema. Passa alla versione MIUI Developer per abilitare i permessi di ROOT."</string>
+    <string name="perm_su_disabled_in_stable_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema.
+
+ Passa alla versione MIUI Developer per abilitare i permessi di ROOT."</string>
     <string name="perm_su_disabled_desc">"Concedere permessi di ROOT ad applicazioni di terze parti può causare instabilità di sistema, perdita di dati personali e danni all'hardware o di sistema. Accertati di conoscere il funzionamento dei permessi di ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Scarica MIUI</string>
     <string name="perm_hips_switch">Monitor Permessi</string>
@@ -520,8 +522,8 @@
     <string name="perm_log_clear_title">Cancella log</string>
     <string name="perm_log_clear_content">Tutti i rapporti verranno cancellati. Sicuro di voler procedere ?</string>
     <string name="perm_privacy_count">Consentiti: %1$d Negati: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d permessi</string>
     <string name="perm_privacy_app_trust_summary">Fidata</string>
+    <string name="perm_privacy_app_count">%1$d permessi</string>
     <string name="perm_privacy_app_trust">Mi fido di questa applicazione</string>
     <string name="perm_privacy_app_trust_summary_off">MIUI controllerà questa applicazione</string>
     <string name="perm_privacy_app_trust_summary_on">MIUI non controllerà questa applicazione</string>
@@ -540,12 +542,12 @@
     <string name="perm_sysopt_boost_auto_start_summary">"Consenti l'avvio automatico"</string>
     <string name="perm_su_enable_dialog">%1$s sta cercando di ottenere i permessi di ROOT che sono disabilitati per garantire la sicurezza del sistema. Se vuoi abilitarli, vai nelle impostazioni della Gestione Permissi.</string>
     <string name="perm_notice">Nota</string>
-    <string name="trust_switch_dialog_msg">"MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione. Rendere attendibile questa applicazione ?"</string>
+    <string name="trust_switch_dialog_msg">MIUI non chiederà conferma per nessuna operazione di privacy o sicurezza per questa applicazione. Rendere attendibile questa applicazione ?</string>
     <string name="auto_startup_dialog_msg">"MIUI consentirà a questa applicazione di avviarsi automaticamente senza il consenso dell'utente. Questo può comportare un maggiore consumo della batteria e del traffico dati.
 Consentire l'avvio automatico?"</string>
     <string name="auto_start_summary">"%1$d app autorizzate all'avvio automatico"</string>
-    <string name="auto_start_title">Gestione avvio autom.</string>
-    <string name="perm_app_enable">Richiesti permessi monitor</string>
+    <string name="auto_start_title">Gestione avvio automatico</string>
+    <string name="perm_app_enable">Monitor richieste di permessi</string>
     <string name="perm_app_header">Gestione permessi</string>
     <string name="perm_app_title">Gestione permessi applicazioni</string>
     <string name="perm_log_empty">Registro vuoto</string>
@@ -563,7 +565,7 @@ Consentire l'avvio automatico?"</string>
     <string name="power_used_hours">ore</string>
     <string name="power_used_mins_test">23</string>
     <string name="power_used_mins">min</string>
-    <string name="power_battery_history_days">%1$d giorni\u0020%2$d ore\u0020%3$d min</string>
+    <string name="power_battery_history_days">%1$d giorni %2$d ore %3$d min</string>
     <string name="power_battery_history_hours">%1$d ore %2$d min</string>
     <string name="power_battery_history_minutes">%1$d min</string>
     <string name="power_battery_history_zero_minutes">0 min</string>
@@ -575,7 +577,7 @@ Consentire l'avvio automatico?"</string>
     <string name="protection_category_dangerous_title">A rischio (%d)</string>
     <string name="protection_category_recommend_title">Ottimizzazione consigliata (%d)</string>
     <string name="protection_category_security_title">Cancella (%d)</string>
-    <string name="title_virus_no">Virus </string>
+    <string name="title_virus_no">Virus</string>
     <string name="title_virus_yes">Nessun virus rilevato</string>
     <string name="summary_virus">%2$d virus rilevati</string>
     <string name="title_permission_no">Monitor permessi disattivato</string>
@@ -828,7 +830,7 @@ Consentire l'avvio automatico?"</string>
     <string name="log_count">(%d)</string>
     <string name="new_bw_list_button">Aggiungi contatto</string>
     <string name="mark_number_dialog_maintitle">Blocca e riporta numero</string>
-    <string name="mark_number_dialog_subtitle">Sviluppato in collaborazione con Sogou </string>
+    <string name="mark_number_dialog_subtitle">Sviluppato in collaborazione con Sogou</string>
     <string name="custom_mark_category">Personalizza</string>
     <string name="smart_antispam">Identifica numeri sconosciuti</string>
     <string name="turn_on_smart_antispam_hint">Identifica chiamate indesiderate</string>
@@ -870,8 +872,8 @@ Consentire l'avvio automatico?"</string>
     <string name="cancel">Annulla</string>
     <string name="mem_lock">Blocca</string>
     <string name="mem_unlock">Sblocca</string>
-    <string name="last_check_date_today">Ultima scansione: oggi\u0020</string>
-    <string name="last_check_date_yesterday">Ultima scansione: ieri\u0020</string>
+    <string name="last_check_date_today">"Ultima scansione: oggi "</string>
+    <string name="last_check_date_yesterday">"Ultima scansione: ieri "</string>
     <string name="last_check_never_checked">Scansione consigliata (prima volta)</string>
     <string name="last_check_canceled">Scansione consigliata: la scansione precedente è stata interrotta prima della fine</string>
     <string name="last_checked_default">"Scansione consigliata: l'ultima scansione è di %s fa"</string>
@@ -927,7 +929,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_start">Scansione virus</string>
     <string name="virus_scan_support">Powered by Tencent</string>
     <string name="virus_scan_last_time">Ultima scansione: %s</string>
-    <string name="virus_scan_safe">Pulito</string>
+    <string name="virus_scan_safe">Cancella</string>
     <string name="virus_scan_dangerous">Rischio</string>
     <string name="virus_scan_find">%d rischi rilevati</string>
     <string name="virus_scan_parpare">Avvio operazione...</string>
@@ -951,8 +953,8 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_update_now">Aggiorna adesso</string>
     <string name="virus_scan_use_cloud">Definizioni virus cloud</string>
     <string name="virus_scan_can_use_wifi">Usa definizioni online per la scansione</string>
-    <string name="virus_scan_monitoring">Installa il monitor</string>
-    <string name="virus_scan_judge_is_virus">"Controlla le app per i virus prima dell'installazione"</string>
+    <string name="virus_scan_monitoring">Verifica installazioni</string>
+    <string name="virus_scan_judge_is_virus">"Controlla le applicazioni per i virus prima dell'installazione"</string>
     <string name="virus_scan_viruslib_version">Versione definizioni virus: %s</string>
     <string name="virus_scan_settings">Impostazioni</string>
     <string name="virus_scanner_lib_update_success">Le definizioni dei virus sono state aggiornate automaticamente. ^_^</string>
@@ -966,7 +968,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_others_title">Impostazioni collegate</string>
     <string name="virus_scan_risk_list_empty">Nessun rischio rilevato.</string>
     <string name="virus_scan_virus_list_empty">Nessun virus rilevato.</string>
-    <string name="virus_scan_description">"Questa applicazione rappresenta un rischio elevato per la sicurezza del tuo telefono."</string>
+    <string name="virus_scan_description">Questa applicazione rappresenta un rischio elevato per la sicurezza del tuo telefono.</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_Cancel">Annulla</string>
     <string name="virus_scan_app_is_stop_scan">Interrompere scansione?</string>
@@ -975,9 +977,9 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_package_label_unknown">sconosciuto</string>
     <string name="virus_scan_not_found_virus">nessun virus rilevato</string>
     <string name="virus_scan_not_found_risk">nessun rischio rilevato</string>
-    <string name="virus_scan_last_scan_today">Ultima scansione: oggi\u0020</string>
-    <string name="virus_scan_last_scan_yesterday">Ultima scansione: ieri\u0020</string>
-    <string name="virus_scan_last_scan_date">"L'ultima scansione risale a %d giorni fa</string>
+    <string name="virus_scan_last_scan_today">"Ultima scansione: oggi "</string>
+    <string name="virus_scan_last_scan_yesterday">"Ultima scansione: ieri "</string>
+    <string name="virus_scan_last_scan_date">"L'ultima scansione risale a %d giorni fa"</string>
     <string name="virus_scan_unknown_virus_name">Sconosciuto</string>
     <string name="virus_scan_is_cloud_scanning">Scansione MiCloud...</string>
     <string name="virus_scan_clean_dialog_message">Pulizia in corso...</string>
@@ -992,8 +994,8 @@ Consentire l'avvio automatico?"</string>
     <string name="allow">Consenti</string>
     <string name="deny">Nega</string>
     <string name="device_info_default">Sconosciuto</string>
-    <string name="show_dev_on">Adesso sei uno sviluppatore!</string>
-    <string name="show_dev_already">NOn serve, sei già uno sviluppatore.</string>
+    <string name="show_dev_on">Ora sei uno sviluppatore!</string>
+    <string name="show_dev_already">"Non c'è bisogno, sei già uno sviluppatore."</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
     <string name="header_category_device">DISPOSITIVO</string>
     <string name="header_category_personal">PERSONALE</string>
@@ -1063,7 +1065,7 @@ Consentire l'avvio automatico?"</string>
     <string name="battery_info_power_unplugged">Non collegato</string>
     <string name="battery_info_power_ac">CA</string>
     <string name="battery_info_power_usb">USB</string>
-    <string name="battery_info_power_wireless">wireless</string>
+    <string name="battery_info_power_wireless">Wireless</string>
     <string name="battery_info_power_ac_usb">CA+USB</string>
     <string name="battery_info_power_unknown">Sconosciuto</string>
     <string name="battery_info_health_unknown">Sconosciuto</string>
@@ -1226,8 +1228,8 @@ Consentire l'avvio automatico?"</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_reenable_message">Connettività dati persa: hai lasciato la rete del tuo operatore con il roaming dati disattivato.</string>
     <string name="roaming_turn_it_on_button">Attiva</string>
-    <string name="roaming_warning">"Consentire il roaming dati? I costi potrebbero essere elevati.</string>
-    <string name="roaming_warning_multiuser">"Quando permetti il roaming dati potresti avere degli addebiti consistenti!
+    <string name="roaming_warning">Consentire il roaming dati? I costi potrebbero essere elevati.</string>
+    <string name="roaming_warning_multiuser">"Quando permetti il roaming dati i costi potrebbero essere elevati!
 
 Questa impostazione avrà effetto su tutti gli utenti del telefono."</string>
     <string name="roaming_reenable_title">Attenzione</string>
@@ -1262,8 +1264,6 @@ Questa impostazione avrà effetto su tutti gli utenti del telefono."</string>
     <string name="owner_info_settings_edit_text_hint">Digita il testo da visualizzare su lockscreen</string>
     <string name="show_user_info_on_lockscreen_label">Mostra informazioni utente nella schermata di blocco</string>
     <string name="user_info_settings_title">Informazioni utente</string>
-    <string name="show_profile_info_on_lockscreen_label">Mostra info profilo su lockscreen</string>
-    <string name="profile_info_settings_title">Profile info</string>
     <string name="location_settings_title">Servizi di localizzazione</string>
     <string name="security_settings_title">Sicurezza</string>
     <string name="security_settings_summary">Imposta La mia posizione, sblocco schermo, blocco SIM, blocco cred.</string>
@@ -1371,7 +1371,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_error_title" />
     <string name="bluetooth_pairing_error_message">Impossibile associarsi a %1$s.</string>
     <string name="bluetooth_pairing_pin_error_message">Associazione con %1$s non riuscita. PIN o password errati.</string>
-    <string name="bluetooth_pairing_device_down_error_message">Impossibile comunicare con %1$s.</string>
+    <string name="bluetooth_pairing_device_down_error_message">"Impossibile comunicare con %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Associazione rifiutata da %1$s.</string>
     <string name="bluetooth_connecting_error_message">Errore durante la connessione a %1$s.</string>
     <string name="bluetooth_preference_scan_title">Ricerca dispositivi</string>
@@ -1383,9 +1383,9 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_device_context_connect">Connetti</string>
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
-    <string name="bluetooth_device_context_unpair">Dissocia e disconnetti</string>
+    <string name="bluetooth_device_context_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
-    <string name="bluetooth_menu_advanced">Avanzate</string>
+    <string name="bluetooth_menu_advanced">Avanzato</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
     <string name="bluetooth_empty_list_bluetooth_off">Attiva il Bluetooth per vedere i dispositivi disponibili</string>
     <string name="bluetooth_connect_specific_profiles_title">Connetti a...</string>
@@ -1398,11 +1398,11 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_disconnect_a2dp_profile">"%1$s verrà disconnesso dall'audio multimediale."</string>
     <string name="bluetooth_disconnect_headset_profile">"%1$s verrà disconnesso dall'audio vivavoce."</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s verrà disconnesso dal dispositivo di input.</string>
-    <string name="bluetooth_disconnect_pan_user_profile">"L'accesso Internet tramite %1$s verrà disconnesso."</string>
+    <string name="bluetooth_disconnect_pan_user_profile">"L'accesso Internet tramite %1$s sarà disconnesso."</string>
     <string name="bluetooth_disconnect_pan_nap_profile">%1$s verrà disconnesso dalla condivisione della connessione Internet del telefono.</string>
     <string name="bluetooth_device_advanced_title">Dispositivi Bluetooth associati</string>
     <string name="bluetooth_device_advanced_online_mode_title">Connetti</string>
-    <string name="bluetooth_device_advanced_online_mode_summary">Connessione a dispositivo Bluetooth</string>
+    <string name="bluetooth_device_advanced_online_mode_summary">Connetti al dispositivo Bluetooth</string>
     <string name="bluetooth_device_advanced_profile_header_title">Profili</string>
     <string name="bluetooth_device_advanced_rename_device">Rinomina</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Consenti ricezione file</string>
@@ -1411,7 +1411,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_opp_profile_summary_connected">Connesso al server di trasferimento file</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Non connesso al server di trasferimento file</string>
     <string name="bluetooth_hid_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Connessione Internet locale condivisa con il dispositivo</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio multimediale</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
@@ -1425,7 +1425,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_dock_settings_remember">Ricorda impostazioni</string>
     <string name="wifi_display_settings_title">Schermo wireless</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Per visualizzare i dispositivi attiva il Wi-Fi.</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perché il Wi-Fi non è attivo.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perchè il Wi-Fi non è attivo.</string>
     <string name="wifi_display_search_for_devices">Ricerca display</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
     <string name="wifi_display_no_devices_found">Nessun display wireless rilevato nelle vicinanze.</string>
@@ -1443,7 +1443,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_display_options_name">Nome</string>
     <string name="wifi_display_summary_on">Attivato</string>
     <string name="wifi_display_summary_off">Disattivato</string>
-    <string name="wifi_display_summary_disabled">Disattivato</string>
+    <string name="wifi_display_summary_disabled">Disabled</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il telefono tocca un altro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -1469,21 +1469,14 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_notify_open_networks">Notifica rete</string>
     <string name="wifi_notify_open_networks_summary">Avvisa quando è disponibile una rete aperta</string>
     <string name="wifi_poor_network_detection">Evita connessioni deboli</string>
-    <string name="wifi_poor_network_detection_summary">Non utilizzare una rete Wi-Fi se non consente una buona connessione Internet</string>
-    <string name="wifi_scan_always_available">Scansione sempre disponibile</string>
-    <string name="wifi_scan_always_available_summary">Permetti che i servizi di localizzazione di Google ed altre applicazioni effettuino scansione per rilevare reti anche il Wi-Fi è disattivato</string>
-    <string name="wifi_install_credentials">Installa certificati</string>
-    <string name="wifi_scan_notify_text_location_on">Per migliorare la precisione della localizzazione e per altri motivi, Google ed altre applicazioni potrebbero effettuare la ricerca di reti nelle vicinanze, anche quando il Wi-Fi è disattivato. Se non vuoi che succeda vai in Avanzate > Scansione sempre disponibile.</string>
-    <string name="wifi_scan_notify_text_location_off">Le applicazioni potrebbero effettuare la ricerca di reti nelle vicinanze, anche quando il Wi-Fi è disattivato. Se non vuoi che succeda vai in Avanzate > Scansione sempre disponibile.</string>
-    <string name="wifi_scan_notify_remember_choice">Non mostrare più</string>
+    <string name="wifi_poor_network_detection_summary">Non utilizzare una rete Wi-Fi a meno che non abbia una buona connessione a Internet</string>
     <string name="wifi_setting_sleep_policy_title">Mantieni Wi-Fi durante sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
-    <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">Riduci il consumo di batteria quando la connessione Wi-Fi è attiva</string>
+    <string name="wifi_suspend_optimizations">WLAN optimization</string>
+    <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
     <string name="wifi_add_network">Aggiungi rete</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante WPS</string>
-    <string name="wifi_menu_more_options">Altre opzioni</string>
     <string name="wifi_menu_wps_pin">Inserisci pin WPS</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">Scansione</string>
@@ -1493,7 +1486,6 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_menu_modify">Modifica rete</string>
     <string name="wifi_empty_list_wifi_off">Per conoscere le reti disponibili, attiva il Wi-Fi.</string>
     <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi…</string>
-    <string name="wifi_empty_list_user_restricted">Non hai i permessi per modificare la rete Wi-Fi!</string>
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione automatica (WPS)</string>
@@ -1512,7 +1504,6 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_wps_failed_auth">Autenticazione fallita. Si prega di riprovare più tardi</string>
     <string name="wifi_wps_failed_overlap">"E' stata rilavata un'altra sessione WPS. Si prega di riprovare tra qualche minuto"</string>
     <string name="wifi_ssid">SSID rete</string>
-    <string name="wifi_ssid_hint">Input SSID</string>
     <string name="wifi_security">Sicurezza</string>
     <string name="wifi_signal">Intensità segnale</string>
     <string name="wifi_status">Stato</string>
@@ -1676,7 +1667,7 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="screen_timeout_summary">Dopo %1$s di inattività</string>
     <string name="wallpaper_settings_title">Sfondo</string>
     <string name="wallpaper_settings_fragment_title">Scegli sfondo da</string>
-    <string name="screensaver_settings_title">Schermo Candy</string>
+    <string name="screensaver_settings_title">Screensaver</string>
     <string name="screensaver_settings_summary_either_long">Quando in dock o in sospensione ed in carica</string>
     <string name="screensaver_settings_summary_either_short">Entrambi</string>
     <string name="screensaver_settings_summary_sleep">Durante la carica</string>
@@ -1820,8 +1811,6 @@ Il PIN potrebbe essere errato."</string>
     <string name="carrier_enabled_summaryOn">APN attivo</string>
     <string name="carrier_enabled_summaryOff">APN non attivo</string>
     <string name="bearer">Bearer</string>
-    <string name="mvno_type">Tipo MVNO</string>
-    <string name="mvno_match_data">Valore MVNO</string>
     <string name="menu_delete">Elimina APN</string>
     <string name="menu_new">Nuovo APN</string>
     <string name="menu_save">Salva</string>
@@ -1836,11 +1825,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
     <string name="master_clear_summary">Cancella tutti i dati sul telefono</string>
-    <string name="master_clear_desc">Questa operazione cancellerà tutti i dati memorizzati nella memoria interna del telefono
-
-&lt;li>Il tuo account Google&lt;/li>
-&lt;li>Dati utente e di sistema e impostazioni&lt;/li>
-&lt;li>App scaricate&lt;/li>"</string>
+    <string name="master_clear_desc">Questa operazione cancellerà tutti i dati memorizzati nella memoria interna del telefono &lt;li>Il tuo account Google&lt;/li> &lt;li>Dati utente e di sistema e impostazioni&lt;/li> &lt;li>App scaricate&lt;/li></string>
     <string name="master_clear_accounts">"
 
 Al momento sei collegato ai seguenti account:
@@ -1860,8 +1845,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="master_clear_gesture_explanation">Per confermare un ripristino dati di fabbrica occorre inserire la sequenza di sblocco.</string>
     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
     <string name="master_clear_confirm_title">Reimpostare?</string>
-    <string name="media_format_title">Formatta Memoria USB</string>
-    <string name="media_format_summary">"Cancella i dati sulla memoria USB"</string>
+    <string name="media_format_title">Formatta Scheda SD</string>
+    <string name="media_format_summary">Cancella i dati sulla SD</string>
     <string name="media_format_desc">"Cancellare tutto l'archivio USB? "<b>Tutti</b> i dati memorizzati al suo interno andranno persi.</string>
     <string name="media_format_button_text">Cancella archivio USB</string>
     <string name="media_format_final_desc">"Cancellare l'archivio USB, eliminando tutti i file memorizzati al suo interno? Questa azione è irreversibile."</string>
@@ -1892,11 +1877,6 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="bluetooth_untether_blank">Sarà annullato il tethering per %1$s.</string>
     <string name="tethering_help_button_text">Guida</string>
     <string name="network_settings_title">Reti mobili</string>
-    <string name="manage_mobile_plan_title">Gestisci piano dati mobile</string>
-    <string name="mobile_unknown_sim_operator">Operatore SIM sconosciuto</string>
-    <string name="mobile_no_provisioning_url">%1$s non ha un sito web di riferimento</string>
-    <string name="mobile_insert_sim_card">Inserisci SIM e riavvia</string>
-    <string name="mobile_connect_to_internet">Connetti ad Internet</string>
     <string name="location_title">La mia posizione</string>
     <string name="location_network_based">Servizio localizzazione Google</string>
     <string name="location_neighborhood_level">Consenti alle applicazioni di utilizzare dati da fonti come reti Wi-Fi/mobili per determinare la tua posizione approssimativa</string>
@@ -1911,7 +1891,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="location_access_title">Accesso alla mia posizione</string>
     <string name="location_access_summary">Permetti alle applicazioni che lo hanno richiesto di rilevare informazioni sulla tua posizione.</string>
     <string name="location_sources_heading">Fonti per la localizzazione</string>
-    <string name="about_settings">Informazioni sul telefono</string>
+    <string name="about_settings">Info sul telefono</string>
     <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
     <string name="legal_information">Informazioni legali</string>
     <string name="contributors_title">Collaboratori</string>
@@ -2018,10 +1998,10 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="reset_app_preferences_title">Cancellare preferenze applicazioni ?</string>
     <string name="reset_app_preferences_desc">"Questo resetterà tutte le preferenze per:
 
-<li>Applicazioni disattivate</li>
-<li>Notifiche applicazioni disattivate</li>
-<li>Applicazioni impostate come predefinite</li>
-<li>Restrizioni per uso dei dati in background</li>
+ <li>Applicazioni disabilitate</li>
+ <li>Notifiche applicazioni disabilitate</li>
+ <li>Applicazioni impostate come predefinite</li>
+ <li>Restrizioni per uso dei dati in background</li>
 
  Non perderai i dati delle applicazioni."</string>
     <string name="reset_app_preferences_button">Cancella</string>
@@ -2029,7 +2009,6 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="filter">Filtra</string>
     <string name="filter_dlg_title">Scegli opzioni di filtro</string>
     <string name="filter_apps_all">Tutte</string>
-     <string name="filter_apps_disabled">Disattivato</string>
     <string name="filter_apps_third_party">Scaricate</string>
     <string name="filter_apps_running">In uso</string>
     <string name="filter_apps_onsdcard">Archivio USB</string>
@@ -2080,9 +2059,6 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="app_special_disable_dlg_text">"Se disattivi un'applicazione preinstallata, altre applicazioni potrebbero riscontrare malfunzionamenti. Inoltre i dati verranno cancellati."</string>
     <string name="app_disable_notifications_dlg_title">Disattivare notifiche?</string>
     <string name="app_disable_notifications_dlg_text">Se disattivi le notifiche per questa applicazione potresti perdere importanti avvisi e aggiornamenti.</string>
-    <string name="app_ops_settings">Operazioni applicazione</string>
-    <string name="app_ops_running">In esecuzione</string>
-    <string name="app_ops_never_used">(Mai utilizzata)</string>
     <string name="storageuse_settings_title">Utilizzo memoria</string>
     <string name="storageuse_settings_summary">Visualizza la memoria utilizzata dalle applicazioni</string>
     <string name="runningservices_settings_title">Servizi in esecuzione</string>
@@ -2159,8 +2135,6 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="user_dict_settings_add_word_option_name">Parola:</string>
     <string name="user_dict_settings_add_shortcut_option_name">Collegamento:</string>
     <string name="user_dict_settings_add_locale_option_name">Lingua:</string>
-    <string name="user_dict_settings_add_word_hint">Inserisci una parola</string>
-    <string name="user_dict_settings_add_shortcut_hint">Collegamento opzionale</string>
     <string name="user_dict_settings_edit_dialog_title">Modifica parola</string>
     <string name="user_dict_settings_context_menu_edit_title">Modifica</string>
     <string name="user_dict_settings_context_menu_delete_title">Elimina</string>
@@ -2247,9 +2221,9 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
     <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
 
-Durante l'ingrandimento puoi:
-&lt;li>&lt;ul>Muovere: sposta due o più dita lungo lo schermo.
-&lt;li>Regolare livello zoom: pizzica o allarga con due o più dita.&lt;/li>&lt;/ul>&lt;/li>
+Durante l\'ingrandimento puoi:
+<ul><li>Muovere: sposta due o più dita lungo lo schermo.</li>
+<li>Regolare livello zoom: pizzica o allarga con due o più dita.</li></ul>
 
 Puoi anche ingrandire temporaneamente quello che è sotto il tuo dito toccando tre volte e tenendo premuto alla fine. In questa modalità di ingrandimento puoi spostare il dito per vedere varie parti dello schermo. Distacca il dito per tornare alla modalità precedente.
 
@@ -2988,13 +2962,15 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
     <string name="connected_wifi">Wi-Fi connessa</string>
-    <string name="incoming_call_vibrate_abbreviation">Chiamate\u0020</string>
-    <string name="notification_vibrate_abbreviation">Notifiche\u0020</string>
-    <string name="mms_vibrate_abbreviation">Messaggi\u0020</string>
-    <string name="breathing_light_color_title">Colore LED</string>
+    <string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
+    <string name="notification_breathing_light_color_title">Colore LED notifiche</string>
+    <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
     <string name="breathing_light_color_menu_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>
     <string name="breathing_light_freq_title">Intermittenza LED</string>
+    <string name="incoming_call_breathing_light_freq_title">Intermittenza LED</string>
+    <string name="notification_breathing_light_freq_title">Intermittenza LED notifiche</string>
+    <string name="mms_breathing_light_freq_title">Intermittenza LED messaggi</string>
     <string name="breathing_light_freq_summary">Pausa tra le intermittenze</string>
     <string name="led_settings">LED</string>
     <string name="led_colors_summary">Colore notifiche LED</string>
