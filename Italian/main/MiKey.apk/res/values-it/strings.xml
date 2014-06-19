@@ -166,11 +166,11 @@ A combination of their own toolbox"</string>
     <string name="faq_speed_title">Azione sconosciuta？</string>
     <string name="faq_speed_text">Differenti dispositivi mobili reagiscono in modo differenti, per questo la velocità può essere regolata nelle impostazioni. Cerca il ritmo adatto per il tuo telefono.</string>
     <string name="faq_focus_title">"Perchè la foto è sfocata? Perchè lo scatto è lento?"</string>
-    <string name="faq_focus_text">Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata</string>
+    <string name="faq_focus_text">"Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata"</string>
     <string name="faq_plug_title">Come inserire il MiKey corretamente?</string>
     <string name="faq_plug_text">Questo metodo per inserire il MiKey previene potenziali problemi. Assicurati di inserirlo senza premere il pulsante.</string>
     <string name="faq_misreq_title">Cosa fare in caso di malfunzioanmenti?</string>
-    <string name="faq_misreq_text">Se il controllo della musica nella schermata di blocco non risponde, ferma la musica, rimuovi l'app dalla RAM, riconnetti il Mikey e riavvia l'app MiKey. Siamo a conoscenza di questo bug e stiamo lavorando per risolverlo.</string>
+    <string name="faq_misreq_text">"Se il controllo della musica nella schermata di blocco non risponde, ferma la musica, rimuovi l'app dalla RAM, riconnetti il Mikey e riavvia l'app MiKey. Siamo a conoscenza di questo bug e stiamo lavorando per risolverlo."</string>
     <string name="faq_comp_title">Con quali telefoni è compatibile？</string>
     <string name="faq_comp_text">"Oltre agli Xiaomi, tutti i telefono di ultima generazione sono in grado di utilizzarlo. Per via di u tasto X aggiuntivo su alcuni Xiaomi, il MiKey supporta solo i sistei MIUI-V5. E' inoltre necessario scaricare l'applicazione Mikey"</string>
     <string name="faq_voice_title">Non si sente nessun suono in chiamata ?</string>
