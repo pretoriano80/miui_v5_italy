@@ -1349,7 +1349,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="manage_notification_access">Notifiche accesso</string>
     <string name="manage_notification_access_summary_zero">Le applicazioni non possono leggere le notifiche</string>
     <string name="no_notification_listeners">Nessun rilevatore di notifiche installato.</string>
-    <string name="notification_listener_security_warning_title">Enable %1$s?</string>
+    <string name="notification_listener_security_warning_title">Abilitare %1$s?</string>
     <string name="notification_listener_security_warning_summary">%1$s sarà in gado di leggere tutte le notifiche postate dal sistema e dalle app installate, il che potrebbe includere dati personali come nomi di contatti e i messaggi di testo ricevuti. Sarà anche in grado di nascondere queste notifiche o simulare il tocco sui pulsanti in esse contenute.</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>

@@ -1266,8 +1266,8 @@ Questa impostazione avrà effetto su tutti gli utenti del telefono."</string>
     <string name="lock_after_timeout_summary">%1$s dopo sospensione</string>
     <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario su blocco schermo</string>
     <string name="owner_info_settings_title">Info proprietario</string>
-    <string name="security_enable_widgets_title">Enable widgets</string>
-    <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
+    <string name="security_enable_widgets_title">Abilita widget</string>
+    <string name="security_enable_widgets_disabled_summary">"Disabilitato dall'amministratore"</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Digita il testo da visualizzare su lockscreen</string>
     <string name="show_user_info_on_lockscreen_label">Mostra informazioni utente nella schermata di blocco</string>
@@ -1359,8 +1359,8 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="manage_notification_access">Notifiche accesso</string>
     <string name="manage_notification_access_summary_zero">Le applicazioni non possono leggere le notifiche</string>
     <string name="no_notification_listeners">Nessun rilevatore di notifiche installato.</string>
-    <string name="notification_listener_security_warning_title">Enable %1$s?</string>
-    <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.</string>
+    <string name="notification_listener_security_warning_title">Abilitare %1$s?</string>
+    <string name="notification_listener_security_warning_summary">%1$s sarà in gado di leggere tutte le notifiche postate dal sistema e dalle app installate, il che potrebbe includere dati personali come nomi di contatti e i messaggi di testo ricevuti. Sarà anche in grado di nascondere queste notifiche o simulare il tocco sui pulsanti in esse contenute.</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
