@@ -39,7 +39,7 @@
     <string name="optimize_apk_header_left">Pacchetti installazione: %d</string>
     <string name="optimize_large_file_header_left">Grandi file: %d</string>
     <string name="optimize_residual_header_left">Residui: %d</string>
-    <string name="optimize_installed_apps_header_left">Download app:%d</string>
+    <string name="optimize_installed_apps_header_left">App installate:%d</string>
     <string name="optimize_cache_list_empty_content">Nessun file cache.</string>
     <string name="optimize_ad_list_empty_content">Nessun file pubblicitario.</string>
     <string name="optimize_apk_list_empty_content">Nessun pacchetto di installazione.</string>
@@ -929,7 +929,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_start">Scansione virus</string>
     <string name="virus_scan_support">Powered by Tencent</string>
     <string name="virus_scan_last_time">Ultima scansione: %s</string>
-    <string name="virus_scan_safe">Cancella</string>
+    <string name="virus_scan_safe">Pulito</string>
     <string name="virus_scan_dangerous">Rischio</string>
     <string name="virus_scan_find">%d rischi rilevati</string>
     <string name="virus_scan_parpare">Avvio operazione...</string>
@@ -1410,7 +1410,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_opp_profile_summary_connected">Connesso al server di trasferimento file</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Non connesso al server di trasferimento file</string>
     <string name="bluetooth_hid_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Connessione Internet locale condivisa con il dispositivo</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio multimediale</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
@@ -1442,7 +1442,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_display_options_name">Nome</string>
     <string name="wifi_display_summary_on">Attivato</string>
     <string name="wifi_display_summary_off">Disattivato</string>
-    <string name="wifi_display_summary_disabled">Disabled</string>
+    <string name="wifi_display_summary_disabled">Disabilitato</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il telefono tocca un altro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -1471,8 +1471,8 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_poor_network_detection_summary">Non utilizzare una rete Wi-Fi a meno che non abbia una buona connessione a Internet</string>
     <string name="wifi_setting_sleep_policy_title">Mantieni Wi-Fi durante sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
-    <string name="wifi_suspend_optimizations">WLAN optimization</string>
-    <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
+    <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
+    <string name="wifi_suspend_optimizations_summary">Riduce il consumo della batteria quando il Wi-Fi è attivo</string>
     <string name="wifi_add_network">Aggiungi rete</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante WPS</string>
@@ -1871,7 +1871,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="location_access_title">Accesso alla mia posizione</string>
     <string name="location_access_summary">Permetti alle applicazioni che lo hanno richiesto di rilevare informazioni sulla tua posizione.</string>
     <string name="location_sources_heading">Fonti per la localizzazione</string>
-    <string name="about_settings">Info sul telefono</string>
+    <string name="about_settings">Informazioni sul telefono</string>
     <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
     <string name="legal_information">Informazioni legali</string>
     <string name="contributors_title">Collaboratori</string>
