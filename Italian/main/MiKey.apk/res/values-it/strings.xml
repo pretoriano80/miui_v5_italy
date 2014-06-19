@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="copy">Copia</string>
+    <string name="name">Nome:</string>
+    <string name="nickname">Nickname:</string>
+    <string name="company">Azienda:</string>
+    <string name="title">Ruolo:</string>
+    <string name="phone">Telefono:</string>
+    <string name="email">Email:</string>
+    <string name="web">Sito web:</string>
+    <string name="address">Indirizzo:</string>
+    <string name="birthday">Compleanno:</string>
+    <string name="note">Note:</string>
+    <string name="add_to_contacts">Aggiungi ai contatti</string>
+    <string name="recognize">Riconoscimento</string>
+    <string name="place_barcode_into_rectangle">Posiziona il codice QR o il codice a barre dentro il rettangolo del mirino</string>
+    <string name="open_flash_error">Impossibile accendere il flash</string>
+    <string name="close_flash_error">Impossibile spegnere il flash</string>
+    <string name="scan_fail">Impossibile eseguire la scansione</string>
+    <string name="vcard_prompt">Impossibile creare il nuovo contatto perchè manca il nome</string>
+    <string name="copy_succeed">Copia eseguita correttamente</string>
+    <string name="fail_generate_barcode">Impossibile generare il codice a barre o il codice QR</string>
+    <string name="scan_result">Risultato della scansione</string>
+    <string name="flash_lable">Flash</string>
+    <string name="picker_lable">Galleria</string>
+    <string name="setting_key_silent">key_silent</string>
+    <string name="setting_key_mode_silent_open">key_silent_default</string>
+    <string name="setting_key_mode_dust_cap">key_dust_cap</string>
+    <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>    
     <string name="app_name">MiKey</string>
     <string name="short_click_1">1x</string>
     <string name="short_click_2">2x</string>
@@ -14,6 +41,7 @@
     <string name="long_click">Tieni premuto</string>
     <string name="action_open_flashlight">Torcia</string>
     <string name="action_open_other_app">Altre app</string>
+    <string name="action_open_mi_route">Lista smart device</string>
     <string name="action_open_camera">Fotocamera</string>
     <string name="action_open_camera2">Fotocamera</string>
     <string name="action_screen_shot">Screenshot</string>
@@ -88,9 +116,12 @@
     <string name="about">Informazioni</string>
     <string name="task_title_prefix">"Operazione: "</string>
     <string name="setting_feedback">Feedback</string>
-    <string name="setting_speed_desc">Velocità pressione tasto</string>
-    <string name="setting_speed_slow">Lenta</string>
-    <string name="setting_speed_quick">Veloce</string>
+    <string name="setting_speed_desc">"Una maggiore velocità garantisce tempi di reazione più rapidi, 
+lo svantaggio è una diminuzione dei corretti riconoscimenti del comando.
+Diminuendo la velocità, il tasso di successo aumenterà,
+ma la risposta sarà più lenta"</string>
+    <string name="setting_speed_slow">Più lenta</string>
+    <string name="setting_speed_quick">Più veloce</string>
     <string name="setting_vibrate_desc">"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
 The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
 Feedback implementation. 
@@ -104,7 +135,16 @@ Potrebbe aumentare il consumo della batteria"</string>
     <string name="setting_silent_mode">Modalità silenziosa</string>
     <string name="setting_silent_mode_default">Modalità Cuffie (Scollega MiKey)</string>
     <string name="setting_silent_mode_dust_cap">Anti-polvere (MiKey)</string>
-    <string name="setting_silent_mode_desc">Seleziona sempre la Modalità Cuffie per scollegare MiKey, altrimenti si avrà un effetto muto.</string>
+    <string name="setting_silent_mode_desc">"Seleziona sempre la Modalità Cuffie per scollegare MiKey, altrimenti si avrà un effetto muto.
+Scegliendo Anti-polvere, dopo l'accesione del telefono verrà 
+riproposta la scelta, perchè il telefono non può distinguerlo da solo.
+Se usi spesso le cuffie, scegli la Modalità Cuffie, 
+così il telefono non ti proporrà la scelta ogni volta
+che lo accendi"</string>
+    <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini più nitide,
+ma allunga il tempo impiegato per eseguire lo scatto"</string>
+    <string name="toolbox_outer_desc">"Click on the plus sign or existing functionality
+A combination of their own toolbox"</string>
     <string name="setting_instant_photo_desc">Metti a fuoco prima di scattare una foto</string>
     <string name="setting_speed_max_time">1000</string>
     <string name="setting_speed_middle_time">500ms</string>
@@ -122,4 +162,25 @@ Potrebbe aumentare il consumo della batteria"</string>
     <string name="silent_mode_tip_sub">Attiva nelle impostazioni</string>
     <string name="test_user_entry">Test</string>
     <string name="goto_update">Aggiorna</string>
+    <string name="faq_title">Domande su MiKey</string>
+    <string name="faq_speed_title">Azione sconosciuta？</string>
+    <string name="faq_speed_text">Differenti dispositivi mobili reagiscono in modo differenti, per questo la velocità può essere regolata nelle impostazioni. Cerca il ritmo adatto per il tuo telefono.</string>
+    <string name="faq_focus_title">"Perchè la foto è sfocata? Perchè lo scatto è lento?"</string>
+    <string name="faq_focus_text">Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata</string>
+    <string name="faq_plug_title">Come inserire il MiKey corretamente?</string>
+    <string name="faq_plug_text">Questo metodo per inserire il MiKey previene potenziali problemi. Assicurati di inserirlo senza premere il pulsante.</string>
+    <string name="faq_misreq_title">Cosa fare in caso di malfunzioanmenti?</string>
+    <string name="faq_misreq_text">Se il controllo della musica nella schermata di blocco non risponde, ferma la musica, rimuovi l'app dalla RAM, riconnetti il Mikey e riavvia l'app MiKey. Siamo a conoscenza di questo bug e stiamo lavorando per risolverlo.</string>
+    <string name="faq_comp_title">Con quali telefoni è compatibile？</string>
+    <string name="faq_comp_text">"Oltre agli Xiaomi, tutti i telefono di ultima generazione sono in grado di utilizzarlo. Per via di u tasto X aggiuntivo su alcuni Xiaomi, il MiKey supporta solo i sistei MIUI-V5. E' inoltre necessario scaricare l'applicazione Mikey"</string>
+    <string name="faq_voice_title">Non si sente nessun suono in chiamata ?</string>
+    <string name="faq_voice_text">Togli e rimetti il MiKey ed accertati di aver scelto MiKey</string>
+    <string name="faq_slow_title">La reazione ai click è troppo lenta ?</string>
+    <string name="faq_slow_text">Il tempo di click può essere impostato a 0, questo dovrenne essere sufficiente per</string>
+    <string name="faq_quni_title">Quanto dura il MiKey?</string>
+    <string name="faq_quni_text">Dovrebbe sopportare più di 30 mila pressioni, dipende però da come viene usato</string>
+    <string name="faq_stat_title">Perchè il numero dei click è a zero ？</string>
+    <string name="faq_stat_text">Il ranking viene azzerato ogni notte, per cui ogni risveglio è un nuovo inizio</string>
+    <string name="faq_vsm_title">Precauzioni</string>
+    <string name="faq_vsm_text">Assicurati, prima di rimuovere la cover posteriore, di togliere il MiKey !</string>
 </resources>
