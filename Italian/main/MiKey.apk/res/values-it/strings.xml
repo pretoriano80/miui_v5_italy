@@ -113,13 +113,23 @@
     <string name="back_camera">Fotocamera posteriore</string>
     <string name="write_pic_fail">Impossibile salvare immagine</string>
     <string name="settings">Impostazioni</string>
-    <string name="about">Informazioni</string>
-    <string name="task_title_prefix">"Operazione: "</string>
-    <string name="setting_feedback">Feedback</string>
-    <string name="setting_speed_desc">"Una maggiore velocità garantisce tempi di reazione più rapidi, 
-lo svantaggio è una diminuzione dei corretti riconoscimenti del comando.
-Diminuendo la velocità, il tasso di successo aumenterà,
-ma la risposta sarà più lenta"</string>
+    <string name="setting_buy">购买米键</string>
+    <string name="app_not_installed">应用未安装</string>
+    <string name="setting_toolbar">工具栏</string>
+    <string name="setting_toolbar_desc">"工具栏功能可以在通知栏中快速的使用米健的功能。
+它能带来能多便利。"</string>
+    <string name="setting_toolbar_tip">"点击加号添加新功能,点击已有功能可以更换。
+长按可删除。
+如果你喜欢就来组合属于自己的工具栏吧!
+
+开启工具栏,在任何情况下,
+从手机的上端听筒处向下滑动就能使用它!"</string>
+    <string name="task_title_prefix">第N步：</string>
+    <string name="setting_feedback">吐槽米键</string>
+    <string name="setting_speed_desc">"速度调快,优点是“单击”的反应速度更快,缺点是“连击”
+的成功率下降。
+速度调慢,优点是“连击”的成功率会提高,缺点是“单击”
+的反应速度会变慢。"</string>
     <string name="setting_speed_slow">Più lenta</string>
     <string name="setting_speed_quick">Più veloce</string>
     <string name="setting_vibrate_desc">"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
