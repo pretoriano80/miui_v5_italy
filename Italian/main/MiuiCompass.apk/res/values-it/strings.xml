@@ -26,5 +26,9 @@
     <string name="direction_south">S</string>
     <string name="direction_east">E</string>
     <string name="direction_west">O</string>
+    <string name="direction_north_east">NE</string>
+    <string name="direction_north_west">NO</string>
+    <string name="direction_south_east">SE</string>
+    <string name="direction_south_west">SO</string>
     <string name="guide_toast">A causa di possibili interferenze del campo magnetico, si consiglia di calibrare la Bussola con il seguente movimento.</string>
 </resources>

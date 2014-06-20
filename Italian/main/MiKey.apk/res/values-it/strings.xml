@@ -136,15 +136,15 @@ Potrebbe aumentare il consumo della batteria"</string>
     <string name="setting_silent_mode_default">Modalità Cuffie (Scollega MiKey)</string>
     <string name="setting_silent_mode_dust_cap">Anti-polvere (MiKey)</string>
     <string name="setting_silent_mode_desc">"Seleziona sempre la Modalità Cuffie per scollegare MiKey, altrimenti si avrà un effetto muto.
-Scegliendo Anti-polvere, dopo l'accesione del telefono verrà 
-riproposta la scelta, perchè il telefono non può distinguerlo da solo.
+Scegliendo Anti-polvere, dopo l'accensione del telefono verrà 
+riproposta la scelta, perché il telefono non può distinguerlo da solo.
 Se usi spesso le cuffie, scegli la Modalità Cuffie, 
 così il telefono non ti proporrà la scelta ogni volta
 che lo accendi"</string>
     <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini più nitide,
 ma allunga il tempo impiegato per eseguire lo scatto"</string>
-    <string name="toolbox_outer_desc">"Click on the plus sign or existing functionality
-A combination of their own toolbox"</string>
+    <string name="toolbox_outer_desc">"Premi sul segno + o la funzione esistente
+Una combinazione dei loro strumenti"</string>
     <string name="setting_speed_max_time">1000</string>
     <string name="setting_speed_middle_time">500ms</string>
     <string name="setting_speed_min_time">0</string>
@@ -156,29 +156,29 @@ A combination of their own toolbox"</string>
     <string name="showSlip">Mostra menù a scorrimento</string>
     <string name="close_recorder">Chiudi registratore</string>
     <string name="file_delimiter">／</string>
-    <string name="silent_mode_tip_main">Tasto silenzioso disbilitato</string>
+    <string name="silent_mode_tip_main">Tasto silenzioso disabilitato</string>
     <string name="update_message">Aggiornato!</string>
     <string name="silent_mode_tip_sub">Attiva nelle impostazioni</string>
     <string name="test_user_entry">Test</string>
     <string name="goto_update">Aggiorna</string>
     <string name="faq_title">Domande su MiKey</string>
-    <string name="faq_speed_title">Azione sconosciuta？</string>
+    <string name="faq_speed_title">Azione sconosciuta?</string>
     <string name="faq_speed_text">Differenti dispositivi mobili reagiscono in modo differenti, per questo la velocità può essere regolata nelle impostazioni. Cerca il ritmo adatto per il tuo telefono.</string>
-    <string name="faq_focus_title">"Perchè la foto è sfocata? Perchè lo scatto è lento?"</string>
-    <string name="faq_focus_text">Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata</string>
-    <string name="faq_plug_title">Come inserire il MiKey corretamente?</string>
+    <string name="faq_focus_title">"Perché la foto è sfocata? Perché lo scatto è lento?"</string>
+    <string name="faq_focus_text">"Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata"</string>
+    <string name="faq_plug_title">Come inserire il MiKey correttamente?</string>
     <string name="faq_plug_text">Questo metodo per inserire il MiKey previene potenziali problemi. Assicurati di inserirlo senza premere il pulsante.</string>
-    <string name="faq_misreq_title">Cosa fare in caso di malfunzioanmenti?</string>
-    <string name="faq_misreq_text">Se il controllo della musica nella schermata di blocco non risponde, ferma la musica, rimuovi l'app dalla RAM, riconnetti il Mikey e riavvia l'app MiKey. Siamo a conoscenza di questo bug e stiamo lavorando per risolverlo.</string>
-    <string name="faq_comp_title">Con quali telefoni è compatibile？</string>
-    <string name="faq_comp_text">"Oltre agli Xiaomi, tutti i telefono di ultima generazione sono in grado di utilizzarlo. Per via di u tasto X aggiuntivo su alcuni Xiaomi, il MiKey supporta solo i sistei MIUI-V5. E' inoltre necessario scaricare l'applicazione Mikey"</string>
+    <string name="faq_misreq_title">Cosa fare in caso di malfunzionamenti?</string>
+    <string name="faq_misreq_text">"Se il controllo della musica nella schermata di blocco non risponde, ferma la musica, rimuovi l'app dalla RAM, riconnetti il Mikey e riavvia l'app MiKey. Siamo a conoscenza di questo bug e stiamo lavorando per risolverlo."</string>
+    <string name="faq_comp_title">Con quali telefoni è compatibile?</string>
+    <string name="faq_comp_text">"Oltre agli Xiaomi, tutti i telefono di ultima generazione sono in grado di utilizzarlo. Per via di u tasto X aggiuntivo su alcuni Xiaomi, il MiKey supporta solo i sistemi MIUI-V5. E' inoltre necessario scaricare l'applicazione Mikey"</string>
     <string name="faq_voice_title">Non si sente nessun suono in chiamata ?</string>
     <string name="faq_voice_text">Togli e rimetti il MiKey ed accertati di aver scelto MiKey</string>
     <string name="faq_slow_title">La reazione ai click è troppo lenta ?</string>
-    <string name="faq_slow_text">Il tempo di click può essere impostato a 0, questo dovrenne essere sufficiente per</string>
+    <string name="faq_slow_text">Il tempo di click può essere impostato a 0, questo dovrebbe essere sufficiente per</string>
     <string name="faq_quni_title">Quanto dura il MiKey?</string>
     <string name="faq_quni_text">Dovrebbe sopportare più di 30 mila pressioni, dipende però da come viene usato</string>
-    <string name="faq_stat_title">Perchè il numero dei click è a zero ？</string>
+    <string name="faq_stat_title">Perché il numero dei click è a zero ？</string>
     <string name="faq_stat_text">Il ranking viene azzerato ogni notte, per cui ogni risveglio è un nuovo inizio</string>
     <string name="faq_vsm_title">Precauzioni</string>
     <string name="faq_vsm_text">Assicurati, prima di rimuovere la cover posteriore, di togliere il MiKey !</string>
