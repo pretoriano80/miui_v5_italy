@@ -260,7 +260,7 @@
     <string name="theme_user_agreement_content5">". Consenti l'utilizzo della rete dati?"</string>
     <string name="theme_user_agreement_title">Dichiarazione e sollevamento responsabilità</string>
     <string name="theme_user_agreement_allow">"Sono d'accordo"</string>
-    <string name="theme_user_agreement_remind_never">Non mi notificare/string>
+    <string name="theme_user_agreement_remind_never">Non mi notificare</string>
     <string name="theme_user_agreement_remind_again">"Notificami quando viene richiesto l'accesso alla rete dati"</string>
     <string name="theme_user_agreement_remind_summary">Avrà effetto dal prossimo avvio</string>
 </resources>
