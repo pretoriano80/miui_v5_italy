@@ -109,7 +109,6 @@
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_on">On</string>
     <string name="pref_camera_flashmode_entry_off">Off</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_title">Bilanciamento bianco</string>
     <string name="pref_camera_whitebalance_k_value_title">Bilanciamento bianco K</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -260,7 +259,6 @@ ed esci dall'inquadratura"</string>
     <string name="error_app_unsupported">Risoluzione video non supportata per questo tipo di codifica</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
     <string name="pref_camera_hand_night_title">HHT</string>
-    <string name="pref_camera_ae_bracket_hdr_default">Disattivato</string>
     <string name="hdr_exit_button_text">Esci dalla modalità HDR</string>
     <string name="raw_data_exit_button_text">Exit RAW mode</string>
     <string name="hand_night_exit_button_text">Esci dalla modalità Notte</string>

@@ -281,4 +281,6 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="share_box">Condivisi</string>
     <string name="share_box_send">Inviati</string>
     <string name="share_box_receive">Ricevuti</string>
+    <string name="file_not_exist">File inesistente</string>
+    <string name="open_file_failed">Impossibile aprire</string>
 </resources>
