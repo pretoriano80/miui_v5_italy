@@ -188,7 +188,7 @@ Utilizzare ulteriormente i dati oltre i limiti del tuo piano potrebbe comportare
     <string name="traffic_config_alert_cancel">Annulla</string>
     <string name="traffic_config_alert_nomore">Non chiedere più</string>
     <string name="traffic_config_alert_body">"Il resoconto dei dati usati fornito dal tuo operatore mostra che ti rimangono %s.
-Vuoi aggioranre il limite uso dati locale?"</string>
+Vuoi aggiornare il limite uso dati locale?"</string>
     <string name="traffic_config_alert_body_normal">"Il resoconto dei dati usati fornito dal tuo operatore mostra che hai ancora %1$s di traffico in picco residuo. Questo è diverso dal limite di %2$s che hai stabilito localmente."</string>
     <string name="traffic_config_alert_body_leisure">"
 Il resoconto dei dati usati fornito dal tuo operatore mostra che hai ancora %1$s di traffico fuori picco residuo. Questo è diverso dal limite di %2$s che hai stabilito localmente"</string>
@@ -225,5 +225,5 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="datausage_purchase_goto_monthsetting">Risistema limite dati</string>
     <string name="datausage_purchase_pkglist_nodata">"C'è un conflitto tra il tuo piano dati attivo e il tuo attuale ordine. Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="datausage_purchase_pkglist_networkerror">Impossibile connettersi alla rete. Verifica la tua connessioni dati e riprova</string>
-    <string name="datausage_purchase_pkglist_servererror">Error lato server</string>
+    <string name="datausage_purchase_pkglist_servererror">Errore lato server</string>
 </resources>

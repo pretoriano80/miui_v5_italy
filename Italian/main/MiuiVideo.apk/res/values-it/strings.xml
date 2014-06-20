@@ -290,9 +290,9 @@
     <string name="dlna_list_name">DLNA device</string>
     <string name="net_device_name">Dispositivo di rete</string>
     <string name="check_network">Impossibile connettersi alla rete, controlalre la connessione</string>
-    <string name="null_category">sconosciuto</string>
-    <string name="null_videoname">sconosciuto</string>
-    <string name="top_null_videoname">nome video sconosciuto</string>
+    <string name="null_category">Sconosciuto</string>
+    <string name="null_videoname">Sconosciuto</string>
+    <string name="top_null_videoname">Nome video sconosciuto</string>
     <string name="thunder_cinema">Thunder cinema</string>
     <string name="xunlei_login_error">Errore di login Thunder</string>
     <string name="xunlei_cinema_title">Thunder cinema</string>
@@ -302,7 +302,7 @@
     <string name="failed_text_parse_file">Errore! Formato file errato</string>
     <string name="failed_text">Impossibile ottenere il certificato, prego riprovare!</string>
     <string name="failed_text_11">Verifica fallita! prego riprovare!</string>
-    <string name="failed_text_49">"l'account non acquista questo filem, non può essere eseguito, puoi acquistarlo in Thunder Cinema"</string>
+    <string name="failed_text_49">"Film non acquistato con questo account, non può essere eseguito, puoi acquistarlo in Thunder Cinema"</string>
     <string name="failed_text_21">Il file che cerchi di eseguire non è online, prego attendere!</string>
     <string name="failed_text_708">Numero di terminali eccessivo, prego eseguirlo sul terminale che usi di solito</string>
     <string name="failed_text_502">Il fil che cerchi di eseguire è offline o è scaduto, impossibile riprodurlo</string>
