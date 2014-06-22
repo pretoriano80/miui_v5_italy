@@ -487,15 +487,6 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Solo WCDMA</item>
         <item>Solo GSM</item>
     </string-array>
-    <string-array name="wifi_security_wfa">
-        <item>@string/wifi_security_none</item>
-        <item>WEP</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-        <item>802.1x EAP</item>
-        <item>WAPI PSK</item>
-        <item>Certificato WAPI</item>
-    </string-array>
     <string-array name="network_use_entry">
         <item>Solo propria rete</item>
         <item>Propria rete + Roaming</item>

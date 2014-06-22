@@ -55,7 +55,6 @@
     <string name="android_album_summary">"L'utilizzo automatico delle copertine potrebbe causare errori."</string>
     <string name="auto_correct_id3_settings">Autocorrezione tag ID3</string>
     <string name="auto_correct_id3_summary">"La correzione automatica dei dati avverrà tramite l'analisi dell'impronta audio"</string>
-    <string name="music_filter">Filtra file</string>
     <string name="filter_by_size">Filtra per dimensione</string>
     <string name="filter_by_size_summary">Filtra i file più piccoli del valore impostato</string>
     <string name="filter_by_size_prefix">Dimensione\u0020</string>
@@ -158,7 +157,9 @@
     <string name="music_open_other_connect">Scarica musica utilizzando la connessione Internet</string>
     <string name="impunity_declaration_title">Dichiarazione</string>
     <string name="impunity_declaration">La musica online che stai per utilizzare è fornita tramite Baidu Online Music Service. Premi \"OK\" per accettare ed utilizzare, premi \"Annulla\" per uscire.</string>
-    <string name="music_filter_helper">Per escludere i file audio di piccole dimensioni è stato applicato un filtro con limite dimensione a 800Kb così da impedirne la visualizzazione. La soglia del filtro può essere modificata in Impostazioni / Filtro file.</string>
+    <string name="impunity_declaration_ignore">Non chiedere</string>
+    <string name="impunity_declaration_settings">Notifica sempre se in rete</string>
+    <string name="impunity_declaration_summary">Quando entri in Musica comparirà un popup</string>
     <string name="modify_meta">Modifica informazioni brano</string>
     <string name="id3_edit">Modifica informazioni ID3</string>
     <string name="lyric_download">Scarica testi</string>
@@ -334,9 +335,10 @@
     <string name="sync_enable_toast">Puoi modificare questa opzione in Impostazioni > Account > Mi Cloud</string>
     <string name="volume_alert_playback_alert_title">Avviso volume</string>
     <string name="volume_alert_playback_message">"Per prevenire possibili danni all'udito, non mantenere il volume ad alti livelli per lunghi periodi."</string>
+    <string name="take_effect_afater_restart">"L'applicazione musica deve essere riavviata perchè le nuove impostazioni abbiano effetto."</string>
     <string name="albumsongseparator">"
 "</string>
-    <string name="notification_artist_album">"%2$s 
+    <string name="notification_artist_album">"%2$s
 %1$s"</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>

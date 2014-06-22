@@ -166,7 +166,8 @@
     <string name="st_filter_keywords_setting_title">Imposta filtro parole</string>
     <string name="st_filter_keywords_title">Filtra le parole chiavi nei messaggi</string>
     <string name="st_filter_keywords_setting_summary1">I messaggi da numeri sconosciuti verranno bloccati.</string>
-    <string name="st_filter_keywords_setting_summary2">Aggiungi più parole separandola con la virgola.</string>
+    <string name="st_filter_keywords_setting_summary2">"
+Aggiungi più parole separandola con la virgola."</string>
     <string name="st_advanced_setting_group">Impostazioni avanzate</string>
     <string name="st_block_unknown_call">Blocca chiamate da sconosciuti</string>
     <string name="st_block_unknown_sms">Blocca messaggi da sconosciuti</string>
@@ -254,6 +255,9 @@
     <string name="ad_update_title">Aggiornamento automatico</string>
     <string name="ad_update_time">Ultimo aggiornamento: %s</string>
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: sconosciuto</string>
+    <string name="ad_block_hint">%d bloccati</string>
+    <string name="ad_single_block_hint">Bloccato</string>
+    <string name="ad_permission_hint">"L'utilizzo del blocco pubblicità potrebbe influenzare anche le prestazioni delle tue applicazioni o impedirne il normale funzionamento."</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
