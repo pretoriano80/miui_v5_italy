@@ -1349,7 +1349,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="manage_notification_access_summary_zero">Le applicazioni non possono leggere le notifiche</string>
     <string name="no_notification_listeners">Nessun rilevatore di notifiche installato.</string>
     <string name="notification_listener_security_warning_title">Enable %1$s?</string>
-    <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.</string>
+    <string name="notification_listener_security_warning_summary">%1$s sarà in gado di leggere tutte le notifiche postate dal sistema e dalle app installate, il che potrebbe includere dati personali come nomi di contatti e i messaggi di testo ricevuti. Sarà anche in grado di nascondere queste notifiche o simulare il tocco sui pulsanti in esse contenute.</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Attiva Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
@@ -2752,7 +2752,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="user_profile_confirm_remove_title">Rimuovere profilo?</string>
     <string name="user_confirm_remove_self_message">Perderai il tuo spazio ed i tuoi dati su questo telefono. Questa azione è irreversibile.</string>
     <string name="user_confirm_remove_message">Lo spazio e i dati di questo utente scompariranno dal telefono. Questa azione è irreversibile.</string>
-    <string name="user_profile_confirm_remove_message">o spazio e i dati di questo profilo scompariranno dal telefono. Questa azione è irreversibile.</string>
+    <string name="user_profile_confirm_remove_message">Lo spazio e i dati di questo profilo scompariranno dal telefono. Questa azione è irreversibile.</string>
     <string name="user_adding_new_user">Creazione nuovo utente…</string>
     <string name="user_delete_user_description">Elimina utente</string>
     <string name="user_delete_button">Elimina</string>
@@ -3241,26 +3241,26 @@ prova in questo modo:
     <string name="bugreport_tool_log_toast">Log salvato in %s</string>
     <string name="wifi_tether_setting_title">Impostazioni base tethering</string>
     <string name="audio_profile_settings_title">Profili audio</string>
-    <string name="enable_wifi_display">Attiva Wi-Fi display</string>
+    <string name="enable_wifi_display">Attiva schermo wireless</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">Centro MiCredit</string>
     <string name="wifi_auto_connect">Connessione automatico</string>
-    <string name="select_ssid_type_title">Seleziona SSID</string>
+    <string name="select_ssid_type_title">Seleziona tipologia di SSID</string>
     <string name="gsm_to_wifi_connect_type_title">Mobile->Wi-Fi</string>
-    <string name="wifi_priority_settings_label">Impostazioni di priorità</string>
+    <string name="wifi_priority_settings_label">Impostazioni priorità</string>
     <string name="wifi_priority_type_title">Imposta manualmente priorità AP</string>
     <string name="wifi_priority_type_summary">Consenti di impostare la priorità manualmente per ogni access point</string>
     <string name="wifi_priority_settings_title">Impostazioni priorità AP</string>
     <string name="wifi_priority_settings_summary">Premi pe rimpostare la priorità di ogni access point</string>
-    <string name="wifi_priority_changed" formatted="false">Precedente priorità value=%s,nuova value=%s</string>
-    <string name="wifi_configured_ap_list">Access poin precedenti</string>
+    <string name="wifi_priority_changed" formatted="false">Precedente priorità = %s, nuova = %s</string>
+    <string name="wifi_configured_ap_list">Access point precedenti</string>
     <string name="wifi_priority_label">Priorità</string>
     <string name="wifi_available_title">Connetti a Wi-Fi</string>
     <string name="msg_wlan_signal_found">Rilevato AP Wi-Fi %s, vuoi utilizzare questa rete Wi-Fi? Utilizzando questa rete verrà parzialmente interrotto il servizio dati.</string>
     <string name="wifi_signal_found_msg">Rilevato AP Wi-Fi disponibile, connettere adesso？</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi siano in contatto, quindi seleziona il contenuto che vuoi trasferire.</string>
-    <string name="bt_hci_snoop_log">Attiva Bluetooth HCI log</string>
+    <string name="bt_hci_snoop_log">Attiva log dello snoop HCI su Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Registra tutti i pacchetti Bluetooth HCI in un file</string>
     <string name="bt_trace_log">Attiva Bluetooth Trace log</string>
     <string name="bt_trace_log_summary">Attiva Bluetooth trace log</string>
@@ -3311,7 +3311,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="hdmi_3d_help_title">Informazioni sul supporto HDMI 3D stereoscopico</string>
     <string name="power_mode_balanced_title">Attiva alimentazione bilanciata</string>
     <string name="usb_host_mode_text">Attiva modalità host USB</string>
-    <string name="usb_host_mode_subtext">Per utilizzare controller o altre periferiche sulla porta USB, potrebbe incidere sul consumo di batteria</string>
+    <string name="usb_host_mode_subtext">"L'uso di controller o altre periferiche sulla porta USB potrebbe incidere sul consumo di batteria"</string>
     <string name="title_color_calibration">Preselezione calibrazione colore</string>
     <string name="dialog_title_color_calibration">Preselezione calibrazione colore</string>
     <string name="color_calibration_srgb">sRGB</string>
@@ -3321,7 +3321,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="hdmi_color_calibration_none">Nessuna</string>
     <string name="hdmi_3d_display_enable_title">Attiva display 3D</string>
-    <string name="hdmi_3d_display_enable_summary">Attiva supporto giochi 3D</string>
+    <string name="hdmi_3d_display_enable_summary">Attivare per supportare i giochi 3D</string>
     <string name="noise_suppression">Riduzione rumore</string>
     <string name="phone_call_noise_suppression">Riduzione rumore telefono</string>
     <string name="lock_settings_common_title">Impostazioni blocco</string>

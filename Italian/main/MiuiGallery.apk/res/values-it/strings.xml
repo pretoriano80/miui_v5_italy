@@ -195,6 +195,9 @@
     <string name="bigscreen_slide_fail_cause_loading">"Carica la presentazione dopo che l'immagine è stata caricata".</string>
     <string name="bigscreen_video_quit">Tocca per uscire dalla riproduzione del video</string>
     <string name="defalt_local_mobile">Mobile</string>
+    <string name="local_time">(Locale)</string>
+    <string name="photo_page_detail_show_in_the_map">Mostra posizione su mappa</string>
+    <string name="start_slide_show">Avvia la presentazione</string>
     <string name="other_category">Altre impostazioni</string>
     <string name="show_hidden_album">Mostra album nascosti</string>
     <string name="auto_create_recent_album">Crea automaticamente album preferiti</string>
@@ -349,6 +352,8 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="confirm_download_video_message">Il video richiede il download! Il download verrà ripreso qundo sarà disponibile una connessione Wi-Fi.</string>
     <string name="image_download_item_title">Download immagine (%s)</string>
     <string name="item_not_sync">Questo elemento non può essere sincronizzato in cloud e non può essere scaricato</string>
+    <string name="item_not_sync_for_origin_image">Questa immagine non è stata sincronizzata in cloud e la sua immagine di origine non può essere scaricata</string>
+    <string name="item_not_sync_for_refocus_data">Questa immagine non è stata sincronizzata in cloud ed i suoi dati per la rimessa a fuoco non possono essere scaricati</string>
     <string name="fail_to_download_n_items">Impossibile scaricare %s</string>
     <string name="cloud_album_more_settings">Album cloud</string>
     <string name="browse_category">Gestione Foto</string>
@@ -515,4 +520,7 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="ubifocus_data_missing">Alcuni dati sono andati persi</string>
     <string name="ubifocus_map_error">Alcuni dati non sono coretti</string>
     <string name="ubifocus_refocus_fail_tip">Impossibile rimettere a fuoco a causa di alcuni dati mancanti o errati</string>
+    <string name="download_refocus_data">Scarica dati rimessa a fuoco</string>
+    <string name="refocus_data_downloading">Download dei dati di rimessa a fuoco…</string>
+    <string name="ubifocus_guide_text">Tieni premuto per rimettere a fuoco</string>
 </resources>

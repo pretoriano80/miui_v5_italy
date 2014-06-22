@@ -1,0 +1,8 @@
+<strings>
+  <string name="sliding_down_hint_miui" value="Scorri verso il basso per accettare"/> 
+	<string name="sliding_target_hint_miui" value="Scorrere"/> 
+	<string name="sliding_up_hint_miui" value="Scorri verso l'alto per rifiutare"/> 
+	<string name="hangup_sms_miui" value="Rifiuta con un SMS"/> 
+	<string name="answer_and_hangup_miui" value="Rispondi"/> 
+	<string name="ignore_miui" value="Ignora"/> 
+</strings>
