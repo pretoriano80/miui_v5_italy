@@ -153,8 +153,9 @@ riproposta la scelta, perché il telefono non può distinguerlo da solo.
 Se usi spesso le cuffie, scegli la Modalità Cuffie, 
 così il telefono non ti proporrà la scelta ogni volta
 che lo accendi"</string>
-    <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini più nitide,
-ma allunga il tempo impiegato per eseguire lo scatto"</string>
+    <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini 
+più nitide, ma allunga il tempo impiegato 
+per eseguire lo scatto"</string>
     <string name="toolbox_outer_desc">"Premi sul segno + o la funzione esistente
 Una combinazione dei loro strumenti"</string>
     <string name="setting_speed_max_time">1000</string>
