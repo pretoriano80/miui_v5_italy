@@ -218,7 +218,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Si è verificato un errore durante la verifica del tuo Mi Account</string>
     <string name="activate_status_desc_registering_xiaomi_account">Registrazione Mi Account sul server</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Si è verificato un errore durante la creazione del tuo Mi Account</string>
-    <string name="sim_unactivated_title">La tua carta SIM non è attività</string>
+    <string name="sim_unactivated_title">La tua carta SIM non è attiva</string>
     <string name="activate_popup_title_manual">Attivazione carta SIM</string>
     <string name="activate_popup_desc_sim_card">Ti verrà inviato un SMS per attivare la tua SIM, in modo da poter attivare funzioni come %s (ai costi preisti dal tuo operatore)</string>
     <string name="activate_popup_desc_intl_sim_card">"Verrà inviato un SMS internazionale per attivare la tua carta SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
