@@ -3402,4 +3402,6 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="miracast_PC2THOR_streaming_on">Miracast non è disponibile perchè un PC è in streaming su questo dispositivo</string>
     <string name="miracast_disable_dhcp">Disattiva HDCP</string>
     <string name="miracast_enable_dhcp">Attiva HDCP</string>
+    <string name="local_backup_section_title">Backup locale</string>
+    <string name="local_backup_section_summary">Backup di impostazioni di sistema, account, e applicazioni</string>    
 </resources>

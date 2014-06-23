@@ -3219,6 +3219,6 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="app_backup">Backup</string>
     <string name="google_backup_section_title">Google backup e ripristino</string>
     <string name="system_backup_section_title">Backup</string>
-    <string name="local_backup_section_title">Backup locali</string>
-    <string name="local_backup_section_summary">Backup delle impostazioni di sistema, account ed applicazioni, account and apps</string>
+    <string name="local_backup_section_title">Backup locale</string>
+    <string name="local_backup_section_summary">Backup di impostazioni di sistema, account, e applicazioni</string>
 </resources>
