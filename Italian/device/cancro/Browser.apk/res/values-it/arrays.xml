@@ -19,7 +19,7 @@
         <item>Disattivato</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Il browser aprirà questa pagina</item>
+        <item>Pagina iniziale predefinita</item>
         <item>Personalizza</item>
     </string-array>
     <string-array name="pref_text_size_choices">

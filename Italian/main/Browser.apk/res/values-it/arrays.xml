@@ -17,6 +17,10 @@
         <item>Blu</item>
         <item>Scuro</item>
     </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Pagina iniziale predefinita</item>
+        <item>Personalizza</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Sempre attivato</item>
         <item>Chiedimi sempre</item>
