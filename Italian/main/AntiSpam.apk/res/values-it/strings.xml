@@ -167,7 +167,7 @@
     <string name="st_filter_keywords_title">Filtra le parole chiavi nei messaggi</string>
     <string name="st_filter_keywords_setting_summary1">I messaggi da numeri sconosciuti verranno bloccati.</string>
     <string name="st_filter_keywords_setting_summary2">"
-Aggiungi più parole separandola con la virgola."</string>
+Aggiungi più parole separandole con la virgola."</string>
     <string name="st_advanced_setting_group">Impostazioni avanzate</string>
     <string name="st_block_unknown_call">Blocca chiamate da sconosciuti</string>
     <string name="st_block_unknown_sms">Blocca messaggi da sconosciuti</string>

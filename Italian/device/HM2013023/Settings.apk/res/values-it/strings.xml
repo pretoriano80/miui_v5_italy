@@ -1002,7 +1002,7 @@ Consentire l'avvio automatico?"</string>
     <string name="deny">Nega</string>
     <string name="device_info_default">Sconosciuto</string>
     <string name="show_dev_on">Ora sei uno sviluppatore!</string>
-    <string name="show_dev_already">"Non c'è bisogno, sei già uno sviluppatore."</string>
+    <string name="show_dev_already">Non occorre, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
     <string name="header_category_device">DISPOSITIVO</string>
     <string name="header_category_personal">PERSONALE</string>
