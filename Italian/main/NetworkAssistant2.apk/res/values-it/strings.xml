@@ -187,15 +187,14 @@ Utilizzare ulteriormente i dati oltre i limiti del tuo piano potrebbe comportare
     <string name="traffic_config_alert_ok">OK</string>
     <string name="traffic_config_alert_cancel">Annulla</string>
     <string name="traffic_config_alert_nomore">Non chiedere più</string>
-    <string name="traffic_config_alert_body">"Your carrier's data usage accounting shows you have %s remaining.
-Do you want to update your local data usage limit?"</string>
-    <string name="traffic_config_alert_body_normal">"
-Your carrier's data usage accounting shows you have %1$s of peak usage remaining. This is different from the %2$s limit you've set locally."</string>
+    <string name="traffic_config_alert_body">"Il resoconto dei dati usati fornito dal tuo operatore mostra che ti rimangono %s.
+Vuoi aggiornare il limite uso dati locale?"</string>
+    <string name="traffic_config_alert_body_normal">"Il resoconto dei dati usati fornito dal tuo operatore mostra che hai ancora %1$s di traffico in picco residuo. Questo è diverso dal limite di %2$s che hai stabilito localmente."</string>
     <string name="traffic_config_alert_body_leisure">"
-Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. This is different from the %2$s limit you've set locally."</string>
+Il resoconto dei dati usati fornito dal tuo operatore mostra che hai ancora %1$s di traffico fuori picco residuo. Questo è diverso dal limite di %2$s che hai stabilito localmente"</string>
     <string name="traffic_config_alert_body_leisure_notset">"
 Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. You haven't set a limit."</string>
-    <string name="traffic_config_alert_setted">Data limit set</string>
+    <string name="traffic_config_alert_setted">Limite dati impostato</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -207,24 +206,24 @@ Your carrier's data usage accounting shows you have %1$s of off-peak usage remai
     <string name="datausage_purchase_title_pkglist">Acquista dati</string>
     <string name="datausage_purchase_title_confirm">Dettagli di acquisto</string>
     <string name="datausage_purchase_title_order">Acquista dati</string>
-    <string name="datausage_purchase_banner_title">"You're %s over your limit"</string>
-    <string name="datausage_purchase_view_detail">View details</string>
-    <string name="datausage_purchase_buy">Buy</string>
-    <string name="datausage_purchase_pay_confirm">Pay</string>
-    <string name="datausage_purchase_pay_hint">To cancel call %s</string>
-    <string name="datausage_purchase_pay_captcha_hint">Enter verification code</string>
-    <string name="datausage_purchase_pay_captcha_tips">"After you've entered your verification code tap Pay. You'll receive a confirmation within 10 minutes."</string>
-    <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
-    <string name="datausage_purchase_get_captcha_again">Send again</string>
-    <string name="datausage_purchase_get_captcha_failed">"Can't get verification code. Check your data connection and try again."</string>
-    <string name="datausage_purchase_confirm_tip">Order:</string>
-    <string name="datausage_purchase_ordering">Purchasing…</string>
-    <string name="datausage_purchase_result_ok">"You purchased %s
-See the message sent by your service provider for more info."</string>
-    <string name="datausage_purchase_result_failed">"Can't complete purchase"</string>
-    <string name="datausage_purchase_backto_ns">Back</string>
-    <string name="datausage_purchase_goto_monthsetting">Readjust data limit</string>
-    <string name="datausage_purchase_pkglist_nodata">"There's a conflict with your existing data plan and your current order. Contact your service provider for more information."</string>
-    <string name="datausage_purchase_pkglist_networkerror">"Can't connect to the network. Check your data connection and try again."</string>
-    <string name="datausage_purchase_pkglist_servererror">Server error</string>
+    <string name="datausage_purchase_banner_title">"Sei oltre il tuo limite di %s"</string>
+    <string name="datausage_purchase_view_detail">Mostra dettagli</string>
+    <string name="datausage_purchase_buy">Acquista</string>
+    <string name="datausage_purchase_pay_confirm">Paga</string>
+    <string name="datausage_purchase_pay_hint">Per cancellare chiama %s</string>
+    <string name="datausage_purchase_pay_captcha_hint">Inserisci il codice di verifica</string>
+    <string name="datausage_purchase_pay_captcha_tips">Dopo aver inserito il tuo codice di verifica, tocca Paga. Riceverai una conferma entro 10 minuti.</string>
+    <string name="datausage_purchase_get_captcha">Ottieni codice di verifica (%d)</string>
+    <string name="datausage_purchase_get_captcha_again">Invia di nuovo</string>
+    <string name="datausage_purchase_get_captcha_failed">"Impossibile ottenere il codice di verifica. Verifica la tua connessione dati e riprova."</string>
+    <string name="datausage_purchase_confirm_tip">Ordine:</string>
+    <string name="datausage_purchase_ordering">Acquisto in corso...</string>
+    <string name="datausage_purchase_result_ok">"Acquistati %s
+Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informazioni."</string>
+    <string name="datausage_purchase_result_failed">"Impossibile completare l'acquisto"</string>
+    <string name="datausage_purchase_backto_ns">Indietro</string>
+    <string name="datausage_purchase_goto_monthsetting">Risistema limite dati</string>
+    <string name="datausage_purchase_pkglist_nodata">"C'è un conflitto tra il tuo piano dati attivo e il tuo attuale ordine. Contatta il tuo provider di servizi per maggiori informazioni."</string>
+    <string name="datausage_purchase_pkglist_networkerror">Impossibile connettersi alla rete. Verifica la tua connessioni dati e riprova</string>
+    <string name="datausage_purchase_pkglist_servererror">Errore lato server</string>
 </resources>

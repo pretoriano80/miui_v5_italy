@@ -2482,7 +2482,7 @@ Questa impostazione avrà effetto su tutti gli utenti del telefono."</string>
     <string name="selinux_status_disabled">Disabilitato</string>
     <string name="selinux_status_enforcing">Rafforzante</string>
     <string name="selinux_status_permissive">Permissivo</string>
-    <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
+    <string name="show_dev_already">Non occorre, sei già uno sviluppatore.</string>
     <string name="show_dev_on">Adesso sei uno sviluppatore!</string>
     <string name="show_hw_layers_updates">Aggiornamenti livelli hardware</string>
     <string name="show_hw_layers_updates_summary">Lampeggia verde se aggiornamenti hardware</string>

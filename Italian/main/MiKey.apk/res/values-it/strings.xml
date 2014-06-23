@@ -113,13 +113,25 @@
     <string name="back_camera">Fotocamera posteriore</string>
     <string name="write_pic_fail">Impossibile salvare immagine</string>
     <string name="settings">Impostazioni</string>
-    <string name="about">Informazioni</string>
-    <string name="task_title_prefix">"Operazione: "</string>
-    <string name="setting_feedback">Feedback</string>
-    <string name="setting_speed_desc">"Una maggiore velocità garantisce tempi di reazione più rapidi, 
-lo svantaggio è una diminuzione dei corretti riconoscimenti del comando.
-Diminuendo la velocità, il tasso di successo aumenterà,
-ma la risposta sarà più lenta"</string>
+    <string name="setting_buy">Acquista MiKey</string>
+    <string name="app_not_installed">Applicazione non installata</string>
+    <string name="setting_toolbar">Strumenti</string>
+    <string name="setting_toolbar_desc">"Puoi accedere rapidamente alle funzionalità degli strumenti dalla barra di notifica.
+Apporta energia e risparmio."</string>
+    <string name="setting_toolbar_tip">"Clicca sul + per aggiungere funzionalità, clicca su una esistente per modificarla.
+Premi a lungo per cancellarla.
+Ora puoi personalizzare i tuoi strumenti!
+
+Attiva la barra degli strumenti, in ogni caso
+dal cellulare puoi scorrere lo slide in basso per usarla"</string>
+    <string name="task_title_prefix">Passo n.</string>
+    <string name="setting_feedback">Reattività MiKey</string>
+    <string name="setting_speed_desc">Una velocità maggiore garanstice maggiore reattività, 
+ma può diminuire il tasso di riconoscimenti corretti
+Diminuendo la velocità aumenterai il tasso di riconoscimenti 
+corretti ma diminuirà il tempo di risposta.
+
+"</string>
     <string name="setting_speed_slow">Più lenta</string>
     <string name="setting_speed_quick">Più veloce</string>
     <string name="setting_vibrate_desc">"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
@@ -141,8 +153,9 @@ riproposta la scelta, perché il telefono non può distinguerlo da solo.
 Se usi spesso le cuffie, scegli la Modalità Cuffie, 
 così il telefono non ti proporrà la scelta ogni volta
 che lo accendi"</string>
-    <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini più nitide,
-ma allunga il tempo impiegato per eseguire lo scatto"</string>
+    <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini 
+più nitide, ma allunga il tempo impiegato 
+per eseguire lo scatto"</string>
     <string name="toolbox_outer_desc">"Premi sul segno + o la funzione esistente
 Una combinazione dei loro strumenti"</string>
     <string name="setting_speed_max_time">1000</string>

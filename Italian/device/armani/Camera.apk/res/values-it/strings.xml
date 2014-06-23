@@ -87,9 +87,9 @@
     <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
     <string name="pref_camera_picture_format_entry_raw">RAW</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
-    <string name="pref_camera_jpegquality_entry_high">Alto</string>
+    <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
-    <string name="pref_camera_jpegquality_entry_low">Basso</string>
+    <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_histogram_title">Istogramma</string>
     <string name="pref_camera_histogram_entry_enable">Abilita</string>
     <string name="pref_camera_histogram_entry_disable">Disabilita</string>
