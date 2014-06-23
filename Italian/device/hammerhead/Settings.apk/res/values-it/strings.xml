@@ -3656,4 +3656,5 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="miracast_enable_dhcp">Attiva HDCP</string>
     <string name="local_backup_section_title">Backup locale</string>
     <string name="local_backup_section_summary">Backup di impostazioni di sistema, account e applicazioni</string>    
+    <string name="use_network_warning">Xiaom Service Framework e Cloud Service richiedono una connessione di rete</string>
 </resources>
