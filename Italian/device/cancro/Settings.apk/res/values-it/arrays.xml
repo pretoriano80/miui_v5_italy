@@ -275,6 +275,20 @@
         <item>Medio</item>
         <item>Lungo</item>
     </string-array>
+	    <string-array name="captioning_font_size_selector_titles">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Bianco su nero</item>
+        <item>Nero su bianco</item>
+        <item>Giallo su nero</item>
+        <item>Giallo su blu</item>
+        <item>Personalizzato</item>
+    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Non controllare mai</item>
         <item>Controlla solo contenuti DRM</item>
