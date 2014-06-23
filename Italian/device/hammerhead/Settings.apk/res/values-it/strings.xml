@@ -2348,7 +2348,8 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="color_blue">Blu</string>
     <string name="color_cyan">Ciano</string>
     <string name="color_yellow">Giallo</string>
-    <string name="color_magenta">Magenta</string>   
+    <string name="color_magenta">Magenta</string>
+    <string name="color_custom">\#%1$02X%2$02X%3$02X</string>    
     <string name="enable_service_title">Utilizzare %1$s?</string>
     <string name="capabilities_list_title">%1$s serve per:</string>
     <string name="capability_title_receiveAccessibilityEvents">Osserva le tue azioni</string>
