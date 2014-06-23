@@ -2783,7 +2783,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="total_size">%s (totali)</string>
     <string name="memory_title">Disponibile %1$s\u0009\u0009Totale %2$s</string>
     <string name="xiaomi_account">Account Xiaomi</string>
-    <string name="sync_settings">Account e sinc.</string>
+    <string name="sync_settings">Account e sincronizzazione</string>
     <string name="sms_received_sound_title">Suono SMS ricevuto</string>
     <string name="sms_delivered_sound_title">Suono SMS inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono SMS ricevuto</string>
@@ -2851,7 +2851,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
     <string name="status_bar_settings">Impostazioni Barra di Stato</string>
-    <string name="complete_settings">Complete</string>
+    <string name="complete_settings">Tutte</string>
     <string name="common_settings">Frequenti</string>
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
@@ -2859,7 +2859,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="power_usage_history">Utilizzo batteria</string>
     <string name="default_usb_mode">Connessione USB predefinita</string>
     <string name="unlock_set_unlock_summary">Abilitare password schermo per attivare la protezione con password</string>
-    <string name="lock_settings_picker_settings">Imposta Lockscreen</string>
+    <string name="lock_settings_picker_settings">Imposta schermata di blocco</string>
     <string name="lock_screen_unlock_show">Mostra direttamente schermata password</string>
     <string name="lock_screen_unlock_show_summary">"Non usare altri lockscreen dopo l'abilitazione, vai alla schermata di sblocco"</string>
     <string name="date_time_settings">Data e ora</string>
@@ -2873,15 +2873,15 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
     <string name="connected_wifi">Wi-Fi connessa</string>
-    <string name="incoming_call_breathing_light_color_title">Colore luce chiamte</string>
-    <string name="notification_breathing_light_color_title">Colore luce notifiche</string>
-    <string name="mms_breathing_light_color_title">Colore luce messaggi</string>
+    <string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
+    <string name="notification_breathing_light_color_title">Colore LED notifiche</string
+    <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
     <string name="breathing_light_color_menu_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>
     <string name="breathing_light_freq_title">Intermittenza LED</string>
-    <string name="incoming_call_breathing_light_freq_title">Frequenza LED per le chiamate</string>
-    <string name="notification_breathing_light_freq_title">Frequenza LED per le notifiche</string>
-    <string name="mms_breathing_light_freq_title">Frequenza LED per i messaggi</string>
+    <string name="incoming_call_breathing_light_freq_title">Intermittenza LED chiamate</string>
+    <string name="notification_breathing_light_freq_title">Intermittenza LED notifiche</string>
+    <string name="mms_breathing_light_freq_title">Intermittenza LED messaggi</string>
     <string name="breathing_light_freq_summary">Lampeggia al ricevimento di notifiche</string>
     <string name="led_settings">LED</string>
     <string name="led_colors_summary">Colore notifiche LED</string>
@@ -2889,9 +2889,9 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="led_pulse_summary">Attiva il LED intermittente per le nuove notifiche</string>
     <string name="show_rounded_corners">Mostra angoli arrotondati</string>
     <string name="pref_operational_key">Tasti funzionali</string>
-    <string name="pref_button_light">Tasti luminosi</string>
+    <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Tasti Menu, Home e Indietro</string>
-    <string name="button_light_timeout">Timeout tasti luminosi</string>
+    <string name="button_light_timeout">Timeout luce tasti</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
     <string name="headset_settings">Impostazioni Cuffie</string>
@@ -2958,8 +2958,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="remove_from_frequently_fragment">Rimuovi \"%s\" dalle impostazioni comuni?</string>
     <string name="frequently_fragment_tempty">Gli elementi utilizzati di frequente verranno mostrati qui</string>
     <string name="frequently_fragment_delete">Elimina</string>
-    <string name="show_fc">Mostra FC</string>
-    <string name="show_fc_summary">Mostra la finestra Force Close per le applicazioni</string>
+    <string name="show_fc">Mostra CF</string>
+    <string name="show_fc_summary">Mostra la finestra Chiusura Forzata per le applicazioni</string>
     <string name="factory_reset_summary">Puoi cancellare i tuoi dati personali reimpostando il tuo telefono o scegliere di cancellare le applicazioni installate e cancellare la scheda SD per ripristinare le impostazioni di fabbica</string>
     <string name="erase_sure">Confermare cancellazione?</string>
     <string name="erase_personal_data">Dati personali</string>
@@ -3066,12 +3066,12 @@ e lancialo manualmente。"</li>"
 "<li>Installa di nuovo i driver.</li></string>
     <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
-1) Usa il tool di installazione sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Create a directory mkdir /media/mtp
+1) Usa il tool di installazione (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
+2) Crea una directory (mkdir /media/mtp)
 3) Conferma  i permessi del gruppo utente nel gruppo utente fuse attuale
 4) Accedi di nuovo
 5) Accedi al dispositivo montato mtpfs /media/mtp via File explorer; stesso della directory locale
-6) Disinstalla il dispositivo fusermount -u /media/mtp
+6) Disinstalla il dispositivo (fusermount -u /media/mtp)
  Nota: Per ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
@@ -3081,8 +3081,8 @@ prova in questo modo:
     <string name="vpn_settings_password">Impostazioni Password VPN</string>
     <string name="vpn_safe">Sicurezza VPN</string>
     <string name="vpn_configure">Configura VPN</string>
-    <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
-    <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
+    <string name="vpn_dns_servers_hint">es: 8.8.8.8</string>
+    <string name="vpn_routes_hint">es: 10.0.0.0/8</string>
     <string name="sync_wifi_label">Reti Wi-Fi</string>
     <string name="wifi_enable">Abilita Wi-Fi</string>
     <string name="bluetooth_enable">Abilita Bluetooth</string>
