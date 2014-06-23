@@ -2273,7 +2273,7 @@ Puoi aggiungere una parola toccando il pulsante Aggiungi (+)."</string>
 
 Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte del proprio sviluppatore"</string>
     <string name="enable_terminal_title">Terminale locale</string>
-    <string name="enable_terminal_summary">Abiita l'app terminale che offre accesso alla shell</string>    
+    <string name="enable_terminal_summary">"Abiita l'app terminale che offre accesso alla shell"</string>    
     <string name="gadget_picker_title">Scegli gadget</string>
     <string name="widget_picker_title">Scegli widget</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">"Creare widget e consentire l'accesso?"</string>
@@ -2328,7 +2328,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="captioning_standard_options_title">Opzioni standard</string>
     <string name="captioning_locale">Lingua</string>
     <string name="captioning_text_size">Dimensione testo</string>
-    <string name="captioning_preset">Stile intestazione</string>
+    <string name="captioning_preset">Stile didascalia</string>
     <string name="captioning_custom_options_title">Opzioni personalizzate</string>
     <string name="captioning_background_color">Colore sfondo</string>
     <string name="captioning_background_opacity">Opacità sfondo</string>
@@ -2336,7 +2336,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="captioning_edge_color">Colore bordo</string>
     <string name="captioning_edge_type">Tipo bordo</string>
     <string name="captioning_typeface">Famiglia font</string>
-    <string name="captioning_preview_text">Le intestazioni appariranno così</string>
+    <string name="captioning_preview_text">Le didascalie appariranno così</string>
     <string name="captioning_preview_characters">Aa</string>
     <string name="locale_default">Predefinito</string>
     <string name="color_none">Nessuno</string>
@@ -2364,7 +2364,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="print_settings">Stampa in corso</string>
     <string name="print_settings_title">Servizi di stampa</string>
     <string name="print_service_security_warning_title">Usare %1$s?</string>
-    <string name="print_service_security_warning_summary">Il tuo documento potrebber passare attraverso o più server lungo la strada vero la stampante.</string>
+    <string name="print_service_security_warning_summary">Il tuo documento potrebbe passare attraverso uno o più server lungo la strada vero la stampante.</string>
     <string name="print_no_services_installed">Nessun servizio installato</string>
     <string name="print_no_printers_found">Nessuna stampante trovata</string>
     <string name="print_menu_item_settings">Impostazioni</string>

@@ -3139,8 +3139,7 @@ e lancialo manualmente。"</li>"
 "<li>Installa di nuovo i driver.</li></string>
     <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
-1) Usa il tool di installazione
- (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
+1) Usa il tool di installazione (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
 2) Crea una directory (mkdir /media/mtp)
 3) Conferma  i permessi del gruppo utente nel gruppo utente fuse attuale
 4) Accedi di nuovo
