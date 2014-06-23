@@ -3183,7 +3183,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="network_detail">%s Dettagli rete</string>
     <string name="connected_wifi">Wi-Fi connessa</string>
     <string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
-    <string name="notification_breathing_light_color_title">Colore LED notifiche</string
+    <string name="notification_breathing_light_color_title">Colore LED notifiche</string>
     <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
     <string name="breathing_light_color_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>
