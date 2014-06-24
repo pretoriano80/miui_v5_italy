@@ -3267,7 +3267,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="remove_from_frequently_fragment">Rimuovi \"%s\" dalle impostazioni comuni?</string>
     <string name="frequently_fragment_tempty">Gli elementi utilizzati di frequente verranno mostrati qui</string>
     <string name="frequently_fragment_delete">Elimina</string>
-    <string name="show_fc">Mostra CF</string>
+    <string name="show_fc">Mostra FC</string>
     <string name="show_fc_summary">Mostra la finestra Chiusura Forzata per le applicazioni</string>
     <string name="factory_reset_summary">Puoi cancellare i tuoi dati personali reimpostando il tuo telefono o scegliere di cancellare le applicazioni installate e cancellare la scheda SD per ripristinare le impostazioni di fabbica</string>
     <string name="erase_sure">Confermare cancellazione?</string>
