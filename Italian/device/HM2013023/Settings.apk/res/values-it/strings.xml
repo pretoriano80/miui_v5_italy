@@ -2195,13 +2195,13 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
     <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
 
-Durante l\'ingrandimento puoi:
-<ul><li>Muovere: sposta due o più dita lungo lo schermo.</li>
-<li>Regolare livello zoom: pizzica o allarga con due o più dita.</li></ul>
+Durante l'ingrandimento puoi:
+"<li><ul>"Muovere: sposta due o più dita lungo lo schermo.
+"<li>Regolare livello zoom: pizzica o allarga con due o più dita.</li></ul></li>"
 
 Puoi anche ingrandire temporaneamente quello che è sotto il tuo dito toccando tre volte e tenendo premuto alla fine. In questa modalità di ingrandimento puoi spostare il dito per vedere varie parti dello schermo. Distacca il dito per tornare alla modalità precedente.
 
-Nota: L\'ingrandimento con tre tocchi funziona ovunque tranne che sulla tastiera e la barra di navigazione."</string>    
+Nota: L'ingrandimento con tre tocchi funziona ovunque tranne che sulla tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento accessibilità</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
