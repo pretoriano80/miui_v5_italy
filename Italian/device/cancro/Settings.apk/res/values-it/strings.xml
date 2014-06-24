@@ -2752,7 +2752,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="user_add_user_type_title">Aggiungi</string>
     <string name="user_add_user_item_summary">Ogni utente ha le proprie applicazioni ed i propri contenuti</string>
     <string name="user_add_profile_item_summary">"Puoi limitare l'accesso ad applicazioni e contenuti tramite il tuo account"</string>
-    <string name="user_add_user_item_title">User</string>
+    <string name="user_add_user_item_title">Utente</string>
     <string name="user_add_profile_item_title">Profilo riservato</string>
     <string name="user_add_user_title">Aggiungi nuovo utente</string>
     <string name="user_add_user_message_long">"Puoi condividere questo dispositivo con altre persone creando altri utentis. Ogni utente ha il proprio spazio, personalizzabile con le proprie applicazioni, sfondi e così via. Gli utenti possono anche regolare le impostazioni del tablet, come Wi-Fi, che saranno valide per tutti gli utenti.
@@ -2890,7 +2890,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="total_size">%s (totali)</string>
     <string name="memory_title">Disponibile %1$s\u0009\u0009Totale %2$s</string>
     <string name="xiaomi_account">Account Xiaomi</string>
-    <string name="sync_settings">Account e sinc.</string>
+    <string name="sync_settings">Account e sincronizzazione</string>
     <string name="sms_received_sound_title">Suono SMS ricevuto</string>
     <string name="sms_delivered_sound_title">Suono SMS inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono SMS ricevuto</string>
@@ -2965,7 +2965,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
     <string name="status_bar_settings">Impostazioni Barra di Stato</string>
-    <string name="complete_settings">Complete</string>
+    <string name="complete_settings">Tutte</string>
     <string name="common_settings">Frequenti</string>
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
@@ -2973,7 +2973,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="power_usage_history">Utilizzo batteria</string>
     <string name="default_usb_mode">Connessione USB predefinita</string>
     <string name="unlock_set_unlock_summary">Abilitare password schermo per attivare la protezione con password</string>
-    <string name="lock_settings_picker_settings">Imposta Lockscreen</string>
+    <string name="lock_settings_picker_settings">Imposta schermata di blocco</string>
     <string name="lock_screen_unlock_show">Mostra direttamente schermata password</string>
     <string name="lock_screen_unlock_show_summary">"Non usare altri lockscreen dopo l'abilitazione, vai alla schermata di sblocco"</string>
     <string name="date_time_settings">Data e ora</string>
@@ -3002,9 +3002,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="led_pulse_summary">Attiva il LED intermittente per le nuove notifiche</string>
     <string name="show_rounded_corners">Mostra angoli arrotondati</string>
     <string name="pref_operational_key">Tasti funzionali</string>
-    <string name="pref_button_light">Tasti luminosi</string>
+    <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Tasti Menu, Home e Indietro</string>
-    <string name="button_light_timeout">Timeout tasti luminosi</string>
+    <string name="button_light_timeout">Timeout luce tasti</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
     <string name="headset_settings">Impostazioni Cuffie</string>
@@ -3168,28 +3168,28 @@ Seleziona il sistema operativo utilizzato:"</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_windows_xp_step_2_1">"1.Se compare il Setup Wizard, 
 segui i passaggi per completare l'installazione"</string>
-    <string name="msd_install_retry_windows_xp">"Se il tuo computer non rileva correttamente il MI-2,
+    <string name="msd_install_retry_windows_xp">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
 "<li>Disconnetti e riconnetti il cavo USB del Mi3W dal computer.</li>"
 "<li>Installa di nuovo i driver.</li></string>
-    <string name="msd_install_retry_windows_vista">"Se il tuo computer non rileva correttamente il Mi3W,
+    <string name="msd_install_retry_windows_vista">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
 "<li>Disconnetti e riconnetti il cavo USB del Mi3W dal computer.</li></string>
-    <string name="msd_install_retry_mac">"Se il tuo computer non rileva correttamente il Mi3W,
+    <string name="msd_install_retry_mac">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
 "<li>"Esegui una ricerca sul computer per
 Android File Transfer,
 e lancialo manualmente。"</li>"
 "<li>Disconnetti e riconnetti il cavo USB del Mi3W dal computer.</li>"
 "<li>Installa di nuovo i driver.</li></string>
-    <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il Mi3W,
+    <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
-1) Usa il tool di installazione sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Create a directory mkdir /media/mtp
+1) Usa il tool di installazione (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
+2) Crea una directory (mkdir /media/mtp)
 3) Conferma  i permessi del gruppo utente nel gruppo utente fuse attuale
 4) Accedi di nuovo
 5) Accedi al dispositivo montato mtpfs /media/mtp via File explorer; stesso della directory locale
-6) Disinstalla il dispositivo fusermount -u /media/mtp
+6) Disinstalla il dispositivo (fusermount -u /media/mtp)
  Nota: Per ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
@@ -3199,8 +3199,8 @@ prova in questo modo:
     <string name="vpn_settings_password">Impostazioni Password VPN</string>
     <string name="vpn_safe">Sicurezza VPN</string>
     <string name="vpn_configure">Configura VPN</string>
-    <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
-    <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
+    <string name="vpn_dns_servers_hint">es: 8.8.8.8</string>
+    <string name="vpn_routes_hint">es: 10.0.0.0/8</string>
     <string name="sync_wifi_label">Reti Wi-Fi</string>
     <string name="wifi_enable">Abilita Wi-Fi</string>
     <string name="bluetooth_enable">Abilita Bluetooth</string>
@@ -3286,10 +3286,10 @@ prova in questo modo:
     <string name="wifi_signal_found_msg">Rilevato AP Wi-Fi disponibile, connettere adesso？</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi siano in contatto, quindi seleziona il contenuto che vuoi trasferire.</string>
-    <string name="bt_hci_snoop_log">Attiva log dello snoop HCI su Bluetooth</string>
-    <string name="bt_hci_snoop_log_summary">Registra tutti i pacchetti Bluetooth HCI in un file</string>
-    <string name="bt_trace_log">Attiva Bluetooth Trace log</string>
-    <string name="bt_trace_log_summary">Attiva Bluetooth trace log</string>
+    <string name="bt_hci_snoop_log">Registro snoop HCI Bluetooth</string>
+    <string name="bt_hci_snoop_log_summary">Registra tutti i pacchetti HCI Bluetooth in un file</string>
+    <string name="bt_trace_log">Trace log Bluetooth</string>
+    <string name="bt_trace_log_summary">Attiva trace log Bluetooth</string>
     <string name="wifi_share">Condividi rete</string>
     <string name="wifi_share_turn_on">Condivisione Wi-Fi attivata</string>
     <string name="wifi_share_turn_off">Condivisione Wi-Fi disattivata</string>
