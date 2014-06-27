@@ -2335,7 +2335,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="captioning_foreground_color">Colore testo</string>
     <string name="captioning_edge_color">Colore del bordo</string>
     <string name="captioning_edge_type">Tipo di bordo</string>
-    <string name="captioning_typeface">Faglia font</string>
+    <string name="captioning_typeface">Famiglia font</string>
     <string name="captioning_preview_text">La didascalia sarà simile a questa</string>
     <string name="captioning_preview_characters">Aa</string>
     <string name="locale_default">Principale</string>
