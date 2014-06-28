@@ -1910,8 +1910,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="manage_mobile_plan_title">Gestisci piano dati mobile</string>
     <string name="sms_application_title">Default SMS app</string>
     <string name="sms_change_default_dialog_title">Change SMS app?</string>
-    <string name="sms_change_default_dialog_text" formatted="false">Use %s instead of %s as your SMS app?</string>
-    <string name="sms_change_default_no_previous_dialog_text">Use %s as your SMS app?</string>
+    <string name="sms_change_default_dialog_text" formatted="false">Usare %s invece di %s come app per gli SMS?</string>
+    <string name="sms_change_default_no_previous_dialog_text">Usa %s come tua app per gli SMS?</string>
     <string name="mobile_unknown_sim_operator">Operatore SIM sconosciuto</string>
     <string name="mobile_no_provisioning_url">%1$s non ha un sito web di riferimento</string>
     <string name="mobile_insert_sim_card">Inserisci SIM e riavvia</string>
