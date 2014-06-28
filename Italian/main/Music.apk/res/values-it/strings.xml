@@ -161,6 +161,9 @@
     <string name="impunity_declaration_ignore">Non chiedere</string>
     <string name="impunity_declaration_settings">Notifica sempre se in rete</string>
     <string name="impunity_declaration_summary">Quando entri in Musica comparirà un popup</string>
+	<string name="synchronize_to_baidu_cloud">Esegui il backup della tua playlist tramite il Baidu Cloud</string>
+    <string name="synchronize_guide_toast">Per abilitare la sincronizzazione, andare in Impostazioni > Sincronizza playlists</string>
+    <string name="music_filter_helper">Un filtro ha impedito che questi file vengano visualizzati</string>
     <string name="modify_meta">Modifica informazioni brano</string>
     <string name="id3_edit">Modifica informazioni ID3</string>
     <string name="lyric_download">Scarica testi</string>

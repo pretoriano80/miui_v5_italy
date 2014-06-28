@@ -2465,7 +2465,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="process_stats_type_background">Sfondo</string>
     <string name="process_stats_type_foreground">Primo piano</string>
     <string name="process_stats_type_cached">Cache</string>
-    <string name="process_stats_memory_status">%1$s memoria attualmente in uso dal dispositivo</string>
+    <string name="process_stats_memory_status">Utilizzo memoria RAM: %1$s</string>
     <string name="process_stats_avg_ram_use">Utilizzo medio RAM</string>
     <string name="process_stats_max_ram_use">Utilizzo massimo RAM</string>
     <string name="process_stats_run_time">Tempo di esecuzione</string>
@@ -2501,7 +2501,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="tts_default_pitch_title">Tono</string>
     <string name="tts_default_pitch_summary">Interessa il tono del testo parlato</string>
     <string name="tts_default_lang_title">Lingua</string>
-    <string name="tts_lang_not_selected">Language not selected</string>    
+    <string name="tts_lang_not_selected">Lingua non selezionata</string>    
     <string name="tts_default_lang_summary">Imposta la voce specifica della lingua per il testo parlato</string>
     <string name="tts_play_example_title">Ascolta un esempio</string>
     <string name="tts_play_example_summary">Riproduci una breve dimostrazione della sintesi vocale</string>
@@ -3106,9 +3106,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="launcher_settings_title">Launcher</string>
     <string name="screen_timeout_title">Timeout schermo</string>
     <string name="touch_title">Tocco</string>
-    <string name="touch_sensitive_title">Modalità Guanti</string>
+    <string name="touch_sensitive_title">Modalità guanti</string>
     <string name="touch_sensitive_summary">Rendi il touchscreen estremamente sensibile quando indossi i guanti</string>
-    <string name="touch_sensitive_turn_off_title">Modalità Guanti disabilitata</string>
+    <string name="touch_sensitive_turn_off_title">Modalità guanti disabilitata</string>
     <string name="touch_sensitive_turn_off_summary">Disattivare per evitare operazioni accidentali quando il telefono è in tasca?</string>
     <string name="touch_sensitive_turn_off_confirm">OK</string>
     <string name="touch_sensitive_turn_off_cancel">Annulla</string>
