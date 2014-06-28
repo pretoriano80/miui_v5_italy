@@ -3056,7 +3056,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="search_unlock_set">Sblocco</string>
     <string name="search_access_control">Controllo Accesso</string>
     <string name="search_gps">GPS</string>
-    <string name="search_status_bar">Barra di stato</string>
+    <string name="search_status_bar">Barra di Stato</string>
     <string name="search_sync">Sincro.</string>
     <string name="search_battery_indicator">Indicatore Batteria</string>
     <string name="search_key">Tasti</string>
