@@ -89,10 +89,10 @@ La qualità dell'aria a %1$s oggi è: %2$s, %3$s. %4$s %5$s."</string>
     <string name="button_abandon">Annulla modifiche</string>
     <string name="button_not_allow">Nega</string>
     <string name="location_allow_err">Impossibile localizzare.</string>
-    <string name="format_date_wmd">dd/MM EEE</string>
-    <string name="format_date_md">dd/MM kk:mm</string>
+    <string name="format_date_wmd">d/M EEE</string>
+    <string name="format_date_md">d/M kk:mm</string>
     <string name="format_date_week">EEE</string>
-    <string name="format_date_trend_md">dd/MM</string>
+    <string name="format_date_trend_md">d/M</string>
     <string name="act_weather_aqi_title">"Indice di qualità dell'aria"</string>
     <string name="act_weather_main_aqi_index">"Qualità dell'aria: %s"</string>
     <string name="act_weather_aqi_share">Condividi</string>

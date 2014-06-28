@@ -695,6 +695,12 @@ Motivo: \"%s\""</string>
     <string name="dialog_voicemail_not_ready_message">Per impostare la segreteria, vai in Menu > Impostazioni.</string>
     <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, prima disattiva la modalità Aereo.</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
+    <string name="cta_notice_title">Avvisa</string>
+    <string name="cta_notice_new_contact_message">"Il salvataggio dei contatti nell'account \"%s\" richiede l'accesso di rete, consentire?"</string>
+    <string name="cta_notice_photo_message">"La modifica della foto dei contatti con il Pacchetto Foto richiede l'accesso di rete, consentire?"</string>
+    <string name="cta_notice_checkbox">Non mostrare più</string>
+    <string name="cta_notice_ok">Sì</string>
+    <string name="cta_notice_settings">"Avvisami quando si richiede l'accesso di rete"</string>
     <string name="summary_kind_title">Indice</string>
     <string name="callrecordview_item_newcontact">Salva</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
@@ -1106,5 +1112,6 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
+    <string name="yellowpage_navigation_network_location_enabled">Servizio attivato, puoi disattivarlo nelle impostazioni di posizione</string>
     <string name="sim_contact_number_missing">Numero contatto SIM mancante.</string>
 </resources>

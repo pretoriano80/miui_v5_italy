@@ -73,11 +73,21 @@
     <string name="comfirm_delete_current_album">Eliminare questo album?</string>
     <string name="confirm_delete_album" formatted="false">Sicuro di voler eliminare %s album (contenenti %s elementi)?</string>
     <string name="confirm_delete_system_album">%s è un album di sistema, sicuro di volerlo eliminare?</string>
-    <string name="operation_delete_confirm_message_folder">"Cartelle e file verranno eliminati nello stesso momento.
-"</string>
+    <string name="operation_delete_confirm_message_folder">Cartelle e file verranno eliminati nello stesso momento.</string>
     <string name="delete_folder">"Confermare l'eliminazione di %1$d cartella(e)?"</string>
     <string name="delete_file">"Confermare l'eliminazione di %1$d file?"</string>
     <string name="delete_files_and_folders">"Confermare l'eliminazione di %1$d file e %2$d cartella(e)?"</string>
+    <string name="confirm_delete_init_title">Suggerimento</string>
+    <string name="confirm_delete_init_message">"L'immagine verrà eliminata dal dispositivo e da Mi Cloud. Se vuoi eliminare solo sul dispositivo, esegui in locale.</string>
+    <string name="confirm_delete_has_cloud_local_image_video">Elimiare %s elementi in locale e in cloud?</string>
+    <string name="confirm_delete_has_cloud_local_image">Eliminare %s immagini in locale e in cloud?</string>
+    <string name="confirm_delete_has_cloud_local_video">Eliminare %s video in locale e in cloud?</string>
+    <string name="confirm_delete_has_cloud_image_video">Eliminare %s elementi in cloud?</string>
+    <string name="confirm_delete_has_cloud_image">Eliminare %s immagini in cloud?</string>
+    <string name="confirm_delete_has_cloud_video">Eliminare %s video in cloud?</string>
+    <string name="confirm_delete_has_local_image_video">Eliminare %s elementi?</string>
+    <string name="confirm_delete_has_local_image">Eliminare %s immagini?</string>
+    <string name="confirm_delete_has_local_video">Eliminare %s video?</string>
     <string name="confirm_delete_pictures">%s</string>
     <string name="confirm_delete_videos">%s</string>
     <string name="confirm_delete_this_picture">"Vuoi eliminare l'immagine selezionata?"</string>
@@ -173,6 +183,7 @@
     <string name="remove_recent_album">Rimuovi dai Preferiti</string>
     <string name="set_hidden_album">Nascondi Album</string>
     <string name="remove_hidden_album">Rendi visibile</string>
+    <string name="skip_hide_special_album">Impossibile eliminare album di sistema (es. Camera, Screenshots).</string>
     <string name="photos">Foto</string>
     <string name="tab_lockscreen_text">Lockscreen</string>
     <string name="tab_wallpaper_text">Desktop</string>
@@ -191,6 +202,7 @@
     <string name="cut">Taglia e salva</string>
     <string name="more">Altro</string>
     <string name="deleting_files">Eliminazione file...</string>
+    <string name="bigscreen_slide_playing">Slideshow in riproduzione sul dispositivo: %s</string>
     <string name="bigscreen_slide_exit">Esci dallo slideshow via TV</string>
     <string name="bigscreen_slide_fail_cause_loading">"Carica la presentazione dopo che l'immagine è stata caricata".</string>
     <string name="bigscreen_video_quit">Tocca per uscire dalla riproduzione del video</string>
@@ -519,7 +531,9 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="long_press_to_refocus">Continua a premere per rimettere a fuoco</string>
     <string name="ubifocus_data_missing">Alcuni dati sono andati persi</string>
     <string name="ubifocus_map_error">Alcuni dati non sono coretti</string>
-    <string name="ubifocus_refocus_fail_tip">Impossibile rimettere a fuoco a causa di alcuni dati mancanti o errati</string>
+    <string name="ubifocus_refocus_data_missing">Impossibile rimettere a fuoco a causa di alcuni dati mancanti</string>
+    <string name="ubifocus_refocus_map_error">Impossibile rimettere a fuoco a causa di alcuni dati sbagliati</string>
+    <string name="ubifocus_refocus_download_tip">Scaricare dati di rimessa a fuoco prima di procedere</string>
     <string name="download_refocus_data">Scarica dati rimessa a fuoco</string>
     <string name="refocus_data_downloading">Download dei dati di rimessa a fuoco…</string>
     <string name="ubifocus_guide_text">Tieni premuto per rimettere a fuoco</string>

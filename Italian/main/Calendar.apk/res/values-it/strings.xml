@@ -272,6 +272,11 @@
     <string name="pref_error_no_ringtone_select">Nessuna selezione</string>
     <string name="event_date_format">dd/MM</string>
     <string name="event_full_date_format">dd/MM/yyyy</string>
+    <string name="cta_notice_title">Avvisa</string>
+    <string name="cta_notice_message">"\"Avviso compleanno\" nel Calendario ti ricorderà il giorno del compleanno dei tui contatti in anticipo. La funzione deve accedere ai tuoi contatti, sei d'accordo?"</string>
+    <string name="cta_notice_checkbox">Non mostrare più</string>
+    <string name="cta_notice_ok">Sì</string>
+    <string name="cta_notify_settings">Avvisami quando accede ai contatti</string>
     <string name="more_string">Altri %1$s...</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>

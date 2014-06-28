@@ -55,6 +55,7 @@
     <string name="android_album_summary">"L'utilizzo automatico delle copertine potrebbe causare errori."</string>
     <string name="auto_correct_id3_settings">Autocorrezione tag ID3</string>
     <string name="auto_correct_id3_summary">"La correzione automatica dei dati avverrà tramite l'analisi dell'impronta audio"</string>
+    <string name="music_filter">Filtra file</string>
     <string name="filter_by_size">Filtra per dimensione</string>
     <string name="filter_by_size_summary">Filtra i file più piccoli del valore impostato</string>
     <string name="filter_by_size_prefix">Dimensione\u0020</string>
