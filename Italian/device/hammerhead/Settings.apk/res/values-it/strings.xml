@@ -3056,7 +3056,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="search_unlock_set">Sblocco</string>
     <string name="search_access_control">Controllo Accesso</string>
     <string name="search_gps">GPS</string>
-    <string name="search_status_bar">Barra di Stato</string>
+    <string name="search_status_bar">Barra di stato</string>
     <string name="search_sync">Sincro.</string>
     <string name="search_battery_indicator">Indicatore Batteria</string>
     <string name="search_key">Tasti</string>
@@ -3157,7 +3157,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="multi_touch_points_category_title">Punti multi-touch</string>
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="status_bar_settings">Barra di Stato</string>
+    <string name="status_bar_settings">Barra di stato</string>
     <string name="complete_settings">Tutte</string>
     <string name="common_settings">Frequenti</string>
     <string name="battery_settings">Batteria</string>
