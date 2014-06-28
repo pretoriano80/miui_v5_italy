@@ -1529,11 +1529,6 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_wps_available_second_item">" (rete protetta disponibile)"</string>
     <string name="wifi_secured_first_item">Protetta con %1$s</string>
     <string name="wifi_secured_second_item">, protetta con %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nessuna</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
