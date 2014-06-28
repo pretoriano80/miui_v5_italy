@@ -215,6 +215,9 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="pay_record_typeall">Tutto</string>
     <string name="mibi_license_title">Accordo utente</string>
     <string name="mibi_license_message">Tocca OK se accetti i termini e le condizioni descritte in %1$s.</string>
+    <string name="mibi_license_net_prompt_title">Connessione internet richiesta</string>
+    <string name="mibi_license_net_prompt_message">"L'utilizzo dell'applicazione MiCredit potrebbe incrementare l'utilizzo della rete dati."</string>
+    <string name="mibi_license_checkbox_prompt">Non ricordarmi più</string>
     <string name="mibi_license_message_span">Accordo Utente MiCredit</string>
     <string name="btn_agree">"Sono d'accordo"</string>
     <string name="security_setting">Impostazioni di sicurezza</string>
@@ -254,6 +257,8 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="title_nopassword">Non richiedere per piccoli pagamenti</string>
     <string name="title_password_threshold">Limite giornaliero = %1$s yuan</string>
     <string name="title_nopassword_dialog">Limite giornaliero</string>
+    <string name="title_prompt">Notifiche</string>
+    <string name="title_need_prompt">"Notificami la connessione ad Internet all'apertura"</string>
     <string name="button_confirm">Conferma</string>
     <string name="button_next">Avanti</string>
     <string name="scan_prompt_number">Scansiona numero della carta prepagata %1$s</string>

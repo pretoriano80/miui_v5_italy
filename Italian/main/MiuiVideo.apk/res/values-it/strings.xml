@@ -24,7 +24,6 @@
     <string name="clear_cache">Cancella la cache delle immagini</string>
     <string name="clear_offline">Cancella la cache dei media offline</string>
     <string name="xiaomi_user">Utente Xiaomi</string>
-    <string name="all">Tutto</string>
     <string name="brief_intro">Riassunto</string>
     <string name="movie_comment">Commenti</string>
     <string name="view_all_reviews">%d più commenti</string>
@@ -36,7 +35,6 @@
     <string name="rank">Valutazione</string>
     <string name="others">Altro</string>
     <string name="music">Musica</string>
-    <string name="variety">Varietà</string>
     <string name="comment">Commenti</string>
     <string name="livetv">Dal vivo</string>
     <string name="online_video">Video Online</string>
@@ -322,6 +320,9 @@
     <string name="backkey_remark">Nota: premi Invio per uscire</string>
     <string name="setting_use_network">"Consenti l'uso della rete dati"</string>
     <string name="setting_use_network_summery">Le applicazioni video utilizzeranno la rete</string>
+    <string name="info_title">Informazioni</string>
+    <string name="prex_playcount">Riproduzione:</string>
+    <string name="post_playcount">volte</string>
     <string name="temp_play_history_button_label">Mostra cronologia</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Siamo spiacenti, il formato video selezionato non può essere riprodotto in streaming sul dispositivo.</string>
     <string name="vp_VideoView_error_text_unknown">Siamo spiacenti, il formato video selezionato non può essere riprodotto.</string>
