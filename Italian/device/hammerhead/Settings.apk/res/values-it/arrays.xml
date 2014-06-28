@@ -392,6 +392,12 @@
         <item>Nega sempre</item>
         <item>Consenti sempre</item>
     </string-array>
+		<string-array name="ram_states">
+        <item>normale</item>
+        <item>moderata</item>
+        <item>bassa</item>
+        <item>critica</item>
+    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Medio</item>
