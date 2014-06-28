@@ -492,6 +492,6 @@ ed esci dall'inquadratura"</string>
     <string name="accessibility_ev_control">Controllo di compensazione esposizione</string>
     <string name="object_track_enable_toast">"Scorri sull'anteprima per attivare il tracciamento dell'oggetto."</string>
     <string name="cannot_move_warning_message">Foto in esecuzione, non muovere il dispositivo</string>
-    <string name="ubifocus_capture_warning_message">"E' meglio quando la schermata di anteprima contiene entrambi vicini (meno di un metro dall'obbiettivo) e oggetti lontani"</string>
+    <string name="ubifocus_capture_warning_message">"E' meglio quando la schermata di anteprima contiene sia oggetti vicini (meno di un metro dall'obbiettivo) che oggetti lontani"</string>
     <string name="pref_camera_auto_capture_when_stable_title">Scatta automaticamente quando stabile</string>
 </resources>
