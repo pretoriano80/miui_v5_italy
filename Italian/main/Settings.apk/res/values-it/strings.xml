@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cta_dialog_title">Termini e Condizioni</string>
+    <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza Xiaomi, per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati, sei d'accordo?"</string>
+    <string name="cta_checkbox_title">Non chiedere più</string>
+    <string name="cta_button_text_cancel">Annulla</string>
+    <string name="cta_button_text_agree">Sì</string>
+    <string name="cta_settings">"Consenti l'utilizzo della rete dati"</string>
     <string name="auto_startup_application_manage">Avvio automatico</string>
     <string name="auto_startup_count">"%d app autorizzata(e) all'avvio automatico"</string>
     <string name="man_add_application">"Autorizza manualmente l'avvio automatico"</string>
@@ -1523,11 +1529,6 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_wps_available_second_item">" (rete protetta disponibile)"</string>
     <string name="wifi_secured_first_item">Protetta con %1$s</string>
     <string name="wifi_secured_second_item">, protetta con %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nessuna</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
@@ -2818,6 +2819,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_application_warning_replace">Cambia Launcher</string>
     <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
+	<string name="title_font">Font</string>
+    <string name="title_font_current">In utilizzo</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
@@ -2850,7 +2853,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="multi_touch_points_category_title">Punti multi-touch</string>
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="status_bar_settings">Impostazioni Barra di Stato</string>
+    <string name="status_bar_settings">Barra di stato</string>
     <string name="complete_settings">Tutte</string>
     <string name="common_settings">Frequenti</string>
     <string name="battery_settings">Batteria</string>
@@ -3221,5 +3224,4 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="system_backup_section_title">Backup</string>
     <string name="local_backup_section_title">Backup locale</string>
     <string name="local_backup_section_summary">Backup di impostazioni di sistema, account e applicazioni</string>
-    <string name="use_network_warning">Xiaom Service Framework e Cloud Service richiedono una connessione di rete</string>
 </resources>

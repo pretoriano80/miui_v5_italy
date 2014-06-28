@@ -115,7 +115,7 @@
     <string name="pref_title_manual_check_cleanup_db_update">Aggiorna adesso</string>
     <string name="pref_category_title_garbage_cleanup_check">Impostazioni di pulizia</string>
     <string name="pref_title_garbage_cleanup_check_time">Avviso cestino</string>
-    <string name="pref_summary_garbage_cleanup_check_time">Notifica quando il cestino raggiunge una certa dimensione</string>
+    <string name="pref_summary_garbage_cleanup_check_size">Notifica quando il cestino raggiunge una certa dimensione</string>
     <string name="pref_title_garbage_cleanup_check_size">Limite avviso cestino</string>
     <string name="pref_title_expand_cache_group">Espandi i gruppi cache</string>
     <string name="pref_summary_expand_cache_group">I gruppi nella lista cache verranno espansi in modo predefinito</string>
@@ -2465,7 +2465,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="process_stats_type_background">Sfondo</string>
     <string name="process_stats_type_foreground">Primo piano</string>
     <string name="process_stats_type_cached">Cache</string>
-    <string name="process_stats_memory_status">%1$s memoria attualmente in uso dal dispositivo</string>
+    <string name="process_stats_memory_status">Utilizzo memoria RAM: %1$s</string>
     <string name="process_stats_avg_ram_use">Utilizzo medio RAM</string>
     <string name="process_stats_max_ram_use">Utilizzo massimo RAM</string>
     <string name="process_stats_run_time">Tempo di esecuzione</string>
@@ -2501,7 +2501,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="tts_default_pitch_title">Tono</string>
     <string name="tts_default_pitch_summary">Interessa il tono del testo parlato</string>
     <string name="tts_default_lang_title">Lingua</string>
-    <string name="tts_lang_not_selected">Language not selected</string>    
+    <string name="tts_lang_not_selected">Lingua non selezionata</string>    
     <string name="tts_default_lang_summary">Imposta la voce specifica della lingua per il testo parlato</string>
     <string name="tts_play_example_title">Ascolta un esempio</string>
     <string name="tts_play_example_summary">Riproduci una breve dimostrazione della sintesi vocale</string>
@@ -3106,9 +3106,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="launcher_settings_title">Launcher</string>
     <string name="screen_timeout_title">Timeout schermo</string>
     <string name="touch_title">Tocco</string>
-    <string name="touch_sensitive_title">Modalità Guanti</string>
+    <string name="touch_sensitive_title">Modalità guanti</string>
     <string name="touch_sensitive_summary">Rendi il touchscreen estremamente sensibile quando indossi i guanti</string>
-    <string name="touch_sensitive_turn_off_title">Modalità Guanti disabilitata</string>
+    <string name="touch_sensitive_turn_off_title">Modalità guanti disabilitata</string>
     <string name="touch_sensitive_turn_off_summary">Disattivare per evitare operazioni accidentali quando il telefono è in tasca?</string>
     <string name="touch_sensitive_turn_off_confirm">OK</string>
     <string name="touch_sensitive_turn_off_cancel">Annulla</string>
@@ -3125,6 +3125,8 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="preferred_sms_warning_use_system">Non usarla</string>
     <string name="preferred_sms_settings">Questa app sarà impostata come predefinita per la lettura e la composizione di messaggi di testo.</string>
     <string name="preferred_sms_title">Applicazione predefinita per i messaggi</string>
+	<string name="title_font">Font</string>
+    <string name="title_font_current">In utilizzo</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
@@ -3157,7 +3159,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="multi_touch_points_category_title">Punti multi-touch</string>
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="status_bar_settings">Impostazioni Barra di Stato</string>
+    <string name="status_bar_settings">Barra di stato</string>
     <string name="complete_settings">Tutte</string>
     <string name="common_settings">Frequenti</string>
     <string name="battery_settings">Batteria</string>
@@ -3574,6 +3576,11 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="free_wifi_speed_title">Connessione lenta?</string>
     <string name="free_wifi_connected_time">Tempo online：%1$s</string>
     <string name="free_wifi_confirm">Conferma</string>
+	<string name="manage_xiaomi_router">Gestisci router Xiaomi</string>
+    <string name="xiaomi_router_notif_title">Notifica router Xiaomi</string>
+    <string name="xiaomi_router_notif_summary">Avvisami quando un router Xiaomi è disponibile</string>
+    <string name="xiaomi_router_available_notif_title">Un router Xiaomi è disponibile</string>
+    <string name="xiaomi_router_available_notif_summary">Tocca per visualizzare</string>
     <string name="restrict_background_data_title">Limitazione dati in background</string>
     <string name="restrict_background_data_dialog_summary">Le applicazioni in esecuzione in background non possono ricevere messaggi, sicuro di voler limitare i dati in background?</string>
     <string name="restrict_background_data_notification_summary">"Le applicazioni non possono connettersi alla rete se l'utilizzo dei dati in background è limitato"</string>

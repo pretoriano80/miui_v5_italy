@@ -24,8 +24,8 @@
     <string name="discard_action">Elimina</string>
     <string name="save_draft_action">Salva bozza</string>
     <string name="show_quick_text_list_dialog_action">Inserisci risposta rapida</string>
-    <string name="read_action">Segna come già letto</string>
-    <string name="unread_action">Segna come da leggere</string>
+    <string name="read_action">Già letto</string>
+    <string name="unread_action">Da leggere</string>
     <string name="set_star_action">Aggiungi a Speciali</string>
     <string name="remove_star_action">Rimuovi da Speciali</string>
     <string name="refresh_action">Aggiorna</string>
