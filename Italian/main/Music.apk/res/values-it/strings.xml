@@ -55,6 +55,7 @@
     <string name="android_album_summary">"L'utilizzo automatico delle copertine potrebbe causare errori."</string>
     <string name="auto_correct_id3_settings">Autocorrezione tag ID3</string>
     <string name="auto_correct_id3_summary">"La correzione automatica dei dati avverrà tramite l'analisi dell'impronta audio"</string>
+    <string name="music_filter">Filtra file</string>
     <string name="filter_by_size">Filtra per dimensione</string>
     <string name="filter_by_size_summary">Filtra i file più piccoli del valore impostato</string>
     <string name="filter_by_size_prefix">Dimensione\u0020</string>
@@ -160,6 +161,9 @@
     <string name="impunity_declaration_ignore">Non chiedere</string>
     <string name="impunity_declaration_settings">Notifica sempre se in rete</string>
     <string name="impunity_declaration_summary">Quando entri in Musica comparirà un popup</string>
+	<string name="synchronize_to_baidu_cloud">Esegui il backup della tua playlist tramite il Baidu Cloud</string>
+    <string name="synchronize_guide_toast">Per abilitare la sincronizzazione, andare in Impostazioni > Sincronizza playlists</string>
+    <string name="music_filter_helper">Un filtro ha impedito che questi file vengano visualizzati</string>
     <string name="modify_meta">Modifica informazioni brano</string>
     <string name="id3_edit">Modifica informazioni ID3</string>
     <string name="lyric_download">Scarica testi</string>

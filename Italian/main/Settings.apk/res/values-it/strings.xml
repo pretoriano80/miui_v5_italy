@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cta_dialog_title">Termini e Condizioni</string>
+    <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza Xiaomi, per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati, sei d'accordo?"</string>
+    <string name="cta_checkbox_title">Non chiedere più</string>
+    <string name="cta_button_text_cancel">Annulla</string>
+    <string name="cta_button_text_agree">Sì</string>
+    <string name="cta_settings">"Consenti l'utilizzo della rete dati"</string>
     <string name="auto_startup_application_manage">Avvio automatico</string>
     <string name="auto_startup_count">"%d app autorizzata(e) all'avvio automatico"</string>
     <string name="man_add_application">"Autorizza manualmente l'avvio automatico"</string>
@@ -1225,7 +1231,6 @@ Consentire l'avvio automatico?"</string>
     <string name="next_label">Avanti</string>
     <string name="language_picker_title">Lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
@@ -1502,7 +1507,6 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_status">Stato</string>
     <string name="wifi_speed">Velocità di collegamento</string>
     <string name="wifi_ip_address">Indirizzo IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Metodo EAP</string>
     <string name="please_select_phase2">Autenticazione fase 2</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
@@ -1523,17 +1527,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_wps_available_second_item">" (rete protetta disponibile)"</string>
     <string name="wifi_secured_first_item">Protetta con %1$s</string>
     <string name="wifi_secured_second_item">, protetta con %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nessuna</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_connect">Connetti</string>
     <string name="wifi_failed_connect_message">Impossibile connettersi alla rete</string>
     <string name="wifi_forget">Elimina</string>
@@ -1555,13 +1549,9 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_ip_settings_invalid_dns">Digita un indirizzo DNS valido.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Digita un prefisso di rete di 0-32 caratteri.</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">4.4.4.4</string>
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
@@ -1585,34 +1575,7 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s portatile</string>
     <string name="wifi_tether_configure_ssid_default">HotspotAndroid</string>
-    <string name="testing_wifi_info">Informazioni Wi-Fi</string>
-    <string name="disableNetwork">disableNetwork</string>
-    <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
-    <string name="wifi_status_test">Stato Wi-Fi</string>
-    <string name="wifi_update">Aggiorna</string>
-    <string name="wifi_state_label">Stato Wi-Fi:</string>
-    <string name="network_state_label">Stato Rete:</string>
-    <string name="supplicant_state_label">Stato Richiedente:</string>
-    <string name="rssi_label">RSSI:</string>
-    <string name="bssid_label">BSSID:</string>
-    <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">SSID Nascosto:</string>
-    <string name="ipaddr_label">Ind.IP:</string>
-    <string name="macaddr_label">Ind.MAC:</string>
-    <string name="networkid_label">ID Rete:</string>
-    <string name="link_speed_label">Velocità link:</string>
-    <string name="scan_list_label">Risultati scansione:</string>
-    <string name="wifi_state_disabling">Disattivazione</string>
-    <string name="wifi_state_disabled">Disattivato</string>
-    <string name="wifi_state_enabling">Abilitazione</string>
-    <string name="wifi_state_enabled">Abilitato</string>
-    <string name="wifi_state_unknown">Sconosciuto</string>
     <string name="wifi_config_info">Configura Wi-Fi</string>
-    <string name="config_list_label">Reti configurate</string>
     <string name="display_settings_title">Display</string>
     <string name="sound_settings">Audio</string>
     <string name="ringtone_title">Suoneria telefono</string>
@@ -1681,7 +1644,6 @@ Per eseguire l'accoppiamento con  \"%1$s\" digita il PIN. [Alto Livello di Sicur
     <string name="screensaver_activate_on_dock_title">Attiva anche quando inserito nel dock</string>
     <string name="automatic_brightness">Luminosità automatica</string>
     <string name="title_font_size">Dimensioni carattere</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Dimensione caratteri</string>
     <string name="sim_lock_settings">Impostazioni blocco SIM</string>
     <string name="sim_lock_settings_category">Impostazioni blocco SIM</string>
@@ -2439,7 +2401,6 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
     <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti.\u0090"</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
-    <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
@@ -2693,18 +2654,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="user_confirm_remove_title">Rimuovere utente?</string>
     <string name="user_confirm_remove_message">"Sicuro di voler rimuovere l'utente e tutti i dati associati al dispositivo ?"</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
-    <string name="help_label">Aiuto</string>
-    <string name="help_url_wifi" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_vpn" />
-    <string name="help_url_sound" />
-    <string name="help_url_battery" />
-    <string name="help_url_accounts" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_tether" />
+    <string name="help_label">Aiuto</string> 
     <string name="cell_broadcast_settings">Trasmissione cella</string>
     <string name="cell_broadcast_settings_summary">"Scegli il tipo di segnale d'emergenza da mostrare."</string>
     <string name="config_mtp_function_name">mtp</string>
@@ -2783,7 +2733,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="total_size">%s (totali)</string>
     <string name="memory_title">Disponibile %1$s\u0009\u0009Totale %2$s</string>
     <string name="xiaomi_account">Account Xiaomi</string>
-    <string name="sync_settings">Account e sinc.</string>
+    <string name="sync_settings">Account e sincronizzazione</string>
     <string name="sms_received_sound_title">Suono SMS ricevuto</string>
     <string name="sms_delivered_sound_title">Suono SMS inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono SMS ricevuto</string>
@@ -2818,6 +2768,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_application_warning_replace">Cambia Launcher</string>
     <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
+	<string name="title_font">Font</string>
+    <string name="title_font_current">In utilizzo</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
@@ -2850,8 +2802,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="multi_touch_points_category_title">Punti multi-touch</string>
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="status_bar_settings">Impostazioni Barra di Stato</string>
-    <string name="complete_settings">Complete</string>
+    <string name="status_bar_settings">Barra di stato</string>
+    <string name="complete_settings">Tutte</string>
     <string name="common_settings">Frequenti</string>
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
@@ -2859,7 +2811,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="power_usage_history">Utilizzo batteria</string>
     <string name="default_usb_mode">Connessione USB predefinita</string>
     <string name="unlock_set_unlock_summary">Abilitare password schermo per attivare la protezione con password</string>
-    <string name="lock_settings_picker_settings">Imposta Lockscreen</string>
+    <string name="lock_settings_picker_settings">Imposta schermata di blocco</string>
     <string name="lock_screen_unlock_show">Mostra direttamente schermata password</string>
     <string name="lock_screen_unlock_show_summary">"Non usare altri lockscreen dopo l'abilitazione, vai alla schermata di sblocco"</string>
     <string name="date_time_settings">Data e ora</string>
@@ -2873,15 +2825,15 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
     <string name="connected_wifi">Wi-Fi connessa</string>
-    <string name="incoming_call_breathing_light_color_title">Colore luce chiamte</string>
-    <string name="notification_breathing_light_color_title">Colore luce notifiche</string>
-    <string name="mms_breathing_light_color_title">Colore luce messaggi</string>
+    <string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
+    <string name="notification_breathing_light_color_title">Colore LED notifiche</string>
+    <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
     <string name="breathing_light_color_menu_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>
     <string name="breathing_light_freq_title">Intermittenza LED</string>
-    <string name="incoming_call_breathing_light_freq_title">Frequenza LED per le chiamate</string>
-    <string name="notification_breathing_light_freq_title">Frequenza LED per le notifiche</string>
-    <string name="mms_breathing_light_freq_title">Frequenza LED per i messaggi</string>
+    <string name="incoming_call_breathing_light_freq_title">Intermittenza LED chiamate</string>
+    <string name="notification_breathing_light_freq_title">Intermittenza LED notifiche</string>
+    <string name="mms_breathing_light_freq_title">Intermittenza LED messaggi</string>
     <string name="breathing_light_freq_summary">Lampeggia al ricevimento di notifiche</string>
     <string name="led_settings">LED</string>
     <string name="led_colors_summary">Colore notifiche LED</string>
@@ -2889,9 +2841,9 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="led_pulse_summary">Attiva il LED intermittente per le nuove notifiche</string>
     <string name="show_rounded_corners">Mostra angoli arrotondati</string>
     <string name="pref_operational_key">Tasti funzionali</string>
-    <string name="pref_button_light">Tasti luminosi</string>
+    <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Tasti Menu, Home e Indietro</string>
-    <string name="button_light_timeout">Timeout tasti luminosi</string>
+    <string name="button_light_timeout">Timeout luce tasti</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
     <string name="headset_settings">Impostazioni Cuffie</string>
@@ -3066,12 +3018,12 @@ e lancialo manualmente。"</li>"
 "<li>Installa di nuovo i driver.</li></string>
     <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
-1) Usa il tool di installazione sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Create a directory mkdir /media/mtp
+1) Usa il tool di installazione (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
+2) Crea una directory (mkdir /media/mtp)
 3) Conferma  i permessi del gruppo utente nel gruppo utente fuse attuale
 4) Accedi di nuovo
 5) Accedi al dispositivo montato mtpfs /media/mtp via File explorer; stesso della directory locale
-6) Disinstalla il dispositivo fusermount -u /media/mtp
+6) Disinstalla il dispositivo (fusermount -u /media/mtp)
  Nota: Per ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
@@ -3081,8 +3033,8 @@ prova in questo modo:
     <string name="vpn_settings_password">Impostazioni Password VPN</string>
     <string name="vpn_safe">Sicurezza VPN</string>
     <string name="vpn_configure">Configura VPN</string>
-    <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
-    <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
+    <string name="vpn_dns_servers_hint">es: 8.8.8.8</string>
+    <string name="vpn_routes_hint">es: 10.0.0.0/8</string>
     <string name="sync_wifi_label">Reti Wi-Fi</string>
     <string name="wifi_enable">Abilita Wi-Fi</string>
     <string name="bluetooth_enable">Abilita Bluetooth</string>
@@ -3219,6 +3171,6 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="app_backup">Backup</string>
     <string name="google_backup_section_title">Google backup e ripristino</string>
     <string name="system_backup_section_title">Backup</string>
-    <string name="local_backup_section_title">Backup locali</string>
-    <string name="local_backup_section_summary">Backup delle impostazioni di sistema, account ed applicazioni, account and apps</string>
+    <string name="local_backup_section_title">Backup locale</string>
+    <string name="local_backup_section_summary">Backup di impostazioni di sistema, account e applicazioni</string>
 </resources>

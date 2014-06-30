@@ -1002,7 +1002,7 @@ Consentire l'avvio automatico?"</string>
     <string name="deny">Nega</string>
     <string name="device_info_default">Sconosciuto</string>
     <string name="show_dev_on">Ora sei uno sviluppatore!</string>
-    <string name="show_dev_already">"Non c'è bisogno, sei già uno sviluppatore."</string>
+    <string name="show_dev_already">Non occorre, sei già uno sviluppatore.</string>
     <string name="header_category_wireless_networks">WIRELESS E RETI</string>
     <string name="header_category_device">DISPOSITIVO</string>
     <string name="header_category_personal">PERSONALE</string>
@@ -1216,7 +1216,6 @@ Consentire l'avvio automatico?"</string>
     <string name="next_label">Avanti</string>
     <string name="language_picker_title">Lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
@@ -1511,7 +1510,6 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_status">Stato</string>
     <string name="wifi_speed">Velocità di collegamento</string>
     <string name="wifi_ip_address">Indirizzo IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Metodo EAP</string>
     <string name="please_select_phase2">Autenticazione fase 2</string>
     <string name="wifi_eap_ca_cert">Certificato CA</string>
@@ -1532,17 +1530,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_wps_available_second_item">" (rete protetta disponibile)"</string>
     <string name="wifi_secured_first_item">Protetta con %1$s</string>
     <string name="wifi_secured_second_item">, protetta con %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nessuna</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_connect">Connetti</string>
     <string name="wifi_failed_connect_message">Impossibile connettersi alla rete</string>
     <string name="wifi_forget">Elimina</string>
@@ -1571,13 +1559,9 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="wifi_ip_settings_invalid_dns">Digita un indirizzo DNS valido.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Digita un prefisso di rete di 0-32 caratteri.</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">4.4.4.4</string>
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
@@ -1602,34 +1586,7 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s portatile</string>
     <string name="wifi_tether_configure_ssid_default">HotspotAndroid</string>
-    <string name="testing_wifi_info">Informazioni Wi-Fi</string>
-    <string name="disableNetwork">disableNetwork</string>
-    <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
-    <string name="wifi_status_test">Stato Wi-Fi</string>
-    <string name="wifi_update">Aggiorna</string>
-    <string name="wifi_state_label">Stato Wi-Fi:</string>
-    <string name="network_state_label">Stato Rete:</string>
-    <string name="supplicant_state_label">Stato Richiedente:</string>
-    <string name="rssi_label">RSSI:</string>
-    <string name="bssid_label">BSSID:</string>
-    <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">SSID Nascosto:</string>
-    <string name="ipaddr_label">Ind.IP:</string>
-    <string name="macaddr_label">Ind.MAC:</string>
-    <string name="networkid_label">ID Rete:</string>
-    <string name="link_speed_label">Velocità link:</string>
-    <string name="scan_list_label">Risultati scansione:</string>
-    <string name="wifi_state_disabling">Disattivazione</string>
-    <string name="wifi_state_disabled">Disattivato</string>
-    <string name="wifi_state_enabling">Abilitazione</string>
-    <string name="wifi_state_enabled">Abilitato</string>
-    <string name="wifi_state_unknown">Sconosciuto</string>
     <string name="wifi_config_info">Configura Wi-Fi</string>
-    <string name="config_list_label">Reti configurate</string>
     <string name="display_settings_title">Display</string>
     <string name="sound_settings">Audio</string>
     <string name="ringtone_title">Suoneria telefono</string>
@@ -1699,7 +1656,6 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="screensaver_settings_button">Impostazioni</string>
     <string name="automatic_brightness">Luminosità automatica</string>
     <string name="title_font_size">Dimensioni carattere</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Dimensione caratteri</string>
     <string name="sim_lock_settings">Impostazioni blocco SIM</string>
     <string name="sim_lock_settings_category">Impostazioni blocco SIM</string>
@@ -2239,13 +2195,13 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_screen_magnification_title">Gesture di ingrandimento</string>
     <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attivata puoi ingrandire e rimpicciolire toccando tre volte lo schermo.
 
-Durante l\'ingrandimento puoi:
-<ul><li>Muovere: sposta due o più dita lungo lo schermo.</li>
-<li>Regolare livello zoom: pizzica o allarga con due o più dita.</li></ul>
+Durante l'ingrandimento puoi:
+"<li><ul>"Muovere: sposta due o più dita lungo lo schermo.
+"<li>Regolare livello zoom: pizzica o allarga con due o più dita.</li></ul></li>"
 
 Puoi anche ingrandire temporaneamente quello che è sotto il tuo dito toccando tre volte e tenendo premuto alla fine. In questa modalità di ingrandimento puoi spostare il dito per vedere varie parti dello schermo. Distacca il dito per tornare alla modalità precedente.
 
-Nota: L\'ingrandimento con tre tocchi funziona ovunque tranne che sulla tastiera e la barra di navigazione."</string>    
+Nota: L'ingrandimento con tre tocchi funziona ovunque tranne che sulla tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento accessibilità</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
@@ -2501,7 +2457,6 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per proseguire con la configurazione.
 
 Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
-    <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
@@ -2772,21 +2727,6 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="global_font_change_title">Cambia dimensione testo</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Aiuto</string>
-    <string name="help_url_wifi" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_vpn" />
-    <string name="help_url_sound" />
-    <string name="help_url_battery" />
-    <string name="help_url_accounts" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_tether" />
-    <string name="help_url_dreams" />
-    <string name="help_url_users" />
-    <string name="help_url_location_access" />
-    <string name="help_url_security" />
     <string name="user_account_title">Account per contenuto</string>
     <string name="user_picture_title">Foto ID</string>
     <string name="cell_broadcast_settings">Trasmissioni cella</string>
@@ -2867,7 +2807,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="total_size">%s (totali)</string>
     <string name="memory_title">Disponibile %1$s\u0009\u0009Totale %2$s</string>
     <string name="xiaomi_account">Account Xiaomi</string>
-    <string name="sync_settings">Account e sinc.</string>
+    <string name="sync_settings">Account e sincronizzazione</string>
     <string name="sms_received_sound_title">Suono SMS ricevuto</string>
     <string name="sms_delivered_sound_title">Suono SMS inviato</string>
     <string name="sms_received_sound_dialog_title">Scegli suono SMS ricevuto</string>
@@ -2909,6 +2849,8 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_application_warning_replace">Cambia Launcher</string>
     <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
+	<string name="title_font">Font</string>
+    <string name="title_font_current">In utilizzo</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
@@ -2941,8 +2883,8 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="multi_touch_points_category_title">Punti multi-touch</string>
     <string name="multi_touch_points_preference">Riavvia per abilitare</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="status_bar_settings">Impostazioni Barra di Stato</string>
-    <string name="complete_settings">Complete</string>
+    <string name="status_bar_settings">Barra di stato</string>
+    <string name="complete_settings">Tutte</string>
     <string name="common_settings">Frequenti</string>
     <string name="battery_settings">Batteria</string>
     <string name="battery_settings_title">Batteria</string>
@@ -2950,7 +2892,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="power_usage_history">Utilizzo batteria</string>
     <string name="default_usb_mode">Connessione USB predefinita</string>
     <string name="unlock_set_unlock_summary">Abilitare password schermo per attivare la protezione con password</string>
-    <string name="lock_settings_picker_settings">Imposta Lockscreen</string>
+    <string name="lock_settings_picker_settings">Imposta schermata di blocco</string>
     <string name="lock_screen_unlock_show">Mostra direttamente schermata password</string>
     <string name="lock_screen_unlock_show_summary">"Non usare altri lockscreen dopo l'abilitazione, vai alla schermata di sblocco"</string>
     <string name="date_time_settings">Data e ora</string>
@@ -2979,9 +2921,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="led_pulse_summary">Attiva il LED intermittente per le nuove notifiche</string>
     <string name="show_rounded_corners">Mostra angoli arrotondati</string>
     <string name="pref_operational_key">Tasti funzionali</string>
-    <string name="pref_button_light">Tasti luminosi</string>
+    <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Tasti Menu, Home e Indietro</string>
-    <string name="button_light_timeout">Timeout tasti luminosi</string>
+    <string name="button_light_timeout">Timeout luce tasti</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
     <string name="headset_settings">Impostazioni Cuffie</string>
@@ -3160,12 +3102,12 @@ e lancialo manualmente。"</li>"
 "<li>Installa di nuovo i driver.</li></string>
     <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
-1) Usa il tool di installazione sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Create a directory mkdir /media/mtp
+1) Usa il tool di installazione (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
+2) Crea una directory (mkdir /media/mtp)
 3) Conferma  i permessi del gruppo utente nel gruppo utente fuse attuale
 4) Accedi di nuovo
 5) Accedi al dispositivo montato mtpfs /media/mtp via File explorer; stesso della directory locale
-6) Disinstalla il dispositivo fusermount -u /media/mtp
+6) Disinstalla il dispositivo (fusermount -u /media/mtp)
  Nota: Per ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
@@ -3175,8 +3117,8 @@ prova in questo modo:
     <string name="vpn_settings_password">Impostazioni Password VPN</string>
     <string name="vpn_safe">Sicurezza VPN</string>
     <string name="vpn_configure">Configura VPN</string>
-    <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
-    <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
+    <string name="vpn_dns_servers_hint">es: 8.8.8.8</string>
+    <string name="vpn_routes_hint">es: 10.0.0.0/8</string>
     <string name="sync_wifi_label">Reti Wi-Fi</string>
     <string name="wifi_enable">Abilita Wi-Fi</string>
     <string name="bluetooth_enable">Abilita Bluetooth</string>
@@ -3262,10 +3204,10 @@ prova in questo modo:
     <string name="wifi_signal_found_msg">Il segnale della connessione attuale è debole, desideri connetterti ad una rete Wi-Fi diversa?</string>    
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi siano in contatto, quindi seleziona il contenuto che vuoi trasferire.</string>
-    <string name="bt_hci_snoop_log">Attiva log dello snoop HCI su Bluetooth</string>
-    <string name="bt_hci_snoop_log_summary">Registra tutti i pacchetti Bluetooth HCI in un file</string>
-    <string name="bt_trace_log">Attiva Bluetooth Trace log</string>
-    <string name="bt_trace_log_summary">Attiva Bluetooth trace log</string>
+    <string name="bt_hci_snoop_log">Registro snoop HCI Bluetooth</string>
+    <string name="bt_hci_snoop_log_summary">Registra tutti i pacchetti HCI Bluetooth in un file</string>
+    <string name="bt_trace_log">Trace log Bluetooth</string>
+    <string name="bt_trace_log_summary">Attiva trace log Bluetooth</string>
     <string name="wifi_share">Condividi rete</string>
     <string name="wifi_share_turn_on">Condivisione Wi-Fi attivata</string>
     <string name="wifi_share_turn_off">Condivisione Wi-Fi disattivata</string>
