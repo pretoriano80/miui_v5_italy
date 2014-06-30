@@ -1052,7 +1052,6 @@ Consentire l'avvio automatico?"</string>
     <string name="next_label">Avanti</string>
     <string name="language_picker_title">Lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>   
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
@@ -1222,7 +1221,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_device_context_disconnect">Disconnetti</string>
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
     <string name="bluetooth_device_context_unpair">Dissocia</string>
-    <string name="bluetooth_device_context_disconnect_unpair"Disconnetti e dissocia</string>
+    <string name="bluetooth_device_context_disconnect_unpair">Disconnetti e dissocia</string>
     <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
     <string name="bluetooth_menu_advanced">Avanzato</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>

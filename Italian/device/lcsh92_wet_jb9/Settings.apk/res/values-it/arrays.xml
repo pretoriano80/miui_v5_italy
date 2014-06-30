@@ -507,12 +507,11 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Disattiva se non usato per 5 min</item>
         <item>Disattiva se non usato per 10 min</item>
     </string-array>
-     <string-array name="wifi_ap_wps_mode_entries">
+    <string-array name="wifi_ap_wps_mode_entries">
         <item>Premi il pulsante</item>
         <item>PIN dal client</item>
-<string-array name="mouse_primary_button_titles">
+     <string-array name="mouse_primary_button_titles">
         <item>Mano del mouse destra</item>
         <item>Mano del mouse sinistra</item>
     </string-array>
-
 </resources>
