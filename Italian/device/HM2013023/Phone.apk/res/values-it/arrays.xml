@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="clir_display_values">
+<string-array name="call_reject_dialog_array">
+        <item>Contatti</item>
+        <item>Registro chiamate</item>
+    </string-array>
+    <string-array name="clir_display_values">
         <item>Predefinito di rete</item>
         <item>Nascondi numero</item>
         <item>Mostra numero</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Solo EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>Solo WCDMA</item>
+        <item>GSM Solo</item>
+        <item>GSM/WCDMA preferito</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Inglese</item>
