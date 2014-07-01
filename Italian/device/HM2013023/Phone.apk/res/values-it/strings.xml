@@ -525,9 +525,8 @@ On Conditional"</string>
     <string name="response_error">Risposta inattesa dalla rete.</string>
     <string name="exception_error">Errore di rete o di SIM.</string>
     <string name="fdn_check_failure">Le impostazioni NSF sono abilitate. Alcune funzioni non sono disponibili.</string>
-    <string name="radio_off_error">Attiva la radio prima di accedere a queste impostazioni.</string>
-    <string name="radio_off_error">Turn on the radio before viewing these settings.</string>    <string name="close_dialog">Ok</string>
-    <string name="close_dialog">OK</string>   
+    <string name="radio_off_error">Attiva la radio prima di accedere a queste impostazioni.</string> 
+	<string name="close_dialog">Ok</string>
     <string name="enable">Attiva</string>
     <string name="disable">Disattiva</string>
     <string name="change_num">Aggiorna</string>
@@ -748,7 +747,6 @@ Passare comunque al nuovo operatore?"</string>
     <string name="notification_missedCallsMsg">%s chiamate senza risposta</string>
     <string name="notification_missedCallTicker">Chiamata senza risposta da %s</string>
     <string name="notification_ongoing_call">Chiamata in corso</string>
-    <string name="notification_ongoing_call">Ongoing call</string>
     <string name="notification_on_hold">In attesa</string>
     <string name="notification_incoming_call">Chiamata ricevuta</string>
     <string name="notification_voicemail_title">Nuovo msg vocale</string>
@@ -895,8 +893,6 @@ Passare comunque al nuovo operatore?"</string>
     <string name="default_preference_summary">Non impostato</string>
     <string name="display_name_summary">&lt;Uguale allo username></string>
     <string name="optional_summary">&lt;Opzionale></string>
-    <string name="default_port">5060</string>
-    <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">▷ Tocca per mostrare tutto</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
     <string name="empty_alert">%s richiesto, non può essere omesso</string>
@@ -1358,5 +1354,4 @@ Passare comunque al nuovo operatore?"</string>
     <string name="oldman_reject_call_button_text">Decline</string>
     <string name="oldman_end_call_button_text">End</string>
     <string name="oldman_dialpad_button_text">Dialpad</string>
-    <string name="phone_info_divider">"  |  "</string>
 </resources>
