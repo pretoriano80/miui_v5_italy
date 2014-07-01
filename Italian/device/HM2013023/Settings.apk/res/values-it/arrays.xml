@@ -270,6 +270,12 @@
         <item>1920x1080 xhdpi</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nessuno</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafica)</item>
+        <item>Stack di chiamate su glGetError</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
         <item>Nessun processo in background</item>

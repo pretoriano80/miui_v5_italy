@@ -2550,8 +2550,8 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="show_cpu_usage_summary">"Overlay schermo che mostra l'uso corrente della CPU"</string>
     <string name="force_hw_ui">Forza rendering GPU</string>
     <string name="force_hw_ui_summary">Usa accelerazione hardware 2D nelle applicazioni</string>
-    <string name="force_msaa">Force 4x MSAA</string>
-    <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
+    <string name="force_msaa">Forza 4x MSAA</string>
+    <string name="force_msaa_summary">Attiva 4x MSAA per applicazioni OpenGL ES 2.0</string>
     <string name="track_frame_time">Profilo rendering GPU</string>
     <string name="track_frame_time_summary">Misura il tempo di rendering in adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Scala animazione finestra</string>
