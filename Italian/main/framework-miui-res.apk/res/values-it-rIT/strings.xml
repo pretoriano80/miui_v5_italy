@@ -440,7 +440,7 @@
     <string name="sim_not_ready">SIM in uso, provare di nuovo.</string>
     <string name="sim_in_airplane_mode">Disattiva modalità Aereo.</string>
     <string name="sim_changed_reactivate_int_notice">"Questa SIM non è attivata. E' richiesto l'invio di un SMS internazionale per l'attivazione, vuoi procedere?"</string>
-    <string name="days">giorni</string>
+    <string name="days">%d giorni</string>
     <string name="hours">%d ore</string>
     <string name="minutes">%d minuti</string>
     <string name="shutdown_confirm_title">Sicuro di voler spegnere il telefono?</string>
