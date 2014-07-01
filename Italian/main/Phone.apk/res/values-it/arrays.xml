@@ -5,19 +5,12 @@
         <item>Nascondi numero</item>
         <item>Mostra numero</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Auto CDMA / EvDo</item>
-        <item>Solo WCDMA</item>
-        <item>Solo GSM</item>
-        <item>GSM / WCDMA preferito</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>Inglese</item>
         <item>Francese</item>
         <item>Spagnolo</item>
         <item>Giapponese</item>
-        <item>Koreano</item>
+        <item>Coreano</item>
         <item>Cinese</item>
         <item>Ebraico</item>
     </string-array>
