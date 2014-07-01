@@ -19,7 +19,7 @@
         <item>GSM Solo</item>
         <item>GSM/WCDMA preferito</item>
     </string-array>
-    </string-array>    <string-array name="list_language_entries">
+    <string-array name="list_language_entries">
         <item>Inglese</item>
         <item>Francese</item>
         <item>Spagnolo</item>
