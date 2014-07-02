@@ -1164,9 +1164,9 @@ verrà selezionata automaticamente</string>
     <string name="sim_slot_alert_message_disable">Mantenendo la %s carta SIM inserita nel primo slot, potrebbe non funzionare a dovere.</string>
     <string name="sim_slot_alert_shutdown">Shutdown</string>
     <string name="sim_slot_alert_cancel">Continua usando</string>
-    <string name="oldman_answer_call_button_text">rispondi</string>
-    <string name="oldman_reject_call_button_text">rifiuta</string>
-    <string name="oldman_end_call_button_text">fine</string>
-    <string name="oldman_dialpad_button_text">tastierino</string>
+    <string name="oldman_answer_call_button_text">Rispondi</string>
+    <string name="oldman_reject_call_button_text">Rifiuta</string>
+    <string name="oldman_end_call_button_text">Fine</string>
+    <string name="oldman_dialpad_button_text">Tastierino</string>
     <string name="oldman_speaker_button_text" />
 </resources>
