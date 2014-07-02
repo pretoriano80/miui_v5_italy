@@ -169,7 +169,7 @@ Altre applicazioni possono accedere a queste informazioni e alle tue immagini sa
     <string name="pref_camera_jpeg_entry_low">Bassa</string>
     <string name="pref_camera_coloreffect_title">Effetti colore</string>
     <string name="pref_camera_coloreffect_entry_none">Nessuno</string>
-    <string name="pref_camera_coloreffect_entry_mono">Bianco e nero</string>
+    <string name="pref_camera_coloreffect_entry_mono">B/n</string>
     <string name="pref_camera_coloreffect_entry_sepia">Seppia</string>
     <string name="pref_camera_coloreffect_entry_negative">Negativo</string>
     <string name="pref_camera_coloreffect_entry_solarize">Solarizzato</string>

@@ -426,8 +426,8 @@
     <string name="select_recipient">Seleziona destinatario</string>
     <string name="add_attachment">Allega</string>
     <string name="send_sms">Invia messaggio</string>
-    <string name="file_share_message_description">vorrei condividere alcuni file con te</string>
-    <string name="addBlackList">Aggiungi alla blacklist</string>
+    <string name="file_share_message_description">Vorrei condividere alcuni file con te</string>
+    <string name="addBlackList">Blacklist</string>
     <string name="confirm_add_blacklist_dialog_dspt">Aggiungere numero alla blacklist?</string>
     <string name="batch_adding_progress_message">Operazione in corso...</string>
     <string name="invalid_private_contact">Contatto privato non valido</string>
