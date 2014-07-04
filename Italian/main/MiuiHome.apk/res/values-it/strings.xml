@@ -36,7 +36,7 @@
     <string name="permlab_write_settings">Scrivi le impostazioni Home e i collegamenti</string>
     <string name="permdesc_write_settings">"Permette all' applicazione di modificare le impostazioni e i collegamenti in Home."</string>
     <string name="status_pending">In attesa</string>
-    <string name="status_downloading">In dodwnload</string>
+    <string name="status_downloading">In download</string>
     <string name="status_paused">In pausa</string>
     <string name="status_downloaded">Scaricato</string>
     <string name="status_installing">Installazione</string>

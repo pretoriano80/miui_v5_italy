@@ -1083,7 +1083,7 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Fallito, controlla le impostazioni di rete</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Attiva servizio localizzazione rete</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Consente rilevazione dei servizi in base alla città in cui ti trovi, attivando il servizio di localizzazione Wi-Fi e Rete Mobile puoi migliorare la qualità dei servizi.</string>
-    <string name="yellowpage_navigation_network_location_enabled">Servizio attivato, you could disable it in location settings</string>
+    <string name="yellowpage_navigation_network_location_enabled">Servizio attivato, puoi disattivarlo nelle impostazioni di localizzazione</string>
     <string name="yellowpage_navigation_network_location_enable">Attiva adesso</string>
     <string name="yellowpage_navigation_network_location_enable_later">Attiva più tardi</string>
     <string name="yellowpage_user_profile">Profilo</string>
