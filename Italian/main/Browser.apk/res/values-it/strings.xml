@@ -421,8 +421,6 @@
     <string name="downloaded">Scaricati</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Inserimento veloce URL</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">"Quando digiti nella barra dell'indirizzo, puoi inserire le combinazioni di lettere più comuni con un solo tasto"</string>
-    <string name="common_use_phrase_bottom_bar_up_analytic_txt">Espandi</string>
-    <string name="common_use_phrase_bottom_bar_down_analytic_txt">Chiudi</string>
     <string name="download_default_path_txt">Imposta come percorso predefinito per i download e non chiedere più in futuro</string>
     <string name="pref_file_download_save_title">Scarica e salva file</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Ripristina</string>
