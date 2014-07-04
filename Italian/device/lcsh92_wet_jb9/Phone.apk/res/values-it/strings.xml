@@ -1216,7 +1216,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
     <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Seleziona tipo di rete</string>
-    <string name="preferred_network_type_group_title_miui">Reti mobili</string>
+    <string name="preferred_network_type_group_title_miui">Rete mobile (%s)</string>
     <string name="puk_lock_warning_miui">La SIM card sarà inutilizzabile al prossimo tentativo fallito!</string>
     <string name="remove_miui">Elimina</string>
     <string name="reject_via_sms_miui">Rifiuta con sms</string>
