@@ -282,7 +282,7 @@
         <item>Grande</item>
         <item>Molto grande</item>
     </string-array>
-		<string-array name="captioning_edge_type_selector_titles">
+    <string-array name="captioning_edge_type_selector_titles">
         <item>Nessuno</item>
         <item>Contorno</item>
         <item>Ombra</item>
