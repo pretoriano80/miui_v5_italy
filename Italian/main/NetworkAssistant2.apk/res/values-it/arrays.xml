@@ -41,7 +41,7 @@
     <string-array name="traffic_type">
         <item>3G</item>
         <item>Wi-Fi</item>
-        <item>Risparmia traffico</item>
+        <item>\u0020Risparmia traffico\u0020</item>
     </string-array>
     <string-array name="traffic_sort_type">
         <item>Utilizzo dati</item>

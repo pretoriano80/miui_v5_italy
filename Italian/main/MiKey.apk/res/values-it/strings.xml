@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="copy">Copia</string>
     <string name="name">Nome:</string>
@@ -26,7 +26,7 @@
     <string name="setting_key_silent">key_silent</string>
     <string name="setting_key_mode_silent_open">key_silent_default</string>
     <string name="setting_key_mode_dust_cap">key_dust_cap</string>
-    <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>    
+    <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
     <string name="app_name">MiKey</string>
     <string name="short_click_1">1x</string>
     <string name="short_click_2">2x</string>
@@ -54,9 +54,11 @@
     <string name="action_zero_volume">Silenzioso</string>
     <string name="action_open_sound_recorder">Registra suono</string>
     <string name="action_open_or_close_motion">Movimento Attivo/Disattivo</string>
+    <string name="action_open_camera360_capture">Effetti fotocamera Camera360</string>
+    <string name="action_open_camera360_edit">Modifica le foto Camera360</string>
     <string name="action_open_wechat">Apri WeChat</string>
     <string name="action_share_to_wechat">Condividi con WeChat</string>
-    <string name="action_share_to_moment">Condividi con Momenti  WeChat</string>
+    <string name="action_share_to_moment">Condividi con Momenti WeChat</string>
     <string name="action_share_to_weibo">Condividi con Weibo</string>
     <string name="action_send_text_message">Invia SMS</string>
     <string name="action_share_to_miliao">MiTalk</string>
@@ -126,19 +128,14 @@ Attiva la barra degli strumenti, in ogni caso
 dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="task_title_prefix">Passo n.</string>
     <string name="setting_feedback">Reattività MiKey</string>
-    <string name="setting_speed_desc">Una velocità maggiore garanstice maggiore reattività, 
-ma può diminuire il tasso di riconoscimenti corretti
-Diminuendo la velocità aumenterai il tasso di riconoscimenti 
-corretti ma diminuirà il tempo di risposta.
-
-"</string>
+    <string name="setting_speed_desc">"Una velocità maggiore garanstice maggiore reattività, ma può diminuire il tasso di riconoscimenti corretti Diminuendo la velocità aumenterai il tasso di riconoscimenti corretti ma diminuirà il tempo di risposta. "</string>
     <string name="setting_speed_slow">Più lenta</string>
     <string name="setting_speed_quick">Più veloce</string>
     <string name="setting_vibrate_desc">"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
-The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
+The feedback function can not be delivered, such as flash shot, Mute is through the vibration 
 Feedback implementation. 
-Users can use this switch to completely turn off the anti-vibration"</string>
-  <string name="setting_keeplive_desc">"Consenti esecuzione applicazione in background.
+Gli utenti possono usare questo interruttore per spegnere completamente l'anti-vibrazione."</string>
+    <string name="setting_keeplive_desc">"Consenti esecuzione applicazione in background.
 Potrebbe aumentare il consumo della batteria"</string>
     <string name="setting_speed_text">Velocità</string>
     <string name="setting_keeplive_text">Esegui in background</string>
@@ -177,7 +174,7 @@ Una combinazione dei loro strumenti"</string>
     <string name="faq_title">Domande su MiKey</string>
     <string name="faq_speed_title">Azione sconosciuta?</string>
     <string name="faq_speed_text">Differenti dispositivi mobili reagiscono in modo differenti, per questo la velocità può essere regolata nelle impostazioni. Cerca il ritmo adatto per il tuo telefono.</string>
-    <string name="faq_focus_title">"Perché la foto è sfocata? Perché lo scatto è lento?"</string>
+    <string name="faq_focus_title">Perché la foto è sfocata? Perché lo scatto è lento?</string>
     <string name="faq_focus_text">"Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata"</string>
     <string name="faq_plug_title">Come inserire il MiKey correttamente?</string>
     <string name="faq_plug_text">Questo metodo per inserire il MiKey previene potenziali problemi. Assicurati di inserirlo senza premere il pulsante.</string>
