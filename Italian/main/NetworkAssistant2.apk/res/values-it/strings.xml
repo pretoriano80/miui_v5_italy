@@ -246,8 +246,8 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="pref_traffic_saving_title">Impostazioni Saver</string>
     <string name="pref_traffic_saving_switch">Saver</string>
     <string name="pref_traffic_saving_switch_hint">Utilizza i proxy per comprimere i dati</string>
-    <string name="pref_traffic_saving_notify_switch">Show in notification shade</string>
-    <string name="pref_traffic_saving_notify_switch_hint">Show Data Saver info in the notification shade</string>
+    <string name="pref_traffic_saving_notify_switch">"Mostra Saver all'ombra delle notifiche"</string>
+    <string name="pref_traffic_saving_notify_switch_hint">"Mostra informazioni Saver all'ombra delle notifiche"</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
-    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Will enabling Data Saver affect my privacy? &lt;/b>&lt;br />&lt;br />No. Your data will remain private and will not be shared with third parties. &lt;br />&lt;br />&lt;br />&lt;b> Why isn't Data Saver working? &lt;/b>&lt;br />&lt;br /> Data Saver only kicks in when you're using your carrier's network to send or download content."</string>
+    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Consentire Saver potrebbero esserci problemi la mia privacy? &lt;/b>&lt;br />&lt;br />No.I tuoi dati rimarranno privati e non saranno condivisi con terzi. &lt;br />&lt;br />&lt;br />&lt;b> Perché Saver non funziona? &lt;/b>&lt;br />&lt;br /> Saver entra in funzione solo quando la rete dati invia o scarica contenuti.</string>
 </resources>
