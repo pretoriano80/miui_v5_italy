@@ -2663,7 +2663,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Modalità anti-disturbo abilitata.</string>
     <string name="dndm_open">Anti-disturbo abilitato</string>
-    <string name="dndm_summary">Quando la modalità Anti-disturbo è abilitata, le chiamate e le notifiche in arrivo quando il telefono è bloccato verranno silenziate.</string>
+    <string name="dndm_summary">Quando la modalità Anti-disturbo è abilitata, le chiamate e le notifiche in arrivo verranno silenziate quando il telefono è bloccato.</string>
     <string name="dndm_auto_setting_group">programmato</string>
     <string name="dndm_auto_button_title">Orario</string>
     <string name="dndm_auto_time_setting">Impostazioni orario</string>
