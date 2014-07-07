@@ -30,7 +30,7 @@
     <string name="download_failed_cannot_resume">Download fallito, si prega di riprovare più tardi</string>
     <string name="download_failed_file_exists">Il file esiste già</string>
     <string name="download_failed_space">Download fallito, spazio insufficiente</string>
-    <string name="download_failed_blocked">Download fallito, non è possibile connettersi alla retek</string>
+    <string name="download_failed_blocked">Download fallito, non è possibile connettersi alla rete</string>
     <string name="yellow_page_detail_title">Informazioni</string>
     <string name="yellow_page_website">Sito ufficiale</string>
     <string name="menu_copy_text">Copia negli appunti</string>
