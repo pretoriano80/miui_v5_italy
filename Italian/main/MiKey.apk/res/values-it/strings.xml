@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="copy">Copia</string>
     <string name="name">Nome:</string>
@@ -11,54 +11,42 @@
     <string name="address">Indirizzo:</string>
     <string name="birthday">Compleanno:</string>
     <string name="note">Note:</string>
-    <string name="add_to_contacts">Aggiungi ai contatti</string>
+    <string name="add_to_contacts">Aggiungi alla lista dei contatti</string>
     <string name="recognize">Riconoscimento</string>
     <string name="place_barcode_into_rectangle">Posiziona il codice QR o il codice a barre dentro il rettangolo del mirino</string>
     <string name="open_flash_error">Impossibile accendere il flash</string>
     <string name="close_flash_error">Impossibile spegnere il flash</string>
-    <string name="scan_fail">Impossibile eseguire la scansione</string>
+    <string name="scan_fail">Impossibile eseguire la scansione!</string>
     <string name="vcard_prompt">Impossibile creare il nuovo contatto perchè manca il nome</string>
     <string name="copy_succeed">Copia eseguita correttamente</string>
     <string name="fail_generate_barcode">Impossibile generare il codice a barre o il codice QR</string>
-    <string name="scan_result">Risultato della scansione</string>
+    <string name="scan_result">Risultati scansione</string>
     <string name="flash_lable">Flash</string>
     <string name="picker_lable">Galleria</string>
-    <string name="setting_key_silent">key_silent</string>
-    <string name="setting_key_mode_silent_open">key_silent_default</string>
-    <string name="setting_key_mode_dust_cap">key_dust_cap</string>
-    <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>    
-    <string name="app_name">MiKey</string>
-    <string name="short_click_1">1x</string>
-    <string name="short_click_2">2x</string>
-    <string name="short_click_3">3x</string>
-    <string name="short_click_4">4x</string>
-    <string name="short_click_5">5x</string>
-    <string name="short_click_6">6x</string>
-    <string name="short_click_7">7x</string>
-    <string name="short_click_8">8x</string>
-    <string name="short_click_9">9x</string>
-    <string name="short_click_10">10x</string>
+
     <string name="long_click">Tieni premuto</string>
     <string name="action_open_flashlight">Torcia</string>
-    <string name="action_open_other_app">Altre app</string>
-    <string name="action_open_mi_route">Lista smart device</string>
+    <string name="action_open_other_app">Applicazioni</string>
+    <string name="action_open_mi_route">Lista dei dispositivi</string>
     <string name="action_open_camera">Fotocamera</string>
     <string name="action_open_camera2">Fotocamera</string>
     <string name="action_screen_shot">Screenshot</string>
-    <string name="action_clear_sms_inbox">Cancella SMS in arrivo</string>
+    <string name="action_clear_sms_inbox">Cancella messaggi</string>
     <string name="action_clear_call_list">Cancella registro chiamate</string>
-    <string name="action_clear_memory">Cancella RAM</string>
+    <string name="action_clear_memory">Cancella memoria RAM</string>
     <string name="action_capture_video">Registra Video</string>
     <string name="action_lock_screen">Blocca schermo</string>
     <string name="action_qrcode">Scansiona QR code</string>
     <string name="action_zero_volume">Silenzioso</string>
     <string name="action_open_sound_recorder">Registra suono</string>
-    <string name="action_open_or_close_motion">Movimento Attivo/Disattivo</string>
-    <string name="action_open_wechat">Apri WeChat</string>
+    <string name="action_open_or_close_motion">Rotazione Attiva/Disattiva</string>
+    <string name="action_open_camera360_capture">Effetti fotocamera Camera360</string>
+    <string name="action_open_camera360_edit">Modifica le foto Camera360</string>
+    <string name="action_open_wechat">WeChat</string>
     <string name="action_share_to_wechat">Condividi con WeChat</string>
-    <string name="action_share_to_moment">Condividi con Momenti  WeChat</string>
+    <string name="action_share_to_moment">Condividi momenti con WeChat</string>
     <string name="action_share_to_weibo">Condividi con Weibo</string>
-    <string name="action_send_text_message">Invia SMS</string>
+    <string name="action_send_text_message">Invia messaggio</string>
     <string name="action_share_to_miliao">MiTalk</string>
     <string name="action_share_to_miliao_wall">Bacheca MiTalk</string>
     <string name="action_toolbox">Strumenti</string>
@@ -66,21 +54,21 @@
     <string name="category_app">Applicazioni</string>
     <string name="category_system_settings">Impostazioni</string>
     <string name="action_close">Chiudi</string>
-    <string name="delete_confirm">Eliminare?</string>
-    <string name="delete_gesture">Eliminare impostazioni?</string>
+    <string name="delete_confirm">Sei sicuro di voler cancellare questa azione?</string>
+    <string name="delete_gesture">Eliminarele  guestures pulsanti per Mikey?</string>
     <string name="recommend">Consigliate</string>
     <string name="add">Aggiungi</string>
     <string name="running_notification">Xiaomi MiKey</string>
     <string name="click_to_open">Apri</string>
     <string name="call_to">Chiama</string>
-    <string name="sms_to">Invia SMS a:</string>
-    <string name="sms_template">Modello SMS</string>
+    <string name="sms_to">Invia messaggio a:</string>
+    <string name="sms_template">Modello messaggio</string>
     <string name="confirm">OK</string>
     <string name="cancel">Annulla</string>
     <string name="delete">Elimina</string>
     <string name="input_phone">Inserisci telefono</string>
     <string name="earphone">Auricolari</string>
-    <string name="select_device">Selezionare dispositivo?</string>
+    <string name="select_device">Selezionare dispositivo</string>
     <string name="times">volte</string>
     <string name="rank_prefix">"Classifica: "</string>
     <string name="rank_suffix">" punti"</string>
@@ -88,30 +76,16 @@
     <string name="device_not_recognized">Dispositivo non riconosciuto. Prova di nuovo.</string>
     <string name="clean_memory">Cancella memoria</string>
     <string name="close_all">Chiudi tutto</string>
-    <string name="sms_sent_done">Invia SMS</string>
-    <string name="cn_0">0</string>
-    <string name="cn_1">1</string>
-    <string name="cn_2">2</string>
-    <string name="cn_3">3</string>
-    <string name="cn_4">4</string>
-    <string name="cn_5">5</string>
-    <string name="cn_6">6</string>
-    <string name="cn_7">7</string>
-    <string name="cn_8">8</string>
-    <string name="cn_9">9</string>
-    <string name="cn_10">10</string>
-    <string name="cn_100">100</string>
-    <string name="cn_1000">1000</string>
-    <string name="cn_10000">10000</string>
-    <string name="cn_100000000">100000000</string>
+    <string name="sms_sent_done">Messaggio inviato</string>
+
     <string name="splash_tip">Collega MiKey</string>
     <string name="default_action_title">Azione predefinita</string>
     <string name="action_home">Home</string>
     <string name="message_photo_end">Immagini salvate</string>
-    <string name="select_camera">Selezionare fotocamera?</string>
+    <string name="select_camera">Selezionare fotocamera</string>
     <string name="front_camera">Fotocamera frontale</string>
     <string name="back_camera">Fotocamera posteriore</string>
-    <string name="write_pic_fail">Impossibile salvare immagine</string>
+    <string name="write_pic_fail">Impossibile salvare immagine!</string>
     <string name="settings">Impostazioni</string>
     <string name="setting_buy">Acquista MiKey</string>
     <string name="app_not_installed">Applicazione non installata</string>
@@ -126,58 +100,40 @@ Attiva la barra degli strumenti, in ogni caso
 dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="task_title_prefix">Passo n.</string>
     <string name="setting_feedback">Reattività MiKey</string>
-    <string name="setting_speed_desc">Una velocità maggiore garanstice maggiore reattività, 
-ma può diminuire il tasso di riconoscimenti corretti
-Diminuendo la velocità aumenterai il tasso di riconoscimenti 
-corretti ma diminuirà il tempo di risposta.
-
-"</string>
+    <string name="setting_speed_desc">"Una velocità maggiore garanstice maggiore reattività, ma può diminuire il tasso di riconoscimenti corretti Diminuendo la velocità aumenterai il tasso di riconoscimenti corretti ma diminuirà il tempo di risposta. "</string>
     <string name="setting_speed_slow">Più lenta</string>
     <string name="setting_speed_quick">Più veloce</string>
-    <string name="setting_vibrate_desc">"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
-The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
-Feedback implementation. 
-Users can use this switch to completely turn off the anti-vibration"</string>
-  <string name="setting_keeplive_desc">"Consenti esecuzione applicazione in background.
-Potrebbe aumentare il consumo della batteria"</string>
+    <string name="setting_vibrate_desc">Il telefono vibrerà per notificare quando la funzione verrà eseguita</string>
+    <string name="setting_keeplive_desc">"Consenti esecuzione applicazione in background.Potrebbe aumentare il consumo della batteria"</string>
     <string name="setting_speed_text">Velocità</string>
     <string name="setting_keeplive_text">Esegui in background</string>
     <string name="setting_instant_photo_text">Prima metti a fuoco</string>
-    <string name="setting_vibrate_text">Vibrazione</string>
+    <string name="setting_vibrate_text">Risposta vibrazione</string>
     <string name="setting_silent_mode">Modalità silenziosa</string>
     <string name="setting_silent_mode_default">Modalità Cuffie (Scollega MiKey)</string>
     <string name="setting_silent_mode_dust_cap">Anti-polvere (MiKey)</string>
-    <string name="setting_silent_mode_desc">"Seleziona sempre la Modalità Cuffie per scollegare MiKey, altrimenti si avrà un effetto muto.
-Scegliendo Anti-polvere, dopo l'accensione del telefono verrà 
-riproposta la scelta, perché il telefono non può distinguerlo da solo.
-Se usi spesso le cuffie, scegli la Modalità Cuffie, 
-così il telefono non ti proporrà la scelta ogni volta
-che lo accendi"</string>
+    <string name="setting_silent_mode_desc">"Se si desidera collegare l'auricolare, selezionare la modalità cuffia e scollegare il Mikey. In caso contrario, l'uscita audio non funzionerà correttamente."</string>
     <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini 
 più nitide, ma allunga il tempo impiegato 
 per eseguire lo scatto"</string>
-    <string name="toolbox_outer_desc">"Premi sul segno + o la funzione esistente
-Una combinazione dei loro strumenti"</string>
-    <string name="setting_speed_max_time">1000</string>
-    <string name="setting_speed_middle_time">500ms</string>
-    <string name="setting_speed_min_time">0</string>
+    <string name="toolbox_outer_desc">Selezionare più funzioni esistenti</string>
     <string name="notification_recorder_start">Inizia la registrazione...</string>
     <string name="notification_control_stop">Interrompi</string>
     <string name="notification_control_play">Riproduci</string>
-    <string name="notification_recorder_file_location">Posizione file:</string>
+    <string name="notification_recorder_file_location">Salvato in:</string>
     <string name="sdcard">Scheda SD</string>
-    <string name="showSlip">Mostra menù a scorrimento</string>
+    <string name="showSlip">Mostra un popup</string>
     <string name="close_recorder">Chiudi registratore</string>
-    <string name="file_delimiter">／</string>
+
     <string name="silent_mode_tip_main">Tasto silenzioso disabilitato</string>
     <string name="update_message">Aggiornato!</string>
-    <string name="silent_mode_tip_sub">Attiva nelle impostazioni</string>
+
     <string name="test_user_entry">Test</string>
     <string name="goto_update">Aggiorna</string>
     <string name="faq_title">Domande su MiKey</string>
     <string name="faq_speed_title">Azione sconosciuta?</string>
     <string name="faq_speed_text">Differenti dispositivi mobili reagiscono in modo differenti, per questo la velocità può essere regolata nelle impostazioni. Cerca il ritmo adatto per il tuo telefono.</string>
-    <string name="faq_focus_title">"Perché la foto è sfocata? Perché lo scatto è lento?"</string>
+    <string name="faq_focus_title">Perché la foto è sfocata? Perché lo scatto è lento?</string>
     <string name="faq_focus_text">"Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata"</string>
     <string name="faq_plug_title">Come inserire il MiKey correttamente?</string>
     <string name="faq_plug_text">Questo metodo per inserire il MiKey previene potenziali problemi. Assicurati di inserirlo senza premere il pulsante.</string>

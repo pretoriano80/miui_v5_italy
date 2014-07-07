@@ -270,7 +270,7 @@
         <item>1920x1080 xhdpi</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
- <string-array name="enable_opengl_traces_entries">
+    <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
         <item>Systrace (Grafica)</item>
@@ -510,6 +510,7 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
     <string-array name="wifi_ap_wps_mode_entries">
         <item>Premi il pulsante</item>
         <item>PIN dal client</item>
+    </string-array>
      <string-array name="mouse_primary_button_titles">
         <item>Mano del mouse destra</item>
         <item>Mano del mouse sinistra</item>

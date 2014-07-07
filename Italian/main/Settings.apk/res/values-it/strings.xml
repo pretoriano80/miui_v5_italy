@@ -875,7 +875,7 @@ Consentire l'avvio automatico?"</string>
     <string name="menu_item_shortcut">Crea collegamenti</string>
     <string name="menu_item_shortcut_uninstall">Rimuovi collegamento</string>
     <string name="menu_item_shortcut_title">Aggiungi collegamento</string>
-    <string name="menu_item_shortcut_summary">aggiungi sempre collegamenti per le applicazioni utilizzate</string>
+    <string name="menu_item_shortcut_summary">Aggiungi sempre collegamenti per le applicazioni utilizzate</string>
     <string name="menu_item_settings_title">Impostazioni</string>
     <string name="activity_title_create_shortcut">Aggiungi collegamento</string>
     <string name="activity_title_settings">Impostazioni</string>

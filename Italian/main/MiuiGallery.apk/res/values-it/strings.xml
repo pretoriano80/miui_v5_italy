@@ -9,7 +9,7 @@
     <string name="yes">Sì</string>
     <string name="no">No</string>
     <string name="save">Salva</string>
-    <string name="autofix">Correzione autom.</string>
+    <string name="autofix">Correzione auto.</string>
     <string name="crop">Ritaglia</string>
     <string name="crossprocess">Cross-process</string>
     <string name="documentary">Documentario</string>
@@ -21,7 +21,7 @@
     <string name="fisheye">Fisheye</string>
     <string name="flip">Capovolgi</string>
     <string name="grain">Grana pellicola</string>
-    <string name="grayscale">Bianco e nero</string>
+    <string name="grayscale">B/n</string>
     <string name="highlight">Alte luci</string>
     <string name="lomoish">Effetto Lomo</string>
     <string name="negative">Negativo</string>
