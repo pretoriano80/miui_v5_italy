@@ -1196,7 +1196,6 @@ Consentire l'avvio automatico?"</string>
     <string name="next_label">Avanti</string>
     <string name="language_picker_title">Lingua</string>
     <string name="activity_picker_label">Scegli attività</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Info dispositivo</string>
     <string name="battery_info_label">Info batteria</string>
     <string name="display_label">Schermo</string>
