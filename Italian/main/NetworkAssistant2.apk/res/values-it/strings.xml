@@ -228,7 +228,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="datausage_purchase_pkglist_servererror">Errore lato server</string>
     <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
     <string name="traffic_saving_notify_start_title">"Ridurre l'utilizzo dei dati"</string>
-    <string name="traffic_saving_notify_start_content">%s salvato in questo mese</string>
+    <string name="traffic_saving_notify_start_content">%s risparmiato in questo mese</string>
     <string name="traffic_saving_toast_start_mobile">Saver è attivo</string>
     <string name="traffic_saving_toast_start_none_mobile">Saver verrà inizializzato quando attiverai la tua connessione dati</string>
     <string name="traffic_saving_toast_start_unreachable">Saver non può essere inizializzato</string>
@@ -240,7 +240,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_msg_today">Dati salvati oggi:</string>
     <string name="traffic_saving_msg_month">Totale mensile %1$s (RMB %2$s)</string>
     <string name="traffic_saving_history_title">Registro</string>
-    <string name="traffic_saving_history_total_traffic">Dati salvati</string>
+    <string name="traffic_saving_history_total_traffic">Dati risparmiati</string>
     <string name="traffic_saving_history_total_money">Soldi risparmiati</string>
     <string name="traffic_saving_history_total_money_unit" />
     <string name="pref_traffic_saving_title">Impostazioni Saver</string>
@@ -249,5 +249,5 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="pref_traffic_saving_notify_switch">"Mostra Saver all'ombra delle notifiche"</string>
     <string name="pref_traffic_saving_notify_switch_hint">"Mostra informazioni Saver all'ombra delle notifiche"</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
-    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Consentire Saver potrebbero esserci problemi la mia privacy? &lt;/b>&lt;br />&lt;br />No.I tuoi dati rimarranno privati e non saranno condivisi con terzi. &lt;br />&lt;br />&lt;br />&lt;b> Perché Saver non funziona? &lt;/b>&lt;br />&lt;br /> Saver entra in funzione solo quando la rete dati invia o scarica contenuti.</string>
+    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Usando Saver potrebbero esserci problemi con la mia privacy? &lt;/b>&lt;br />&lt;br />No. I tuoi dati rimarranno privati e non saranno condivisi con terzi. &lt;br />&lt;br />&lt;br />&lt;b> Perché Saver non funziona? &lt;/b>&lt;br />&lt;br /> Saver entra in funzione solo quando la rete dati invia o scarica contenuti.</string>
 </resources>
