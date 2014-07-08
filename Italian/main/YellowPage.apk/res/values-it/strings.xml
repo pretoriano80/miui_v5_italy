@@ -79,7 +79,7 @@
     <string name="contact_detail_calllog_call_note_tips">Note di chiamata</string>
     <string name="menu_delete_call_log">Elimina registro chiamate</string>
     <string name="menu_add_black_list">Aggiungi alla blacklist</string>
-    <string name="menu_remove_black_list">Rimuovi dalla blacklist</string>g>
+    <string name="menu_remove_black_list">Rimuovi dalla blacklist</string>
     <string name="menu_refresh">Aggiorna</string>
     <string name="confirm_to_add_blacklist">Aggiungere il numero selezionato alla blacklist?</string>
     <string name="confirm_to_remove_blacklist">Aggiungere il numero selezionato alla blacklist?</string>
