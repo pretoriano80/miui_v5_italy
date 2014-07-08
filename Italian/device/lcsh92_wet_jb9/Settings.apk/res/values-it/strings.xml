@@ -3710,7 +3710,7 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="wifi_hotspot_suspend_optimizations_summary">"Ridurre al minimo l'utilizzo della batteria quando hotspot Wi-Fi è attivo.</string>
     <string name="wfd_change_resolution_menu_title">Cambia risoluzione</string>
     <string name="passpoint_title">Passpoint</string>
-    <string name="passpoint_summary">"l'autoconnessione al passpoint attiverà APs"</string>
+    <string name="passpoint_summary">"L'autoconnessione al passpoint attiverà APs"</string>
     <string name="passpoint_append_summary">(via Passpoint)</string>
     <string name="passpoint_append_summary_not_connected">(Passpoint)</string>
     <string name="passpoint_config_hotspot">Hotspot 2.0</string>
