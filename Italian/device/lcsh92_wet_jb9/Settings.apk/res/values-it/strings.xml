@@ -21,7 +21,6 @@ Confermare la disattivazione?"</string>
     <string name="cache_list_empty_hints">Nessun file in cache.</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
-
     <string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_ad">Pubblicità</string>
     <string name="optimize_title_apk">Pacchetti</string>
@@ -3696,7 +3695,7 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="enable_wifi_tether">Abilita hotspot Wi-Fi</string>
     <string name="enable_gps">Abilita GPS</string>
     <string name="enable_gps_confirm_message">Occorre una connessione dati wireless per acquisire i dati di supporto GPS (EPO, A-GPS), questo può comportare costi extra per il traffico dati. Sei certo di voler abilitare il GPS?</string>
-    <string name="mouse_primary_button_title">Passa dai tasti primari ai secondari/string>
+    <string name="mouse_primary_button_title">Passa dai tasti primari ai secondari</string>
     <string name="mouse_primary_button_dialog_title">Passa ai tasti primari</string>
     <string name="double_click_title">Velocità doppio tocco</string>
     <string name="test_area">AREA TEST:</string>
@@ -3728,6 +3727,6 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="change_data_conn_message">%1$s non è disponibile ora, desideri che la connessione dati prefinita sia %2$s?</string>
     <string name="cmcc_dm_settings_title">Permessi gestione telefono</string>
     <string name="cmcc_dm_settings_enable_summary">Attiva boot automatico</string>
-    <string name="cmcc_dm_settings_disable_summary">Disattiva boot automatico<</string>
+    <string name="cmcc_dm_settings_disable_summary">Disattiva boot automatico</string>
     <string name="msg_wlan_signal_found_manul">Segnale Wi-Fi Trovato, vorresti utilizzare questa rete?</string>
 </resources>
