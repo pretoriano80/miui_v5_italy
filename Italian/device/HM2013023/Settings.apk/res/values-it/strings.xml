@@ -72,7 +72,7 @@ Confermare la disattivazione?"</string>
     <string name="deep_clean_title_uninstall_apps">Applicazioni</string>
     <string name="deep_clean_summary_install_apps_today">utilizzate oggi</string>
     <string name="deep_clean_summary_install_apps_interval">utilizzate %d giorni fa</string>
-    <string name="deep_clean_summary_install_apps_new">mai utilizzato</string>
+    <string name="deep_clean_summary_install_apps_new">mai utilizzate</string>
     <string name="deep_clean_summary_install_apps_virus">virus rilevato(i)</string>
     <string name="deep_clean_summary_install_apps_risk">pericolo(i) rilevato(i)</string>
     <string name="system_cache_title">Cache di sistema</string>
