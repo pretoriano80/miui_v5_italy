@@ -284,7 +284,7 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="file_not_exist">File inesistente</string>
     <string name="open_file_failed">Impossibile aprire</string>
     <string name="system_alert">Avvisa</string>
-    <string name="network_connect_confirm_des">Usando kuaipan si accede alla rete dati, acedere?</string>
+    <string name="network_connect_confirm_des">Usando kuaipan si accede alla rete dati, accedere?</string>
     <string name="operation_agree">Sì</string>
     <string name="never_notify_network_connect">Non mostrare più</string>
     <string name="connect_network_setting_des">"Avvisami quando si richiede l'accesso alla rete"</string>

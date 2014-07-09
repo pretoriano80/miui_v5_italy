@@ -21,7 +21,6 @@ Confermare la disattivazione?"</string>
     <string name="cache_list_empty_hints">Nessun file in cache.</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
-
     <string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_ad">Pubblicità</string>
     <string name="optimize_title_apk">Pacchetti</string>
@@ -72,7 +71,7 @@ Confermare la disattivazione?"</string>
     <string name="deep_clean_title_uninstall_apps">Applicazioni</string>
     <string name="deep_clean_summary_install_apps_today">utilizzate oggi</string>
     <string name="deep_clean_summary_install_apps_interval">utilizzate %d giorni fa</string>
-    <string name="deep_clean_summary_install_apps_new">mai utilizzato</string>
+    <string name="deep_clean_summary_install_apps_new">mai utilizzate</string>
     <string name="deep_clean_summary_install_apps_virus">virus rilevato(i)</string>
     <string name="deep_clean_summary_install_apps_risk">pericolo(i) rilevato(i)</string>
     <string name="system_cache_title">Cache di sistema</string>
@@ -3476,7 +3475,7 @@ Sei certo di volere abilitare il GPS ora e attendere per l'orario provveduto dal
     <string name="gemini_3g_disable_warning_case2">Il servizio 3G non è disponibile con la SIM selezionata. Questo comporta un caricamento dati più lento. Puoi cambiare le impostazioni del servizio 3G sotto Impostazioni -> Gestione SIM. Sei certo di voler selezionare questa SIM?</string>
     <string name="gemini_3g_disable_warning_case3">Devi prima abilitare il roaming dati per questa SIM, il che può comportare costi significativi per il traffico in roaming! A parte questo, il servizio 3G non è disponibile con questa SIM. Questo comporta un caricamento dati più lento. Puo cambiarlo sotto Impostazioni -> Wi-Fi e reti -> Reti mobili. Sei certo di volere abilitare il roaming dati e selezionare questa SIM? </string>
     <string name="gemini_3g_disable_warning_case4">Devi prima abilitare il roaming dati per questa SIM, il che può comportare costi significativi per il traffico in roaming! A parte questo, il servizio 3G non è disponinibile con questa SIM. Questo comporta un caricamento dati più lento. Puoi cambiarlo sotto Impostazioni -> gestione SIM. Sei sicuro di volere abilitare il roaming dati e selezionare quindi questa SIM?</string>
-    <string name="gemini_3g_disable_warning_case5">Attivando al connessione dati ci sarà un consumo del traffico. Costi specifici previsti dall'operatore. Confermi l'attivazione?</string>
+    <string name="gemini_3g_disable_warning_case5">"Attivando la connessione dati ci sarà un consumo del traffico. Costi specifici previsti dall'operatore. Confermi l'attivazione?"</string>
     <string name="not_show_again">Non chiedere di nuovo.</string>
     <string name="gemini_sim_tether_info_title">Contatti e SIM</string>
     <string name="gemini_sim_tether_add_record">Aggiungi contatti</string>
@@ -3696,11 +3695,11 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="enable_wifi_tether">Abilita hotspot Wi-Fi</string>
     <string name="enable_gps">Abilita GPS</string>
     <string name="enable_gps_confirm_message">Occorre una connessione dati wireless per acquisire i dati di supporto GPS (EPO, A-GPS), questo può comportare costi extra per il traffico dati. Sei certo di voler abilitare il GPS?</string>
-    <string name="mouse_primary_button_title">Passa dai tasti primari ai secondari/string>
+    <string name="mouse_primary_button_title">Passa dai tasti primari ai secondari</string>
     <string name="mouse_primary_button_dialog_title">Passa ai tasti primari</string>
     <string name="double_click_title">Velocità doppio tocco</string>
     <string name="test_area">AREA TEST:</string>
-    <string name="double_click_tip">Fai qui il doppio toccol</string>
+    <string name="double_click_tip">Fai qui il doppio tocco</string>
     <string name="apn_port_warning">Il valore della porta deve essere 1-65535!</string>
     <string name="usb_tethering_select_version">Seleziona la versione del sistema PC</string>
     <string name="oobe_sim_info_title">Gestione SIM</string>
@@ -3720,14 +3719,14 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="passpoint_supported">Supportato</string>
     <string name="passpoint_username_pw">Username/Password</string>
     <string name="passpoint_certificate">Certificato</string>
-    <string name="wifi_hotspot_select_band_title">Seleziona fascia operativa</string>
+    <string name="wifi_hotspot_select_band_title">Seleziona banda operativa</string>
     <string name="audio_profile_bes_loudness_title">BesLoudness</string>
-    <string name="audio_profile_bes_loudness_summary">Boost Volume altoparlante</string>
+    <string name="audio_profile_bes_loudness_summary">Boost volume altoparlante</string>
     <string name="adupsfota_software_update_string_ext">Aggiornamento Wireless</string>
     <string name="change_data_conn_title">Cambia connessione dati</string>
     <string name="change_data_conn_message">%1$s non è disponibile ora, desideri che la connessione dati prefinita sia %2$s?</string>
     <string name="cmcc_dm_settings_title">Permessi gestione telefono</string>
     <string name="cmcc_dm_settings_enable_summary">Attiva boot automatico</string>
-    <string name="cmcc_dm_settings_disable_summary">Disattiva boot automatico<</string>
-    <string name="msg_wlan_signal_found_manul">Segnale Wi-Fi Trovato, vorresti utilizzare questa rete?</string>
+    <string name="cmcc_dm_settings_disable_summary">Disattiva boot automatico</string>
+    <string name="msg_wlan_signal_found_manul">Segnale Wi-Fi trovato, vorresti utilizzare questa rete?</string>
 </resources>
