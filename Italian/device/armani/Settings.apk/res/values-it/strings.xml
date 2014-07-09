@@ -3355,10 +3355,11 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="preferred_app_settings">Impostazioni predefinite app</string>
     <string name="preferred_app_settings_default">Predefinito</string>
     <string name="preferred_app_settings_reset">Ripristina imp. predefinite</string>
-    <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>    <string name="sim_enter_pin_hints">(Inserisci 4-8 caratteri)</string>
+    <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>    
+	<string name="sim_enter_pin_hints">(Inserisci 4-8 caratteri)</string>
     <string name="gemini_data_connection">Connessione dati</string>
     <string name="gemini_sim_info_editor_name">Modifica nome scheda SIM</string>
-    <string name="gemini_sim_info_editor_name_dup_title">Salvataggio fallito/string>
+    <string name="gemini_sim_info_editor_name_dup_title">Salvataggio fallito</string>
     <string name="gemini_sim_info_editor_name_dup_msg">Doppio nome scheda SIM</string>
     <string name="gemini_sim_info_editor_number">Inserisci numero di telefono</string>
     <string name="gemini_no_sim_indicator">Nessuna scheda SIM</string>
