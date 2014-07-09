@@ -355,6 +355,12 @@
         <item>Su schermo come linee</item>
         <item>Dumpsys gfxinfo in adb shell</item>
     </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Disattivato</item>
+        <item>Mostra area overdraw</item>
+        <item>Mostra aree di Deuteranomaly</item>
+        <item>Mostra contatore overdraw</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
         <item>Nessun processo in background</item>

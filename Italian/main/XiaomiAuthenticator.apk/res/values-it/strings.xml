@@ -164,7 +164,7 @@ Ecco cosa puoi fare: "</string>
   <string name="update_pattern_jump">&lt;u&gt;Chiudi blococ password&lt;/u&gt;</string>
   <string name="version_preference_title">Versione</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;Nota: &lt;/font&gt; Non cancellare il tuo token altrimenti non potrai eseguire l'accesso."</string>
-  <string name="welcome_page_details">"- proteggi il account da furti.
+  <string name="welcome_page_details">"- proteggi il tuo account da furti.
 - Mantieni il tuo account sicuro."</string>
   <string name="welcome_page_title">Sicurezza account Xiaomi</string>
 </resources>
