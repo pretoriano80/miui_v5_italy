@@ -2846,7 +2846,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="button_light_timeout">Timeout luce tasti</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
-    <string name="headset_settings">Impostazioni Cuffie</string>
+    <string name="headset_settings">Impostazioni cuffie</string>
     <string name="headset_function">Funzioni cuffie</string>
     <string name="headset_mode_volume">Regolazione volume</string>
     <string name="headset_mode_music">Cambia traccia</string>
