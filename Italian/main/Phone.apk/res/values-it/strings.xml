@@ -717,7 +717,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="answer_widget_sliding_vertical_miui">Scorrimento verticale</string>
     <string name="answer_widget_title_miui">Gesture di risposta</string>
     <string name="answer_state_setting_title">Impostazioni chiamate in entrata</string>
-    <string name="answer_state_setting_summary">Impostazioni per sensore di prossimità gira per silenziare, etc.</string>
+    <string name="answer_state_setting_summary">Opzioni aggiuntive per le chiamate in arrivo</string>
     <string name="areacode_required_for_emergency_number_miui">Richiesto prefisso locale per chiamate di emergenza</string>
     <string name="areacode_required_miui">Prefisso locale richiesto</string>
     <string name="areacode_required_accept_miui">OK</string>
