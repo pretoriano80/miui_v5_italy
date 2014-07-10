@@ -58,10 +58,10 @@
     <string name="sd_card_available">Spazio libero: %1$s</string>
     <string name="file_info_location">Posizione:</string>
     <string name="file_info_size">Dimensione:</string>
-    <string name="file_info_modified">Modificata:</string>
+    <string name="file_info_modified">Modificato:</string>
     <string name="file_info_canread">Lettura:</string>
     <string name="file_info_canwrite">Scrittura:</string>
-    <string name="file_info_ishidden">Nascosti:</string>
+    <string name="file_info_ishidden">Nascosto:</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
     <string name="operation_deleting">Eliminazione...</string>

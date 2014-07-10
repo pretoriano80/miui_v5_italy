@@ -1057,6 +1057,7 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="call_record_setting_miui">Impostazioni di registrazione</string>
     <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
     <string name="select_groups">Seleziona gruppi</string>
+	<string name="sim_capacity">Mostra capienza SIM</string>
     <string name="sim_capacity_content" formatted="false">Capacità totale %d | %d utilizzati</string>
     <string name="sim_error_generic_failure">Errore SIM generico.</string>
     <string name="sim_error_storage_full">Memoria SIM piena!</string>
