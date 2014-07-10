@@ -449,7 +449,7 @@
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Barra di stato e notifiche</string>
     <string name="app_no_notification">Nessuna notifica</string>
     <string name="app_notificaiton_on_notificationBar">Pannello notifiche</string>
-    <string name="device_hongmi">Telefono Hongmi</string>
+    <string name="device_hongmi">Telefono Redmi</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inseritto la tua password in modo sbagliato per %d volte. Dopo altri %d tentativi sbagliati, ti verrà richiesto di sbloccare il telefono con i dettagli del tuo account.
 
 Prova di nuovo tra %d secondi."</string>
