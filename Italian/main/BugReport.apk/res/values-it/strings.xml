@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Feedback</string>
-    <string name="user_feedback">Feedback Utente</string>
     <string name="report_miui">Segnala a MIUI</string>
-    <string name="menu_send">Invia rapporto</string>
     <string name="menu_copy">Copia</string>
     <string name="menu_attach_screenshot">Allega screenshot</string>
     <string name="menu_discard">Elimina</string>
     <string name="description">Descrizione (opzionale)</string>
     <string name="btn_send">Invia</string>
-    <string name="err_type">Tipologia Feedback</string>
     <string name="err_type_reboot">Riavvio di Sistema</string>
     <string name="err_type_force_close">Chiusura forzata</string>
     <string name="err_type_network">Errore di rete</string>
@@ -43,5 +40,4 @@
     <string name="wlan_unavailable_dialog_button_sent">Invia subito</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
     <string name="packaging_dialog_content">Generazione rapporto, si prega di attendere…</string>
-    <string name="bugreport_feedback_from">Da: %s</string>
 </resources>
