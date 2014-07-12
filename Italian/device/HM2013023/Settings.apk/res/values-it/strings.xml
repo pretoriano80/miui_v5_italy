@@ -2849,7 +2849,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_application_warning_replace">Cambia Launcher</string>
     <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
-	<string name="title_font">Font</string>
+	<string name="title_font">Carattere</string>
     <string name="title_font_current">In utilizzo</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
