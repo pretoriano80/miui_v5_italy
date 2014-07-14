@@ -15,7 +15,13 @@
     <string name="dlg_cancel">Annulla</string>
     <string name="cache_manage_title">Cancellazione %1$d file in cache, spazio libero %2$s</string>
     <string name="cache_list_empty_hints">Nessun file in cache.</string>
-    <string name="optimize_title_cache">Cache</string>
+	<string name="cta_dialog_title">Termini e Condizioni</string>
+    <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza Xiaomi, per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati, sei d'accordo?"</string>
+    <string name="cta_checkbox_title">Non chiedere più</string>
+    <string name="cta_button_text_cancel">Annulla</string>
+    <string name="cta_button_text_agree">Sì</string>
+    <string name="cta_settings">"Consenti l'utilizzo della rete dati"</string>
+	<string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_ad">Pubblicità</string>
     <string name="optimize_title_apk">Pacchetti</string>
     <string name="optimize_title_residual">Residui</string>

@@ -12,9 +12,9 @@
         <item>Traffico mensile\u0020</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>Ieri\u0020</item>
-        <item>Oggi\u0020</item>
-        <item>Mese\u0020</item>
+        <item>Ieri:</item>
+        <item>Oggi:</item>
+        <item>Mese:</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Ieri in 2G/3G</item>
