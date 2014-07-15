@@ -217,7 +217,7 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="mibi_license_message">Tocca OK se accetti i termini e le condizioni descritte in %1$s.</string>
     <string name="mibi_license_net_prompt_title">Connessione internet richiesta</string>
     <string name="mibi_license_net_prompt_message">"L'utilizzo dell'applicazione MiCredit potrebbe incrementare l'utilizzo della rete dati."</string>
-    <string name="mibi_license_checkbox_prompt">Non ricordarmi più</string>
+    <string name="mibi_license_checkbox_prompt">Non ricordarmelo più</string>
     <string name="mibi_license_message_span">Accordo Utente MiCredit</string>
     <string name="btn_agree">"Sono d'accordo"</string>
     <string name="security_setting">Impostazioni di sicurezza</string>
