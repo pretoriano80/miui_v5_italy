@@ -366,7 +366,7 @@
     <string name="power_mode_chooser_button_text">Applica</string>
     <string name="power_20s_enter_mode">%1$ds passa a modalità %2$s</string>
     <string name="power_notify_lowbattery">Batteria sotto il %1$d%%</string>
-    <string name="power_recovery_mode">Ripristina la modalità %1$s</string>
+    <string name="power_recovery_mode">Ripristino modalità %1$s</string>
     <string name="power_subtitle_lowbattery">Risparmio automatico quando il livello batteria è basso</string>
     <string name="power_subtitle_ontime">Risparmio automatico quando stabilito</string>
     <string name="power_exitlowbattery_whencharge">Esci quando in carica</string>
