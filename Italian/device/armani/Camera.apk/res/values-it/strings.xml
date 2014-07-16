@@ -331,7 +331,7 @@ ed esci dall'inquadratura"</string>
     <string name="import_fail">Importazione fallita!</string>
     <string name="auto">Auto</string>
     <string name="flash_on">Flash attivato</string>
-    <string name="flash_off">Flash disattivato</string>>
+    <string name="flash_off">Flash disattivato</string>
     <string name="manual">Manuale</string>
     <string name="close">Chiudi</string>
     <string name="details_title">%1$d elementi di %2$d :</string>
