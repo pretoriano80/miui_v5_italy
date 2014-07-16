@@ -281,7 +281,7 @@
     <string name="permgrouplab_statusBar">Barra di stato</string>
     <string name="permgroupdesc_statusBar">Modifica delle impostazioni della barra di stato del dispositivo.</string>
     <string name="permgrouplab_syncSettings">Impostazioni sincronizzazione</string>
-    <string name="permgroupdesc_syncSettings">Accesso alle impostazioni di sincronizzazione.</string   
+    <string name="permgroupdesc_syncSettings">Accesso alle impostazioni di sincronizzazione.</string>   
     <string name="permgrouplab_accounts">I tuoi account</string>
     <string name="permgroupdesc_accounts">Accedere agli account disponibili.</string>
     <string name="permgrouplab_hardwareControls">Controlli hardware</string>
