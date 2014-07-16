@@ -128,7 +128,7 @@
     <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è raccomandabile, saltare questo passaggio?"</string>
     <string name="jump_updatepattern_tip">Disattivazione il blocco password è un rischio per la sicurezza, ti riccomandiamo di non disattivare questa opzione.</string>
     <string name="jump_lockpattern_title">Nota</string>
-    <string name="update_pattern_jump">Chiudi blococ password</string>
+    <string name="update_pattern_jump">Chiudi blocco password</string>
     <string name="original_pattern_tip">Inserisci la sequenza di movimenti &lt;font color=#fb3500&gt;originale&lt;/font&gt; usata come password.</string>
     <string name="new_pattern_tip">Inserisci una &lt;font color=#fb3500&gt;Nuova&lt;/font&gt; sequenza di movimenti da usare come password, con almeno 4 punti connessi.</string>
     <string name="title_createpattern">Crea password a sequenza </string>
