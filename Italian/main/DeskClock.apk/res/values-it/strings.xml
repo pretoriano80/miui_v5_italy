@@ -37,7 +37,7 @@
     <string name="shutdown_alarm_enable_summary">Avviso spegnimento abilitato</string>
     <string name="shutdown_alarm_disable_summary">Disabilita spegnimento sveglia</string>
     <string name="workday_alarm_clock">Sveglia giorni lavorativi</string>
-    <string name="system_time_setting">Impostazioni ora</string>
+    <string name="system_time_setting">Impostazioni</string>
     <string name="lap_num">Giro</string>
     <string name="hour_unit">H</string>
     <string name="alarm_label_hint">Inserisci etichetta sveglia</string>

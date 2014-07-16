@@ -15,6 +15,12 @@
     <string name="dlg_cancel">Annulla</string>
     <string name="cache_manage_title">Cancellazione %1$d file in cache, spazio libero %2$s</string>
     <string name="cache_list_empty_hints">Nessun file in cache.</string>
+	<string name="cta_dialog_title">Termini e Condizioni</string>
+    <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza Xiaomi, per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati, sei d'accordo?"</string>
+    <string name="cta_checkbox_title">Non chiedere più</string>
+    <string name="cta_button_text_cancel">Annulla</string>
+    <string name="cta_button_text_agree">Sì</string>
+    <string name="cta_settings">"Consenti l'utilizzo della rete dati"</string>
     <string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_ad">Pubblicità</string>
     <string name="optimize_title_apk">Pacchetti</string>
@@ -572,6 +578,8 @@ Consentire l'avvio automatico?"</string>
     <string name="power_autorun_empty">Nessuna applicazione installata</string>
     <string name="power_autorun_apps_empty">Nessuna applicazione in avvio automatico</string>
     <string name="power_perm_logs_empty">Nessun registro</string>
+	<string name="dialog_title_auto_start_tips">Info su avvio automatico</string>
+    <string name="dialog_message_auto_start_tips">"Alcune applicazioni di sicurezza potrebbero erroneamente indicare che MIUI ha impedito l'avvio automatico. Per controllare i permessi concessi alle singole applicazioni vai in Impostazioni > Applicazioni."</string>
     <string name="process_manage_title">%1$d processi terminati, %2$s di memoria liberati</string>
     <string name="process_list_empty_hints">Nessun processo in cache.</string>
     <string name="protection_category_dangerous_title">A rischio (%d)</string>
