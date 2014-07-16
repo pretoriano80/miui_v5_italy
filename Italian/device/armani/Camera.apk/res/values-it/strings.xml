@@ -331,14 +331,14 @@ ed esci dall'inquadratura"</string>
     <string name="import_fail">Importazione fallita!</string>
     <string name="auto">Auto</string>
     <string name="flash_on">Flash attivato</string>
-    <string name="flash_off">Flash disattivato</string>>
+    <string name="flash_off">Flash disattivato</string>
     <string name="manual">Manuale</string>
     <string name="close">Chiudi</string>
     <string name="details_title">%1$d elementi di %2$d :</string>
-    <string name="set_label_local_albums">Local albums</string>
+    <string name="set_label_local_albums">Album locali</string>
     <string name="folder_camera">Camera</string>
     <string name="folder_download">Download</string>
-    <string name="folder_imported">Imported</string>
+    <string name="folder_imported">Importazioni</string>
     <string name="folder_screenshot">Screenshot</string>
     <string name="deleted">Eliminati</string>
     <string name="undo">ANNULLA</string>
@@ -460,7 +460,7 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_watermark_entry_off">Disattivato</string>
     <string name="pref_camera_watermark_entry_on">Attivato</string>
     <string name="pref_camera_hdr_title">HDR</string>
-    <string name="pref_setting_title">Settings</string>
+    <string name="pref_setting_title">Impostazioni</string>
     <string name="pref_camera_raw_data_title">RAW</string>
     <string name="pref_scan_qrcode_title">Scansiona QR Code</string>
     <string name="pref_scan_qrcode_entry_off">Disattivato</string>

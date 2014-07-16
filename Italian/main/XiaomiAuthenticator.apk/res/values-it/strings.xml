@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">MiAuthenticator</string>
-    <string name="app_name_short">MiAuthenticator</string
+    <string name="app_name_short">MiAuthenticator</string>
     <string name="enter_key_title">Inserimento manuale</string>
     <string name="enter_key_page_add_button">Aggiungi</string>
     <string name="button_add_account">Aggiungi account</string>
@@ -116,7 +116,7 @@
     <string name="title_password">Password</string>
     <string name="title_nopassword">Non richiedere per piccoli pagamenti</string>
     <string name="title_password_threshold">Limite giornaliero = %1$s yuan</string>
-    <string name="title_nopassword_dialog">Limite quotidiano</string
+    <string name="title_nopassword_dialog">Limite quotidiano</string>
     <string name="progress_loading">Caricamento in corso...</string>
     <string name="login">Login</string>
     <string name="password_hint">Prego inserire la tua password</string>
@@ -128,7 +128,7 @@
     <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è raccomandabile, saltare questo passaggio?"</string>
     <string name="jump_updatepattern_tip">Disattivazione il blocco password è un rischio per la sicurezza, ti riccomandiamo di non disattivare questa opzione.</string>
     <string name="jump_lockpattern_title">Nota</string>
-    <string name="update_pattern_jump"><u>Chiudi blococ password<u></string>
+    <string name="update_pattern_jump">Chiudi blocco password</string>
     <string name="original_pattern_tip">Inserisci la sequenza di movimenti &lt;font color=#fb3500&gt;originale&lt;/font&gt; usata come password.</string>
     <string name="new_pattern_tip">Inserisci una &lt;font color=#fb3500&gt;Nuova&lt;/font&gt; sequenza di movimenti da usare come password, con almeno 4 punti connessi.</string>
     <string name="title_createpattern">Crea password a sequenza </string>
@@ -150,10 +150,10 @@ https://account.xiaomi.com e seleziona l'opzione di recupero 'Password dimentica
     <string name="activation_page_info">Esegui il login su https://account.xiaomi.com per attivarlo</string>
 
     <string name="activation_page_btn_txt">Attiva</string>  
-    <string name="authenticator_invalid_title">帐户：%1$s令牌失效</string>
-    <string name="authenticator_invalid_tip">"您可能在网页端关闭了登录保护，或激活了另一令牌，此令牌失效
-
-如有疑问，请访问小米官网寻求线上客服帮助"</string>
+    <string name="authenticator_invalid_title">Account： %1$s token errato</string>
+    <string name="authenticator_invalid_tip">"E' possibile chiudere la pagina di login per protezione, oppure 
+attivare un altro token.
+In caso di dubbio, si prega di visitare il sito ufficiale Xiaomi per assistenza"</string>
     <string name="acknowledge_btn">我知道了</string>
     <string name="timesync_preference_screen_title">Correzione orario per i codici</string>
     <string name="timesync_preference_screen_summary">"Sincronizza l'orologio interno di Authenticator con i server"</string>
