@@ -388,7 +388,7 @@
     <string name="new_incognito_tab">Nuova finestra incognito</string>
     <string name="open_all_in_new_window">Apri tutto in nuova finestra</string>
     <string name="contextmenu_openlink_newwindow">Apri in nuova finestra</string>
-    <string name="contextmenu_openlink_newwindow_background">Apri in scheda in background</string>
+    <string name="contextmenu_openlink_newwindow_background">Apri scheda in background</string>
     <string name="pref_content_open_in_background_summary">Apri nuova scheda dietro la scheda attuale</string>
     <string name="too_many_windows_dialog_title">Numero massimo schede raggiunto</string>
     <string name="too_many_windows_dialog_message">"Il Browser non può aprire una nuova scheda se non ne chiudiprima un'altra"</string>

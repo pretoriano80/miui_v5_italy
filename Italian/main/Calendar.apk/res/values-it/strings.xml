@@ -240,6 +240,8 @@
     <string name="account_and_calendar_to_display">Account e calendario da visualizzare</string>
     <string name="default_reminder_mode">Modalità avviso predefinita</string>
     <string name="time_zone">Fuso orario</string>
+	<string name="show_all_lunar">Mostra lune</string>
+    <string name="show_almanac">Mostra annuario</string>
     <string name="event_all_day_label">Tutto il giorno</string>
     <string name="today_no_events">Nessun evento oggi</string>
     <string name="event_account">Account calendario</string>
