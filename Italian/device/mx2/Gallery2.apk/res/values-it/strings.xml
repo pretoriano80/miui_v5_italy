@@ -410,7 +410,7 @@ Esci dalla visualizzazione per un attimo."</string>
     <string name="flash_off">Senza flash</string>
     <string name="try_to_set_local_album_available_offline">This item is stored locally and available offline.</string>
     <string name="set_label_all_albums">All albums</string>
-    <string name="set_label_local_albums">Local albums</string>
+    <string name="set_label_local_albums">Album locali</string>
     <string name="set_label_mtp_devices">MTP devices</string>
     <string name="set_label_picasa_albums">Picasa albums</string>
     <string name="free_space_format">%s free</string>
@@ -438,7 +438,7 @@ Esci dalla visualizzazione per un attimo."</string>
     <string name="add_account">Add account</string>
     <string name="folder_camera">Camera</string>
     <string name="folder_download">Download</string>
-    <string name="folder_imported">Imported</string>
+    <string name="folder_imported">Importazioni</string>
     <string name="folder_screenshot">Screenshot</string>
     <string name="folder_photo">Photo</string>
     <string name="folder_record">Record</string>
