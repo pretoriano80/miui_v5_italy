@@ -605,6 +605,9 @@ Confermare l'uscita da questa pagina?"</string>
     <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Incolla</string>
     <string name="common_use_phrase_bottom_bar_up_analytic_txt">Espandi</string>
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Chiudi</string>
+    <string name="cloud_sync_failed_toast">Aggiornamento fallito, riprovare più tardi</string>
+    <string name="cloud_sync_closed_toast">La sincronizzazione CLoud è disattivata, impossibile aggiornare</string>
+    <string name="close_cloud_tab_tip">Chiudere schede Cloud su %s ?</string>
     <string name="pref_content_cloud_speedup">Carica contenuti più velocemente utilizzando server proxy</string>
     <string name="enter_developer_mode">Enter developer mode</string>
     <string name="pref_adblock_title">Adblock</string>
