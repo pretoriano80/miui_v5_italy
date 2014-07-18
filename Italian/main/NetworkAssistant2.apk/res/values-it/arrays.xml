@@ -12,9 +12,9 @@
         <item>Traffico mensile\u0020</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>Ieri</item>
-        <item>Oggi</item>
-        <item>Mese</item>
+        <item>Ieri:</item>
+        <item>Oggi:</item>
+        <item>Mese:</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Ieri in 2G/3G</item>
@@ -39,8 +39,8 @@
         <item>9s</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>3G</item>
-        <item>Wi-Fi</item>
+        <item>\u00203G\u0020</item>
+        <item>\u0020Wi-Fi\u0020</item>
         <item>\u0020Risparmia traffico\u0020</item>
     </string-array>
     <string-array name="traffic_sort_type">

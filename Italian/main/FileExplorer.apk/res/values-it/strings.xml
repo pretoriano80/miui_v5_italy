@@ -58,10 +58,10 @@
     <string name="sd_card_available">Spazio libero: %1$s</string>
     <string name="file_info_location">Posizione:</string>
     <string name="file_info_size">Dimensione:</string>
-    <string name="file_info_modified">Modificata:</string>
+    <string name="file_info_modified">Modificato:</string>
     <string name="file_info_canread">Lettura:</string>
     <string name="file_info_canwrite">Scrittura:</string>
-    <string name="file_info_ishidden">Nascosti:</string>
+    <string name="file_info_ishidden">Nascosto:</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
     <string name="operation_deleting">Eliminazione...</string>
@@ -283,8 +283,8 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="share_box_receive">Ricevuti</string>
     <string name="file_not_exist">File inesistente</string>
     <string name="open_file_failed">Impossibile aprire</string>
-    <string name="system_alert">Avvisa</string>
-    <string name="network_connect_confirm_des">Usando kuaipan si accede alla rete dati, acedere?</string>
+    <string name="system_alert">Avviso connessione internet</string>
+    <string name="network_connect_confirm_des">Usando Kuaipan si accede alla rete dati, accedere?</string>
     <string name="operation_agree">Sì</string>
     <string name="never_notify_network_connect">Non mostrare più</string>
     <string name="connect_network_setting_des">"Avvisami quando si richiede l'accesso alla rete"</string>

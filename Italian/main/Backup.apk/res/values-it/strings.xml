@@ -56,8 +56,7 @@
     <string name="local_restore_window_title">Ripristino Locale</string>
     <string name="account_login">Login</string>
     <string name="miliao_account_login">Login MiTalk</string>
-    <string name="miliao_account_guide">"MiTalk associato all'account Xiaomi
- Prova tutti i servizi online di Xiaomi"</string>
+    <string name="miliao_account_guide">"MiTalk associato all'account Xiaomi Prova tutti i servizi online di Xiaomi"</string>
     <string name="auto_backup">Backup Automatico</string>
     <string name="contact_title">Contatti</string>
     <string name="call_title">Registro chiamate</string>
@@ -94,12 +93,9 @@
     <string name="task_running_backup_dialog">Backup in esecuzione in background, premi OK aprire.</string>
     <string name="task_running_restore_dialog">Il ripristino in background è in esecuzione, premi OK per aprire.</string>
     <string name="task_service_not_launched">Servizio non avviato, attendere prego!</string>
-    <string name="task_local_backup_cancel_dialog">"Backup non ancora completato
-Premi OK per annullare il processo"</string>
-    <string name="task_cloud_backup_cancel_dialog">"Backup non ancora completato
-Premi OK per annullare il processo"</string>
-    <string name="task_restore_cancel_dialog">"Ripristino non completato
-l'annullamento del ripristino potrebbe danneggiare alcuni dati"</string>
+    <string name="task_local_backup_cancel_dialog">"Backup non ancora completato Premi OK per annullare il processo"</string>
+    <string name="task_cloud_backup_cancel_dialog">"Backup non ancora completato Premi OK per annullare il processo"</string>
+    <string name="task_restore_cancel_dialog">"Ripristino non completato l'annullamento del ripristino potrebbe danneggiare alcuni dati"</string>
     <string name="task_backup_cancel_progress">Eliminazione backup...</string>
     <string name="task_restore_cancel_progress">Eliminazione...</string>
     <string name="nothing_searched">Nessun risultato trovato</string>
@@ -122,8 +118,7 @@ l'annullamento del ripristino potrebbe danneggiare alcuni dati"</string>
     <string name="progress_backup_hint">Backup in corso...</string>
     <string name="cancel_backup">Annulla Backup</string>
     <string name="restore_contact">Ripristino contatti</string>
-    <string name="restore_contact_content">"Il ripristino contatti potrebbe produrre dei duplicati, sicuro di voler procedere?.
-Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
+    <string name="restore_contact_content">"Il ripristino contatti potrebbe produrre dei duplicati, sicuro di voler procedere?.Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
     <string name="progress_restore_hint">Ripristino in corso...</string>
     <string name="cancel_restore">Annulla ripristino</string>
     <string name="restore_failed">Ripristino fallito!</string>
@@ -154,20 +149,18 @@ Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
     <string name="current_sim">SIM card</string>
     <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
-    <string name="no_network">"Errore di rete
- Verificare connessione di rete e riprovare"</string>
+    <string name="no_network">"Errore di rete Verificare connessione di rete e riprovare"</string>
     <string name="retry">Riprova</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="reverse_all">Cancella tutto</string>
     <string name="refresh">Aggiorna</string>
     <string name="cloud_item_info_summary">" (Locale : %1$s | Online : %2$s)"</string>
     <string name="total_num">%d elementi totali</string>
-    <string name="cloud_restore_guide">"Premi Ripristina per recuperare i dati
- Puoi anche ripristinare %s in Backup"</string>
-    <string name="import_from_xiaomi_account_hint1">"1.Installa MiTalk ed accedi.
- http://www.miliao.com
+    <string name="cloud_restore_guide">"Premi Ripristina per recuperare i dati Puoi anche ripristinare %s in Backup"</string>
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Installa MiTalk ed accedi.
+\u0009http://www.miliao.com
 
-3.Entra nelle impostazioni di MiTalk e seleziona ”Backup contatti su account Xiaomi”"</string>
+2.\u0009Entra nelle impostazioni di MiTalk e seleziona ”Backup contatti su account Xiaomi”"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
     <string name="import_from_xiaomi_account_hint_title">Usa MiTalk per il backup dei contatti su altri terminali, non MI-ONE</string>
     <string name="guarded_mode_dialog_title">Modalità Guard</string>
@@ -238,12 +231,9 @@ Nota: Puoi verificare la presenza di duplicati nella lista contatti"</string>
     <string name="cloud_app_backup_cancel_prompt_title">Annulla backup</string>
     <string name="cloud_app_restore_cancel_prompt_title">Annulla ripristino</string>
     <string name="cloud_app_remove_cancel_prompt_title">SInterrompi eliminazione</string>
-    <string name="cloud_app_backup_cancel_prompt_message">"Backup non completato, premi 
-OK per annullare"</string>
-    <string name="cloud_app_restore_cancel_prompt_message">"Eliminazione non completata, premi 
-OK per annullare"</string>
-    <string name="cloud_app_remove_cancel_prompt_message">"Eliminazione backup non completato, premi 
-OK per annullare"</string>
+    <string name="cloud_app_backup_cancel_prompt_message">"Backup non completato, premi OK per annullare"</string>
+    <string name="cloud_app_restore_cancel_prompt_message">"Eliminazione non completata, premi OK per annullare"</string>
+    <string name="cloud_app_remove_cancel_prompt_message">"Eliminazione backup non completato, premi OK per annullare"</string>
     <string name="cloud_app_check_data">Richiesta dati da MiCloud...</string>
     <string name="cloud_app_check_data_timeout">Richiesta dati da MiCloud scaduta</string>
     <string name="cloud_app_load_data">Richiesta lista backup...</string>

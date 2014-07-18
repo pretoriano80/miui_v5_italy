@@ -71,7 +71,7 @@
     <string name="deep_clean_title_uninstall_apps">Applicazioni</string>
     <string name="deep_clean_summary_install_apps_today">utilizzate oggi</string>
     <string name="deep_clean_summary_install_apps_interval">utilizzate %d giorni fa</string>
-    <string name="deep_clean_summary_install_apps_new">mai utilizzato</string>
+    <string name="deep_clean_summary_install_apps_new">mai utilizzate</string>
     <string name="deep_clean_summary_install_apps_virus">virus rilevato(i)</string>
     <string name="deep_clean_summary_install_apps_risk">pericolo(i) rilevato(i)</string>
     <string name="system_cache_title">Cache di sistema</string>
@@ -372,7 +372,7 @@
     <string name="power_mode_chooser_button_text">Applica</string>
     <string name="power_20s_enter_mode">%1$ds passa a modalità %2$s</string>
     <string name="power_notify_lowbattery">Batteria sotto il %1$d%%</string>
-    <string name="power_recovery_mode">Ripristina la modalità %1$s</string>
+    <string name="power_recovery_mode">Ripristino modalità %1$s</string>
     <string name="power_subtitle_lowbattery">Risparmio automatico quando il livello batteria è basso</string>
     <string name="power_subtitle_ontime">Risparmio automatico quando stabilito</string>
     <string name="power_exitlowbattery_whencharge">Esci quando in carica</string>
@@ -2663,7 +2663,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="do_not_disturb_mode">Anti-disturbo</string>
     <string name="dndm_notification">Modalità anti-disturbo abilitata.</string>
     <string name="dndm_open">Anti-disturbo abilitato</string>
-    <string name="dndm_summary">Quando la modalità Anti-disturbo è abilitata, le chiamate e le notifiche in arrivo quando il telefono è bloccato verranno silenziate.</string>
+    <string name="dndm_summary">Quando la modalità Anti-disturbo è abilitata, le chiamate e le notifiche in arrivo verranno silenziate quando il telefono è bloccato.</string>
     <string name="dndm_auto_setting_group">programmato</string>
     <string name="dndm_auto_button_title">Orario</string>
     <string name="dndm_auto_time_setting">Impostazioni orario</string>
@@ -2768,7 +2768,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
     <string name="preferred_application_warning_replace">Cambia Launcher</string>
     <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
-	<string name="title_font">Font</string>
+	<string name="title_font">Carattere</string>
     <string name="title_font_current">In utilizzo</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
@@ -2776,10 +2776,10 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="screen_key_long_press_action">Funzione scatto</string>
     <string name="menu_key">Tasto Menu</string>
     <string name="home_key">Tasto Home</string>
-    <string name="back_key">Tasto indietro</string>
+    <string name="back_key">Tasto Indietro</string>
     <string name="screen_key_long_press_timeout">Durata pressione</string>
     <string name="under_keyguard">Nella schermata di blocco</string>
-    <string name="enable_snapshot_screenlock">Long-press Indietro per foto</string>
+    <string name="enable_snapshot_screenlock">Tieni premuto Indietro per le foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Disabilita tasto Accensione</string>
     <string name="trackball_wake_title">Trackball wake</string>
     <string name="pref_volume_wake_title">Riattiva con tasti volume</string>
@@ -2846,7 +2846,7 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="button_light_timeout">Timeout luce tasti</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
-    <string name="headset_settings">Impostazioni Cuffie</string>
+    <string name="headset_settings">Impostazioni cuffie</string>
     <string name="headset_function">Funzioni cuffie</string>
     <string name="headset_mode_volume">Regolazione volume</string>
     <string name="headset_mode_music">Cambia traccia</string>
