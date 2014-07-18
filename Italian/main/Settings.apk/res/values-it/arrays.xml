@@ -478,6 +478,6 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
 	 <string-array name="app_ops_categories">
           <item>Posizione</item>
           <item>Privato</item>
-          <item>Intelligente<item>
+          <item>Intelligente</item>
     </string-array>
 </resources>
