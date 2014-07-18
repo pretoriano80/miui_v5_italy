@@ -475,9 +475,9 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>La rete è lenta a causa del segnale debole</item>
         <item>Spostamento…</item>
     </string-array>
-	 <string-array name="app_ops_categories">
+    <string-array name="app_ops_categories">
           <item>Posizione</item>
           <item>Privato</item>
-          <item>Intelligente<item>
+          <item>Intelligente</item>
     </string-array>
 </resources>
