@@ -207,6 +207,8 @@
     <string name="continue_to_play_nextset_summary">"Quando l'episodio che stai guardando è terminato il prossimo inizierà automaticamente"</string>
     <string name="clear_cache_summary">Cancella le immagini memorizzate nella cache dal browser Video</string>
     <string name="clear_offline_summary">Cancella la cache dei video</string>
+    <string name="priority_storage">Priorità scheda SD</string>
+    <string name="priority_storage_summary">Questa funzione ha effetto quando viene utlizzata una scheda SD</string>
     <string name="receive_ad_notify">Funzione messaggio di notifica/push</string>
     <string name="receive_ad_notify_summary">"Dopo l'apertura, permette di ricevere le notifiche degli ultimi video"</string>
     <string name="load_file_fail">File locale non leggibile</string>

@@ -722,7 +722,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="areacode_required_miui">Prefisso locale richiesto</string>
     <string name="areacode_required_accept_miui">OK</string>
     <string name="auto_answer_summary_not_enabled">Non abilitato</string>
-    <string name="auto_answer_summary_delay">(ritardo:%ss)</string>
+    <string name="auto_answer_summary_delay">(ritardo: %ss)</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
     <string name="auto_answer_delay_entries_delay_3s_miui">3s</string>
     <string name="auto_answer_delay_entries_delay_5s_miui">5s</string>

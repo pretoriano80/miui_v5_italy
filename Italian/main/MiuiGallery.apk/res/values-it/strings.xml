@@ -537,4 +537,6 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="download_refocus_data">Scarica dati rimessa a fuoco</string>
     <string name="refocus_data_downloading">Download dei dati di rimessa a fuoco…</string>
     <string name="ubifocus_guide_text">Tieni premuto per rimettere a fuoco</string>
+    <string name="priority_storage">Salva su scheda SD</string>
+    <string name="priority_storage_summary">Scarica automaticamente i file sulla scheda SD quando questa è inserita.</string>
 </resources>
