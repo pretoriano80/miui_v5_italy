@@ -2405,7 +2405,6 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="wifi_setup_description_connected">"Tocca 'Avanti' per continuare la configurazione.
 
 Tocca 'Indietro' per collegarti ad un'altra rete Wi-Fi."</string>
-    <string name="time_zone_auto_stub">Seleziona Fuso Orario</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
