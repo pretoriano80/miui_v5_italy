@@ -6,6 +6,7 @@
     <string name="main_button_idel_traffic">Oltre soglia</string>
     <string name="main_toolbar_firewall">Limita</string>
     <string name="main_toolbar_statistic">Statistiche</string>
+    <string name="main_toolbar_saving">Risparmio</string>
     <string name="main_toolbar_purchase">Ricarica</string>
     <string name="main_button_usage_adjust">Imposta utilizzo dati</string>
     <string name="main_button_usage_adjusting">Modifica…</string>
@@ -237,6 +238,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_button_start">Attivato</string>
     <string name="traffic_saving_button_stop">Disattivato</string>
     <string name="traffic_saving_button_sorted">Dettagli</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Seleziona</string>
     <string name="traffic_saving_msg_today">Dati salvati oggi:</string>
     <string name="traffic_saving_msg_month">Totale mensile %1$s (RMB %2$s)</string>
     <string name="traffic_saving_history_title">Registro</string>
