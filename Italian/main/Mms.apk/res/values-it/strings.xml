@@ -113,7 +113,7 @@
     <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Prova automaticamente a reinviare il messaggio in roaming</string>
     <string name="to_label">"A "</string>
-    <string name="confirm_dialog_title">Eliminare?</string>
+    <string name="confirm_dialog_title">Confermi eliminazione?</string>
     <string name="confirm_dialog_locked_title">Eliminare messaggio bloccato?</string>
     <string name="confirm_delete_conversation">Tutta la discussione verrà eliminata.</string>
     <string name="confirm_delete_all_conversations">Tutte le discussioni verranno eliminate.</string>
@@ -320,7 +320,7 @@
     <string name="send_signature_confirm_dialog_message">Corpo messaggio mancante. Sicuro di voler inviare comunque il messaggio ?</string>
     <string name="enter_edit_mode">Elimina</string>
     <string name="check_all">Seleziona tutto</string>
-    <string name="batch_delete_confirm_dialog_message">Sicuro di voler eliminare i %1$s messaggi selezionati ?</string>
+    <string name="batch_delete_confirm_dialog_message">Sicuro di voler eliminare i %1$s messaggi selezionati?</string>
     <string name="batch_deleting_progress_message">Eliminazione conversazioni selezionate</string>
     <string name="batch_deleting_message_progress_message">Eliminazione messaggi selezionati</string>
     <string name="attach_subject">Oggetto</string>

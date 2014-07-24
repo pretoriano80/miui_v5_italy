@@ -230,11 +230,11 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
     <string name="traffic_saving_notify_start_title">"Ridurre l'utilizzo dei dati"</string>
     <string name="traffic_saving_notify_start_content">%s risparmiato in questo mese</string>
-    <string name="traffic_saving_toast_start_mobile">Saver è attivo</string>
-    <string name="traffic_saving_toast_start_none_mobile">Saver verrà inizializzato quando attiverai la tua connessione dati</string>
-    <string name="traffic_saving_toast_start_unreachable">Saver non può essere inizializzato</string>
-    <string name="traffic_saving_toast_stop">Saver è disattivato</string>
-    <string name="traffic_saving_title">Saver</string>
+    <string name="traffic_saving_toast_start_mobile">Risparmio è attivo</string>
+    <string name="traffic_saving_toast_start_none_mobile">Risparmio verrà inizializzato quando attiverai la tua connessione dati</string>
+    <string name="traffic_saving_toast_start_unreachable">Risparmio non può essere inizializzato</string>
+    <string name="traffic_saving_toast_stop">Risparmi è disattivato</string>
+    <string name="traffic_saving_title">Risparmio</string>
     <string name="traffic_saving_button_start">Attivato</string>
     <string name="traffic_saving_button_stop">Disattivato</string>
     <string name="traffic_saving_button_sorted">Dettagli</string>
@@ -245,11 +245,11 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_history_total_traffic">Dati risparmiati</string>
     <string name="traffic_saving_history_total_money">Soldi risparmiati</string>
     <string name="traffic_saving_history_total_money_unit" />
-    <string name="pref_traffic_saving_title">Impostazioni Saver</string>
-    <string name="pref_traffic_saving_switch">Saver</string>
+    <string name="pref_traffic_saving_title">Impostazioni Risparmio</string>
+    <string name="pref_traffic_saving_switch">Risparmio</string>
     <string name="pref_traffic_saving_switch_hint">Utilizza i proxy per comprimere i dati</string>
-    <string name="pref_traffic_saving_notify_switch">"Mostra Saver all'ombra delle notifiche"</string>
-    <string name="pref_traffic_saving_notify_switch_hint">"Mostra informazioni Saver all'ombra delle notifiche"</string>
+    <string name="pref_traffic_saving_notify_switch">"Mostra Risparmio all'ombra delle notifiche"</string>
+    <string name="pref_traffic_saving_notify_switch_hint">"Mostra informazioni Risparmio all'ombra delle notifiche"</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
-    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Usando Saver potrebbero esserci problemi con la mia privacy? &lt;/b>&lt;br />&lt;br />No. I tuoi dati rimarranno privati e non saranno condivisi con terzi. &lt;br />&lt;br />&lt;br />&lt;b> Perché Saver non funziona? &lt;/b>&lt;br />&lt;br /> Saver entra in funzione solo quando la rete dati invia o scarica contenuti.</string>
+    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Usando Risparmio potrebbero esserci problemi con la mia privacy? &lt;/b>&lt;br />&lt;br />No. I tuoi dati rimarranno privati e non saranno condivisi con terzi. &lt;br />&lt;br />&lt;br />&lt;b> Perché Risparmio non funziona? &lt;/b>&lt;br />&lt;br /> Risparmio entra in funzione solo quando la rete dati invia o scarica contenuti.</string>
 </resources>

@@ -512,9 +512,9 @@ su condizione"</string>
     <string name="sum_cfnry_enabled">Inoltra al {0}</string>
     <string name="sum_cfnry_disabled">Disabilitato</string>
     <string name="disable_cfnry_forbidden">Il tuo operatore non supporta il trasferimento di chiamata quando il telefono non si risponde.</string>
-    <string name="labelCFNRc">Trasferisci quando non raggiungibile</string>
-    <string name="messageCFNRc">Numero quado non raggiungibile</string>
-    <string name="sum_cfnrc_enabled">Inoltra a {0}</string>
+    <string name="labelCFNRc">Inoltra quando non raggiungibile</string>
+    <string name="messageCFNRc">Numero quando non raggiungibile</string>
+    <string name="sum_cfnrc_enabled">Inoltra al {0}</string>
     <string name="sum_cfnrc_disabled">Disabilitato</string>
     <string name="disable_cfnrc_forbidden">Il tuo operatore non supporta il trasferimento di chiamata quando il telefono non è raggiungibile.</string>
     <string name="updating_title">Aggiorna impostazioni chiamata</string>
@@ -1082,7 +1082,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="crystaltalk_title_miui">Impostazioni NICAM</string>
     <string name="current_areacode_miui">Prefisso internazionale attuale</string>
     <string name="current_areacode_sum_miui">Prefisso internazionale della posizione attuale, o prefisso roaming se si è in modalità roaming. Ad esempio: 010</string>
-    <string name="current_areacode_sum_set_miui">Prefisso locale attuale: %s</string>
+    <string name="current_areacode_sum_set_miui">Prefisso locale attuale:%s</string>
     <string name="custom_location_location_no_item_miui">"Premi 'Aggiungi' per aggiungere un attributo personalizzato"</string>
     <string name="custom_location_location_hint_miui">Nome</string>
     <string name="custom_location_number_hint_miui">Prefissi internazionali tipo 010, numeri gruppo tipo 68#####</string>
@@ -1278,9 +1278,8 @@ Passare comunque al nuovo operatore?"</string>
     <string name="respond_via_sms_canned_response_1_miui">Al momento non sono disponibile, richiamerò io più tardi.</string>
     <string name="respond_via_sms_canned_response_2_miui">Ti chiamo dopo.</string>
     <string name="respond_via_sms_canned_response_3_miui">Non posso parlare in questo momento. Cosa succede?</string>
-    <string name="respond_via_sms_canned_response_4_miui">Non posso parlare in questo momento. Puoi chiamarmi dopo ?</string>
+    <string name="respond_via_sms_canned_response_4_miui">Non posso parlare in questo momento. Puoi chiamarmi dopo?</string>
     <string name="call_waiting_tone_title_miui">Tono chiamata in attesa</string>
-
     <string name="call_waiting_tone_continuously_miui">Riproduci tono di continuo</string>
     <string name="call_waiting_tone_twice_only_miui">Riproduci tono due volte</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Vibra e riproduci tono due volte</string>

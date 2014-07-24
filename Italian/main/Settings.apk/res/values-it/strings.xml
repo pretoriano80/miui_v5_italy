@@ -2770,8 +2770,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="preferred_application_title">Preferita: %s</string>
     <string name="preferred_application_warning_title">Sostituzione predefinita %s</string>
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
-    <string name="preferred_application_warning_replace">Cambia Launcher</string>
-    <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
+    <string name="preferred_application_warning_replace">Cambia</string>
+    <string name="preferred_application_warning_use_system">%s predef.</string>
     <string name="title_font">Carattere</string>
     <string name="title_font_current">In utilizzo</string>
     <string name="key_settings_title">Impostazioni tasti</string>
@@ -2965,8 +2965,8 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="dolby_ieq_rich">Ricco</string>
     <string name="dolby_ieq_focused">Concentrato</string>
     <string name="dolby_preset_select">Seleziona modalità Equalizzatore Intelligente</string>
-    <string name="dolby_eq_enter_alert_title">Apri modalità EQ Dolby</string>
-    <string name="dolby_eq_enter_alert_msg">Vuoi aprire la modalità Equalizzatore Dolby ?</string>
+    <string name="dolby_eq_enter_alert_title">Apri modalità equalizzatore</string>
+    <string name="dolby_eq_enter_alert_msg">Aprire modalità equalizzatore?</string>
     <string name="dolby_volume_leveler">Livello Volume</string>
     <string name="dolby_dialogue_enhancer">Enfatizza Dialoghi</string>
     <string name="dolby_surround_virtualizer">Suono Virtuale Surround</string>
