@@ -13,7 +13,7 @@
     <string name="enable_notification_city">Hai attivato %s notifiche meteo, verranno inviate delle notifiche di sistema quando si verificheranno cambiamenti inaspettati del tempo come pioggia, neve o bruschi cambiamenti di temperatura.</string>
     <string name="sms_notification">Condividi tramite SMS</string>
     <string name="send_sms_notification">Inoltra notifiche meteo</string>
-    <string name="send_sms_notification_summary">Invia il meteo i oggi ai tuoi contatti tramite SMS</string>
+    <string name="send_sms_notification_summary">Invia il meteo di oggi ai tuoi contatti tramite SMS</string>
     <string name="location_management">Località</string>
     <string name="gps_hint">Posizione attualen</string>
     <string name="add_city">Aggiungi città</string>
