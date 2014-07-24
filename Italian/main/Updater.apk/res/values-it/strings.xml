@@ -117,12 +117,12 @@ Più di %2$s utenti hanno eseguito l'aggiornamento a MIUI %3$s"</string>
     <string name="check_update_when_wifi_available">Cerca aggiornamenti usando solo Wi-Fi</string>
     <string name="update_monthly_build_only">Aggiorna solo con build Mensile</string>
     <string name="install_file_explorer">Si prega di installare File Explorer</string>
-    <string name="share_update">Condividi informazioni di aggiornamento</string>
+    <string name="share_update">Condividi feedback aggiornamento</string>
     <string name="share">Condividi</string>
     <string name="share_update_content_unsign">Ho aggiornato MIUI alla %1$s! Per il changelog dettagliato visita %2$s</string>
     <string name="share_update_content_sign">Ho aggiornato MIUI alla %1$s! La mia posizione utente adesso è %2$s. Per il changelog dettagliato visita %3$s</string>
-    <string name="share_sina">Posta tramite Sina weibo</string>
-    <string name="share_qq">Posta tramite Tencent weibo</string>
+    <string name="share_sina">Pubblica tramite Sina weibo</string>
+    <string name="share_qq">Pubblica tramite Tencent weibo</string>
     <string name="install_qq">Installa app QQ</string>
     <string name="upgrade_kernel">La versione attuale del kernel deve essere aggiornata</string>
     <string name="upgrade_kernel_msg">"La versione attuale del kernel non corrisponde alla ROM MIUI.Devi aggiornare il kernel manualmente.Fai riferimento al tutorial di aggiornamento:
