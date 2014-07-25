@@ -3125,8 +3125,8 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="preferred_application_title">Preferita: %s</string>
     <string name="preferred_application_warning_title">Sostituzione predefinita %s</string>
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
-    <string name="preferred_application_warning_replace">Cambia Launcher</string>
-    <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
+    <string name="preferred_application_warning_replace">Cambia</string>
+    <string name="preferred_application_warning_use_system">%s predef.</string>
     <string name="preferred_sms_warning_message">"Usando \"%1$s\" come applicazione predefinita per i messaggi potresti aumentare il traffico dati o compromettere la sicurezza dei tuoi dati."</string>
     <string name="preferred_sms_warning_use_system">Non usarla</string>
     <string name="preferred_sms_settings">Questa app sarà impostata come predefinita per la lettura e la composizione di messaggi di testo.</string>
@@ -3622,6 +3622,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="bluetooth_unlock_device_matched_text">Usa questo dispositivo per sbloccare.</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Vuoi eliminare questo dispositivo?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Il dispositivo verrà sostituito con quello attuale.</string>
+	<string name="app_feedback">Segnala Bug</string>
     <string name="app_backup">Backup</string>
     <string name="google_backup_section_title">Backup e ripristino Google</string>
 	<string name="system_backup_section_title">Backup</string>

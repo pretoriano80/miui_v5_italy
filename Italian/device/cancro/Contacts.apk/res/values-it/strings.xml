@@ -817,7 +817,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_progress_title">"Importa contatti nell'account Xiaomi"</string>
     <string name="import_to_xiaomi_account_progress_message">Importazione…</string>
     <string name="import_to_xiaomi_account_progress_finish">Importazione completata</string>
-    <string name="import_to_xiaomi_account_title">"Vuoi importare i seguenti contatti nell'account Xiaomi ?"</string>
+    <string name="import_to_xiaomi_account_title">"Vuoi importare i seguenti contatti nell'account Xiaomi?"</string>
     <string name="select_show_contacts">Mostra contatto</string>
     <string name="rebuild_t9_index_dialog_message">Ricostruzione indice dati in corso…</string>
     <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice dati</string>
@@ -962,7 +962,7 @@ Tocca l'icona Unisci in basso pe riniziare."</string>
     <string name="contact_detail_calllog_call_record_tips">Registrazione chiamata</string>
     <string name="contact_detail_calllog_call_note_tips">Nota chiamata</string>
     <string name="import_from_other_phone">Importare da altro telefono</string>
-    <string name="device_brand_title">seleziona marca telefono</string>
+    <string name="device_brand_title">Seleziona marca telefono</string>
     <string name="device_version_title">seleziona modello telefono</string>
     <string name="device_list_title">seleziona telefono corrispondente</string>
     <string name="next">avanti</string>
@@ -987,10 +987,10 @@ Tocca l'icona Unisci in basso pe riniziare."</string>
     <string name="title_other_devices">Altri Dispositivi Disponibili</string>
     <string name="button_scan">Scansiona di nuovo</string>
     <string name="button_cancel_scan">Ferma</string>
-    <string name="device_other_title">altro telefono</string>
+    <string name="device_other_title">Altro telefono</string>
     <string name="device_other_guide">Se la marca del tuo telefono non è nella lista prova con il seguente aiuto.</string>
-    <string name="my_phone_provider_bluetooth">provider bluetooth del mio telefono</string>
-    <string name="my_phone_not_provider_bluetooth">non provider bluetooth del mio telefono</string>
+    <string name="my_phone_provider_bluetooth">Provider bluetooth del mio telefono</string>
+    <string name="my_phone_not_provider_bluetooth">Non provider bluetooth del mio telefono</string>
     <string name="other_phone">altri telefoni</string>
     <string name="device_import_title">processo di importazione</string>
     <string name="device_import_progress_begin_message">Preparazione importazione…</string>
@@ -1041,7 +1041,7 @@ Tocca l'icona Unisci in basso pe riniziare."</string>
     <string name="group_name">I miei gruppi</string>
     <string name="import_all_sim_entries_miui">Importa tutti i contatti</string>
     <string name="import_sim_entry_miui">Importa da SIM</string>
-    <string name="delete_sim_entry_miui">Elimina contatti SIM</string>
+    <string name="delete_sim_entry_miui">Elimina dal registro chiamate</string>
     <string name="simContacts_airplaneMode">Per importare contatti dalla tua SIM disattiva la modalità Aereo.</string>
     <string name="readingSimContacts">Lettura informazioni SIM, attendere prego...</string>
     <string name="confirm_delete_sim_entry_miui">Confermare eliminazione di %d contatti dalla SIM?</string>
