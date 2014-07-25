@@ -240,7 +240,7 @@
         <item>Usa sempre il controllo HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animationi disattivate</item>
+        <item>Animazioni disattivate</item>
         <item>Scala animazioni .5x</item>
         <item>Scala animazioni 1x</item>
         <item>Scala animazioni 1.5x</item>
@@ -383,7 +383,7 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositico connesso, creazione sessione...</item>
+        <item>Dispositivo connesso, creazione sessione...</item>
         <item>Sessione creata</item>
         <item>Disattivazione sessione...</item>
         <item>Sessione fallita</item>
