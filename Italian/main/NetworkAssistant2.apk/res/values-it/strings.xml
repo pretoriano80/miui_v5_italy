@@ -241,15 +241,35 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_button_sorted_chose_simcard">Seleziona</string>
     <string name="traffic_saving_msg_today">Dati salvati oggi:</string>
     <string name="traffic_saving_msg_month">Totale mensile %1$s (RMB %2$s)</string>
+    <string name="traffic_saving_msg_not_started">Non ancora avviato</string>
     <string name="traffic_saving_history_title">Registro</string>
     <string name="traffic_saving_history_total_traffic">Dati risparmiati</string>
-    <string name="traffic_saving_history_total_money">Soldi risparmiati</string>
+    <string name="traffic_saving_history_total_rate">Statistiche di risparmio</string>
+    <string name="traffic_saving_history_total_rate_unit">%</string>
+    <string name="traffic_saving_history_total_money">Denaro risparmiato</string>
     <string name="traffic_saving_history_total_money_unit" />
+    <string name="traffic_saving_history_total_month">"Hai risparmaito l'equivalente di traffico in questo mese"</string>
+    <string name="traffic_saving_history_total_month_default">Risparmio mensile medio di traffico</string>
+    <string name="traffic_saving_history_total_month_value">"Musica online &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> Primo / Chat &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> Ora / Lettura &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> Articoli"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Musica online &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> Primo / Chat &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> Ora / Lettura &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> Articoli"</string>
     <string name="pref_traffic_saving_title">Impostazioni Risparmio</string>
     <string name="pref_traffic_saving_switch">Risparmio</string>
     <string name="pref_traffic_saving_switch_hint">Utilizza i proxy per comprimere i dati</string>
     <string name="pref_traffic_saving_notify_switch">"Mostra Risparmio all'ombra delle notifiche"</string>
     <string name="pref_traffic_saving_notify_switch_hint">"Mostra informazioni Risparmio all'ombra delle notifiche"</string>
+    <string name="pref_traffic_saving_whitelist">Esclusioni</string>
+    <string name="pref_traffic_saving_whitelist_hint">"L'utilizzo dei tati di queste app non verrà limitato"</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
     <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Usando Risparmio potrebbero esserci problemi con la mia privacy? &lt;/b>&lt;br />&lt;br />No. I tuoi dati rimarranno privati e non saranno condivisi con terzi. &lt;br />&lt;br />&lt;br />&lt;b> Perché Risparmio non funziona? &lt;/b>&lt;br />&lt;br /> Risparmio entra in funzione solo quando la rete dati invia o scarica contenuti.</string>
+    <string name="traffic_saving_whitelist_btn_add_app">Aggiungi</string>
+    <string name="traffic_saving_whitelist_btn_add">Aggiungi</string>
+    <string name="traffic_saving_whitelist_btn_added">Aggiunto</string>
+    <string name="traffic_saving_whitelist_btn_remove">Rimuovi</string>
+    <string name="traffic_saving_whitelist_btn_removed">Applicazione rimossa dalla lista</string>
+    <string name="traffic_saving_whitelist_count">"I dati di utilizzo di %d app non sono stati limitati"</string>
+    <string name="traffic_saving_whitelist_no_app">Nessuna applicazione</string>
+    <string name="mi_service_framework">Mi Service Framework</string>
+    <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
+    <string name="mi_service_traffic_detail">Dettagli framework</string>
+    <string name="none_mi_service_app_detail">Vuoto</string>
 </resources>

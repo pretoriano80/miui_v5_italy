@@ -22,5 +22,5 @@
     <string name="setup_complete_label">Grazie</string>
     <string name="setup_complete_info" />
     <string name="setup_complete_start">Inizia ad utilizzare il telefono</string>
-    <string name="setup_complete_summary">Configurazione completata! Adesso goditi MIUI :)</string>
+    <string name="setup_complete_summary">Adesso goditi MIUI :)</string>
 </resources>

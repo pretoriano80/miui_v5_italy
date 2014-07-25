@@ -980,7 +980,7 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="contact_detail_calllog_call_record_tips">Registrazione chiamata</string>
     <string name="contact_detail_calllog_call_note_tips">Nota chiamata</string>
     <string name="import_from_other_phone">Importare da altro telefono</string>
-    <string name="device_brand_title">Seleziona marca telefono</string>
+    <string name="device_brand_title">seleziona marca telefono</string>
     <string name="device_version_title">seleziona modello telefono</string>
     <string name="device_list_title">seleziona telefono corrispondente</string>
     <string name="next">Avanti</string>
@@ -1095,6 +1095,7 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="yellowpage_navigation_search_result_network_error">Impossibile connettersi alla rete</string>
     <string name="yellowpage_navigation_search_result_service_error">Servizio momentaneamente non disponibile</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Errore sconosciuto!</string>
+    <string name="yellowpage_navigation_search_result_average_price">Media di %d RMB</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Download icona…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Fallito, controlla le impostazioni di rete</string>
