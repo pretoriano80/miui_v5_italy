@@ -248,7 +248,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_history_total_rate_unit">%</string>
     <string name="traffic_saving_history_total_money">Denaro risparmiato</string>
     <string name="traffic_saving_history_total_money_unit" />
-    <string name="traffic_saving_history_total_month">Hai risparmaito l'equivalente di traffico in questo mese</string>
+    <string name="traffic_saving_history_total_month">"Hai risparmaito l'equivalente di traffico in questo mese"</string>
     <string name="traffic_saving_history_total_month_default">Risparmio mensile medio di traffico</string>
     <string name="traffic_saving_history_total_month_value">"Musica online &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> Primo / Chat &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> Ora / Lettura &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> Articoli"</string>
     <string name="traffic_saving_history_total_month_value_default">"Musica online &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> Primo / Chat &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> Ora / Lettura &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> Articoli"</string>
