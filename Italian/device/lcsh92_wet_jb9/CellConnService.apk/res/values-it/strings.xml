@@ -20,8 +20,8 @@
     <string name="confirm_roaming_withPrefer_msg">La scheda SIM che stai utilizzando è in roaming.Vuoi continuare con la scheda SIM locale?</string>
     <string name="confirm_roaming_lbutton">Continua</string>
     <string name="confirm_roaming_rbutton">Annulla</string>
-    <string name="confirm_roamingWithPrefer_lbutton">Carta SIM locale</string>
-    <string name="confirm_roamingWithPrefer_rbutton">Roaming carta SIM</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Scheda SIM locale</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Roaming scheda SIM</string>
     <string name="confirm_radio_lbutton">Attiva</string>
     <string name="confirm_unlock_lbutton">Sblocca</string>
     <string name="confirm_unlock_fail">Operazione annullata</string>
