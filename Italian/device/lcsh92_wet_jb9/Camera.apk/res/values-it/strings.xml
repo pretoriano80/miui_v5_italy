@@ -70,8 +70,8 @@
     <string name="pref_camcorder_settings_category">Impostazioni Videocamera</string>
     <string name="pref_camera_picturesize_title">Dimensione foto</string>
     <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
-    <string name="pref_camera_picturesize_entry_standard">Wide 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Full 16:9</string>
+    <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Schermo intero 16:9</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13Mp(4208x3120)</string>
     <string name="pref_camera_picturesize_entry_4208x2368">10Mp(4208x2368)</string>
     <string name="pref_camera_picturesize_entry_3264x2448">8Mp(3264x2448)</string>

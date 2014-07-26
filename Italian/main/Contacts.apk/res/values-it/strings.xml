@@ -813,6 +813,16 @@ Motivo: \"%s\""</string>
     <string name="preference_export">Esporta</string>
     <string name="preference_others">Altri</string>
     <string name="wipe_data">Cancella dati</string>
+	<string name="check_unsynchronized_accounts">Ricordami di sincronizzare gli account</string>
+    <string name="frequency_three_days">Ogni 3 giorni</string>
+    <string name="frequency_weekly">Ogni settimana</string>
+    <string name="frequency_none">Mai</string>
+    <string name="dirty_contacts_notification_title">Sincronizza i contatti?</string>
+    <string name="dirty_contacts_notification_description">%d cambiamenti non sono stati sincronizzati con il tuo MIaccount.</string>
+    <string name="dirty_contacts_notification_message">(Puoi disattivare questo avviso nelle impostazioni)</string>
+    <string name="remind_btn_sync_now">Sincronizza</string>
+    <string name="remind_btn_ignore">Ignora</string>
+    <string name="display_only_phones">Nascondi numeri incompleti</string>
     <string name="display_only_phones">Mostra solo contatti con numero</string>
     <string name="preference_remove_duplicate">Unisci contatti doppi</string>
     <string name="scan_merge">Ricerca contatti doppi…</string>
