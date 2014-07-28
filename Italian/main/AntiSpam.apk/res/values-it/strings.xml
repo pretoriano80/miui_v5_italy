@@ -145,9 +145,9 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_title_man_addwhitelist">Aggiungi numero telefonico alle esclusioni</string>
     <string name="st_title_man_editblacklist">Scegli un prefisso da aggiungere alla lista blocco</string>
     <string name="st_title_man_editwhitelist">Scegli un prefisso da aggiungere alle esclusioni</string>
-    <string name="st_title_back_sound_choose">BackSound</string>
+    <string name="st_title_back_sound_choose">Tono messaggio</string>
     <string name="st_title_back_sound_busy">Occupato</string>
-    <string name="st_title_back_sound_none">Numero non più in servizio</string>
+    <string name="st_title_back_sound_none">Numero inesistente</string>
     <string name="st_title_back_sound_closed">Telefono spento</string>
     <string name="st_title_back_sound_stop">Numero fuori servizio</string>
     <string name="st_title_call_wait_setting">Impostazioni chiamata in attesa</string>
@@ -213,8 +213,8 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_title_keywords_blacklist">Filtro</string>
     <string name="st_title_blacklist_numbers">Lista blocco</string>
     <string name="st_title_whitelist_numbers">Eccezioni</string>
-    <string name="st_title_backsound_group">Impostazioni suono lista blocco</string>
-    <string name="st_title_anticomintcall_backsound_setting">Impostazioni suono lista blocco</string>
+    <string name="st_title_backsound_group">Impostazioni blocco chiamate</string>
+    <string name="st_title_anticomintcall_backsound_setting">Messaggio</string>
     <string name="st_title_settings_other_group">Impostazioni addizionali</string>
     <string name="st_title_show_antispamnotification">Notifiche per chiamate bloccate</string>
     <string name="st_title_mode_choose_group">Seleziona modalità</string>

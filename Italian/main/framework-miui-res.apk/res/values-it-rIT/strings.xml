@@ -273,7 +273,7 @@
     <string name="find_device_sim_change_instructions_no_network">Il tuo telefono è stato bloccato. Inserire la SIM orginale</string>
     <string name="find_device_turn_off_flight_mode">Disattiva modalità aereo</string>
     <string name="find_device_turn_off_flight_mode_instructions">Il tuo dispositivo è stato bloccato. Disattiva la modalità aereo</string>
-    <string name="firewall_setting">Firewall</string>
+    <string name="firewall_setting">Blacklist</string>
     <string name="first_back_long_press_message">Vuoi abilitare la funzione long-press del tasto Indietro per chiudere il porcesso attuale ed i servizi in background associati? Abilita da Impostazioni > Sistema > Tasto Impostazioni</string>
     <string name="fm_record_smaple_prefix_miui">RegistrazioneFM</string>
     <string name="fools_day" />
