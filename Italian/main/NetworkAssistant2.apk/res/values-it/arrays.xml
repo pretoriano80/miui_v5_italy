@@ -7,7 +7,7 @@
         <item>GB</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Traffico da ieri\u0020</item>
+        <item>Traffico di ieri\u0020</item>
         <item>Traffico di oggi\u0020</item>
         <item>Traffico mensile\u0020</item>
     </string-array>

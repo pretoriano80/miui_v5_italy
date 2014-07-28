@@ -240,7 +240,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_button_sorted">Dettagli</string>
     <string name="traffic_saving_button_sorted_chose_simcard">Seleziona</string>
     <string name="traffic_saving_msg_today">Dati salvati oggi:</string>
-    <string name="traffic_saving_msg_month">Totale mensile %1$s (RMB %2$s)</string>
+    <string name="traffic_saving_msg_month">Totale mensile salvato:</string>
     <string name="traffic_saving_msg_not_started">Non ancora avviato</string>
     <string name="traffic_saving_history_title">Registro</string>
     <string name="traffic_saving_history_total_traffic">Dati risparmiati</string>
