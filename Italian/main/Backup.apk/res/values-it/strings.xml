@@ -190,8 +190,8 @@
     <string name="cloud_app_backup_title">Backup MiCloud</string>
     <string name="cloud_app_just_show_in_current_device">Mostra solo le app su questo dispositivo</string>
     <string name="cloud_app_mine">App scaricate</string>
-    <string name="cloud_app_backup_summary">Esegui un backup automatico delle app e dati utente quando il telefono è in carica e connesso ad una rete Wi-Fi</string>
-    <string name="cloud_app_function_summary">Quando esegui il backup dei tuoi dati in cloud, puoi ripristinarli velocemente su qualsiasi dispositivo.</string>
+    <string name="cloud_app_backup_summary">Esegui un backup automatico delle app e dei dati utente quando il telefono è in carica e connesso ad una rete Wi-Fi</string>
+    <string name="cloud_app_function_summary">Quando esegui il backup dei tuoi dati nel cloud, puoi ripristinarli velocemente su qualsiasi dispositivo.</string>
     <string name="cloud_app_restore_action_bar_title">%1$s di dati sono stati salvati</string>
     <string name="cloud_app_current_device">Dispositivo attuale</string>
     <string name="cloud_app_other_devices">Altri dispositivi</string>
