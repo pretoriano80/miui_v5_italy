@@ -141,9 +141,9 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="bankcall_merchant">Ricevente:</string>
     <string name="bankcall_denom">Pagamento:</string>
     <string name="bankcall_bank_account">Carta bancaria:</string>
-    <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
-    <string name="bankcall_denom_number">%1$s yuan</string>
-    <string name="bankcall_card">Carta bancaria</string>
+    <string name="bankcall_xiaomi_company">\u0020Xiaomi Corporation (Beijing)</string>
+    <string name="bankcall_denom_number">\u0020%1$s yuan</string>
+    <string name="bankcall_card">Carta credito</string>
     <string name="bankcall_card_hint">Inserisci numero conto</string>
     <string name="bankcall_card_type">%1$s-%2$s</string>
     <string name="bankcall_card_type_tailnum">%1$s-%2$s(Numero carta %3$s)</string>
