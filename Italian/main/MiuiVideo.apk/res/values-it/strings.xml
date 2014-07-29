@@ -200,7 +200,7 @@
     <string name="play_setting">Riproduci</string>
     <string name="other_setting">Altri</string>
     <string name="use_cellular_network">Usa la rete cellulare</string>
-    <string name="auto_play">Auto avvio</string>
+    <string name="auto_play">Avvio automatico</string>
     <string name="continue_to_play_nextset">Riproduzione automatica</string>
     <string name="use_cellular_network_summary">Utilizza la rete cellulare per scaricare i video, questo comporterà costi molto elevati di traffico dati.</string>
     <string name="auto_play_summary">Riproduci il video quando il buffering o il download è finito</string>

@@ -21,7 +21,6 @@
     <string name="no_save">No</string>
     <string name="review_cancel">ANNULLA</string>
     <string name="pref_camera_recordlocation_title">Rileva posizione</string>
-    <string name="pref_camera_recordlocation_default">false</string>
     <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
     <string name="pref_camera_recordlocation_entry_on">Attivato</string>
     <string name="pref_camera_sound_title">Suono fotocamera</string>
@@ -93,12 +92,9 @@
     <string name="pref_camera_picturesize_entry_1472x832">1.2Mp(1472x832)</string>
     <string name="pref_camera_picturesize_entry_1280x720">0.9Mp(1280x720)</string>
     <string name="pref_camera_picturesize_entry_1024x768">0.8Mp(1024x768)</string>
-    <string name="pref_camera_picture_format_default">jpeg</string>
     <string name="pref_camera_picture_format_title">Formato Immagine</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Non compresso</string>
-    <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
-    <string name="pref_camera_picture_format_value_raw">raw</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
@@ -124,7 +120,6 @@
     <string name="pref_camera_flashmode_entry_on">On</string>
     <string name="pref_camera_flashmode_entry_off">Off</string>
     <string name="pref_camera_video_flashmode_default">off</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_title">Bilanciamento bianco</string>
     <string name="pref_camera_whitebalance_k_value_title">Bilanciamento bianco K</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -134,13 +129,6 @@
     <string name="pref_camera_whitebalance_entry_cloudy">Nuv.</string>
     <string name="pref_camera_whitebalance_entry_manual">Manuale</string>
     <string name="pref_camera_whitebalance_entry_measure">Misura</string>
-    <string name="pref_camera_whitebalance_entryvalue_auto">auto</string>
-    <string name="pref_camera_whitebalance_entryvalue_incandescent">incandescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_daylight">daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_fluorescent">fluorescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_cloudy">cloudy-daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_manual">manual-cct</string>
-    <string name="pref_camera_whitebalance_entryvalue_measure">measure</string>
     <string name="pref_camera_shader_coloreffect_default">-1</string>
     <string name="pref_camera_coloreffect_title">Effetti colore</string>
     <string name="pref_camera_coloreffect_entry_sepia" />
@@ -176,15 +164,9 @@
     <string name="pref_camera_multilevel_entry_highest">Molto alto</string>
     <string name="pref_camera_default_suffix">(Default)</string>
     <string name="pref_camera_multilevel_entry_middle">Medio (default)</string>
-    <string name="pref_mtk_camera_contrast_default">middle</string>
     <string name="pref_camera_contrast_title">Contrasto</string>
-    <string name="pref_camera_saturation_default">5</string>
-    <string name="pref_mtk_camera_saturation_default">middle</string>
     <string name="pref_camera_saturation_title">Saturazione</string>
-    <string name="pref_camera_sharpness_default">12</string>
-    <string name="pref_mtk_camera_sharpness_default">middle</string>
     <string name="pref_camera_sharpness_title">Nitidezza</string>
-    <string name="pref_camera_scenemode_default">auto</string>
     <string name="pref_camera_scenemode_title">Modalità Scena</string>
     <string name="pref_camera_scenemode_entry_off">Disattivato</string>
     <string name="pref_camera_scenemode_entry_auto">Auto</string>
@@ -227,9 +209,6 @@
     <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
     <string name="pref_camera_hfr_title">Framerate video</string>
     <string name="pref_camera_hfr_entry_off">Disattivato</string>
-    <string name="pref_camera_hfr_value_2x">60</string>
-    <string name="pref_camera_hfr_value_3x">90</string>
-    <string name="pref_camera_hfr_value_4x">120</string>
     <string name="pref_video_speed_title">Velocità video</string>
     <string name="pref_video_speed_default">normal</string>
     <string name="pref_video_speed_entry_normal">Normale</string>
@@ -317,8 +296,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_facedetection_title">Riconoscimento Viso</string>
     <string name="pref_camera_facedetection_entry_off">Disattivato</string>
     <string name="pref_camera_facedetection_entry_on">Attivato</string>
-    <string name="pref_camera_powermode_default">Normal_Power</string>
-    <string name="pref_camera_redeyereduction_default">disable</string>
     <string name="error_app_unsupported_raw_wavelet">La riduzione di onde non funzionerà scattando foto normalmente</string>
     <string name="pref_camera_redeyereduction_title">Occhi Rossi</string>
     <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
@@ -344,9 +321,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_referenceline_title">Linea di riferimento</string>
     <string name="pref_camera_referenceline_entry_off">Disattivato</string>
     <string name="pref_camera_referenceline_entry_on">Attivato</string>
-    <string name="pref_camera_referenceline_entryvalue_default">referenceline-off</string>
-    <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
-    <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
