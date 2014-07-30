@@ -331,8 +331,8 @@
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Impossibile eliminare: il tuo dispositivo è programmato per passare a questo profilo, 
  Devi modificare le impostazioni prima di eliminare questo profilo."</string>
     <string name="power_save_choose_mode">Seleziona un profilo</string>
-    <string name="power_save_low_battery_title">Risparmia quando in esaurimento</string>
-    <string name="power_save_low_battery_auto_save_title">Risparmia quando in esaurimento</string>
+    <string name="power_save_low_battery_title">Risparmio batteria automatico</string>
+    <string name="power_save_low_battery_auto_save_title">Avvio automatico</string>
     <string name="power_save_low_battery_seekbar_title">Considera scarica sotto il: %1$d%%</string>
     <string name="power_save_low_battery_option_title">Quando scarica passa a</string>
     <string name="power_save_low_battery_option_summary">Quando al di sopra della soglia minima il dispositivo tornerà al profilo più utilizzato di recente</string>

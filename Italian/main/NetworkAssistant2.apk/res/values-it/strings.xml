@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Utilizzo dati</string>
-    <string name="list_empty_text">Vuoto</string>
+    <string name="list_empty_text">\u0020Vuoto</string>
     <string name="main_button_normal_traffic">Soglia</string>
     <string name="main_button_idel_traffic">Oltre soglia</string>
     <string name="main_toolbar_firewall">Limita</string>
@@ -82,7 +82,7 @@ la connessione alla rete dati mobile"</string>
     <string name="pref_version">Versione %s</string>
     <string name="pref_leisure_no_overlay">Attivato</string>
     <string name="pref_leisure_not_opened">Disattivato</string>
-    <string name="pref_new_installed_preconfig_title">Impostazioni predefinite per le nuove applicazioni</string>
+    <string name="pref_new_installed_preconfig_title">Impostazioni predefinite</string>
     <string name="pref_manual_adjust">Imposta manualmente statistiche utilizzo dati</string>
     <string name="pref_daily_adjust">Imposta soglia dati</string>
     <string name="pref_free_adjust">Imposta limite dati fuori soglia</string>

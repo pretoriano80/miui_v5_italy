@@ -182,8 +182,8 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="AD_SCANNING">Scansione…</string>
     <string name="AD_BLOCK_ALL">Blocca tutto</string>
     <string name="AD_SCAN_BUTTON">Scansiona</string>
-    <string name="AD_NOT_BLOCK">Non bloccare</string>
-    <string name="AD_BLOCKED">Bloccato</string>
+    <string name="AD_NOT_BLOCK">Non bloccata</string>
+    <string name="AD_BLOCKED">Bloccata</string>
     <string name="AD_COUNT">%d bloccati</string>
     <string name="AD_TITLE_COUNT">%d applicazioni contengono adware</string>
     <string name="AD_TITLE_NON_COUNT">Nessun adware rilevato</string>
