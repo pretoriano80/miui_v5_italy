@@ -96,8 +96,8 @@
     <string name="ok">OK</string>
     <string name="good">OK</string>
     <string name="sure">OK</string>
-    <string name="declaration_content">"Vuoi accettare  i termini d'uso?"</string>
-    <string name="declaration_content_short">"Vuoi accettare  i termini d'uso?"</string>
+    <string name="declaration_content">"Vuoi accettare i termini d'uso?"</string>
+    <string name="declaration_content_short">"Vuoi accettare i termini d'uso?"</string>
     <string name="ok_no_more">Non mostrare più</string>
     <string name="today">Oggi</string>
     <string name="yestorday">Ieri</string>
