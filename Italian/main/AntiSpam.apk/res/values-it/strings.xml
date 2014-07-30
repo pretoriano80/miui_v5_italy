@@ -152,6 +152,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_title_back_sound_stop">Numero fuori servizio</string>
     <string name="st_title_call_wait_setting">Impostazioni chiamata in attesa</string>
     <string name="st_title_call_wait">Chiamata in attesa</string>
+	<string name="st_title_not_sim">Vuoto</string>
     <string name="st_sum_call_wait">Se il segnale di occupato non è quello predefinito potrebbe confondere il chiamante.</string>
     <string name="st_antispam_bw_man_add">Aggiungi numero di telefono</string>
     <string name="st_antispam_bw_head_add">Aggiungi prefisso</string>
@@ -190,7 +191,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="AD_ALLOW">Consenti pubblicità</string>
     <string name="AD_Unistall">Disinstalla</string>
     <string name="AD_APPInfo">Informazioni applicazione</string>
-    <string name="AD_Info">Plug-in pubblicità</string>
+    <string name="AD_Info">Plug-in pubblicitari</string>
     <string name="AD_Info_Hint">Gli adware vengono utilizzati da società di terze parti per inviare pubblicità al tuo dispositivo.</string>
     <string name="ad_relative_setting">Impostazioni</string>
     <string name="ad_install_monitor">Controllo installazione</string>
