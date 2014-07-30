@@ -114,9 +114,9 @@
     <string name="cancel_waitfornewset">Non seguire i contenuti</string>
     <string name="waitfornewset_tip_content">Riceverai una notifica quando ci saranno nuovi episodi o contenuti aggiuntivi disponibili.</string>
     <string name="success_add_myfavorite">Aggiunto ai preferiti</string>
-    <string name="success_add_waitfornewset">Aggiunto ai preferiti</string>
+    <string name="success_add_waitfornewset">Seguito con successo</string>
     <string name="success_cancel_myfavorite">Rimosso dai preferiti</string>
-    <string name="success_cancel_waitfornewset">Rimosso dai preferiti</string>
+    <string name="success_cancel_waitfornewset">Non più seguito</string>
     <string name="success_to_cancel_myfavorite">Annullato</string>
     <string name="count_myfavorite">" preferiti"</string>
     <string name="myfavorite">Preferiti</string>
