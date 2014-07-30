@@ -372,7 +372,7 @@
     <string name="power_mode_chooser_button_text">Applica</string>
     <string name="power_20s_enter_mode">%1$ds passa a modalità %2$s</string>
     <string name="power_notify_lowbattery">Batteria sotto il %1$d%%</string>
-    <string name="power_recovery_mode">Ripristino modalità %1$s</string>
+    <string name="power_recovery_mode">Modalità %1$s ripristinata</string>
     <string name="power_subtitle_lowbattery">Risparmio automatico quando il livello batteria è basso</string>
     <string name="power_subtitle_ontime">Risparmio automatico quando stabilito</string>
     <string name="power_exitlowbattery_whencharge">Esci quando in carica</string>
@@ -960,7 +960,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_update_now">Aggiorna adesso</string>
     <string name="virus_scan_use_cloud">Definizioni virus cloud</string>
     <string name="virus_scan_can_use_wifi">Usa definizioni online per la scansione</string>
-    <string name="virus_scan_monitoring">Installa il monitor</string>
+    <string name="virus_scan_monitoring">Verifica le app installate</string>
     <string name="virus_scan_judge_is_virus">"Controlla le app per i virus prima dell'installazione"</string>
     <string name="virus_scan_viruslib_version">Versione definizioni virus: %s</string>
     <string name="virus_scan_settings">Impostazioni</string>
