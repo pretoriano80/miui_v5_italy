@@ -51,7 +51,7 @@
     <string name="optimize_apk_list_empty_content">Nessun pacchetto di installazione.</string>
     <string name="optimize_residual_list_empty_content">Nessun file residuo.</string>
     <string name="optimize_tips_title">Aiuto</string>
-    <string name="optimize_tips_ad_title">File ad：</string>
+    <string name="optimize_tips_ad_title">Pubblicità：</string>
     <string name="optimize_tips_ad_content">Immagini, testo, ed altri dati relativi a pubblicità di provider e negozi di terze parti.</string>
     <string name="optimize_tips_apk_title">Pacchetti：</string>
     <string name="optimize_tips_apk_content">"Utilizzati per l'installazione di applicazioni sul tuo dispositivo, ma non fanno altro che occupare spazio una volta che hai installato l'applicazione."</string>
@@ -219,7 +219,7 @@
     <string name="opt_score">83</string>
     <string name="opt_done_desc">Completato</string>
     <string name="opt_cancel_desc">Annulla</string>
-    <string name="opt_resume_desc">Continue</string>
+    <string name="opt_resume_desc">Continua</string>
     <string name="opt_state_running">Ottimizzazione...</string>
     <string name="opt_state_pause">Pausa</string>
     <string name="opt_state_done">Completato</string>
@@ -584,7 +584,7 @@ Consentire l'avvio automatico?"</string>
     <string name="protection_category_dangerous_title">A rischio (%d)</string>
     <string name="protection_category_recommend_title">Ottimizzazione consigliata (%d)</string>
     <string name="protection_category_security_title">Cancella (%d)</string>
-    <string name="title_virus_no">Virus </string>
+    <string name="title_virus_no">Virus</string>
     <string name="title_virus_yes">Nessun virus rilevato</string>
     <string name="summary_virus">%2$d virus rilevati</string>
     <string name="title_permission_no">Monitor permessi disattivato</string>
@@ -1072,7 +1072,7 @@ Consentire l'avvio automatico?"</string>
     <string name="battery_info_power_unplugged">Non collegato</string>
     <string name="battery_info_power_ac">CA</string>
     <string name="battery_info_power_usb">USB</string>
-    <string name="battery_info_power_wireless">wireless</string>
+    <string name="battery_info_power_wireless">Wireless</string>
     <string name="battery_info_power_ac_usb">CA+USB</string>
     <string name="battery_info_power_unknown">Sconosciuto</string>
     <string name="battery_info_health_unknown">Sconosciuto</string>
@@ -1458,11 +1458,19 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Il display Wireless è disabilitato perchè il Wi-Fi non è attivo.</string>
     <string name="wifi_display_search_for_devices">Ricerca display</string>
     <string name="wifi_display_searching_for_devices">Ricerca in corso…</string>
+    <string name="wifi_display_no_devices_found">Nessun display wireless rilevato nelle vicinanze.</string>
     <string name="wifi_display_paired_devices">Display wireless associati</string>
     <string name="wifi_display_available_devices">Dispositivi disponibili</string>
+    <string name="wifi_display_status_connecting">Connessione in corso</string>
+    <string name="wifi_display_status_connected">Connesso</string>
     <string name="wifi_display_status_available">Disponibile</string>
+    <string name="wifi_display_details">Impostazioni display wireless</string>
     <string name="wifi_display_disconnect_title">Disconnettere?</string>
     <string name="wifi_display_disconnect_text">Questa azione chiuderà la connessione con %1$s</string>
+    <string name="wifi_display_options_title">Opzioni display wireless</string>
+    <string name="wifi_display_options_forget">Dimentica</string>
+    <string name="wifi_display_options_done">Fine</string>
+    <string name="wifi_display_options_name">Nome</string>
     <string name="wifi_display_summary_on">Attivato</string>
     <string name="wifi_display_summary_off">Disattivato</string>
     <string name="wifi_display_summary_disabled">Disattivato</string>
@@ -1593,6 +1601,8 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="wifi_ip_settings_invalid_gateway">"Digita l'indirizzo di un gateway valido."</string>
     <string name="wifi_ip_settings_invalid_dns">Digita un indirizzo DNS valido.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Digita un prefisso di rete di 0-32 caratteri.</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_gateway">Gateway</string>
     <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
@@ -2179,7 +2189,9 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="keyboard_layout_dialog_switch_hint">Per cambiare , premi Control-Spazio</string>
     <string name="keyboard_layout_default_label">Predefinito</string>
     <string name="keyboard_layout_picker_title">Layout tastiera</string>
-    <string name="user_dict_settings_title">Dizionario personale</string>
+    <string name="user_dict_settings_titlebar">Dizionario utente</string>
+    <string name="user_dict_single_settings_title">Dizionario personale</string>
+    <string name="user_dict_multiple_settings_title">Dizionari personali</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Aggiungi</string>
     <string name="user_dict_settings_add_dialog_title">Aggiungi al dizionario</string>
@@ -3197,6 +3209,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="led_pulse_summary">Attiva il LED intermittente per le nuove notifiche</string>
     <string name="show_rounded_corners">Mostra angoli arrotondati</string>
     <string name="pref_operational_key">Tasti funzionali</string>
+    <string name="pref_button_light">Luce tasti</string>
+    <string name="pref_button_light_summary">Tasti Menu, Home e Indietro</string>
+    <string name="button_light_timeout">Timeout luce tasti</string>
     <string name="screen_button_key">Tasti virtuali a schermo</string>
     <string name="screen_button_custom">Personalizza tasti virtuali</string>
     <string name="headset_settings">Impostazioni cuffie</string>
@@ -3483,6 +3498,10 @@ prova in questo modo:
     <string name="wifi_signal_found_msg">Rilevato AP Wi-Fi disponibile, connettere adesso？</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi siano in contatto, quindi seleziona il contenuto che vuoi trasferire.</string>
+    <string name="bt_hci_snoop_log">Registro snoop HCI Bluetooth</string>
+    <string name="bt_hci_snoop_log_summary">Registra tutti i pacchetti HCI Bluetooth in un file</string>
+    <string name="bt_trace_log">Trace log Bluetooth</string>
+    <string name="bt_trace_log_summary">Attiva trace log Bluetooth</string>
     <string name="wifi_share">Condividi rete</string>
     <string name="wifi_share_turn_on">Condivisione Wi-Fi attivata</string>
     <string name="wifi_share_turn_off">Condivisione Wi-Fi disattivata</string>
