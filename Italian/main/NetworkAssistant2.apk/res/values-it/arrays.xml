@@ -41,7 +41,7 @@
     <string-array name="traffic_type">
         <item>\u00203G\u0020</item>
         <item>\u0020Wi-Fi\u0020</item>
-        <item>\u0020Risparmia traffico\u0020</item>
+        <item>\u0020Traffico risparmiato\u0020</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Rete dati "</item>
