@@ -219,7 +219,7 @@
     <string name="opt_score">83</string>
     <string name="opt_done_desc">Completato</string>
     <string name="opt_cancel_desc">Annulla</string>
-    <string name="opt_resume_desc">Continue</string>
+    <string name="opt_resume_desc">Continua</string>
     <string name="opt_state_running">Ottimizzazione...</string>
     <string name="opt_state_pause">Pausa</string>
     <string name="opt_state_done">Completato</string>
