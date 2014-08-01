@@ -281,6 +281,7 @@
     <string name="preferences_category_account_title">Account</string>
     <string name="work_day_indication">:(</string>
     <string name="rest_day_indication">:)</string>
+    <string name="edit_event_confirm_message">Annullare le modifiche di questo evento?</string>
     <string name="more_string">Altri %1$s...</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
