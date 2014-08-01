@@ -5,14 +5,14 @@
     <string name="st_antispam_mode_only_contacts_state">1111000</string>
     <string name="st_antispam_mode_only_whitelist_state">1100000</string>
     <string name="st_antispam_mode_only_all_deny_state">1000000</string>
-    <string name="app_name">Privacy</string>
-    <string name="fw_blocked">Statistiche bloccate</string>
-    <string name="fw_blocked_count">Bloccati:</string>
-    <string name="fw_blocked_count_call">%d chiamate e </string>
-    <string name="fw_blocked_count_sms">%d messaggi</string>
-    <string name="tab_title">Privacy</string>
+    <string name="app_name">Lista blocco</string>
+    <string name="fw_blocked">Lista blocco</string>
+    <string name="fw_blocked_count">"Bloccati "</string>
+    <string name="fw_blocked_count_call">%d chiamate</string>
+    <string name="fw_blocked_count_sms">" e %d messaggi"</string>
+    <string name="tab_title">Lista blocco</string>
     <string name="tab_block_log">Registro</string>
-    <string name="tab_blacklist">Blacklist</string>
+    <string name="tab_blacklist">Lista blocco</string>
     <string name="tab_sms">Messaggi</string>
     <string name="tab_call">Chiamate</string>
     <string name="bl_block_info" formatted="false">Bloccato: Numero %d, dettagli %d</string>
@@ -152,7 +152,6 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_title_back_sound_stop">Numero fuori servizio</string>
     <string name="st_title_call_wait_setting">Impostazioni chiamata in attesa</string>
     <string name="st_title_call_wait">Chiamata in attesa</string>
-	<string name="st_title_not_sim">Vuoto</string>
     <string name="st_sum_call_wait">Se il segnale di occupato non è quello predefinito potrebbe confondere il chiamante.</string>
     <string name="st_antispam_bw_man_add">Aggiungi numero di telefono</string>
     <string name="st_antispam_bw_head_add">Aggiungi prefisso</string>
@@ -202,7 +201,6 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: sconosciuto</string>
     <string name="ad_block_hint">%d bloccati</string>
     <string name="ad_single_block_hint">Bloccato</string>
-    <string name="ad_permission_hint">"L'utilizzo del blocco pubblicità potrebbe influenzare anche le prestazioni delle tue applicazioni o impedirne il normale funzionamento."</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
@@ -262,4 +260,10 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="note_preference_delete">Modalità in uso, impossibile eliminare</string>
     <string name="block_message_number">Messaggi spam: %d</string>
     <string name="block_phone_number">Chiamate spam: %d</string>
+    <string name="block_phm_number">%d</string>
+    <string name="report">Segnala</string>
+    <string name="report_sms">Messaggio da segnalare</string>
+    <string name="report_only">Seleziona almeno un messaggio</string>
+    <string name="report_success">Segnalazione inviata</string>
+    <string name="report_error">Grazie per la tua segnalazione, le informazioni verranno trasmese automaticamente appena una rete Wi-Fi sarà disponibile</string>
 </resources>

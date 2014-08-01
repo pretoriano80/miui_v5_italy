@@ -55,8 +55,11 @@
     <string name="loading">Caricamento…</string>
     <string name="no_thumbnail">Nessuna miniatura</string>
     <string name="crop_save_text">Taglia e salva</string>
+    <string name="crop_save_text_setas">Applica</string>
+    <string name="crop_recognize_text">Riconosci</string>
     <string name="multiface_crop_help">Tocca un viso per iniziare.</string>
     <string name="saving_image">Salvataggio foto...</string>
+    <string name="recognizing_image">Riconoscimento immagine</string>
     <string name="save_error">Impossibile salvare immagine ritagliata.</string>
     <string name="crop_label">Ritaglia foto</string>
     <string name="select_image">Seleziona foto</string>
