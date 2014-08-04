@@ -322,7 +322,7 @@ CC: %4$s
     <string name="account_settings_summary">Frequenza sincronizzazione, notifiche e altro.</string>
     <string name="account_settings_notify_summary">"Notifica sulla barra di sistema l'arrivo di una email"</string>
     <string name="account_settings_mail_check_frequency_label">Frequenza di controllo Posta in arrivo</string>
-    <string name="account_settings_incoming_label">Impost. posta in arrivo</string>
+    <string name="account_settings_incoming_label">Impostazioni posta in arrivo</string>
     <string name="account_settings_incoming_summary">Nome utente, password e altre impostazioni del server in entrata</string>
     <string name="account_settings_outgoing_label">Impost. posta in uscita</string>
     <string name="account_settings_outgoing_summary">Nome utente, password e altre impostazioni del server in uscita</string>
