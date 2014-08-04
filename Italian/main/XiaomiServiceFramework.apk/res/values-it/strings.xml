@@ -73,6 +73,8 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="error_unknown">Errore sconosciuto: %1$s</string>
     <string name="error_invalid_dev_id">ID dispositivo non valido</string>
     <string name="error_user_name">Nome utente non valido!</string>
+    <string name="error_login">Impossibile accedere</string>
+    <string name="relogin_notice">"Devi eseguire di nuovo l'accesso"</string>
     <string name="quick_login_title">"È richiesta l'autenticazione, si prega di inserire la password."</string>
     <string name="quick_login_step2_title">Accesso di sicurezza</string>
     <string name="account_name">Account: %1$s</string>
@@ -137,6 +139,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="checking_account">Verifica account...</string>
     <string name="button_cancel">Annulla</string>
     <string name="mili_center">MiCredit</string>
+    <string name="bank_cards">Carte di credito</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
@@ -287,4 +290,5 @@ Per risolvere questo problema, puoi eliminare alcuni vecchi file o acquistare sp
     <string name="micloud_upgrade_space">Aggiornamento spazio</string>
     <string name="enable_sync_dspt">Sincronizzazione disattivata</string>
     <string name="enable_sync">Attiva sincronizzazione</string>
+    <string name="micloud_proceed">Continua</string>
 </resources>
