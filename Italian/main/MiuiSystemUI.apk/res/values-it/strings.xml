@@ -148,7 +148,7 @@
     <string name="settings_show_notificationBar_notification">Abilita notifiche</string>
     <string name="settings_show_statusBar_notification">Mostra nella barra di stato</string>
     <string name="filter_item_preview_image">Anteprima</string>
-    <string name="filter_item_description">Puoi impostare il tipo di notifica da \"Impostazioni - Barra di stato - Notifiche personalizzate\"</string>
+    <string name="filter_item_description">Puoi impostare il tipo di notifica da \"Impostazioni -> Barra di stato -> Notifiche personalizzate\"</string>
     <string name="settings_notification_bar">Pannello notifiche</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
     <string name="settings_toggle_collapse_after_clicked">Chiudi quando premuto</string>
