@@ -45,7 +45,7 @@
     <string name="comment_can_input_suffix" />
     <string name="comment_max_tip">Limite di 300 caratteri</string>
     <string name="publish">Pubblica</string>
-    <string name="no_comment_tip">"impossibile inviare un commento vuoto</string>
+    <string name="no_comment_tip">impossibile inviare un commento vuoto</string>
     <string name="comment_detailInfo">Commento</string>
     <string name="comment_submiting">Pubblicazione in corso…</string>
     <string name="search">Cerca</string>
@@ -96,8 +96,8 @@
     <string name="ok">OK</string>
     <string name="good">OK</string>
     <string name="sure">OK</string>
-    <string name="declaration_content">"Sei sicuro di voler accettare i termini d'uso stipulati con la Sohu Video, iQiyi, e altri provider?"</string>
-    <string name="declaration_content_short">"Sei sicuro di voler accettare i termini d'uso stipulati con la Sohu Video, iQiyi, e altri provider?"</string>
+    <string name="declaration_content">Vuoi accettare le condizioni di utilizzo con la Sohu Video, iQiyi, e altri provider?</string>
+    <string name="declaration_content_short">Vuoi accettare le condizioni di utilizzo con la Sohu Video, iQiyi, e altri provider?</string>
     <string name="ok_no_more">Non mostrare più</string>
     <string name="today">Oggi</string>
     <string name="yestorday">Ieri</string>
@@ -107,7 +107,7 @@
     <string name="fullscreen_hint_auto">Modalità schermo intero attiva</string>
     <string name="file_not_exist">File non trovato</string>
     <string name="play">Inizia</string>
-    <string name="favorite">\u0020Preferiti</string>
+    <string name="favorite">" Preferiti"</string>
     <string name="cancel_favorite">Cancella preferiti</string>
     <string name="no_favorite">Nessun preferito</string>
     <string name="waitfornewset">Segui i contenuti</string>
@@ -133,7 +133,7 @@
     <string name="login_tip_title">Accedi</string>
     <string name="login_tip_content">Accedi con il tuo account Xiaomi per sincronizzare e aggiornarti sui i contenuti che stai seguendo.</string>
     <string name="nologin_no_waitfornewset">Hai bisogno di accedere per seguire i tuoi contenuti.</string>
-    <string name="video">\u0020Video</string>
+    <string name="video">" Video"</string>
     <string name="mycamera">Miei video</string>
     <string name="mydlna">DLNA</string>
     <string name="have_no_cameravideo">Nessun video</string>
@@ -155,11 +155,10 @@
     <string name="to_play_airekan">Cast</string>
     <string name="connecting">Connesione in corso…</string>
     <string name="retrieving">Recupero in corso…</string>
-    <string name="cant_connecting">"Impossibile connettersi alla rete"</string>
+    <string name="cant_connecting">Impossibile connettersi alla rete</string>
     <string name="live_loading_symbol"><CDATA>Caricamento </CDATA></string>
     <string name="live_loading_to_be_play">Caricamento in corso…</string>
     <string name="live_title">Dal vivo</string>
-    <string name="live_tabs_hot">Popolare</string>
     <string name="live_tabs_all">Vedi tutto</string>
     <string name="live_tabs_choice">Raccolte</string>
     <string name="live_pending_symbol"><CDATA>Buffering in corso </CDATA></string>
@@ -182,7 +181,7 @@
     <string name="quarter_bell_alert_button_cancel">annulla</string>
     <string name="quarter_bell_alert_button_makeappointment">prenota</string>
     <string name="quarter_bell_alert_button_cancelappointment">rimuovi prenotazione</string>
-    <string name="reloading_tip">"Impossibile connettersi alla rete"</string>
+    <string name="reloading_tip">Impossibile connettersi alla rete</string>
     <string name="retry">Riprova</string>
     <string name="no_subject">Nessun soggetto</string>
     <string name="no_hot_special">Nessuno speciale</string>
@@ -302,7 +301,7 @@
     <string name="failed_text_parse_file">Errore! Formato file errato</string>
     <string name="failed_text">Impossibile ottenere il certificato, prego riprovare!</string>
     <string name="failed_text_11">Verifica fallita! prego riprovare!</string>
-    <string name="failed_text_49">"Film non acquistato con questo account, non può essere eseguito, puoi acquistarlo in Thunder Cinema"</string>
+    <string name="failed_text_49">Film non acquistato con questo account, non può essere eseguito, puoi acquistarlo in Thunder Cinema</string>
     <string name="failed_text_21">Il file che cerchi di eseguire non è online, prego attendere!</string>
     <string name="failed_text_708">Numero di terminali eccessivo, prego eseguirlo sul terminale che usi di solito</string>
     <string name="failed_text_502">Il fil che cerchi di eseguire è offline o è scaduto, impossibile riprodurlo</string>
@@ -395,4 +394,5 @@ box o TV"</string>
     <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">Super</string>
     <string name="vp_full_high_definition">1080P</string>
+    <string name="live_tabs_hot">Popolare</string>
 </resources>
