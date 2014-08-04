@@ -2181,7 +2181,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="keyboard_layout_dialog_switch_hint">Per cambiare , premi Control-Spazio</string>
     <string name="keyboard_layout_default_label">Predefinito</string>
     <string name="keyboard_layout_picker_title">Layout tastiera</string>
-    <string name="user_dict_settings_titlebar">Dizionario utente</string>
+    <string name="user_dict_settings_title">Dizionario utente</string>
     <string name="user_dict_single_settings_title">Dizionario personale</string>
     <string name="user_dict_multiple_settings_title">Dizionari personali</string>
     <string name="user_dict_settings_summary" />
