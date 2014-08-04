@@ -2532,8 +2532,8 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="show_screen_updates_summary">Fai lampeggiare le aree dello schermo quando si aggiornano</string>
     <string name="show_hw_screen_updates">Mostra aggiornamenti GPU</string>
     <string name="show_hw_screen_updates_summary">"Visualizzazione rapida all'interno di finestre quando la GPU è in elaborazione"</string>
-    <string name="show_hw_layers_updates">Mostra sovrapposizione aggiornamenti hardware</string>
-    <string name="show_hw_layers_updates_summary">Aggiornamenti flash hardware quando è verde.</string>
+    <string name="show_hw_layers_updates">Mostra aggiornamenti hardware</string>
+    <string name="show_hw_layers_updates_summary">Lampeggiamento in verde su aggiornamenti hardware.</string>
     <string name="show_hw_overdraw">Mostra overdraw GPU</string>
     <string name="show_hw_overdraw_summary">Da buono a debole: blu, verde, rosso chiaro, rosso</string>
     <string name="disable_overlays">Disattiva overlay HW</string>

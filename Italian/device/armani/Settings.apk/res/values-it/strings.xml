@@ -2706,7 +2706,7 @@ Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="wait_for_debugger_summary">"L'applicazione debug è in attesa del debugger da allegare prima dell'esecuzione"</string>
     <string name="debug_input_category">Inserimento</string>
     <string name="debug_drawing_category">Disegno</string>
-    <string name="debug_hw_drawing_category">Rendering hardware accelerato</string>
+    <string name="debug_hw_drawing_category">Accelerazion HW del rendering</string>
     <string name="debug_monitoring_category">Monitoraggio</string>
     <string name="strict_mode">Attiva StrictMode</string>
     <string name="strict_mode_summary">Fai lampeggiare lo schermo in caso di lunghe operazioni sul thread principale</string>
@@ -2718,8 +2718,8 @@ Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="show_screen_updates_summary">Fai lampeggiare le aree dello schermo quando si aggiornano</string>
     <string name="show_hw_screen_updates">Mostra aggiornamenti GPU</string>
     <string name="show_hw_screen_updates_summary">"Visualizzazione rapida all'interno di finestre quando la GPU è in elaborazione"</string>
-    <string name="show_hw_layers_updates">Mostra sovrapposizione aggiornamenti hardware</string>
-    <string name="show_hw_layers_updates_summary">Aggiornamenti flash hardware quando è verde.</string>
+    <string name="show_hw_layers_updates">Mostra aggiornamenti hardware</string>
+    <string name="show_hw_layers_updates_summary">Lampeggiamento in verde su aggiornamenti hardware.</string>
     <string name="show_hw_overdraw">Mostra segnale GPU</string>
     <string name="show_hw_overdraw_summary">Da buono a debole: blu, verde, rosso chiaro, rosso</string>
     <string name="debug_hw_overdraw">Debug GPU overdraw</string>
@@ -2736,7 +2736,7 @@ Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="force_hw_ui_summary">Usa accelerazione hardware 2D nelle applicazioni</string>
     <string name="force_msaa">Forza 4x MSAA</string>
     <string name="force_msaa_summary">Attiva 4x MSAA per applicazioni OpenGL ES 2.0</string>
-    <string name="show_non_rect_clip">Debug di operazioni di aggancio non rettangolari</string>
+    <string name="show_non_rect_clip">Debug ritagli non rettangolari</string>
     <string name="track_frame_time">Profilo rendering GPU</string>
     <string name="window_animation_scale_title">Scala animazione finestra</string>
     <string name="transition_animation_scale_title">Scala animazione transizione</string>
