@@ -171,7 +171,7 @@ Tuttavia, potete ricevere dati inoltrati cumulativi quando riattivate lo schermo
     <string name="proxy_error">Attenzione</string>
     <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_invalid_host">Il nome host digitato non è valido</string>
-    <string name="proxy_error_invalid_exclusion_list">Lista di esclusione formattata non adeguatamente. Immettete un elenco di domini esclusi separato da virgole</string>
+    <string name="proxy_error_invalid_exclusion_list">Lista eccezioni formattata non adeguatamente. Immettete un elenco di domini esclusi separato da virgole</string>
     <string name="proxy_error_empty_port">Il campo della porta deve essere compilato</string>
     <string name="proxy_error_empty_host_set_port">Il campo porta non deve essere vuoto se il campo host è vuoto</string>
     <string name="proxy_error_invalid_port">La porta digitata non è valida</string>
