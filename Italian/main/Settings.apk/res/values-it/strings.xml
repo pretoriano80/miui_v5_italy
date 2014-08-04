@@ -206,7 +206,7 @@
     <string name="garbage_white_list_empty_content">Lista di esclusione vuota</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
     <string name="dialog_title_load_cleanup_engine_error">Errore</string>
-    <string name="dialog_msg_load_cleanup_engine_error">Si è verificato un errore nel processo di pulizia , riprovare.</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Si è verificato un errore nel processo di pulizia,riprovare.</string>
     <string name="opt_clean_garbage">%d Mb cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
     <string name="opt_freed_ram">Liberati %dMb di memoria</string>
@@ -332,7 +332,7 @@
  Devi modificare le impostazioni prima di eliminare questo profilo."</string>
     <string name="power_save_choose_mode">Seleziona un profilo</string>
     <string name="power_save_low_battery_title">Risparmia quando in esaurimento</string>
-    <string name="power_save_low_battery_auto_save_title">Risparmia quando in esaurimento</string>
+    <string name="power_save_low_battery_auto_save_title">Attiva automaticamente</string>
     <string name="power_save_low_battery_seekbar_title">Considera scarica sotto il: %1$d%%</string>
     <string name="power_save_low_battery_option_title">Quando scarica passa a</string>
     <string name="power_save_low_battery_option_summary">Quando al di sopra della soglia minima il dispositivo tornerà al profilo più utilizzato di recente</string>
