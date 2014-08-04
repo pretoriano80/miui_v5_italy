@@ -216,9 +216,9 @@
     <string name="offline_media">Disponibile offline</string>
     <string name="have_no_offlinemedia">Vuoto</string>
     <string name="in_download_notification">%d video sono nella cache</string>
-    <string name="start_download">Inizio cache</string>
-    <string name="pause_download">Cache in pausa</string>
-    <string name="finish_download">Cache terminata</string>
+    <string name="start_download">Inizio download</string>
+    <string name="pause_download">Download in pausa</string>
+    <string name="finish_download">Download terminato</string>
     <string name="in_download">Cache in corso</string>
     <string name="in_waiting">In attesa</string>
     <string name="in_pause">Pausa</string>
