@@ -145,10 +145,10 @@
     <string name="settings_toggle_layout_style_applying">Modifica stile comandi...</string>
     <string name="settings_custom_notification">Notifiche personalizzate</string>
     <string name="settings_all_app_display_loading">Caricamento, attendere prego</string>
-    <string name="settings_show_notificationBar_notification">Mostra notifiche nella barra</string>
-    <string name="settings_show_statusBar_notification">Mostra notifiche nella barra di stato</string>
+    <string name="settings_show_notificationBar_notification">Abilita notifiche</string>
+    <string name="settings_show_statusBar_notification">Mostra nella barra di stato</string>
     <string name="filter_item_preview_image">Anteprima</string>
-    <string name="filter_item_description">Puoi impostare il tipo di notifica da \"Impostazioni-Impostazioni barra notifiche-Notifiche personalizzate\"</string>
+    <string name="filter_item_description">Puoi impostare il tipo di notifica da \"Impostazioni -> Barra di stato -> Notifiche personalizzate\"</string>
     <string name="settings_notification_bar">Pannello notifiche</string>
     <string name="settings_toggle_position">Modifica posizione comandi</string>
     <string name="settings_toggle_collapse_after_clicked">Chiudi quando premuto</string>
