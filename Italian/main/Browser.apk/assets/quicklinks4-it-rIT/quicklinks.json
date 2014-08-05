@@ -2,6 +2,18 @@
     "versionCode": "140108",
     "quicklinks":[
         {
+            "title":"Miui Italia",
+            "url":"http://www.miui.it/",
+            "thumbnail":"thumb_miui_ita.png",
+            "logobg":"thumb_miui_ita.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Linkedin",
+            "isDelete": true,
+            "movable": true,
+            "position": 0
+        },
+		{
             "title":"Google",
             "url":"http://www.google.com.sg/",
             "thumbnail":"thumb_google.png",
@@ -9,18 +21,6 @@
             "nightModeMask": "night.9.png",
             "favicon":"",
             "displayName": "Google",
-            "isDelete": true,
-            "movable": true,
-            "position": 0
-        },
-        {
-            "title":"Facebook",
-            "url":"http://www.facebook.com",
-            "thumbnail":"thumb_facebook.png",
-            "logobg":"thumb_facebook_bg.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-            "displayName": "Facebook",
             "isDelete": true,
             "movable": true,
             "position": 1
@@ -73,15 +73,14 @@
             "movable": true,
             "position": 5
         },
-
-        {
-            "title":"Linkedin",
-            "url":"http://www.linkedin.com/",
-            "thumbnail":"thumb_linkedin.png",
-            "logobg":"thumb_linkedin_bg.9.png",
+		{
+            "title":"Facebook",
+            "url":"http://www.facebook.com",
+            "thumbnail":"thumb_facebook.png",
+            "logobg":"thumb_facebook_bg.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-            "displayName": "Linkedin",
+            "displayName": "Facebook",
             "isDelete": true,
             "movable": true,
             "position": 6
