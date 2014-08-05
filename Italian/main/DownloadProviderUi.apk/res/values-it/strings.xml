@@ -54,7 +54,7 @@
     <string name="turn_off_xunlei_title">Disattiva il motore download Xunlei</string>
     <string name="turn_off_xunlei_message">Potresti riscontrare velocità di download più basse.</string>
     <string name="xunlei_speed_service">Servizio di accelerazione Xunlei</string>
-    <string name="open_xunlei_speed_service">Apri il servizio di accelerazione Xunlei</string>
+    <string name="open_xunlei_speed_service">Attiva il servizio Xunlei</string>
     <string name="bind_xunlei_account">Collega account Xunlei</string>
     <string name="choose_open_time">"Seleziona l'orario di attivazione"</string>
     <string name="experience_xunlei_account_speed">Diventa membro Xunlei per accelerare i tuoi download</string>
