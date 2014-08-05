@@ -203,7 +203,6 @@
     <string name="notification_button_text_of_low_memory">Pulisci</string>
     <string name="notification_title_of_low_memory">Memoria del telefono utilizzata %s</string>
     <string name="notification_summary_of_low_memory">Quando la memoria è in esaurimento non installare nuove applicazioni</string>
-    <string name="garbage_white_list_empty_content">Lista eccezioni vuota</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
     <string name="dialog_title_load_cleanup_engine_error">Errore</string>
     <string name="dialog_msg_load_cleanup_engine_error">Motore pulizia non funzionante o errore nei pacchetti analizzati.</string>
@@ -1099,9 +1098,9 @@ Consentire l'avvio automatico?"</string>
     <string name="bluetooth_rename_device">Rinomina telefono</string>
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
-    <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:<br><b>%1$s</b></string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
-    <string name="bluetooth_disable_profile_message">Verrà disattivato:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Su:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">Verrà disattivato:<br><b>%1$s</b><br><br>Su:<br><b>%2$s</b></string>
     <string name="bluetooth_connected">Connesso</string>
     <string name="bluetooth_connected_no_headset">Collegato (telefono escluso)</string>
     <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
@@ -1367,15 +1366,15 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_settings_title">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gestisci le connessioni, imposta il nome e la rilevabilità del dispositivo</string>
     <string name="bluetooth_pairing_request">Richiesta accoppiamento Bluetooth</string>
-    <string name="bluetooth_enter_pin_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita il PIN richiesto del dispositivo:"</string>
-    <string name="bluetooth_enter_passkey_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita la passkey richiesta del dispositivo:"</string>
+    <string name="bluetooth_enter_pin_msg">"Per eseguire l'accoppiamento con <br><b>%1$s</b><br><br>, digita il PIN richiesto del dispositivo:"</string>
+    <string name="bluetooth_enter_passkey_msg">"Per eseguire l'accoppiamento con <br><b>%1$s</b><br><br>, digita la passkey richiesta del dispositivo:"</string>
     <string name="bluetooth_enable_alphanumeric_pin">Il PIN contiene lettere o simboli</string>
     <string name="bluetooth_pin_values_hint">Di solito 0000 o 1234</string>
     <string name="bluetooth_enter_pin_other_device">"Potrebbe inoltre essere necessario inserire questo PIN sull'altro dispositivo."</string>
     <string name="bluetooth_enter_passkey_other_device">"Potrebbe inoltre essere necessario inserire questa passkey sull'altro dispositivo."</string>
-    <string name="bluetooth_confirm_passkey_msg">"Per l'accoppiamento con:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assicurati che sia visualizzata questa passkey:&lt;br>&lt;b>%2$s&lt;/b>"</string>
-    <string name="bluetooth_incoming_pairing_msg">Da:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Accoppiare con questo dispositivo?</string>
-    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'accoppiamento con &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, digita sul dispositivo &lt;br>&lt;b>%2$s&lt;/b>, quindi premi A capo o Invio."</string>
+    <string name="bluetooth_confirm_passkey_msg">"Per l'accoppiamento con:<br><b>%1$s</b><br><br>Assicurati che sia visualizzata questa passkey:<br><b>%2$s</b>"</string>
+    <string name="bluetooth_incoming_pairing_msg">Da:<br><b>%1$s</b><br><br>Accoppiare con questo dispositivo?</string>
+    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'accoppiamento con <br><b>%1$s</b><br><br>, digita sul dispositivo <br><b>%2$s</b>, quindi premi A capo o Invio."</string>
     <string name="bluetooth_pairing_accept">Accoppia</string>
     <string name="bluetooth_pairing_decline">Annulla</string>
     <string name="bluetooth_error_title" />
@@ -1853,16 +1852,16 @@ Tentativi rimasti :"</string>
     <string name="master_clear_summary">Cancella tutti i dati sul telefono</string>
     <string name="master_clear_desc">Questa operazione cancellerà tutti i dati memorizzati nella memoria interna del telefono
 
-&lt;li>Il tuo account Google&lt;/li>
-&lt;li>Dati utente e di sistema e impostazioni&lt;/li>
-&lt;li>App scaricate&lt;/li>"</string>
+<li>Il tuo account Google</li>
+<li>Dati utente e di sistema e impostazioni</li>
+<li>App scaricate</li>"</string>
     <string name="master_clear_accounts">"
 
 Al momento sei collegato ai seguenti account:
 "</string>
-    <string name="master_clear_desc_also_erases_external">"&lt;li>Musica&lt;/li>
-&lt;li>Foto&lt;/li>
-&lt;li>Altri dati utente&lt;/li>"</string>
+    <string name="master_clear_desc_also_erases_external">"<li>Musica</li>
+<li>Foto</li>
+<li>Altri dati utente</li>"</string>
     <string name="master_clear_desc_erase_external_storage">"
 
 Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i dati dell'"<b>archivio USB</b></string>
@@ -2053,10 +2052,10 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="reset_app_preferences_title">Cancellare preferenze applicazioni ?</string>
     <string name="reset_app_preferences_desc">"Questo resetterà tutte le preferenze per:
 
- &lt;li>Applicazioni disattivate&lt;/li>
- &lt;li>Notifiche applicazioni disattivate&lt;/li>
- &lt;li>Applicazioni impostate come predefinite&lt;/li>
- &lt;li>Restrizioni per uso dei dati in background&lt;/li>
+ <li>Applicazioni disattivate</li>
+ <li>Notifiche applicazioni disattivate</li>
+ <li>Applicazioni impostate come predefinite</li>
+ <li>Restrizioni per uso dei dati in background</li>
 
  Non perderai i dati delle applicazioni."</string>
     <string name="reset_app_preferences_button">Cancella</string>
@@ -2610,7 +2609,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="untitled_apn">Senza titolo</string>
     <string name="sound_category_sound_title">Generale</string>
     <string name="sound_category_notification_title">Notifiche</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Suoneria &amp; vibrazione</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Suoneria & vibrazione</string>
     <string name="sound_category_system_title">Sistema</string>
     <string name="wifi_setup_title">Impostazione Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Connetti alla rete Wi-Fi %s</string>
@@ -3303,7 +3302,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="volume_bluetooth_description">Volume bluetooth</string>
     <string name="volume_restore">Ripristina volume</string>
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
-    <string name="sound_category_calls_and_notification_title">Suoneria &amp; notifiche</string>
+    <string name="sound_category_calls_and_notification_title">Suoneria & notifiche</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">"Regola la dimensione dei caratteri e del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc.".</string>
     <string name="font_size_small">Piccolo</string>
@@ -3459,7 +3458,7 @@ prova in questo modo:
     <string name="slot_status_title">Informazioni IMEI</string>
     <string name="next_button_label">Avanti</string>
     <string name="internal_media_format_final_desc">Cancellazione della memoria interna, eliminare tutti i file contenuti? Questa azione è irreversibile! Il telefono verrà riavviato dopo la cancellazione della memoria interna!</string>
-    <string name="internal_media_format_desc">Cancellare completamente la memoria interna? Perderai &lt;b>tutti&lt;/b> i dati archiviati ed il telefono verrà riavviato!</string>
+    <string name="internal_media_format_desc">Cancellare completamente la memoria interna? Perderai <b>tutti</b> i dati archiviati ed il telefono verrà riavviato!</string>
     <string name="internal_media_format_button_text">Cancella memoria interna</string>
     <string name="internal_media_format_title">Cancella memoria interna</string>
     <string name="internal_format">Cancella memoria interna</string>
