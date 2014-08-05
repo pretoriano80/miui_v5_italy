@@ -209,7 +209,7 @@ Confermare la disattivazione?"</string>
     <string name="notification_button_text_of_low_memory">Pulisci</string>
     <string name="notification_title_of_low_memory">Memoria del telefono utilizzata %s</string>
     <string name="notification_summary_of_low_memory">Quando la memoria è in esaurimento non installare nuove applicazioni</string>
-    <string name="toast_removed_from_white_list">Rimosso dalla lista eccezioni</string>
+    <string name="garbage_white_list_empty_content">Lista eccezioni vuota</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
     <string name="dialog_title_load_cleanup_engine_error">Errore</string>
     <string name="dialog_msg_load_cleanup_engine_error">Si è verificato un errore nel processo di pulizia,riprovare.</string>
