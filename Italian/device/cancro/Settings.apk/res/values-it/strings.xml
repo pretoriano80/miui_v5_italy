@@ -204,6 +204,7 @@
     <string name="notification_title_of_low_memory">Memoria del telefono utilizzata %s</string>
     <string name="notification_summary_of_low_memory">Quando la memoria è in esaurimento non installare nuove applicazioni</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
+    <string name="garbage_white_list_empty_content">Lista eccezioni vuota</string>
     <string name="dialog_title_load_cleanup_engine_error">Errore</string>
     <string name="dialog_msg_load_cleanup_engine_error">Motore pulizia non funzionante o errore nei pacchetti analizzati.</string>
     <string name="opt_clean_garbage">%d Mb cancellati</string>
