@@ -2997,6 +2997,9 @@ Per selezionare il tipo di informazione da sincronizzare, vai in Impostazioni > 
     <string name="wfd_wps_keypad">Pressione Pulsante</string>
     <string name="wfd_wps_pbc">Inserimento PIN</string>
     <string name="power_mode">Modalità Consumo</string>
+    <string name="high_performance_title">"Sembra che stai eseguendo un test di benchmark.Imposta dalla gestione batteria la modalità consumo \"Prestazioni\" per avere dei risultati migliori."</string>
+    <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
+    <string name="high_performance_notif_summary">Modalità prestazioni è attiva.</string>
     <string name="skip_step">Salta questo passaggio</string>
     <string name="msd_help_title">Aiuto MTP</string>
     <string name="msd_help_summary">"Hai difficoltà ad accedere alla memoria del telefono tramite il computer?
