@@ -257,7 +257,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="pref_traffic_saving_switch_hint">Utilizza i proxy per comprimere i dati</string>
     <string name="pref_traffic_saving_notify_switch">"Mostra Risparmio all'ombra delle notifiche"</string>
     <string name="pref_traffic_saving_notify_switch_hint">"Mostra informazioni Risparmio all'ombra delle notifiche"</string>
-    <string name="pref_traffic_saving_whitelist">Esclusioni</string>
+    <string name="pref_traffic_saving_whitelist">Eccezioni</string>
     <string name="pref_traffic_saving_whitelist_hint">"L'utilizzo dei dati di queste app non verrà limitato"</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
     <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Usando Risparmio potrebbero esserci problemi con la mia privacy? &lt;/b>&lt;br />&lt;br />No. I tuoi dati rimarranno privati e non saranno condivisi con terzi. &lt;br />&lt;br />&lt;br />&lt;b> Perché Risparmio non funziona? &lt;/b>&lt;br />&lt;br /> Risparmio entra in funzione solo quando la rete dati invia o scarica contenuti.</string>

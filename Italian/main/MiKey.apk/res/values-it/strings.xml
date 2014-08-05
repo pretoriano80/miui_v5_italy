@@ -23,7 +23,8 @@
     <string name="scan_result">Risultati scansione</string>
     <string name="flash_lable">Flash</string>
     <string name="picker_lable">Galleria</string>
-
+    <string name="app_name">MiKey</string>
+    <string name="chooser_dust_cap">MiKey (Modalità anti-polvere)</string>
     <string name="long_click">Tieni premuto</string>
     <string name="action_open_flashlight">Torcia</string>
     <string name="action_open_other_app">Applicazioni</string>
@@ -40,8 +41,8 @@
     <string name="action_zero_volume">Silenzioso</string>
     <string name="action_open_sound_recorder">Registra suono</string>
     <string name="action_open_or_close_motion">Rotazione Attiva/Disattiva</string>
-    <string name="action_open_camera360_capture">Effetti fotocamera Camera360</string>
-    <string name="action_open_camera360_edit">Modifica le foto Camera360</string>
+    <string name="toast_open">Apri</string>
+    <string name="toast_close">Chiudi</string>
     <string name="action_open_wechat">WeChat</string>
     <string name="action_share_to_wechat">Condividi con WeChat</string>
     <string name="action_share_to_moment">Condividi momenti con WeChat</string>
@@ -49,6 +50,18 @@
     <string name="action_send_text_message">Invia messaggio</string>
     <string name="action_share_to_miliao">MiTalk</string>
     <string name="action_share_to_miliao_wall">Bacheca MiTalk</string>
+    <string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_shake">Vibrazione</string>
+    <string name="toggle_ring">Suoneria</string>
+    <string name="toggle_gps">GPS</string>
+    <string name="toggle_data">Dati</string>
+    <string name="toggle_sleep">Sleep</string>
+    <string name="toggle_bright">Luminosità</string>
+    <string name="toggle_flight">Modalità Aereo</string>
+    <string name="toggle_nfc">NFC</string>
+    <string name="action_open_camera360_capture">Effetti fotocamera Camera360</string>
+    <string name="action_open_camera360_edit">Modifica le foto Camera360</string>
     <string name="action_toolbox">Strumenti</string>
     <string name="action_phone">Telefono</string>
     <string name="category_app">Applicazioni</string>
@@ -77,7 +90,6 @@
     <string name="clean_memory">Cancella memoria</string>
     <string name="close_all">Chiudi tutto</string>
     <string name="sms_sent_done">Messaggio inviato</string>
-
     <string name="splash_tip">Collega MiKey</string>
     <string name="default_action_title">Azione predefinita</string>
     <string name="action_home">Home</string>
@@ -90,8 +102,7 @@
     <string name="setting_buy">Acquista MiKey</string>
     <string name="app_not_installed">Applicazione non installata</string>
     <string name="setting_toolbar">Strumenti</string>
-    <string name="setting_toolbar_desc">"Puoi accedere rapidamente alle funzionalità degli strumenti dalla barra di notifica.
-Apporta energia e risparmio."</string>
+    <string name="setting_toolbar_desc">Puoi accedere rapidamente alle funzionalità degli strumenti dalla barra di notifica. Apporta energia e risparmio.</string>
     <string name="setting_toolbar_tip">"Clicca sul + per aggiungere funzionalità, clicca su una esistente per modificarla.
 Premi a lungo per cancellarla.
 Ora puoi personalizzare i tuoi strumenti!
@@ -113,9 +124,7 @@ dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="setting_silent_mode_default">Modalità Cuffie (Scollega MiKey)</string>
     <string name="setting_silent_mode_dust_cap">Anti-polvere (MiKey)</string>
     <string name="setting_silent_mode_desc">"Se si desidera collegare l'auricolare, selezionare la modalità cuffia e scollegare il Mikey. In caso contrario, l'uscita audio non funzionerà correttamente."</string>
-    <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini 
-più nitide, ma allunga il tempo impiegato 
-per eseguire lo scatto"</string>
+    <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini più nitide, ma allunga il tempo impiegato  per eseguire lo scatto"</string>
     <string name="toolbox_outer_desc">Selezionare più funzioni esistenti</string>
     <string name="notification_recorder_start">Inizia la registrazione...</string>
     <string name="notification_control_stop">Interrompi</string>
@@ -127,7 +136,6 @@ per eseguire lo scatto"</string>
 
     <string name="silent_mode_tip_main">Tasto silenzioso disabilitato</string>
     <string name="update_message">Aggiornato!</string>
-
     <string name="test_user_entry">Test</string>
     <string name="goto_update">Aggiorna</string>
     <string name="faq_title">Domande su MiKey</string>

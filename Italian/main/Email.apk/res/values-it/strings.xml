@@ -81,7 +81,7 @@
     <string name="create_action">Crea nuova</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
     <string name="account_settings_action">Impostazioni account</string>
-    <string name="menu_folder_options">Sincronizza opzioni</string>
+    <string name="menu_folder_options">Opzioni sincronizzazione</string>
     <string name="status_network_error">Problema di connessione.</string>
     <string name="cannot_move_protocol_not_supported_toast">Lo spostamento non è supportato negli account POP3.</string>
     <string name="cannot_move_multiple_accounts_toast">Impossibile spostare i messaggi perché la selezione contiene più account.</string>
@@ -243,7 +243,7 @@ CC: %4$s
     <string name="account_settings_summary">Frequenza sincronizzazione, notifiche e altro.</string>
     <string name="account_settings_notify_summary">"Notifica sulla barra di sistema l'arrivo di una email"</string>
     <string name="account_settings_mail_check_frequency_label">Frequenza di controllo Posta in arrivo</string>
-    <string name="account_settings_incoming_label">Impost. posta in arrivo</string>
+    <string name="account_settings_incoming_label">Impostazioni posta in arrivo</string>
     <string name="account_settings_incoming_summary">Nome utente, password e altre impostazioni del server in entrata</string>
     <string name="account_settings_outgoing_label">Impost. posta in uscita</string>
     <string name="account_settings_outgoing_summary">Nome utente, password e altre impostazioni del server in uscita</string>
