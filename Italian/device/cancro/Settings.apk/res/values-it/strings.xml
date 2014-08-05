@@ -1098,9 +1098,9 @@ Consentire l'avvio automatico?"</string>
     <string name="bluetooth_rename_device">Rinomina telefono</string>
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
-    <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:<br><b>%1$s</b></string>
+    <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:<b>%1$s</b></string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
-    <string name="bluetooth_disable_profile_message">Verrà disattivato:<br><b>%1$s</b><br><br>Su:<br><b>%2$s</b></string>
+    <string name="bluetooth_disable_profile_message">Verrà disattivato: %1$s Su: %2$s</string>
     <string name="bluetooth_connected">Connesso</string>
     <string name="bluetooth_connected_no_headset">Collegato (telefono escluso)</string>
     <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
@@ -1366,15 +1366,15 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_settings_title">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gestisci le connessioni, imposta il nome e la rilevabilità del dispositivo</string>
     <string name="bluetooth_pairing_request">Richiesta accoppiamento Bluetooth</string>
-    <string name="bluetooth_enter_pin_msg">"Per eseguire l'accoppiamento con <br><b>%1$s</b><br><br>, digita il PIN richiesto del dispositivo:"</string>
+    <string name="bluetooth_enter_pin_msg">"Per eseguire l'accoppiamento con %1$s, digita il PIN richiesto del dispositivo:"</string>
     <string name="bluetooth_enter_passkey_msg">"Per eseguire l'accoppiamento con <br><b>%1$s</b><br><br>, digita la passkey richiesta del dispositivo:"</string>
     <string name="bluetooth_enable_alphanumeric_pin">Il PIN contiene lettere o simboli</string>
     <string name="bluetooth_pin_values_hint">Di solito 0000 o 1234</string>
     <string name="bluetooth_enter_pin_other_device">"Potrebbe inoltre essere necessario inserire questo PIN sull'altro dispositivo."</string>
     <string name="bluetooth_enter_passkey_other_device">"Potrebbe inoltre essere necessario inserire questa passkey sull'altro dispositivo."</string>
-    <string name="bluetooth_confirm_passkey_msg">"Per l'accoppiamento con:<br><b>%1$s</b><br><br>Assicurati che sia visualizzata questa passkey:<br><b>%2$s</b>"</string>
-    <string name="bluetooth_incoming_pairing_msg">Da:<br><b>%1$s</b><br><br>Accoppiare con questo dispositivo?</string>
-    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'accoppiamento con <br><b>%1$s</b><br><br>, digita sul dispositivo <br><b>%2$s</b>, quindi premi A capo o Invio."</string>
+    <string name="bluetooth_confirm_passkey_msg">"Per l'accoppiamento con:%1$sAssicurati che sia visualizzata questa passkey:%2$s"</string>
+    <string name="bluetooth_incoming_pairing_msg">Da:%1$s Accoppiare con questo dispositivo?</string>
+    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'accoppiamento con %1$s, digita sul dispositivo %2$s, quindi premi A capo o Invio."</string>
     <string name="bluetooth_pairing_accept">Accoppia</string>
     <string name="bluetooth_pairing_decline">Annulla</string>
     <string name="bluetooth_error_title" />
@@ -2609,7 +2609,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="untitled_apn">Senza titolo</string>
     <string name="sound_category_sound_title">Generale</string>
     <string name="sound_category_notification_title">Notifiche</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Suoneria & vibrazione</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Suoneria &amp; vibrazione</string>
     <string name="sound_category_system_title">Sistema</string>
     <string name="wifi_setup_title">Impostazione Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Connetti alla rete Wi-Fi %s</string>
@@ -3302,7 +3302,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="volume_bluetooth_description">Volume bluetooth</string>
     <string name="volume_restore">Ripristina volume</string>
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
-    <string name="sound_category_calls_and_notification_title">Suoneria & notifiche</string>
+    <string name="sound_category_calls_and_notification_title">Suoneria &amp; notifiche</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">"Regola la dimensione dei caratteri e del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc.".</string>
     <string name="font_size_small">Piccolo</string>
@@ -3652,6 +3652,4 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="miracast_PC2THOR_streaming_on">Miracast non è disponibile perchè un PC è in streaming su questo dispositivo</string>
     <string name="miracast_disable_dhcp">Disattiva HDCP</string>
     <string name="miracast_enable_dhcp">Attiva HDCP</string>
-    
-   
 </resources>
