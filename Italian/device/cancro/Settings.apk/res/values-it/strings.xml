@@ -2609,7 +2609,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="untitled_apn">Senza titolo</string>
     <string name="sound_category_sound_title">Generale</string>
     <string name="sound_category_notification_title">Notifiche</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Suoneria & vibrazione</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Suoneria &amp; vibrazione</string>
     <string name="sound_category_system_title">Sistema</string>
     <string name="wifi_setup_title">Impostazione Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Connetti alla rete Wi-Fi %s</string>
@@ -2724,7 +2724,7 @@ Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="debug_hw_overdraw">Debug GPU overdraw</string>
     <string name="disable_overlays">Disattiva sovrapposizione HW</string>
     <string name="disable_overlays_summary">Usa sempre la GPU per composizione schermo</string>
-    <string name="enable_opengl_traces_title">Attiva traccee OpenGL</string>
+    <string name="enable_opengl_traces_title">Attiva tracce OpenGL</string>
     <string name="debug_layout">Mostra bordi layout</string>
     <string name="debug_layout_summary">Mostra bordi, margini, etc.</string>
     <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
@@ -3302,7 +3302,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="volume_bluetooth_description">Volume bluetooth</string>
     <string name="volume_restore">Ripristina volume</string>
     <string name="volume_restore_alert">Tutte le impostazioni del volume verranno ripristinate ai valori predefiniti, continuare?</string>
-    <string name="sound_category_calls_and_notification_title">Suoneria & notifiche</string>
+    <string name="sound_category_calls_and_notification_title">Suoneria &amp; notifiche</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">"Regola la dimensione dei caratteri e del layout di alcune applicazioni come Telefono, Messaggi, Contatti etc.".</string>
     <string name="font_size_small">Piccolo</string>
@@ -3358,6 +3358,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="wfd_wps_keypad">Pressione Pulsante</string>
     <string name="wfd_wps_pbc">Inserimento PIN</string>
     <string name="power_mode">Modalità Consumo</string>
+	<string name="high_performance_title">"Sembra che stai eseguendo un test di benchmark.Imposta dalla gestione batteria la modalità consumo \"Prestazioni\" per avere dei risultati migliori."</string>
+    <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
+    <string name="high_performance_notif_summary">Modalità prestazioni è attiva.</string>
     <string name="skip_step">Salta questo passaggio</string>
     <string name="msd_help_title">Aiuto MTP</string>
     <string name="msd_help_summary">"Hai difficoltà ad accedere alla memoria del telefono tramite il computer?

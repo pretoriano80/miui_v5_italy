@@ -15,7 +15,7 @@
         },
 		{
             "title":"Google",
-            "url":"http://www.google.com.sg/",
+            "url":"http://www.google.it/",
             "thumbnail":"thumb_google.png",
             "logobg":"thumb_google_bg.9.png",
             "nightModeMask": "night.9.png",
@@ -27,7 +27,7 @@
         },
         {
             "title":"YouTube",
-            "url":"http://www.youtube.com/",
+            "url":"http://www.youtube.it/",
             "thumbnail":"thumb_youtube.png",
             "logobg":"thumb_youtube_bg.9.png",
             "nightModeMask": "night.9.png",
@@ -39,7 +39,7 @@
         },
         {
             "title":"Yahoo",
-            "url":"http://www.yahoo.com",
+            "url":"http://www.yahoo.it",
             "thumbnail":"thumb_yahoo.png",
             "logobg":"thumb_yahoo_bg.9.png",
             "nightModeMask": "night.9.png",
@@ -51,7 +51,7 @@
         },
         {
             "title":"Twitter",
-            "url":"http://www.twitter.com/",
+            "url":"http://www.twitter.it/",
             "thumbnail":"thumb_twitter.png",
             "logobg":"thumb_twitter_bg.9.png",
             "nightModeMask": "night.9.png",
@@ -75,7 +75,7 @@
         },
 		{
             "title":"Facebook",
-            "url":"http://www.facebook.com",
+            "url":"http://www.facebook.it",
             "thumbnail":"thumb_facebook.png",
             "logobg":"thumb_facebook_bg.9.png",
             "nightModeMask": "night.9.png",
@@ -87,7 +87,7 @@
         },
         {
             "title":"Amazon",
-            "url":"http://www.amazon.com",
+            "url":"http://www.amazon.it",
             "thumbnail":"thumb_amazon.png",
             "logobg":"thumb_amazon_bg.9.png",
             "nightModeMask": "night.9.png",
