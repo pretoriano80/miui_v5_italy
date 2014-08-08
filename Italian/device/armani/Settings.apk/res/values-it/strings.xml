@@ -2725,7 +2725,7 @@ Tocca "<b>Indietro</b> per collegarti ad un\'altra rete Wi-Fi.</string>
     <string name="debug_hw_overdraw">Debug GPU overdraw</string>
     <string name="disable_overlays">Disattiva sovrapposizione HW</string>
     <string name="disable_overlays_summary">Usa sempre la GPU per composizione schermo</string>
-    <string name="enable_opengl_traces_title">Attiva traccee OpenGL</string>
+    <string name="enable_opengl_traces_title">Attiva tracce OpenGL</string>
     <string name="debug_layout">Mostra bordi layout</string>
     <string name="debug_layout_summary">Mostra bordi, margini, etc.</string>
     <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
