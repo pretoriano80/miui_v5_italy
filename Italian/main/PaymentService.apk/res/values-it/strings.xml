@@ -138,6 +138,10 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="giftcard_acitivity_and_denomination">Scheda regalo del valore di %2$s-MiCredit da %1$s</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s scaduta</string>
     <string name="giftcard_empty">Nessuna carta regalo.</string>
+    <string name="giftcard_title">Certificati MiCredit</string>
+    <string name="giftcard_define_detail">Utilizza questi certificati come i normali MiCredit. Potresti ricevere dei crediti partecipando ad eventi e promozioni Xiaomi.</string>
+    <string name="progress_mipay_creating">Generazione ordine</string>
+    <string name="mipay_error">Errore Mipay</string
     <string name="bankcall_merchant">Ricevente:</string>
     <string name="bankcall_denom">Pagamento:</string>
     <string name="bankcall_bank_account">Carta bancaria:</string>
@@ -184,11 +188,9 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="progress_error_pay_title">Pagamento fallito</string>
     <string name="progress_error_pay_summary">Aggiunti %1$s MiCredit, ma pagamento fallito! Riprova più tardi.</string>
     <string name="progress_warning_waiting">Il pagamento non ha ancora raggiunto il tuo conto.</string>
-    <string name="progress_warning_contact_server">"Il pagamento non ha ancora raggiunto il tuo conto. 
-1. Contatta il nostro centro servizio clienti di Shenzhou：%1$s 
-2. Quando richiesto, fornisci il numero di serie: %2$s."</string>
-    <string name="progress_warning_check">"Il pagamento non ha ancora raggiunto il tuo conto. 
-Controlleremo di nuovo entro due giorni lavorativi."</string>
+    <string name="progress_warning_check_with_contact"Il pagamento non ha ancora raggiunto il tuo conto. 
+Verificheremo di nuovo entro 2 giorni lavorativi.
+Centro servizio assistenza：400-100-5678"</string>
     <string name="btn_back">Indietro</string>
     <string name="btn_recharge_other">Ricarica</string>
     <string name="btn_call">Chiama</string>

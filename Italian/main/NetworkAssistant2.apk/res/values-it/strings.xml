@@ -268,6 +268,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_whitelist_btn_removed">Applicazione rimossa dalla lista</string>
     <string name="traffic_saving_whitelist_count">"I dati di utilizzo di %d app non sono stati limitati"</string>
     <string name="traffic_saving_whitelist_no_app">Nessuna applicazione</string>
+    <string name="checkout_traffic_saving_history">Mostra cronologia</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
     <string name="mi_service_traffic_detail">Dettagli framework</string>

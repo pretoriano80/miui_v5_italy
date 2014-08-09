@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="st_antispam_mode_smart_state">1111110</string>
-    <string name="st_antispam_mode_blacklist_state">1111210</string>
+    <string name="st_antispam_mode_blacklist_state">1111211</string>
     <string name="st_antispam_mode_only_contacts_state">1111000</string>
     <string name="st_antispam_mode_only_whitelist_state">1100000</string>
     <string name="st_antispam_mode_only_all_deny_state">1000000</string>
-    <string name="app_name">Lista blocco</string>
+    <string name="app_name">Guard</string>
     <string name="fw_blocked">Lista blocco</string>
     <string name="fw_blocked_count">"Bloccati "</string>
     <string name="fw_blocked_count_call">%d chiamate</string>
@@ -183,8 +183,6 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="AD_SCAN_BUTTON">Scansiona</string>
     <string name="AD_NOT_BLOCK">Non bloccata</string>
     <string name="AD_BLOCKED">Bloccata</string>
-    <string name="AD_COUNT">%d bloccati</string>
-    <string name="AD_TITLE_COUNT">%d applicazioni contengono adware</string>
     <string name="AD_TITLE_NON_COUNT">Nessun adware rilevato</string>
     <string name="AD_BLOCK">Blocca pubblicità</string>
     <string name="AD_ALLOW">Consenti pubblicità</string>
@@ -252,7 +250,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="info_unantispam_phone">Consenti chiamate</string>
     <string name="info_unantispam_phone_sms">Consenti messaggi e chiamate</string>
     <string name="st_antispam_delete">Elimina</string>
-    <string name="baidu_thanks" />
+    <string name="baidu_thanks">Powered by Baidu</string>
     <string name="note_list_none">Nessuna lista da modificare</string>
     <string name="note_sms_none">Nessun messaggio da modificare</string>
     <string name="note_call_none">Nessun dato da modificare</string>
