@@ -27,7 +27,7 @@
         },
         {
             "title":"YouTube",
-            "url":"http://www.youtube.it/",
+            "url":"http://www.youtube.com/",
             "thumbnail":"thumb_youtube.png",
             "logobg":"thumb_youtube_bg.9.png",
             "nightModeMask": "night.9.png",
@@ -75,7 +75,7 @@
         },
 		{
             "title":"Facebook",
-            "url":"http://www.facebook.it",
+            "url":"http://www.facebook.com",
             "thumbnail":"thumb_facebook.png",
             "logobg":"thumb_facebook_bg.9.png",
             "nightModeMask": "night.9.png",
