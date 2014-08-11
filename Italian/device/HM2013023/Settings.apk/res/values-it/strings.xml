@@ -26,9 +26,8 @@ Confermare la disattivazione?"</string>
     <string name="optimize_title_ad">Pubblicità</string>
     <string name="optimize_title_apk">Pacchetti</string>
     <string name="optimize_title_residual">Residui</string>
-    <string name="button_text_quick_scan">Avvia scansione</string>
     <string name="button_text_a_key_clean_up">Pulizia</string>
-    <string name="button_text_a_key_optimize">Ottimizza adesso</string>
+    <string name="button_text_a_key_optimize">Ottimizza</string>
     <string name="button_text_a_key_uninstall">Disinstalla</string>
     <string name="button_text_done">Completato</string>
     <string name="button_text_cancel">Annulla</string>
@@ -140,6 +139,7 @@ Confermare la disattivazione?"</string>
     <string name="dialog_title_uninstall_apps">Disinstalla</string>
     <string name="dialog_title_backup_and_uninstall_apps">Backup e disinstallazione</string>
     <string name="dialog_msg_uninstall_apps">Disinstallare queste applicazioni?</string>
+	<string name="dialog_title_auto_start_tips">Info su avvio automatico</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Conferma il backup e disinstallazione delle applicazioni</string>
     <string name="button_text_uninstall_apps">Disinstalla</string>
     <string name="button_text_backup_and_uninstall_apps">Backup e disinstallazione</string>
@@ -201,7 +201,9 @@ Confermare la disattivazione?"</string>
     <string name="dialog_title_check_all">Seleziona tutto</string>
     <string name="dialog_msg_check_all">Conferma la selezione di %1$s contenente %2$d elementi</string>
     <string name="toast_removed_from_white_list">Rimosso dalla lista eccezioni</string>
-    <string name="notification_button_text_of_low_memory">Pulisci</string>
+    <string name="notification_breathing_light_color_title">Colore LED notifiche</string>
+	<string name="notification_breathing_light_freq_title">Intermittenza LED notifiche</string>
+	<string name="notification_button_text_of_low_memory">Pulisci</string>
     <string name="notification_title_of_low_memory">Memoria del telefono utilizzata %s</string>
     <string name="notification_summary_of_low_memory">Quando la memoria è in esaurimento non installare nuove applicazioni</string>
     <string name="garbage_white_list_empty_content">Lista eccezioni vuota</string>
@@ -611,6 +613,8 @@ Consentire l'avvio automatico?"</string>
     <string name="title_show_notification_yes">Mostra in pannello notifiche: attivato</string>
     <string name="title_show_notification_no">Mostra in pannello notifiche: disattivato</string>
     <string name="button_text_fix">Correggi</string>
+    <string name="button_text_known">OK</string>  
+    <string name="button_text_quick_scan">Avvia scansione</string>
     <string name="button_text_view">Mostra</string>
     <string name="button_text_security">Sicurezza</string>
     <string name="item_virus">Virus</string>
@@ -1769,6 +1773,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="apn_http_proxy">Proxy</string>
     <string name="apn_http_port">Porta</string>
     <string name="apn_user">Nome utente</string>
+	<string name="app_backup">Backup</string>
     <string name="apn_password">Password</string>
     <string name="apn_server">Server</string>
     <string name="apn_mmsc">MMSC</string>
@@ -1864,7 +1869,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="assisted_gps_enabled">"Utilizza il server per assistere il GPS (deseleziona per ridurre l'utilizzo della rete)"</string>
     <string name="assisted_gps_disabled">Utilizza il server per assistere il GPS (deseleziona per migliorare le prestazioni GPS)</string>
     <string name="use_location_title">Posizione e ricerca Google</string>
-    <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
+    <string name="use_network_warning">Xiaom Service Framework e Cloud Service richiedono una connessione di rete</string>
+	<string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
     <string name="location_access_title">Accesso alla mia posizione</string>
     <string name="location_access_summary">Permetti alle applicazioni che lo hanno richiesto di rilevare informazioni sulla tua posizione.</string>
     <string name="location_sources_heading">Fonti per la localizzazione</string>
@@ -2001,7 +2007,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="app_not_found_dlg_text">"Impossibile trovare l'applicazione nell'elenco di applicazioni installate."</string>
     <string name="clear_data_failed">"Impossibile cancellare i dati dell'applicazione."</string>
     <string name="app_factory_reset_dlg_title">Disinstallare gli aggiornamenti?</string>
-    <string name="app_factory_reset_dlg_text">Tutti gli aggiornamenti di questa applicazione di sistema Android verranno disinstallati.</string>
+    <string name="app_feedback">Segnala Bug</string>
+	<string name="app_factory_reset_dlg_text">Tutti gli aggiornamenti di questa applicazione di sistema Android verranno disinstallati.</string>
     <string name="clear_failed_dlg_title">Cancella dati</string>
     <string name="clear_failed_dlg_text">"Impossibile cancellare i dati dell'applicazione."</string>
     <string name="security_settings_desc">"Contenuti a cui può accedere l'applicazione sul telefono:"</string>
@@ -2410,6 +2417,8 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="local_backup_password_toast_success">Nuova password backup impostata</string>
     <string name="local_backup_password_toast_confirmation_mismatch">La nuova password e quella di conferma non coincidono</string>
     <string name="local_backup_password_toast_validation_failure">Impossibile impostare password backup</string>
+    <string name="local_backup_section_title">Backup locale</string>
+    <string name="local_backup_section_summary">Backup di impostazioni di sistema, account e applicazioni</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_erase_dialog_message">Interrompere il backup delle password Wi-Fi, dei segnalibri, di altre impostazioni e dei dati delle applicazioni, oltre a cancellare tutte le copie sui server di Google?</string>
     <string name="device_admin_settings_title">Impostazioni di amministrazione dispositivo</string>
@@ -2556,7 +2565,8 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="track_frame_time_summary">Misura il tempo di rendering in adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Scala animazione finestra</string>
     <string name="transition_animation_scale_title">Scala animazione transizione</string>
-    <string name="animator_duration_scale_title">Durata animazione</string>
+    <string name="translation_contributors_title">Traduttori</string>
+	<string name="animator_duration_scale_title">Durata animazione</string>
     <string name="overlay_display_devices_title">Simula display secondario</string>
     <string name="debug_applications_category">Applicazioni</string>
     <string name="immediately_destroy_activities">Non conservare attività</string>
@@ -2636,6 +2646,12 @@ Dato che il traffico dati viene misurato dal telefono, ed il calcolo del tuo ope
     <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili attiva la connessione Wi-Fi.</string>
     <string name="cryptkeeper_emergency_call">Chiamata emergenza</string>
     <string name="cryptkeeper_return_to_call">Torna a chiamata</string>
+    <string name="cta_dialog_title">Termini e Condizioni</string>
+    <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza Xiaomi, per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati, sei d'accordo?"</string>
+    <string name="cta_checkbox_title">Non chiedere più</string>
+    <string name="cta_button_text_cancel">Annulla</string>
+    <string name="cta_button_text_agree">Sì</string>
+    <string name="cta_settings">"Consenti l'utilizzo della rete dati"</string>
     <string name="vpn_name">Nome</string>
     <string name="vpn_type">Tipo</string>
     <string name="vpn_server">Indirizzo server</string>
@@ -2724,6 +2740,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="user_delete_button">Elimina</string>
     <string name="global_change_warning">Questa impostazione verrà applicata a tutti gli utenti del telefono.</string>
     <string name="global_locale_change_title">Cambia lingua</string>
+	<string name="google_backup_section_title">Backup e ripristino Google</string>
     <string name="global_font_change_title">Cambia dimensione testo</string>
     <string name="app_notifications_switch_label">Mostra notifiche</string>
     <string name="help_label">Aiuto</string>
@@ -2907,10 +2924,6 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="manually_add_network">Aggiungi rete manualmente</string>
     <string name="network_detail">%s Dettagli rete</string>
     <string name="connected_wifi">Wi-Fi connessa</string>
-    <string name="incoming_call_vibrate_abbreviation">"Chiamate "</string>
-    <string name="notification_vibrate_abbreviation">"Notifiche "</string>
-    <string name="mms_vibrate_abbreviation">"Messaggi "</string>
-    <string name="breathing_light_color_title">Colore LED</string>
     <string name="breathing_light_color_menu_title">Colore LED</string>
     <string name="breathing_light_color_summary">Colore del LED su ricezione di nuova notifica</string>
     <string name="breathing_light_freq_title">Intermittenza LED</string>
@@ -3036,7 +3049,9 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="virus_scan_app_stop_scan">Interrompi scansione</string>
     <string name="password_guard">Password</string>
     <string name="title_dolby_control">Controllo Dolby</string>
-    <string name="dolby_mode_off">Off</string>
+    <string name="title_font">Carattere</string>
+    <string name="title_font_current">In utilizzo</string>
+	<string name="dolby_mode_off">Off</string>
     <string name="dolby_mode_music">Modalità Musica</string>
     <string name="dolby_mode_movie">Modalità Film</string>
     <string name="dolby_effects">Effetti Dolby</string>
@@ -3056,10 +3071,15 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="dirac_switch_title">Tecnologia Dirac Sound</string>
     <string name="dirac_switch_summary">"Migliora l'audio tramite Dirac Sound quando usi gli altoparlanti del telefono"</string>
     <string name="dirac_mode_off">Dirac disattivato</string>
+	<string name="dirac_mode_piston_1">Xiaomi piston-1</string>
     <string name="dirac_mode_in_ear">Cuffie In-Ear Xiaomi</string>
     <string name="dirac_mode_earbuds">Auricolari</string>
     <string name="dirac_mode_piston_100">Auricolari Xiaomi</string>
+	<string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+    <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
     <string name="dirac_mode_general">Generale</string>
+	<string name="dirac_mode_general_earbuds">Generale (earbuds)</string>
+	<string name="dirac_mode_general_inear">Generale (inear)</string>
     <string name="equalizer">Equalizzatore</string>
     <string name="wifi_menu_wfd">Visualizzazione Wi-Fi</string>
     <string name="wfd_settings_title">Impostazioni visualizzazione Wi-Fi</string>
@@ -3154,6 +3174,7 @@ prova in questo modo:
     <string name="filter_apps_cached">Cache</string>
     <string name="screen">Schermo</string>
     <string name="system">Sistema</string>
+	<string name="system_backup_section_title"
     <string name="screen_color_temperature">Temperatura colore</string>
     <string name="screen_saturation">Saturazione colore</string>
     <string name="screen_color_temperature_and_saturation">Temperatura e saturazione colore</string>
@@ -3294,6 +3315,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="free_wifi_connect_fail">Impossibile connettersi alla rete</string>
     <string name="free_wifi_connect_fail2">Impossibile accedere. Aspett aun minuto o due e riprova.</string>
     <string name="free_wifi_login_again">Accedi di nuovo</string>
+	<string name="free_wifi_manage_summary">Tocca per vedere %1$s.</string>
     <string name="free_wifi_connected_count">%1$s utenti collegati</string>
     <string name="free_wifi_speed_title">Connessione lenta?</string>
     <string name="free_wifi_connected_time">Tempo online：%1$s</string>
@@ -3311,7 +3333,9 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="miui_screensaver_show_time">Durata</string>
     <string name="miui_screensaver_show_time_select_title">Imposta durata</string>
     <string name="miui_screensaver_usage">"Una volta attivato, le immagini nell'album screensaver verranno mostrate ripetutamente dopo 5 secondi dalla disattivazione dello schermo."</string>
-    <string name="alert_show_screensaver_when_not_charging_title">Screensaver quando non in carica</string>
+    <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
+	<string name="mms_breathing_light_freq_title">Intermittenza LED messaggi</string>
+	<string name="alert_show_screensaver_when_not_charging_title">Screensaver quando non in carica</string>
     <string name="alert_show_screensaver_when_not_charging_msg">La batteria verrà consumata più rapidamente se si utilizza lo screensaver quando il dispositivo non è in carica. Vuoi disattivare questa funzione?</string>
     <string name="preferred_app_settings">Impostazione app predefinite</string>
     <string name="preferred_app_settings_default">Predefinito</string>
@@ -3461,7 +3485,8 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="apn_predefine_change_dialog_notice">Sei sicuro di volere salvare? Le modifiche agli APN predefiniti potrebbero causare problemi di connessione!</string>
     <string name="dialog_apn_disabled">APN disabilitato!</string>
     <string name="dialog_apn_disabled_msg">"Si prega di attivare la modalità Aereo per abilitare le impostazioni dell'APN."</string>
-    <string name="sound_category_feedback_title">Sistema</string>
+    <string name="dialog_message_auto_start_tips">"Alcune applicazioni di sicurezza potrebbero erroneamente indicare che MIUI ha impedito l'avvio automatico. Per controllare i permessi concessi alle singole applicazioni vai in Impostazioni > Applicazioni."</string>
+	<string name="sound_category_feedback_title">Sistema</string>
     <string name="sound_category_calls_title">Chiamate in arrivo</string>
     <string name="voice_call_title">Suoneria chiamate vocali</string>
     <string name="voice_call_summary">Imposta la tua suoneria predefinita per le chiamate vocali</string>
@@ -3751,6 +3776,8 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="voice_ui_setting_category">Impostazioni</string>
     <string name="voice_ui_language_title">Lingua per il controllo vocale</string>
     <string name="incoming_call_app_name">Chiamate in arrivo</string>
+	<string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
+	<string name="incoming_call_breathing_light_freq_title">Intermittenza LED chiamate</string>
     <string name="alarm_app_name">Sveglia</string>
     <string name="camera_app_name">Fotocamera</string>
     <string name="music_app_name">Musica</string>
