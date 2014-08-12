@@ -157,8 +157,8 @@
 	<string name="mon_sat">Da lunedì a sabato</string> 
 	<string name="device_not_found_not_knocked">Dispositivo non trovato, il led blu non lampeggia, si prega di riprovare</string> 
 	<string name="statistic">Statistiche</string> 
-	<string name="mili_unbind_question_content">"Dopo la disconnessione puoi usare un altro telefono per connetterti al MiBand o sostituirlo con un altro."</string> 
-	<string name="mili_unbind_question_content_1">Se hai già impostato il MiBan per sbloccare il telefono, la disconnessione ne impedirà il funzionamento.</string> 
+	<string name="mili_unbind_question_content">"Dopo la disconnessione puoi usare un altro telefono per connetterti al MiBan o sostituirlo con un altro."</string> 
+	<string name="mili_unbind_question_content_1">Se hai già impostato il MiBand per sbloccare il telefono, la disconnessione ne impedirà il funzionamento.</string> 
 	<string name="mili_reset_info">Tutti i dati del MiBand saranno rimossi, sei certo di voler continuare?</string> 
 	<string name="mili_exit_login_info">"Disconnessiona dall'attuale accounr Mi, premere OK per continuare"</string> 
 	<string name="mili_exit_login_info_continue">"Sincronizzazione fallita, si prega di verificare la connessione di rete e riprovare."</string> 
