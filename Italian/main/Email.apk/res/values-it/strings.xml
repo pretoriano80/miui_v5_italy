@@ -13,6 +13,39 @@
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
+    <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
+    <string name="debug_enable_file_logging_label">Enable sd card logging?</string>
+    <string name="debug_clear_webview_cache">Clear WebView cache</string>
+    <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
+    <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
+    <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>    <string name="trigger_save_char">s</string>
+    <string name="mock_content_provider">Mock Content Provider</string>
+    <string name="conversation_content_provider">Conversation Content Provider</string>
+    <string name="contact_content_provider">Contact Content Provider</string>
+    <string name="account_cache_provider">Account Cache Provider</string>
+    <string name="formatted_subject">%1$s%2$s</string>
+    <string name="forward_subject_label">Fwd:</string>
+    <string name="report_rendering_problem">Looks bad</string>
+    <string name="report_rendering_improvement">Looks good</string>
+    <string name="report_rendering_problem_desc">This message looks bad.</string>
+    <string name="report_rendering_improvement_desc">This message looks good.</string>
+    <string name="prefDefault_removal_action">archive</string>
+    <string name="prefDefault_autoAdvance">list</string>
+    <string name="search_title">Unified Email</string>
+    <string name="folder_sent_name_en0">Sent</string>
+    <string name="folder_sent_name_en1">Sent Messages</string>
+    <string name="folder_sent_name_en2">Sent Message</string>
+    <string name="folder_drafts_name_en0">Drafts</string>
+    <string name="folder_drafts_name_en1">Draft</string>
+    <string name="folder_trash_name_en0">Trash</string>
+    <string name="folder_trash_name_en1">Deleted Messages</string>
+    <string name="folder_trash_name_en2">Deleted Message</string>
+    <string name="compose_help_context">compose</string>
+    <string name="wait_help_context">wait</string>
+    <string name="main_help_context">ttl</string>
+    <string name="deleted">Deleted</string>
+    <string name="archived">Archived</string>
     <string name="trigger_save_char">s</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
@@ -323,21 +356,6 @@ CC: %4$s
     <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
     <string name="sent_folder_selection_title">Selez. cartella Posta inviata server %s</string>
     <string name="account_waiting_for_folders_msg">Caricamento elenco cartelle…</string>
-    <string name="email_feedback_uri" />
-    <string name="account_manager_type_exchange">com.android.exchange</string>
-    <string name="account_manager_type_pop3">com.android.email</string>
-    <string name="account_manager_type_imap">com.android.email</string>
-    <string name="account_manager_type_legacy_imap">com.android.email</string>
-    <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-    <string name="intent_exchange_package">com.android.exchange</string>
-    <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-    <string name="authority_email_provider">com.android.email.provider</string>
-    <string name="protocol_legacy_imap">imap</string>
-    <string name="protocol_imap">imap</string>
-    <string name="protocol_pop3">pop3</string>
-    <string name="protocol_eas">eas</string>
-    <string name="application_mime_type">application/email-ls</string>
-    <string name="contact_content_provider">Contact Content Provider</string>
     <string name="from">Da</string>
     <string name="to">A</string>
     <string name="cc">Cc</string>
@@ -374,11 +392,7 @@ CC: %4$s
     <string name="confirm_save_message_yes">Sì</string>
     <string name="confirm_save_message_no">No</string>
     <string name="message_discarded">Messaggio eliminato.</string>
-    <string name="signature">"
-
-
-
-%s"</string>
+    <string name="signature">"%s"</string>
     <string name="custom_from_account_label">Invia msg come:</string>
     <string name="send">Invia</string>
     <string name="mark_read">Segna come già letto</string>
@@ -553,15 +567,8 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="sync_error">Impossibile sincronizzare</string>
     <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
     <string name="storage">Memoria</string>
-    <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-    <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-    <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="senders_split_token">, </string>
     <string name="draft_count_format"> (%1$s)</string>
-    <string name="senders_elided">..</string>
-    <string name="elided_padding_token"> </string>
-    <string name="message_count_spacer">  </string>
-    <string name="quote_begin">&lt;div class=\"quote\"></string>
     <string name="all_folders_heading">Tutte le cartelle</string>
     <string name="recent_folders_heading">Cartelle recenti</string>
     <string name="message_details_title">Dettagli messaggio</string>
@@ -735,6 +742,8 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="no_mails">Nessuna mail</string>
     <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="account_name_toast">Nome già esistente, rinominare</string>
+    <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
+    <string name="conversation_list_net_check">Unavailable to connect to the network, please check the network configuration or try again later</string>
     <string name="contact_list_add_btn">Aggiungi</string>
     <string name="validation_failed_prompt">Validazione fallita, imposta il server %s</string>
     <string name="spaceChar">" "</string>
