@@ -524,6 +524,6 @@ Prova di nuovo tra %d secondi."</string>
     <string name="puk_operation_failed">Operazione PUK fallita.</string>
     <string name="pin_operation_failed">Operazione PIN fallita.</string>
     <string name="return_to_me_message">Si prega di riportare al proprietario.</string>
-    <string name="unlock_string">OK</string>
+    <string name="unlock_string">Ok</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
 </resources>
