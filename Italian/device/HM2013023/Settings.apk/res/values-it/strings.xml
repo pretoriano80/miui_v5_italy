@@ -1105,7 +1105,7 @@ Consentire l'avvio automatico?"</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
     <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:<br/><b>%1$s</b></string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
-    <string name="bluetooth_disable_profile_message">Verrà disattivato:<br/><b>%1$s</b><br/><br>Su:<br><b>%2$s</b></string>
+    <string name="bluetooth_disable_profile_message">Verrà disattivato:<br/><b>%1$s</b><br/><br/>Su:<br/><b>%2$s</b></string>
     <string name="bluetooth_connected">Connesso</string>
     <string name="bluetooth_connected_no_headset">Collegato (telefono escluso)</string>
     <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
@@ -1368,9 +1368,9 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_pin_values_hint">Di solito 0000 o 1234</string>
     <string name="bluetooth_enter_pin_other_device">"Potrebbe inoltre essere necessario inserire questo PIN sull'altro dispositivo."</string>
     <string name="bluetooth_enter_passkey_other_device">"Potrebbe inoltre essere necessario inserire questa passkey sull'altro dispositivo."</string>
-    <string name="bluetooth_confirm_passkey_msg">"Per l'accoppiamento con:<br/><b>%1$s</b><br/><br/>Assicurati che sia visualizzata questa passkey:<br><b>%2$s</b>"</string>
+    <string name="bluetooth_confirm_passkey_msg">"Per l'accoppiamento con:<br/><b>%1$s</b><br/><br/>Assicurati che sia visualizzata questa passkey:<br/><b>%2$s</b>"</string>
     <string name="bluetooth_incoming_pairing_msg">Da:<br/><b>%1$s</b><br/><br/>Accoppiare con questo dispositivo?</string>
-    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'accoppiamento con <br><b>%1$s</b><br><br>, digita sul dispositivo <br/><b>%2$s</b>, quindi premi A capo o Invio."</string>
+    <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'accoppiamento con <br/><b>%1$s</b><br/><br/>, digita sul dispositivo <br/><b>%2$s</b>, quindi premi A capo o Invio."</string>
     <string name="bluetooth_pairing_accept">Accoppia</string>
     <string name="bluetooth_pairing_decline">Annulla</string>
     <string name="bluetooth_error_title" />
