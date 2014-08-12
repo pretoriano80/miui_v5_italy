@@ -371,7 +371,7 @@ A: %4$s
 
 	"</string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
-    <string name="cc_attribution">Cc: %1$s<br></string>
+    <string name="cc_attribution">Cc: %1$s</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
     <string name="too_large_to_attach_single">Impossibile allegare un file superiore a %1$s.</string>
     <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>
