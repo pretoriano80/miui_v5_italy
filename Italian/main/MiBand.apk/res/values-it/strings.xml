@@ -65,8 +65,8 @@
 	<string name="unit_hour">Ora</string> 
 	<string name="unit_min">Min</string> 
 	<string name="unit_min_short">min</string> 
-	<string name="upgrade_tip">Update tips</string> 
-	<string name="hot_des">Heat</string> 
+	<string name="upgrade_tip">Aggiorna suggerimenti</string> 
+	<string name="hot_des">Calore</string> 
 	<string name="noti_bracelet_low_battery_title">Batteria MiBand in esaurimento</string> 
 	<string name="noti_bracelet_low_battery_content">La carica residua del MiBand è inferiore al 5%, prego collegarlo al caricabatterie</string> 
 	<string name="noti_bracelet_low_battery_title_none">Batteria MiBand in esaurimento</string> 
@@ -77,7 +77,7 @@
 	<string name="search_bracelet_again">Nuova ricerca</string> 
 	<string name="search_devices_info">Search for MiBand, please place near to ring</string> 
 	<string name="search_bracelet_ok">MiBand rilevato</string> 
-	<string name="found_bracelet_info">When the 3 leds flash on MiBand start tapping the rings to bind to device</string> 
+	<string name="found_bracelet_info">Quando i 3 LED lampeggiano su MiBand tocca i cerchi per collegare il dispositivo.</string> 
 	<string name="bind_bracelet_ok">MiBand collegato con successo</string> 
 	<string name="device_not_response">MiBand non rispondere, controlla i led</string> 
 	<string name="action_local_ota">Aggiornamento tramite scheda SD</string> 
@@ -132,7 +132,7 @@
 	<string name="exit_login_1">Sei certo di volerti disconnettere?</string> 
 	<string name="exit_app">Esci</string> 
 	<string name="exit_app_continue">Conferma uscita</string> 
-	<string name="exit_app_tips">"Uscendo la connessione tra MiBand e dispositivo verrà interrotta."</string> 
+	<string name="exit_app_tips">Uscendo la connessione tra MiBand e dispositivo verrà interrotta.</string> 
 	<string name="set_mili_name">Imposta nome MiBand</string> 
 	<string name="mili_name">Nome MiBand</string> 
 	<string name="set_mili_name_ok">Nome MiBand impostato con successo</string> 
@@ -141,7 +141,7 @@
 	<string name="mili_rename_fail">Impossibile rinominare il MiBand</string> 
 	<string name="mili_unbind_question">Dopo la disconnessione il telefono non sarà più in grado di ottenere informazioni dal MiBand</string> 
 	<string name="share_to_title">Xiaomi MiBand</string> 
-	<string name="share_to_content">Campagnia condivisione MiBand</string> 
+	<string name="share_to_content">Campagna condivisione MiBand</string> 
 	<string name="share_goal_tips_succ">"Non importa quanto ambizioso sia l'obiettivo, affrontalo un passo alla volta"</string> 
 	<string name="share_goal_tips_fail">Condivisione fallita, si prega di completare i primi passi</string> 
 	<string name="person_info_goal_info">"Secondo l'Organizzazione Mondiale per la Sanità, bisogno fare esercizio per 40 minuti ogni giorno, facendo almeno un minimo di 8.000 passi"</string> 
@@ -157,7 +157,7 @@
 	<string name="mon_sat">Da lunedì a sabato</string> 
 	<string name="device_not_found_not_knocked">Dispositivo non trovato, il led blu non lampeggia, si prega di riprovare</string> 
 	<string name="statistic">Statistiche</string> 
-	<string name="mili_unbind_question_content">"Dopo la disconnessione puoi usare un'altro telefono per connetterti al MiBan o sostituirlo con un'altro."</string> 
+	<string name="mili_unbind_question_content">"Dopo la disconnessione puoi usare un altro telefono per connetterti al MiBan o sostituirlo con un altro."</string> 
 	<string name="mili_unbind_question_content_1">Se hai già impostato il MiBand per sbloccare il telefono, la disconnessione ne impedirà il funzionamento.</string> 
 	<string name="mili_reset_info">Tutti i dati del MiBand saranno rimossi, sei certo di voler continuare?</string> 
 	<string name="mili_exit_login_info">"Disconnessiona dall'attuale accounr Mi, premere OK per continuare"</string> 
