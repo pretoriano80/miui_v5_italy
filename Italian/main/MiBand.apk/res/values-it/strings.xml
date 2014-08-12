@@ -157,7 +157,7 @@
 	<string name="mon_sat">Da lunedì a sabato</string> 
 	<string name="device_not_found_not_knocked">Dispositivo non trovato, il led blu non lampeggia, si prega di riprovare</string> 
 	<string name="statistic">Statistiche</string> 
-	<string name="mili_unbind_question_content">"Dopo la disconnessione puoi usare un altro telefono per connetterti al MiBan o sostituirlo con un altro."</string> 
+	<string name="mili_unbind_question_content">"Dopo la disconnessione puoi usare un altro telefono per connetterti al MiBand o sostituirlo con un altro."</string> 
 	<string name="mili_unbind_question_content_1">Se hai già impostato il MiBand per sbloccare il telefono, la disconnessione ne impedirà il funzionamento.</string> 
 	<string name="mili_reset_info">Tutti i dati del MiBand saranno rimossi, sei certo di voler continuare?</string> 
 	<string name="mili_exit_login_info">"Disconnessiona dall'attuale accounr Mi, premere OK per continuare"</string> 
@@ -358,7 +358,7 @@
 	<string name="unlock_screen_set_success">Sblocco tramite MiBand impostato correttamente</string> 
 	<string name="unlock_screen_modify_unlock">"Se hai bisogno di fare delle modifiche, apri Impostazioni -> Tutte le impostazioni -> Sicurezza e privacy -> Sicurezza schermo"</string> 
 	<string name="bind_weixin_title">" dopo aver cliccato su \"connetti a Wechat\" sarà creato un codice QR nel tuo album, scansiona il codice QR in WeChat e quindi potrai connetterti  "</string> 
-	<string name="bind_weixin_tips">"        inoltre, puoi usare il PC by visitando http://hm.xiaomi.com/login.do per ottenere il codice QR, e quindi usare lo scanner di codici QR di WeChat per connetterti"</string> 
+	<string name="bind_weixin_tips">"        inoltre, puoi usare il PC visitando http://hm.xiaomi.com/login.do per ottenere il codice QR, e quindi usare lo scanner di codici QR di WeChat per connetterti"</string> 
 	<string name="bind_weixin_now">Generazione codice QR, attendere prego...</string> 
 	<string name="bind_weixin_failed">Connessione fallita, si prega di riprovare</string> 
 	<string name="bind_weixin_succ">Connessione riuscita, usa il tuo WeChat per provare!</string> 
