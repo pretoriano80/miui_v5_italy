@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PonPonTile</string>
+    <string name="app_name">NFC</string>
     <string name="btn_write">Scrivi</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="diselect_all">Deseleziona tutto</string>
@@ -60,9 +60,9 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="unavailable_net">"Installazione fallita: impossibile collegarsi alla rete"</string>
     <string name="unavailable_storage">"Installazione fallita: impossibile usare la tua scheda SD"</string>
     <string name="no_available_xiaomi_shop">Impossibile aprire il market Xiaomi </string>
-    <string name="task">Trigger tasks</string>
-    <string name="null_task">No tasks</string>
-    <string name="create_configs_prompt">To add a task, touch Add</string>
+    <string name="task">Avvia operazioni</string>
+    <string name="null_task">Nessuna operazione</string>
+    <string name="create_configs_prompt">Tocca Aggiungi per aggiungere operazioni</string>
     <string name="config_name_hint">Name</string>
     <string name="remove_alert">Delete selected tasks?</string>
     <string name="save_alert">Save this task?</string>
@@ -88,15 +88,14 @@ toccalo con la parte posteriore del tuo telefono"</string>
     <string name="err_fail_to_write">Non è stato possibile scrivere il tag</string>
     <string name="err_no_enough_space">"Non c'è abbastanza spazio sul tag"</string>
     <string name="err_fail_to_erase">Non è stato possibile cancellare il tag</string>
-    <string name="err_tag_read_only">Non puoi scrivere su questo tag</string>
-    <string name="wireless_network">Wireless &amp; reti</string>
+    <string name="wireless_network">Reti e Wi-Fi</string>
     <string name="display">Schermo</string>
     <string name="sound">Audio</string>
     <string name="mode">Modalità</string>
     <string name="personal">Personale</string>
     <string name="communication">Telefono</string>
-    <string name="shortcut">Quick tasks</string>
-    <string name="wifi">WLAN</string>
+    <string name="shortcut">Azioni rapide</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="click_to_choose">Tocca per aprire</string>
     <string name="set_now">Impostazioni</string>
     <string name="write_pon_pon_tile">Scrivi tag</string>
@@ -109,8 +108,8 @@ tocca un altro tag con il retro del tuo telefono."</string>
     <string name="erase_success">Cancellazione eseguita</string>
     <string name="back_to_home">Indietro</string>
     <string name="share">Condividi</string>
-    <string name="share_subject">Share one app: %1$s</string>
-    <string name="share_content">"I've *%1$s* written to a Mi NFC tag. To read it, just touch it with the back of your device. Get the app here: http://app.xiaomi.com/detail/56946"</string>
+    <string name="share_subject">"Condividi un'app: %1$s"</string>
+    <string name="share_content">"Ho scritto *%1$s* su di un tag Mi NFC. Per leggerlo toccalo con il retro del dispositivo. Scarica l'applicazione qui: http://app.xiaomi.com/detail/56946"</string>
     <string name="erasing">Cancellazione…</string>
     <string name="total_read_tag">Tag letti:</string>
     <string name="total_write_tag">Tag scritti:</string>
@@ -125,8 +124,8 @@ tocca un altro tag con il retro del tuo telefono."</string>
     <string name="deleting">Cancellazione…</string>
     <string name="auto_brightness">Luminosità automatica</string>
     <string name="auto_brightness_on_off">Luminosità automatica %s</string>
-    <string name="on">On</string>
-    <string name="off">Off</string>
+    <string name="on">Attivo</string>
+    <string name="off">Non attivo</string>
     <string name="toggle">Cambia</string>
     <string name="percent">%s%%</string>
     <string name="brightness">Luminosità</string>
@@ -135,9 +134,9 @@ tocca un altro tag con il retro del tuo telefono."</string>
     <string name="pick_contacts">Scegli contatti</string>
     <string name="hint_input_phone">Inserisci il numero di telefono</string>
     <string name="airplane">Modalità aereo</string>
-    <string name="ringer_mode">Ring mode</string>
-    <string name="contact">Share contact</string>
-    <string name="contact_card">Name card</string>
+    <string name="ringer_mode">Modalità suoneria</string>
+    <string name="contact">Condividi contatto</string>
+    <string name="contact_card">Nome scheda</string>
     <string name="contact_name">Nome</string>
     <string name="contact_phone">Telefono</string>
     <string name="contact_email">Email</string>
@@ -170,7 +169,7 @@ tocca un altro tag con il retro del tuo telefono."</string>
     <string name="hint_input_subject">Oggetto</string>
     <string name="hint_input_message">Messaggio</string>
     <string name="body_characters">%d/650</string>
-    <string name="car_mode">Car mode</string>
+    <string name="car_mode">Modalità Auto</string>
     <string name="disturb_mode">Non disturbare</string>
     <string name="open_web">Apri pagina web</string>
     <string name="web_url">URL</string>
@@ -188,18 +187,21 @@ tocca un altro tag con il retro del tuo telefono."</string>
     <string name="vibrate_mode">Vibrazione</string>
     <string name="vibrate_on">Vibrazione attiva</string>
     <string name="vibrate_off">Vibrazione disattiva</string>
-    <string name="miui_ringer_mode">Ring mode</string>
-    <string name="ringer_normal">Ring</string>
-    <string name="ringer_silent">Silent</string>
+    <string name="miui_ringer_mode">Modalità suoneria</string>
+    <string name="ringer_normal">Squilla</string>
+    <string name="ringer_silent">Silenzioso</string>
+    <string name="gps">Satelliti GPS</string>
+    <string name="data">Dati</string>
+    <string name="data_net">Rete mobile</string>
     <string name="dialog_select_account">Seleziona un account</string>
     <string name="toast_import_failed">Impossibile importare il contatto</string>
-    <string name="xiaomi_update_dialog_title">%1$s update!</string>
+    <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
     <string name="xiaomi_update_dialog_message">"Introduzione alla versione %1$s
 Dimensione: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzione alla versione %1$s
 Dimensione update differenziale: %2$s"</string>
-    <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_external_storage_unavailable">Memoria di archiviazione non disponibile, controlla la scheda SD.</string>
+    <string name="xiaomi_bytes_unit">%1$s Byte</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
 </resources>
