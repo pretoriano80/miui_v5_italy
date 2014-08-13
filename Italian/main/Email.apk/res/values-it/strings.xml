@@ -13,6 +13,27 @@
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="debug_enable_debug_logging_label">Attivare registrazione debug extra?</string>
+    <string name="debug_enable_verbose_logging_label">Attivare la registrazione molto lunga?</string>
+    <string name="debug_enable_file_logging_label">Attivare la registrazione scheda SD?</string>
+    <string name="debug_clear_webview_cache">Cancella cache WebView</string>
+    <string name="debug_disable_graphics_acceleration_label">Disattiva accelerazione grafica hardware</string>
+    <string name="debug_force_one_minute_refresh_label">Forza aggiornamento di 1 minuto per POP/IMAP</string>
+    <string name="debug_enable_strict_mode_label">Attiva modalità restrizione (con registrazione)</string>
+    <string name="contact_content_provider">Contatta Content Provider</string>
+    <string name="formatted_subject">%1$s%2$s</string>
+    <string name="search_title">Email unificate</string>
+    <string name="folder_sent_name_en0">Inviata</string>
+    <string name="folder_sent_name_en1">Messaggi inviati</string>
+    <string name="folder_sent_name_en2">Messaggio inviato</string>
+    <string name="folder_drafts_name_en0">Bozze</string>
+    <string name="folder_drafts_name_en1">Bozza</string>
+    <string name="folder_trash_name_en0">Cestino</string>
+    <string name="folder_trash_name_en1">Messaggi eliminati</string>
+    <string name="folder_trash_name_en2">Messaggio eliminato</string>
+    <string name="main_help_context">Totale</string>
+    <string name="deleted">ELiminata</string>
+    <string name="archived">Archiviata</string>
     <string name="trigger_save_char">s</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
@@ -38,7 +59,7 @@
     <string name="policy_dont_allow_pop_imap">Non consentire account POP3 o IMAP</string>
     <string name="policy_dont_allow_irda">Non consentire comunicazioni infrarosse</string>
     <string name="policy_dont_allow_html">Non consentire email HTML</string>
-    <string name="policy_dont_allow_browser">Non consentire browsers</string>
+    <string name="policy_dont_allow_browser">Non consentire browser</string>
     <string name="policy_dont_allow_consumer_email">Non consentire email consumer</string>
     <string name="policy_dont_allow_internet_sharing">Non consentire condivisione Internet</string>
     <string name="policy_require_smime">Richiede messaggi SMIME</string>
@@ -67,7 +88,7 @@
     <string name="search_hint">Cerca email</string>
     <string name="no_conversations">Nessun messaggio.</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
-    <string name="done">Return</string>
+    <string name="done">Fatto</string>
     <string name="permission_read_attachment_label">Lettura allegati email</string>
     <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
     <string name="permission_access_provider_label">Accesso ai dati del provider di posta</string>
@@ -236,7 +257,7 @@ CC: %4$s
     <string name="account_settings_exit_server_settings">Ignorare le modifiche non salvate?</string>
     <string name="account_settings_login_dialog_title">Impossibile accedere</string>
     <string name="account_settings_login_dialog_content_fmt">Il nome utente o la password per %s non sono corretti. Aggiornarli ora?</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Accesso a %s fallito; il server dice: %s Do you want to update your username and/or password?</string>
+    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Accesso a %s fallito; il server dice: %s Vuoi aggiornare nome utente e/o password?</string>
     <string name="account_settings_background_attachments_label">Scarica allegati</string>
     <string name="account_settings_background_attachments_summary">Scarica automaticamente gli allegati solo tramite Wi-Fi</string>
     <string name="account_settings_notify_label">Notifiche email</string>
@@ -323,21 +344,6 @@ CC: %4$s
     <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
     <string name="sent_folder_selection_title">Selez. cartella Posta inviata server %s</string>
     <string name="account_waiting_for_folders_msg">Caricamento elenco cartelle…</string>
-    <string name="email_feedback_uri" />
-    <string name="account_manager_type_exchange">com.android.exchange</string>
-    <string name="account_manager_type_pop3">com.android.email</string>
-    <string name="account_manager_type_imap">com.android.email</string>
-    <string name="account_manager_type_legacy_imap">com.android.email</string>
-    <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-    <string name="intent_exchange_package">com.android.exchange</string>
-    <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-    <string name="authority_email_provider">com.android.email.provider</string>
-    <string name="protocol_legacy_imap">imap</string>
-    <string name="protocol_imap">imap</string>
-    <string name="protocol_pop3">pop3</string>
-    <string name="protocol_eas">eas</string>
-    <string name="application_mime_type">application/email-ls</string>
-    <string name="contact_content_provider">Contact Content Provider</string>
     <string name="from">Da</string>
     <string name="to">A</string>
     <string name="cc">Cc</string>
@@ -347,18 +353,25 @@ CC: %4$s
     <string name="add_file_attachment">Allega file</string>
     <string name="add_photo_attachment">Allega foto</string>
     <string name="add_video_attachment">Allega video</string>
-    <string name="add_attachment">Attach Files</string>
+    <string name="add_attachment">Allegati</string>
     <string name="save_draft">Salva bozza</string>
     <string name="discard">Elimina</string>
     <string name="compose">Scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="contact_select">Seleziona contatti</string>
-    <string name="formatted_subject">%1$s%2$s</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
-    <string name="forward_attribution">---------- Messaggio inoltrato ----------&lt;br>Da: %1$s&lt;br>Data: %2$s&lt;br>Oggetto: %3$s&lt;br>A: %4$s&lt;br></string>
+    <string name="forward_attribution">"
+	
+---------- Messaggio inoltrato ----------
+Da: %1$
+Data: %2$s
+Oggetto: %3$s
+A: %4$s
+
+	"</string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
+    <string name="cc_attribution">Cc: %1$s</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
     <string name="too_large_to_attach_single">Impossibile allegare un file superiore a %1$s.</string>
     <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>
@@ -374,11 +387,7 @@ CC: %4$s
     <string name="confirm_save_message_yes">Sì</string>
     <string name="confirm_save_message_no">No</string>
     <string name="message_discarded">Messaggio eliminato.</string>
-    <string name="signature">"
-
-
-
-%s"</string>
+    <string name="signature">"%s"</string>
     <string name="custom_from_account_label">Invia msg come:</string>
     <string name="send">Invia</string>
     <string name="mark_read">Segna come già letto</string>
@@ -413,7 +422,7 @@ CC: %4$s
     <string name="add_cc_label">Aggiungi Cc/Ccn</string>
     <string name="add_bcc_label">Aggiungi Ccn</string>
     <string name="feedback">Invia feedback</string>
-    <string name="feedback_body">Feedback information</string>
+    <string name="feedback_body">Feedback</string>
     <string name="help_and_info">Guida</string>
     <string name="quoted_text">Includi testo citato</string>
     <string name="quoted_text_label">Testo citato</string>
@@ -553,15 +562,8 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="sync_error">Impossibile sincronizzare</string>
     <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
     <string name="storage">Memoria</string>
-    <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-    <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-    <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="senders_split_token">, </string>
     <string name="draft_count_format"> (%1$s)</string>
-    <string name="senders_elided">..</string>
-    <string name="elided_padding_token"> </string>
-    <string name="message_count_spacer">  </string>
-    <string name="quote_begin">&lt;div class=\"quote\"></string>
     <string name="all_folders_heading">Tutte le cartelle</string>
     <string name="recent_folders_heading">Cartelle recenti</string>
     <string name="message_details_title">Dettagli messaggio</string>
@@ -609,8 +611,8 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="empty_spam_dialog_title">Svuotare spam?</string>
     <string name="drawer_open">Apri pannello di navigazione</string>
     <string name="drawer_close">Chiudi pannello di navigazione</string>
-    <string name="conversation_photo_welcome_text">"Tocca l'immagine di un mittente per selezionare l aconversazione."</string>
-    <string name="long_press_to_select_tip">Tocca e tieni premuto per selezionare una conversazione, then touch to select more.</string>
+    <string name="conversation_photo_welcome_text">"Tocca l'immagine di un mittente per selezionare la conversazione."</string>
+    <string name="long_press_to_select_tip">Tocca e tieni premuto per selezionare una conversazione, quindi tocca per selezionare altro.</string>
     <string name="folder_icon_desc">Icona cartella</string>
     <string name="add_account">Aggiungi account</string>
     <string name="attached_message">Messaggio allegato</string>
@@ -735,6 +737,8 @@ Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="no_mails">Nessuna mail</string>
     <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="account_name_toast">Nome già esistente, rinominare</string>
+    <string name="mail_body_turncated">Questa email è troppo lunga per essere caricata, ne verrà mostrata solo una parte. Collegati dal tuo PC per leggerla per intero.</string>
+    <string name="conversation_list_net_check">Impossibile connettersi alla rete, controlla la configurazione di rete o riprova più tardi</string>
     <string name="contact_list_add_btn">Aggiungi</string>
     <string name="validation_failed_prompt">Validazione fallita, imposta il server %s</string>
     <string name="spaceChar">" "</string>
