@@ -32,7 +32,7 @@
     <string name="folder_trash_name_en1">Messaggi eliminati</string>
     <string name="folder_trash_name_en2">Messaggio eliminato</string>
     <string name="main_help_context">Totale</string>
-    <string name="deleted">ELiminata</string>
+    <string name="deleted">Eliminata</string>
     <string name="archived">Archiviata</string>
     <string name="trigger_save_char">s</string>
     <string name="trigger_compose_char">c</string>
