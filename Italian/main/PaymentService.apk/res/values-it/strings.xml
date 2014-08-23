@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Servizio pagamento</string>
-    <string name="format_time">MMM dd, yyyy hh:mmaa</string>
+    <string name="format_time">MMM dd, yyyy HH:mm</string>
     <string name="format_date">MMM. dd, yyyy</string>
     <string name="colon">": "</string>
     <string name="label_order_name">Prodotto:</string>
@@ -84,8 +84,8 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="paytool_error_install">Impossibile installare il plugin %1$s per la sicurezza mobile</string>
     <string name="paytool_error_msp">%1$s fallito</string>
     <string name="paytool_msp_not_installed">Non hai installato il plugin %1$s per la sicurezza mobile, installarlo adesso?</string>
-    <string name="progress_paytool_creating">Creazione ordine %1$s...</string>
-    <string name="progress_paytool_installing">Installazione plugin  %1$s per la sicurezza mobile…</string>
+    <string name="progress_paytool_creating">Creazione ordine %1$s…</string>
+    <string name="progress_paytool_installing">Installazione plugin %1$s per la sicurezza mobile…</string>
     <string name="prepaid_grid_carrier_hint">Seleziona operatore</string>
     <string name="prepaid_grid_denomination_hint">Seleziona importo</string>
     <string name="prepaid_picker_hint_1_1">1.</string>
@@ -199,7 +199,7 @@ Centro servizio assistenza：400-100-5678"</string>
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit in omaggio</string>
     <string name="recharge_push_notification_prime_title">%1$d ha aggiunto %2$s MiCredit sul tuo account</string>
     <string name="recharge_push_notification_sub_title">Ricarica completata.</string>
-    <string name="giftcard_expire_notification_prime_title">Accidenti! Il tuo codice promozionale sta per scadere...</string>
+    <string name="giftcard_expire_notification_prime_title">Accidenti! Il tuo codice promozionale sta per scadere…</string>
     <string name="giftcard_expire_notification_sub_title">La tua scheda regalo Mi scade il %1$s</string>
     <string name="title_mili_center">MiCredit</string>
     <string name="title_recharge_record">Registro ricariche</string>
