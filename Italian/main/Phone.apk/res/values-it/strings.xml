@@ -228,10 +228,13 @@ Passare comunque al nuovo operatore?"</string>
     <string name="throttle_time_frame">Periodo utilizzo dati</string>
     <string name="throttle_rate">Norme velocità dati</string>
     <string name="throttle_help">Ulteriori informazioni</string>
-    <string name="throttle_status_subtext">%1$s (%2$d٪) di %3$s periodo massimo.Il prossimo periodo iniziatra %4$d giorni (%5$s)</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) di %3$s periodo massimo.
+Il prossimo periodo iniziatra %4$d giorni (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) di %3$s periodo massimo</string>
-    <string name="throttle_data_rate_reduced_subtext">%1$s max superato.Velocità dati ridotta a %2$d Kb/s</string>
-    <string name="throttle_time_frame_subtext">%1$d٪ del ciclo trascorso.Il periodo succ. inizia tra %2$d gg (%3$s)</string>
+    <string name="throttle_data_rate_reduced_subtext">"%1$s max superato.
+Velocità dati ridotta a %2$d Kb/s"</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ del ciclo trascorso.
+Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="throttle_rate_subtext">Velocità dati ridotta a %1$d Kb/s se limite utilizzo dati superato</string>
     <string name="throttle_help_subtext">Informazioni sulla norme di utilizzo dati della rete cellulare del gestore</string>
     <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
