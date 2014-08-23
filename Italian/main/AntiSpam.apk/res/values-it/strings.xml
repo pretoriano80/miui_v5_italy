@@ -199,6 +199,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: sconosciuto</string>
     <string name="ad_block_hint">%d bloccati</string>
     <string name="ad_single_block_hint">Bloccato</string>
+    <string name="ad_permission_hint">"L'utilizzo di Ad Blocker potrebbe influire sul normale funzionamento di alcune applicazioni."</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>

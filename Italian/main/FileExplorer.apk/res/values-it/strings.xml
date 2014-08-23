@@ -22,6 +22,7 @@
     <string name="operation_copy">Copia</string>
     <string name="operation_paste">Incolla</string>
     <string name="operation_move">Sposta</string>
+    <string name="operation_save">Salva</string>
     <string name="operation_send">Invia</string>
     <string name="operation_rename">Rinomina</string>
     <string name="operation_delete">Elimina</string>
@@ -105,6 +106,7 @@
     <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>
     <string name="ui_main_toast_operation_failed">Rimozione preferito %1$s fallita.</string>
     <string name="user_guide">Guida Utente</string>
+    <string name="user_guide_summary">Una rapida panoramica</string>
     <string name="rename_failed">Impossibile rinominare %1$s</string>
     <string name="directory_no_item">Cartella vuota</string>
     <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
@@ -164,7 +166,9 @@
     <string name="decompress_confirm">Decomprimere?</string>
     <string name="decompress_cancel">Annulla</string>
     <string name="kuaipan_prompt">Aiuto MiDrive</string>
-    <string name="kuaipan_prompt_message">Il server è momentaneamente non accessibile, si prega di riprovare più tardi</string>
+    <string name="kuaipan_prompt_message">"
+Il server è momentaneamente non accessibile, si prega di riprovare più tardi
+"</string>
     <string name="move_failed">Impossibile spostare</string>
     <string name="copy_failed">Impossibile copiare</string>
     <string name="delete_failed">Eliminazione fallita</string>
@@ -247,9 +251,10 @@ Hai ricevuto %1$s di spazio gratuito"</string>
 2. Caricare (aggiornamento del file remoto)"</string>
     <string name="ui_filechange_btn_upload">Carica file</string>
     <string name="folder_exist">Cartella già esistente</string>
+    <string name="folder_name_illegal">Nome cartella non valido</string>
     <string name="unmount_inform_text">"L'archivio uSB verrà smontato.</string>
     <string name="dlg_error_unmount_text">Impossibile smontare archivio USB. Riprova più tardi.</string>
-    <string name="my_app">DAti app</string>
+    <string name="my_app">Dati app</string>
     <string name="my_app_desc" />
     <string name="my_bak">Backup</string>
     <string name="my_bak_desc" />
@@ -283,6 +288,12 @@ Hai ricevuto %1$s di spazio gratuito"</string>
     <string name="share_box_receive">Ricevuti</string>
     <string name="file_not_exist">File inesistente</string>
     <string name="open_file_failed">Impossibile aprire</string>
+    <string name="file_already_downlaoded">File salvato in \"%1$s\"</string>
+    <string name="copy_file_to_kuaipan">Copia file in Kuaipan</string>
+    <string name="downloading_in_3g">Download in corso tramite 3G…</string>
+    <string name="operate_confirm_in_3g">Utilizzare la rete dati mobile per scaricare questo file di grandi dimensioni?</string>
+    <string name="image_share">Condividi</string>
+    <string name="image_download">Download</string>
     <string name="system_alert">Avviso connessione internet</string>
     <string name="network_connect_confirm_des">Usando Kuaipan si accede alla rete dati, accedere?</string>
     <string name="operation_agree">Sì</string>
