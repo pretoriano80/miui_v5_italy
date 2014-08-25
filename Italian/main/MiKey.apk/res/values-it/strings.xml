@@ -133,7 +133,6 @@ dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="sdcard">Scheda SD</string>
     <string name="showSlip">Mostra un popup</string>
     <string name="close_recorder">Chiudi registratore</string>
-
     <string name="silent_mode_tip_main">Tasto silenzioso disabilitato</string>
     <string name="update_message">Aggiornato!</string>
     <string name="test_user_entry">Test</string>
@@ -159,4 +158,5 @@ dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="faq_stat_text">Il ranking viene azzerato ogni notte, per cui ogni risveglio è un nuovo inizio</string>
     <string name="faq_vsm_title">Precauzioni</string>
     <string name="faq_vsm_text">Assicurati, prima di rimuovere la cover posteriore, di togliere il MiKey !</string>
-</resources>
+    <string name="hint_long_press_del">Tieni premuto per rimuovere</string>
+	</resources>
