@@ -13,6 +13,13 @@
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="quoted_text_background_color_string">@android:color/white</string>
+    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
+    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+    <string name="date">2888/88/88</string>
+    <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
+    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
+    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="debug_enable_debug_logging_label">Attivare registrazione debug extra?</string>
     <string name="debug_enable_verbose_logging_label">Attivare la registrazione molto lunga?</string>
     <string name="debug_enable_file_logging_label">Attivare la registrazione scheda SD?</string>
@@ -20,8 +27,40 @@
     <string name="debug_disable_graphics_acceleration_label">Disattiva accelerazione grafica hardware</string>
     <string name="debug_force_one_minute_refresh_label">Forza aggiornamento di 1 minuto per POP/IMAP</string>
     <string name="debug_enable_strict_mode_label">Attiva modalità restrizione (con registrazione)</string>
+    <string name="email_feedback_uri" />
+    <string name="account_manager_type_exchange">com.android.exchange</string>
+    <string name="account_manager_type_pop3">com.android.email</string>
+    <string name="account_manager_type_imap">com.android.email</string>
+    <string name="account_manager_type_legacy_imap">com.android.email</string>
+    <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
+    <string name="intent_exchange_package">com.android.exchange</string>
+    <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+    <string name="authority_email_provider">com.android.email.provider</string>
+    <string name="protocol_legacy_imap">imap</string>
+    <string name="protocol_imap">imap</string>
+    <string name="protocol_pop3">pop3</string>
+    <string name="protocol_eas">eas</string>
+    <string name="application_mime_type">application/email-ls</string>
+    <string name="mock_content_provider">Mock Content Provider</string>
+    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contatta Content Provider</string>
+    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="formatted_subject">%1$s%2$s</string>
+    <string name="forward_subject_label">Fwd:</string>
+    <string name="report_rendering_problem">Looks bad</string>
+    <string name="report_rendering_improvement">Looks good</string>
+    <string name="report_rendering_problem_desc">This message looks bad.</string>
+    <string name="report_rendering_improvement_desc">This message looks good.</string>
+    <string name="formatted_email_address">&lt;%1$s></string>
+    <string name="prefDefault_removal_action">archive</string>
+    <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
+    <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
+    <string name="hierarchical_folder_top">%1$s∕</string>
+    <string name="senders_elided">..</string>
+    <string name="elided_padding_token"> </string>
+    <string name="message_count_spacer">  </string>
+    <string name="quote_begin">&lt;div class=\"quote\"></string>
+    <string name="prefDefault_autoAdvance">list</string>
     <string name="search_title">Email unificate</string>
     <string name="folder_sent_name_en0">Inviata</string>
     <string name="folder_sent_name_en1">Messaggi inviati</string>
@@ -76,7 +115,6 @@
     <string name="auth_error_notification_title">Errore di autenticazione</string>
     <string name="auth_error_notification_text">Tocca per modificare impostazioni account per %s</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
-    <string name="app_name">Email</string>
     <string name="account_setup_options_mail_window_auto">Automatico</string>
     <string name="account_setup_options_mail_window_1day">Ultimo giorno</string>
     <string name="account_setup_options_mail_window_3days">Ultimi tre giorni</string>
@@ -89,6 +127,7 @@
     <string name="no_conversations">Nessun messaggio.</string>
     <string name="photo_view_count" formatted="false">%d di %d</string>
     <string name="done">Fatto</string>
+    <string name="app_name">Email</string>
     <string name="permission_read_attachment_label">Lettura allegati email</string>
     <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
     <string name="permission_access_provider_label">Accesso ai dati del provider di posta</string>
@@ -359,17 +398,10 @@ CC: %4$s
     <string name="compose">Scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
-    <string name="contact_select">Seleziona contatti</string>
-    <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
-    <string name="forward_attribution">"
-	
----------- Messaggio inoltrato ----------
-Da: %1$
-Data: %2$s
-Oggetto: %3$s
-A: %4$s
-
-	"</string>
+    <string name="contact_select">Select contacts</string>
+    <string name="reply_subject_label">Re:</string>
+    <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
+    <string name="forward_attribution">---------- Messaggio inoltrato ----------&lt;br>Da: %1$s&lt;br>Data: %2$s&lt;br>Oggetto: %3$s&lt;br>A: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="cc_attribution">Cc: %1$s</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
@@ -387,7 +419,9 @@ A: %4$s
     <string name="confirm_save_message_yes">Sì</string>
     <string name="confirm_save_message_no">No</string>
     <string name="message_discarded">Messaggio eliminato.</string>
-    <string name="signature">"%s"</string>
+    <string name="signature">"
+
+%s"</string>
     <string name="custom_from_account_label">Invia msg come:</string>
     <string name="send">Invia</string>
     <string name="mark_read">Segna come già letto</string>
@@ -766,6 +800,18 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="account_setup_incoming_mail_adress_label">Indirizzo email</string>
     <string name="account_setup_incoming_mail_domain_label">Dominio</string>
     <string name="account_setup_incoming_mail_domain_hint">Non può essere vuoto</string>
+    <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
+    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
+    <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
+    <string name="ser_resp_err_map_serclosed">Service closed</string>
+    <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
+    <string name="ser_resp_err_map_nouser">No such user</string>
+    <string name="ser_resp_err_map_or">Or</string>
+    <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
+    <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
+\u0009 (Check whether the setting is 'Auto sync time')"</string>
+    <string name="ser_resp_err_map_connect_err">Error in network connection. Please try another network</string>
+    <string name="no_wifi_promot">No WLAN is used now, please keep an eye on your traffic flow</string>
     <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
     <string name="xiaomi_update_dialog_message">"Introduzione della versione %1$s
 Dimensione: %2$s"</string>
