@@ -571,7 +571,7 @@ CC: %4$s
     <string name="activity_folder_selection">Seleziona una cartella</string>
     <string name="folder_shortcut_widget_label">Cartella email</string>
     <string name="change_folders_selection_dialog_title">Cambia cartelle</string>
-    <string name="move_to_selection_dialog_title">Sposta in un\'altra cartella</string>
+    <string name="move_to_selection_dialog_title">"Sposta in un'altra cartella"</string>
     <string name="search_results_loaded">%1$d</string>
     <string name="network_error">Nessuna connessione</string>
     <string name="load_more">Carica altro</string>
@@ -579,11 +579,11 @@ CC: %4$s
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
     <string name="wait_for_sync_body">La tua email comparirà a breve.</string>
     <string name="not_synced_title">Account non sincronizzato</string>
-    <string name="wait_for_manual_sync_body">"Questo account non è impostato per la sincronizzazione automatica.
-Touch "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le impostazioni di sincronizzazione</b> per consentire la sincronizzazione automatica.</string>
+    <string name="wait_for_manual_sync_body">Questo account non è impostato per la sincronizzazione automatica.
+Tocca <b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le impostazioni di sincronizzazione</b> per consentire la sincronizzazione automatica.</string>
     <string name="manual_sync">Sincronizza adesso</string>
     <string name="change_sync_settings">Modifica impostazioni di sincronizzazione</string>
-    <string name="photo_load_failed">Non è stato possibile caricare l\'immagine</string>
+    <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
     <string name="cant_move_or_change_labels">Impossibile spostare perché la selezione contiene account multipli.</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
@@ -800,18 +800,18 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="account_setup_incoming_mail_adress_label">Indirizzo email</string>
     <string name="account_setup_incoming_mail_domain_label">Dominio</string>
     <string name="account_setup_incoming_mail_domain_hint">Non può essere vuoto</string>
-    <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
-    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
-    <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
-    <string name="ser_resp_err_map_serclosed">Service closed</string>
-    <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
-    <string name="ser_resp_err_map_nouser">No such user</string>
-    <string name="ser_resp_err_map_or">Or</string>
-    <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
-    <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
-\u0009 (Check whether the setting is 'Auto sync time')"</string>
-    <string name="ser_resp_err_map_connect_err">Error in network connection. Please try another network</string>
-    <string name="no_wifi_promot">No WLAN is used now, please keep an eye on your traffic flow</string>
+    <string name="outbox_alert_description_auth_error">Causa: Errore di autenticazione sul server durante la sincronizzazione della posta in uscita</string>
+    <string name="outbox_alert_description_provision_error">Causa: Errore nei dati forniti dal server durante la sincronizzazione della posta in uscita</string>
+    <string name="outbox_alert_description_http_error">Causa: Errore HTTP error durante la sincronizzazione della posta in uscita</string>
+    <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
+    <string name="ser_resp_err_map_pserr">Nome utente o password errati</string>
+    <string name="ser_resp_err_map_nouser">Utente non esistente</string>
+    <string name="ser_resp_err_map_or">Oppure</string>
+    <string name="ser_resp_err_map_ssl">"Prova a scegliere 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
+    <string name="ser_resp_err_map_certificate_validator_err">"Impossibile validare il certificato del server
+\u0009 (Verifica l'impostazione di 'Sincronizzazione automatica orario')"</string>
+    <string name="ser_resp_err_map_connect_err">Errore nella connessione di rete. Prego provare con una rete diversa</string>
+    <string name="no_wifi_promot">Nessuna rete Wi-Fi attiva, si prega di tenere controllato il traffico dati</string>
     <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
     <string name="xiaomi_update_dialog_message">"Introduzione della versione %1$s
 Dimensione: %2$s"</string>
