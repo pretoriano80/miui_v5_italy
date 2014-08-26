@@ -2,18 +2,18 @@
 <resources>
 	<string name="pull_to_refresh_pull_label">Trascina per aggiornare</string> 
 	<string name="pull_to_refresh_release_label">Rilascia per caricare</string> 
-	<string name="pull_to_refresh_refreshing_label">Aggiornamento...</string> 
+	<string name="pull_to_refresh_refreshing_label">Aggiornamento…</string> 
 	<string name="pull_to_refresh_from_bottom_pull_label">Carica altro</string> 
 	<string name="app_name">MiBand</string> 
 	<string name="action_exit">Esci</string> 
 	<string name="register">Registra</string> 
 	<string name="login">Accesso</string> 
-	<string name="logining">Accesso...</string> 
+	<string name="logining">Accesso…</string> 
 	<string name="welcome">Benvenuto</string> 
 	<string name="login_failed">Accesso fallito, si prega di riprovare</string> 
 	<string name="failed_enable_bt">Il Bluetooth non è attivo!</string> 
 	<string name="search_bracelet">Ricerca MiBand in corso</string> 
-	<string name="connect_bracelet_now">Connession a MiBand, attendere...</string> 
+	<string name="connect_bracelet_now">Connession a MiBand, attendere…</string> 
 	<string name="firmware_upgrade">Aggiornamento firmware</string> 
 	<string name="bracelet_info_fw_version">"Firmware: %1$s protocollo: %2$s"</string> 
 	<string name="bracelet_info_mac_address">"Nome: %1$s  indirizzo: %2$s"</string> 
@@ -105,7 +105,7 @@
 	<string name="share_blog_cancel">Annulla</string> 
 	<string name="share_blog_title">Condividi online</string> 
 	<string name="share_blog_share">Condividi ora</string> 
-	<string name="share_blog_message_hint">Scrivi qualcosa...</string> 
+	<string name="share_blog_message_hint">Scrivi qualcosa…</string> 
 	<string name="share_blog_other">Altro SNS</string> 
 	<string name="share_blog_weixin">Weixin micro-channel</string> 
 	<string name="share_blog_pengyouquan">Cerchia di amici</string> 
@@ -174,7 +174,7 @@
 	<string name="stat_step_total">Numero totale di passi</string> 
 	<string name="stat_step_distance_total">Distanza totali</string> 
 	<string name="stat_step_calorie_total">Calorie totali</string> 
-	<string name="stat_step_walk">Mentre camminai</string> 
+	<string name="stat_step_walk">Mentre camminavi</string> 
 	<string name="stat_step_run">Mentre correvi</string> 
 	<string name="stat_step_daily">Numero di passi giornalieri</string> 
 	<string name="stat_step_distance_daily">Distanza giornaliera</string> 
@@ -250,7 +250,7 @@
 	<string name="downloading_apk">App MiBand</string> 
 	<string name="upgrade">Aggiornamento</string> 
 	<string name="download_failed">"Impossibile scaricare l'APK aggiornato"</string> 
-	<string name="start_download">Download in corso...</string> 
+	<string name="start_download">Download in corso…</string> 
 	<string name="apk_download_ok">Scaricamento applicazione MiBand completato</string> 
 	<string name="bracelet_login_info_2">"Eseguendo l'accesso accetti i Termini e Condizioni."</string> 
 	<string name="please_input_gender">Prego inserire il tuo sesso</string> 
@@ -261,7 +261,7 @@
 	<string name="visit_micom">Visita il sito ufficiale</string> 
 	<string name="apk_uptodate">"Hai già l'ultima versione disponibile"</string> 
 	<string name="local_app_failed">Impossibile trovare degli aggiornamenti sulla memoria locale</string> 
-	<string name="checking_new_apk">Ricerca nuova versione app...</string> 
+	<string name="checking_new_apk">Ricerca nuova versione app…</string> 
 	<string name="please_knock_bracelet">Tocca i cerchi per collegare</string> 
 	<string name="dynamic_title_sleep">Precedente sonno notturno</string> 
 	<string name="dynamic_title_step">Attività di oggi</string> 
@@ -326,7 +326,7 @@
 	<string name="help_title_3">"Connettere il MiBand ad un altro telefono?"</string> 
 	<string name="look_device_list">Elenco dei MiBand nelle vicinanze</string> 
 	<string name="device_list">Elenco dispositivi MiBand</string> 
-	<string name="unbinding">Disconnessione, prego attendere...</string> 
+	<string name="unbinding">Disconnessione, prego attendere…</string> 
 	<string name="share_sleep_title">Sonno notturno</string> 
 	<string name="share_sleep_title_average">Durata media del sonno</string> 
 	<string name="share_sleep_title_daily">Sonno diurno</string> 
@@ -348,8 +348,8 @@
 	<string name="smart_alarm_notify">Attivazione intelligente</string> 
 	<string name="battery_charge_full">Carica completata</string> 
 	<string name="battery_low_info">Batteria in esaurimento</string> 
-	<string name="battery_charging">In carica..</string> 
-	<string name="finding_bracelet">Ricerca del MiBand...</string> 
+	<string name="battery_charging">In carica…</string> 
+	<string name="finding_bracelet">Ricerca del MiBand…</string> 
 	<string name="unlock_screen_set_password_tips_set">Impostazioni password schermo</string> 
 	<string name="unlock_screen_set_password_tips_has_set">Password schermo impostata correttamente</string> 
 	<string name="unlock_screen_set_password">Passo uno, imposta la password schermo</string> 
@@ -359,7 +359,7 @@
 	<string name="unlock_screen_modify_unlock">"Se hai bisogno di fare delle modifiche, apri Impostazioni -> Tutte le impostazioni -> Sicurezza e privacy -> Sicurezza schermo"</string> 
 	<string name="bind_weixin_title">" dopo aver cliccato su \"connetti a Wechat\" sarà creato un codice QR nel tuo album, scansiona il codice QR in WeChat e quindi potrai connetterti  "</string> 
 	<string name="bind_weixin_tips">"        inoltre, puoi usare il PC visitando http://hm.xiaomi.com/login.do per ottenere il codice QR, e quindi usare lo scanner di codici QR di WeChat per connetterti"</string> 
-	<string name="bind_weixin_now">Generazione codice QR, attendere prego...</string> 
+	<string name="bind_weixin_now">Generazione codice QR, attendere prego…</string> 
 	<string name="bind_weixin_failed">Connessione fallita, si prega di riprovare</string> 
 	<string name="bind_weixin_succ">Connessione riuscita, usa il tuo WeChat per provare!</string> 
 	<string name="bind_weixin_save">Salva in un album：</string> 
@@ -390,7 +390,7 @@
 	<string name="continue_tips_format">"Continua per altri %1$s giorni a cercare di raggiungere l'obiettivo"</string> 
 	<string name="gram">grammo</string> 
 	<string name="kilogram">chilogrammo</string> 
-	<string name="sync_to_server">Sincronizzazione con MiCloud...</string> 
+	<string name="sync_to_server">Sincronizzazione con MiCloud…</string> 
 	<string name="unlock_screen_miui_version_low">La versione MIUI è obsoleta, prego aggiornarla per continuare</string> 
 	<string name="share_uninstall_client">Applicazione non installata, impossibile condividere</string> 
 	<string name="setting_feedback_send">Invia</string> 
@@ -406,9 +406,9 @@
 	<string name="dynamic_pull_connect_failed_hint">Prego controllare che il MiBand ed il telefono siano completamente carichi</string> 
 	<string name="dynamic_pull_not_sync_today">"Sincronizzazione non ancora eseguita quest'oggi"</string> 
 	<string name="dynamic_pull_last_sync_time">Ultima sincronizzazione</string> 
-	<string name="dynamic_pull_connecting_bracelet">Connessione al MiBand..</string> 
+	<string name="dynamic_pull_connecting_bracelet">Connessione al MiBand…</string> 
 	<string name="dynamic_pull_sync_after_connected">Dopo aver stabilito la connessione, la sincronizzazione automatica avrà inizio</string> 
-	<string name="dynamic_pull_syncing">Dettagli sincronizzazione...</string> 
+	<string name="dynamic_pull_syncing">Dettagli sincronizzazione…</string> 
 	<string name="dynamic_pull_syncing_progress">Sincronizzato %s%%</string> 
 	<string name="dynamic_pull_release_to_sync">Rilasciare per sincronizzare</string> 
 	<string name="dynamic_pull_pull_to_sync">Trascina giù per sincronizzare</string> 
@@ -417,7 +417,7 @@
 	<string name="mili_exit_login_info_unbind">"L'uscita rimuoverà la connessione attuale tra MiBand e telefono,"</string> 
 	<string name="mili_exit_login_info_unlock">incluso lo sblocco del telefono,</string> 
 	<string name="mili_exit_login_info_continue_tip">Continuare?</string> 
-	<string name="mili_exit_login_info_exiting">Uscita...</string> 
+	<string name="mili_exit_login_info_exiting">Uscita…</string> 
 	<string name="back">Indietro</string> 
 	<string name="enable_debug_log">Registro di debug attivato</string> 
 	<string name="disable_debug_log">Registro di debug disattivato</string> 
