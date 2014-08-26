@@ -22,13 +22,13 @@
     <string name="confirm_delete_downloads_message">Conferma rimozione download!</string>
     <string name="confirm_delete_the_download_item_message">Elimina i file scaricati.</string>
     <string name="delete_the_downloaded_file">Elimina file scaricati</string>
-    <string name="downloads_operating">In corso...</string>
+    <string name="downloads_operating">In corso…</string>
     <string name="select_operation_items">Selezionare operazione</string>
     <string name="preferences_title">Impostazioni</string>
     <string name="pref_download_settings_title">Segnalazione utilizzo dati</string>
     <string name="pref_title_enable_max_bytes_popup">Segnalazione dati download</string>
     <string name="pref_summary_enable_max_bytes_popup">Quando si è sotto copertura di rete mobile, comparirà un pop-up se il file ha dimensioni eccessive</string>
-    <string name="pref_summary_max_bytes_limit_format">Segnala con un po-pup se il file supera i %s</string>
+    <string name="pref_summary_max_bytes_limit_format">Segnala con un pop-up se il file supera i %s</string>
     <string name="pref_summary_any_bytes_popup">Sempre in coda con rete Wi-Fi</string>
     <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
     <string name="download_in_process">In download</string>
@@ -98,7 +98,7 @@
     <string name="download_error">Fallito</string>
     <string name="download_error_insufficient_space">Spazio insufficiente</string>
     <string name="dialog_title_not_available">Download Fallito</string>
-    <string name="dialog_failed_body">Vuoi provare a scaricarlo più tardi oppure cancellarlo dalla coda ?</string>
+    <string name="dialog_failed_body">Vuoi provare a scaricarlo più tardi oppure cancellarlo dalla coda?</string>
     <string name="dialog_title_queued_body">File non ancora disponibile</string>
     <string name="dialog_queued_body">Questo file è in coda per il prossimo download.</string>
     <string name="dialog_file_missing_body">Il file scaricato non è stato trovato.</string>
