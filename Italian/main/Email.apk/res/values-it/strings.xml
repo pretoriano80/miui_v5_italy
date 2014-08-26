@@ -51,7 +51,7 @@
     <string name="report_rendering_improvement">Looks good</string>
     <string name="report_rendering_problem_desc">This message looks bad.</string>
     <string name="report_rendering_improvement_desc">This message looks good.</string>
-    <string name="formatted_email_address">&lt;%1$s></string>
+    <string name="formatted_email_address"><%1$s></string>
     <string name="prefDefault_removal_action">archive</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
@@ -59,7 +59,7 @@
     <string name="senders_elided">..</string>
     <string name="elided_padding_token"> </string>
     <string name="message_count_spacer">  </string>
-    <string name="quote_begin">&lt;div class=\"quote\"></string>
+    <string name="quote_begin"><div class=\"quote\"></string>
     <string name="prefDefault_autoAdvance">list</string>
     <string name="search_title">Email unificate</string>
     <string name="folder_sent_name_en0">Inviata</string>
@@ -398,10 +398,10 @@ CC: %4$s
     <string name="compose">Scrivi</string>
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
-    <string name="contact_select">Select contacts</string>
-    <string name="reply_subject_label">Re:</string>
-    <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
-    <string name="forward_attribution">---------- Messaggio inoltrato ----------&lt;br>Da: %1$s&lt;br>Data: %2$s&lt;br>Oggetto: %3$s&lt;br>A: %4$s&lt;br></string>
+    <string name="contact_select">Seleziona i contatti</string>
+    <string name="reply_subject_label">R:</string>
+    <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
+    <string name="forward_attribution">---------- Messaggio inoltrato ----------<br>Da: %1$s<br>Data: %2$s<br>Oggetto: %3$s<br>A: %4$s<br></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="cc_attribution">Cc: %1$s</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
