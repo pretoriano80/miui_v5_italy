@@ -525,7 +525,7 @@ ed esci dall'inquadratura"</string>
     <string name="cannot_move_warning_message">Foto in esecuzione, non muovere il dispositivo</string>
     <string name="ubifocus_capture_warning_message">"E' meglio quando la schermata di anteprima contiene sia oggetti vicini (meno di un metro dall'obbiettivo) che oggetti lontani"</string>
     <string name="pref_camera_auto_capture_when_stable_title">Scatta automaticamente quando stabile</string>
-    <string name="ubi_focus_capture_fail">Catturazione fallita,si prega di riprovare</string>
+    <string name="ubi_focus_capture_fail">Cattura fallita,si prega di riprovare</string>
     <string name="pref_video_4kuhd_title_simple_mode">Modalità 4K</string>
     <string name="simple_mode_button_text_4kuhd">Chiudi fotocamera 4K</string>
     <string name="pref_camera_countdown_title">Conto alla rovescia</string>
