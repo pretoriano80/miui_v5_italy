@@ -46,13 +46,7 @@
     <string name="contact_content_provider">Contatta Content Provider</string>
     <string name="account_cache_provider">Account Cache Provider</string>
     <string name="formatted_subject">%1$s%2$s</string>
-    <string name="forward_subject_label">Fwd:</string>
-    <string name="report_rendering_problem">Looks bad</string>
-    <string name="report_rendering_improvement">Looks good</string>
-    <string name="report_rendering_problem_desc">This message looks bad.</string>
-    <string name="report_rendering_improvement_desc">This message looks good.</string>
     <string name="formatted_email_address"><%1$s></string>
-    <string name="prefDefault_removal_action">archive</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
@@ -60,7 +54,6 @@
     <string name="elided_padding_token"> </string>
     <string name="message_count_spacer">  </string>
     <string name="quote_begin"><div class=\"quote\"></string>
-    <string name="prefDefault_autoAdvance">list</string>
     <string name="search_title">Email unificate</string>
     <string name="folder_sent_name_en0">Inviata</string>
     <string name="folder_sent_name_en1">Messaggi inviati</string>
@@ -399,9 +392,8 @@ CC: %4$s
     <string name="compose_send">Invia</string>
     <string name="compose_sent">Inviato correttamente</string>
     <string name="contact_select">Seleziona i contatti</string>
-    <string name="reply_subject_label">R:</string>
     <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
-    <string name="forward_attribution">---------- Messaggio inoltrato ----------<br>Da: %1$s<br>Data: %2$s<br>Oggetto: %3$s<br>A: %4$s<br></string>
+    <string name="forward_attribution">---------- Messaggio inoltrato ----------&lt;br>Da: %1$s&lt;br>Data: %2$s&lt;br>Oggetto: %3$s&lt;br>A: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="cc_attribution">Cc: %1$s</string>
     <string name="select_attachment_type">Scegli tipo di allegato</string>
@@ -579,8 +571,8 @@ CC: %4$s
     <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
     <string name="wait_for_sync_body">La tua email comparirà a breve.</string>
     <string name="not_synced_title">Account non sincronizzato</string>
-    <string name="wait_for_manual_sync_body">Questo account non è impostato per la sincronizzazione automatica.
-Tocca <b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le impostazioni di sincronizzazione</b> per consentire la sincronizzazione automatica.</string>
+    <string name="wait_for_manual_sync_body">"Questo account non è impostato per la sincronizzazione automatica.
+Tocca "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le impostazioni di sincronizzazione</b> per consentire la sincronizzazione automatica.</string>
     <string name="manual_sync">Sincronizza adesso</string>
     <string name="change_sync_settings">Modifica impostazioni di sincronizzazione</string>
     <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
