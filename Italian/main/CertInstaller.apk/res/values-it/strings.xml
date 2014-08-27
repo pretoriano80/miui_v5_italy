@@ -24,9 +24,9 @@
     <string name="no_cert_to_saved">Nessun certificato da installare.</string>
     <string name="invalid_cert">Certificato non valido.</string>
     <string name="cert_is_added">%s installato.</string>
-    <string name="cert_too_large_error">Impossibile installare perchè le dimensioni del certificato sono troppo grandi.</string>
-    <string name="cert_missing_error">Impossibile installare perchè il certificato non è stato trovato.</string>
-    <string name="cert_read_error">Impossibile installare perchè il certificato non può essere letto.</string>
+    <string name="cert_too_large_error">Impossibile installare perché le dimensioni del certificato sono troppo grandi.</string>
+    <string name="cert_missing_error">Impossibile installare perché il certificato non è stato trovato.</string>
+    <string name="cert_read_error">Impossibile installare perché il certificato non può essere letto.</string>
     <string name="no_cert_file_found">"Nessun certificato nell'archivio USB."</string>
     <string name="sdcard_not_present">Archivio USB non disponibile.</string>
 </resources>

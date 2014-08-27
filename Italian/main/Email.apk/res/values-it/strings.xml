@@ -13,13 +13,9 @@
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
-    <string name="quoted_text_background_color_string">@android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="date">2888/88/88</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
-    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="debug_enable_debug_logging_label">Attivare registrazione debug extra?</string>
     <string name="debug_enable_verbose_logging_label">Attivare la registrazione molto lunga?</string>
     <string name="debug_enable_file_logging_label">Attivare la registrazione scheda SD?</string>
@@ -41,10 +37,7 @@
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_eas">eas</string>
     <string name="application_mime_type">application/email-ls</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contatta Content Provider</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="formatted_subject">%1$s%2$s</string>
     <string name="formatted_email_address">&lt;%1$s></string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
