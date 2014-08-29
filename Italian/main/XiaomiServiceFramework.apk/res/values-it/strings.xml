@@ -66,6 +66,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="login_failed">Accesso fallito</string>
     <string name="logout_failed">Logout fallito</string>
     <string name="error_network">Problemi con la connessione di rete</string>
+    <string name="error_device_id">"Impossibile rilevare IMEI"</string>
     <string name="error_dup_phone">Il telefono è stato registrato</string>
     <string name="error_phone_error">Numero di telefono non valido</string>
     <string name="error_server">Problemi con il server</string>
@@ -291,4 +292,5 @@ Per risolvere questo problema, puoi eliminare alcuni vecchi file o acquistare sp
     <string name="enable_sync_dspt">Sincronizzazione disattivata</string>
     <string name="enable_sync">Attiva sincronizzazione</string>
     <string name="micloud_proceed">Continua</string>
+    <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona di nuovo il QR code dopo aver effettuato l'accesso."</string>
 </resources>
