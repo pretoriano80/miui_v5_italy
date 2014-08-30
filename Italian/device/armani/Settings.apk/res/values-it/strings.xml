@@ -3145,6 +3145,10 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="pref_volume_wake_summary">Riattiva il telefono premendo i tasti volume su/giù. Pensato per terminali in cui il tasto accensione si preme con difficoltà</string>
     <string name="media_button">Tasto Media</string>
     <string name="preferred_media_app_summary">Scegli app Musica</string>
+    <string name="priority_storage_app_settings">I dati utente verranno salvati in %1$s</string>
+    <string name="priority_storage_settings_summary">Se non viene rilevata una scheda SD, i dati utente verranno salvati automaticamente nella memoria interna del tuo dispositivo"</string>
+    <string name="priority_storage_summary">Seleziona il tipo di memoria predefinita in cui salvare i dati utente</string>
+    <string name="priority_storage_title">Impostazioni di archiviazione</string>
     <string name="no_media_button_receiver">No</string>
     <string name="camera_key_action_title">Tasto MI</string>
     <string name="camera_key_action_setting_title">Tasto MI</string>

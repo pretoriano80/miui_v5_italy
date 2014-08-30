@@ -219,6 +219,7 @@
     <string name="effect_backdropper_gallery">Scegli tu</string>
     <string name="bg_replacement_message">"Posiziona il terminale in basso
 ed esci dall'inquadratura"</string>
+    <string name="burst_shoot_exit_button_text">Esci dalla modalità scatto multiplo</string>
     <string name="video_snapshot_hint">"Scatta una foto durante la registrazione video toccando l'anteprima."</string>
     <string name="disable_video_snapshot_hint">Le foto durante la registrazione video sono disabilitati se si usano gli effetti video.</string>
     <string name="snapshot_lower_than_video">La risoluzione dello snapshot video è più bassa di quella video. Raggiungere i valori del video. Selezionare una risoluzione uguale o superiore a quella del video.</string>
@@ -276,6 +277,7 @@ ed esci dall'inquadratura"</string>
     <string name="pref_grp_picture_settings">Impostazioni Immagini</string>
     <string name="pref_grp_capture_settings">Impostazioni Scatto</string>
     <string name="pref_advanced_settings">Avanzate</string>
+	<string name="pref_burst_shoot_title">Scatto multiplo</string>
     <string name="pref_advanced_functions">Funzioni avanzate</string>
     <string name="pref_grp_advanced_settings">Impostazioni avanzate</string>
     <string name="pref_grp_restore_settings">Ripristina impostazioni</string>
@@ -449,7 +451,9 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_setting_title">Impostazioni</string>
     <string name="pref_camera_raw_data_title">RAW</string>
+	<string name="pref_priority_storage_title">Salva nella scheda SD</string>
     <string name="pref_scan_qrcode_title">Scansiona QR Code</string>
+	<string name="pref_long_press_shutter_button_focus_title">Premere a lungo il pulsante di scatto per mettere a fuoco</string>
     <string name="pref_manual_exposure_title">Esposizione manuale</string>
     <string name="pref_camera_exposuretime_title">Tempo si esposizione</string>
     <string name="pref_camera_exposuretime_entry_auto">Auto</string>
