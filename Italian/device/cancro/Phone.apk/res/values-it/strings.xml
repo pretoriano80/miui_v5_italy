@@ -621,7 +621,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="registration_status_no_data">"La registrazione account si è interrotta perchè non c'è connessione internet"</string>
     <string name="registration_status_no_wifi_data">"La registrazione account si è interrotta perchè non c'è connessione Wi-Fi"</string>
     <string name="registration_status_not_running">Registrazione account fallita</string>
-    <string name="registration_status_done">Le chiamate verranno ricevute</string>
+    <string name="registration_status_done">Le chiamate sono abilitate</string>
     <string name="registration_status_failed_try_later">La registrazione account è fallita: (%s); riproverà più tardi</string>
     <string name="registration_status_invalid_credentials">La registrazione account è fallita: username o password errate</string>
     <string name="registration_status_server_unreachable">La registrazione account è fallita: controllare nome server</string>
@@ -773,7 +773,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="cursorError">Il cursore non utilizza dati appropriati !</string>
     <string name="undefined_miui">Non definito</string>
     <string name="add_button_miui">Aggiungi</string>
-    <string name="add_zero_prefix">Aggiungi il prefisso 0 durante la digitazione di un numero di cellulare</string>
+    <string name="add_zero_prefix">Antempoi 0 ai num. di cellulare</string>
     <string name="always_enable_mms_miui">Ricevi sempre MMS</string>
     <string name="always_enable_mms_summary_miui">Ricevi sempre MMS anche quando la connessione dati è disattivata</string>
     <string name="answer_and_hangup_miui">Rispondi</string>
@@ -809,8 +809,8 @@ Passare comunque al nuovo operatore?"</string>
     <string name="auto_ip_summary_not_enabled">Non abilitato</string>
     <string name="auto_ip_setting_miui">Impostazioni IP automatico</string>
     <string name="autoip_sum_miui">Aggiungi prefisso IP a numero sconosciuto. Inserire prefisso di seguito.</string>
-    <string name="auto_ip_exception_miui">Numeri che non necessitano di prefisso IP</string>
-    <string name="auto_ip_no_exceptions_miui">Si prega di inserire numeri che non necessitino del prefisso IP</string>
+    <string name="auto_ip_exception_miui">Lista eccezioni prefisso int.</string>
+    <string name="auto_ip_no_exceptions_miui">Inserire i numeri a cui non si deve anteporre il prefisso internazionale</string>
     <string name="auto_ip_add_exception_numbers_miui">Aggiungi numeri</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Sicuro di voler cancellare questi %d numeri?</string>
     <string name="auto_ip_exception_summary_miui">%d in totale</string>
@@ -908,7 +908,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="crystaltalk_title_miui">Impostazioni NICAM</string>
     <string name="current_areacode_miui">Prefisso internazionale attuale</string>
     <string name="current_areacode_sum_miui">Prefisso internazionale della posizione attuale, o prefisso roaming se si è in modalità roaming. Ad esempio: 010</string>
-    <string name="current_areacode_sum_set_miui">Prefisso locale attuale:%s</string>
+    <string name="current_areacode_sum_set_miui">Prefisso internazionale della nazione in cui ti trovi ora:%s</string>
     <string name="custom_location_location_no_item_miui">"Premi 'Aggiungi' per aggiungere un attributo personalizzato"</string>
     <string name="custom_location_location_hint_miui">Nome</string>
     <string name="custom_location_number_hint_miui">Prefissi internazionali tipo 010, numeri gruppo tipo 68#####</string>
@@ -972,9 +972,9 @@ Passare comunque al nuovo operatore?"</string>
     <string name="invalid_pin_miui">PIN non valido, digita un PIN compreso tra 4 8 numeri</string>
     <string name="invalid_puk2_miui">PUK2 non valido, digita un PUK2 compreso tra 4 e 8 numeri.</string>
     <string name="invalid_puk_miui">PUK non valido, digita un PUK di 8 numeri.</string>
-    <string name="ip_prefix_miui">Prefisso IP</string>
+    <string name="ip_prefix_miui">Prefisso internazionale</string>
     <string name="ip_prefix_required_miui">Prefisso IP richiesto</string>
-    <string name="ip_prefix_sum_miui">Prefisso IP operatore:%s</string>
+    <string name="ip_prefix_sum_miui">Prefisso internazionale della tua nazione: %s</string>
     <string name="jituan_number_format_error_message_miui">%s supporta solo numeri e caratteri speciali</string>
     <string name="label_puk2_code_miui">Digita il codice PUK2</string>
     <string name="label_puk_code_miui">Inserisci cdice PUK</string>

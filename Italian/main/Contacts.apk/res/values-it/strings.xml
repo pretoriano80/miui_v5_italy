@@ -872,7 +872,7 @@ Tocca l'icona Unisci in basso per iniziare"</string>
     <string name="preference_telocation_summary_countrycode_off">Prefisso internazionale non automatico</string>
     <string name="preference_phone">Telefono</string>
     <string name="preference_dial_pad_touch_tone_title">Toni tastiera</string>
-    <string name="preference_auto_ip_title">IP automatico</string>
+    <string name="preference_auto_ip_title">Prefisso internaz. automatico</string>
     <string name="preference_auto_ip_summary_disable">Non abilitato</string>
     <string name="preference_auto_ip_summary_on">Prefisso IP operatore: %s</string>
     <string name="preference_phone_more_title">Altre impostazioni telefono</string>
