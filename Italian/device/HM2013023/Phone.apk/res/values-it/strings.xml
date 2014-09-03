@@ -983,7 +983,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="auto_ip_summary_not_enabled">Non abilitato</string>
     <string name="auto_ip_setting_miui">Impostazioni IP automatico</string>
     <string name="autoip_sum_miui">Aggiungi prefisso IP a numero sconosciuto. Inserire prefisso di seguito.</string>
-    <string name="auto_ip_exception_miui">Lista eccezioni prefisso int.</string>
+    Lista eccezioni pref. int.
     <string name="auto_ip_no_exceptions_miui">Inserire i numeri a cui non si deve anteporre il prefisso internazionale</string>
     <string name="auto_ip_add_exception_numbers_miui">Aggiungi numeri</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Sicuro di voler cancellare questi %d numeri?</string>
