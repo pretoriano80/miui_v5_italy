@@ -773,7 +773,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="cursorError">Il cursore non utilizza dati appropriati !</string>
     <string name="undefined_miui">Non definito</string>
     <string name="add_button_miui">Aggiungi</string>
-    <string name="add_zero_prefix">Antempoi 0 ai num. di cellulare</string>
+    <string name="add_zero_prefix">Antemponi 0 ai num. di cellulare</string>
     <string name="always_enable_mms_miui">Ricevi sempre MMS</string>
     <string name="always_enable_mms_summary_miui">Ricevi sempre MMS anche quando la connessione dati è disattivata</string>
     <string name="answer_and_hangup_miui">Rispondi</string>
