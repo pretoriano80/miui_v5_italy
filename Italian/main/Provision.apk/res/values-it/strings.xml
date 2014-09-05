@@ -17,10 +17,17 @@
     <string name="other_service_user_experience_summary1">\u0020Privacy policy</string>
     <string name="sim_card_detection_dialog_message">Rilevamento SIM. Attendere prego.</string>
     <string name="sim_card_detection_label">Rilevamento SIM</string>
+    <string name="terms_label">Termini e COndizioni</string>
     <string name="sim_card_detection_info">Non possiamo impostare un account Xiaomi senza una SIM. Avrai bisogno di una SIM per utilizzare alcuni servizi come la sincronizzazione account, tracciamento telefono etc.</string>
     <string name="sim_card_detection_status_absent">SIM non rilevata. Inserire una SIM e riavviare o continuare.</string>
     <string name="setup_complete_label">Grazie</string>
     <string name="setup_complete_info" />
     <string name="setup_complete_start">Inizia ad utilizzare il telefono</string>
-    <string name="setup_complete_summary">Adesso goditi MIUI :)</string>
+ <string name="terms_description">"La tua privacy per noi è molto importante. PLeggi %1$s e %2$s per sapere quali informazioni raccogliamo, come le utilizziamo e quali sono le tue possibilità di scelta in merito.
+
+L'utilizzo di MIUI e dei relativi è soggetto alle regolamentazioni sopra indicate."</string>
+    <string name="terms_of_service">Termini del Servizio</string>
+    <string name="privacy_policy">Privacy</string>
+    <string name="terms_agree">Acconsento</string>
+    <string name="terms_disagree">Annulla</string>
 </resources>

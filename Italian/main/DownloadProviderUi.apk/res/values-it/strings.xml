@@ -78,6 +78,10 @@
     <string name="get_order_fail_msg">Recupero ordine fallito</string>
     <string name="get_order_dialog_msg">Recupero informazioni ordine</string>
     <string name="get_account_dialog_msg">Recupero informazioni account</string>
+    <string name="add_flow_success_msg">Ricevi 300MB di traffico con banda ad alta velocità</string>
+    <string name="add_flow_fail_vip_msg">Gentile VIP Thunder, Il Canale ad Alta Velocità è aperto</string>
+    <string name="add_flow_fail_haveget_msg">Spiacente,hai già utilizzato il tuo traffico ad alta velocità per questo mese</string>
+    <string name="display_expire_netiv1">Traffico mensile</string>
     <string name="download_list_open_xl_title">Apri il motore downlaod Xunlei</string>
     <string name="download_list_open_xl_message">Apri il motore downlaod Xunlei, servizio download ad alta velocità illimitato immediato.</string>
     <string name="download_list_open_xl_ok">OK</string>
