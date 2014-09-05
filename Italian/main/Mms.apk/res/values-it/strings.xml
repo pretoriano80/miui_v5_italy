@@ -454,5 +454,5 @@ Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="xiaomi_service_number">Numero del servizio</string>
     <string name="retrive_hms_tips">Nuovo tentativo...</string>
     <string name="hms_first_use_tips">Per ricevere messaggi di servizio, devi essere connesso ad una rete Wi-Fi</string>
-    <string name="send_hms_editor_hints">Messagi Cloud</string>
+    <string name="send_hms_editor_hints">Messaggi Cloud</string>
 </resources>
