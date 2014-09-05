@@ -616,7 +616,7 @@ Il periodo succ. inizia tra %2$d gg (%3$s)"</string>
     <string name="no_internet_available_title">Nessuna connessione internet</string>
     <string name="no_wifi_available_title">Nessuna connessione Wi-Fi</string>
     <string name="no_internet_available">Per effettuare una chiamata internet, verifica prima la connessione internet</string>
-    <string name="no_wifi_available">Devi essere connesso ad una rete Wi-Fi per effettuare chiamate internet (usa le impostazioni Wireless & Rete)</string>
+    <string name="no_wifi_available">Devi essere connesso ad una rete Wi-Fi per effettuare chiamate internet (usa le impostazioni Wireless &amp; Rete)</string>
     <string name="no_voip">Chiamate internet non supportate</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Invia sempre</string>
