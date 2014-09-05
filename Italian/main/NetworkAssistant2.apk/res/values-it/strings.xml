@@ -231,8 +231,8 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_notify_start_title">"Ridurre l'utilizzo dei dati"</string>
     <string name="traffic_saving_notify_start_content">%s risparmiati in questo mese</string>
     <string name="traffic_saving_toast_start_mobile">Risparmio attivato</string>
-    <string name="traffic_saving_toast_start_none_mobile">Risparmio sarà inizializzato quando attiverai la tua connessione dati</string>
-    <string name="traffic_saving_toast_start_unreachable">Risparmio non può essere inizializzato</string>
+    <string name="traffic_saving_toast_start_none_mobile">Risparmio sarà avviato quando attiverai la tua connessione dati</string>
+    <string name="traffic_saving_toast_start_unreachable">Risparmio non può essere avviato</string>
     <string name="traffic_saving_toast_stop">Risparmio disattivato</string>
     <string name="traffic_saving_title">Risparmio</string>
     <string name="traffic_saving_button_start">Attiva</string>

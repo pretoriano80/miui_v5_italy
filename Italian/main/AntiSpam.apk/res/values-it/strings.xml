@@ -197,7 +197,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="ad_update_title">Aggiornamento automatico</string>
     <string name="ad_update_time">Ultimo aggiornamento: %s</string>
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: sconosciuto</string>
-    <string name="ad_block_hint">%d bloccati</string>
+    <string name="ad_block_hint">%d plugin</string>
     <string name="ad_single_block_hint">Bloccato</string>
     <string name="ad_permission_hint">"L'utilizzo di Ad Blocker potrebbe influire sul normale funzionamento di alcune applicazioni."</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
