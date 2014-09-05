@@ -511,7 +511,6 @@ Passare comunque al nuovo operatore?"</string>
     <string name="ota_title_activate">Attiva il telefono</string>
     <string name="ota_touch_activate">È necessario effettuare una chiamata speciale per attivare il servizio telefonico. Dopo avere premuto “Attiva”, ascolta le istruzioni fornite per attivare il telefono.</string>
     <string name="ota_skip_activation_dialog_title">"Saltare l'attivazione?"</string>
-    <string name="ota_skip_activation_dialog_message">"Se salti l'attivazione, non potrai effettuare chiamate o connetterti a reti di dati mobili (ma potrai connetterti a reti Wi-Fi). Finché non attiverai il telefono, ti verrà chiesto di attivarlo ogni volta che lo accendi."</string>
     <string name="ota_skip_activation_dialog_skip_label">Salta</string>
     <string name="ota_activate">Attiva</string>
     <string name="ota_title_activate_success">Telefono attivato!</string>
