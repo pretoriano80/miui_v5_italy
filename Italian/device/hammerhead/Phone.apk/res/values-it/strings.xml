@@ -537,7 +537,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="absent_num">NUMERO ASSENTE</string>
     <string name="voicemail_provider">Servizio di segreteria</string>
     <string name="voicemail_settings">Impostazioni Segreteria</string>
-    <string name="voicemail_number_not_set"><non impostato></string>
+    <string name="voicemail_number_not_set">non impostato</string>
     <string name="other_settings">Altre impostazioni chiamate</string>
     <string name="calling_via_template">"Chiama tramite ^1
 "</string>
