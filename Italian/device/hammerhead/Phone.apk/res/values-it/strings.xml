@@ -538,7 +538,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="absent_num">NUMERO ASSENTE</string>
     <string name="voicemail_provider">Servizio di segreteria</string>
     <string name="voicemail_settings">Impostazioni Segreteria</string>
-    <string name="voicemail_number_not_set">&lt;non impostato></string>
+    <string name="voicemail_number_not_set"><non impostato></string>
     <string name="other_settings">Altre impostazioni chiamate</string>
     <string name="calling_via_template">"Chiama tramite ^1
 "</string>
@@ -604,7 +604,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="auth_username_title">Autenticazione username</string>
     <string name="auth_username_summary">Username usato per autenticazione</string>
     <string name="default_preference_summary">Non impostato</string>
-    <string name="display_name_summary">&lt;Uguale allo username></string>
+    <string name="display_name_summary"><Uguale allo username></string>
     <string name="optional_summary">Opzionale</string>
     <string name="advanced_settings_show">▷ Tocca per mostrare tutto</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
@@ -613,7 +613,7 @@ Passare comunque al nuovo operatore?"</string>
     <string name="no_internet_available_title">Nessuna connessione internet</string>
     <string name="no_wifi_available_title">Nessuna connessione Wi-Fi</string>
     <string name="no_internet_available">Per effettuare una chiamata internet, verifica prima la connessione internet</string>
-    <string name="no_wifi_available">Devi essere connesso ad una rete Wi-Fi per effettuare chiamate internet (usa le impostazioni Wireless &amp; Rete)</string>
+    <string name="no_wifi_available">Devi essere connesso ad una rete Wi-Fi per effettuare chiamate internet (usa le impostazioni Wireless & Rete)</string>
     <string name="no_voip">Chiamate internet non supportate</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Invia sempre</string>
@@ -742,7 +742,6 @@ Passare comunque al nuovo operatore?"</string>
     <string name="auto_ip_summary_not_enabled">Non abilitato</string>
     <string name="auto_ip_setting_miui">Impostazioni IP automatico</string>
     <string name="autoip_sum_miui">Aggiungi prefisso IP a numero sconosciuto. Inserire prefisso di seguito.</string>
-    Lista eccezioni pref. int.
     <string name="auto_ip_no_exceptions_miui">Inserire i numeri a cui non si deve anteporre il prefisso internazionale</string>
     <string name="auto_ip_add_exception_numbers_miui">Aggiungi numeri</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Sicuro di voler cancellare questi %d numeri?</string>
