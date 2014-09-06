@@ -354,6 +354,8 @@
     <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Messaggi cloud</string>
     <string name="mx_enable">Abilita messaggi cloud</string>
+    <string name="mx_on_sim_1">Messaggi Cloud con slot SIM %s</string>
+    <string name="mx_on_sim_2">Messaggi Cloud con slot SIM %s</string>
     <string name="ex_type_sms">SMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>
     <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
@@ -455,4 +457,9 @@ Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="retrive_hms_tips">Nuovo tentativo...</string>
     <string name="hms_first_use_tips">Per ricevere messaggi di servizio, devi essere connesso ad una rete Wi-Fi</string>
     <string name="send_hms_editor_hints">Messaggi Cloud</string>
+    <string name="share_img">Condividi</string>
+    <string name="file_width_height">Dimensione:</string>
+    <string name="file_create_time">Data di creazione:</string>
+    <string name="file_size">Dimensione:</string>
+    <string name="file_title">Nome:</string>
 </resources>
