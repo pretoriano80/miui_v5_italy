@@ -42,8 +42,8 @@
     <string name="compat_mode_off">Estendi per riemp. schermo</string>
     <string name="compat_mode_help_header">Zoom compatibilità</string>
     <string name="compat_mode_help_body">"Se un'applicazione è stata progettata per uno schermo più piccolo, accanto all'orologio viene visualizzato un controllo dello zoom."</string>
-    <string name="screenshot_saving_ticker">Salvataggio screenshot...</string>
-    <string name="screenshot_saving_title">Salvataggio screenshot...</string>
+    <string name="screenshot_saving_ticker">Salvataggio screenshot…</string>
+    <string name="screenshot_saving_title">Salvataggio screenshot…</string>
     <string name="screenshot_saving_text">Screenshot in corso di salvataggio.</string>
     <string name="screenshot_saved_title">Screenshot acquisito.</string>
     <string name="screenshot_saved_text">Tocca per visualizzare il tuo screenshot.</string>
@@ -142,7 +142,7 @@
     <string name="settings_toggle_layout_style">Stile comandi</string>
     <string name="settings_toggle_layout_style_compact">Compatto</string>
     <string name="settings_toggle_layout_style_single_page">Pagina</string>
-    <string name="settings_toggle_layout_style_applying">Modifica stile comandi...</string>
+    <string name="settings_toggle_layout_style_applying">Modifica stile comandi…</string>
     <string name="settings_custom_notification">Notifiche personalizzate</string>
     <string name="settings_all_app_display_loading">Caricamento, attendere prego</string>
     <string name="settings_show_notificationBar_notification">Abilita notifiche</string>

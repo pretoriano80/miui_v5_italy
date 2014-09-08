@@ -8,7 +8,7 @@
     <string name="outbound_me_profile_text">Tocca per inviare a questa persona le informazioni di contatto</string>
     <string name="accessibility_nfc_enabled">Comunicazione NFC abilitata.</string>
     <string name="touch">Tocca per trasmettere</string>
-    <string name="beam_progress">Trasmissione in arrivo...</string>
+    <string name="beam_progress">Trasmissione in arrivo…</string>
     <string name="beam_complete">Trasmissione completata</string>
     <string name="beam_failed">Trasmissione non completata</string>
     <string name="beam_canceled">Trasmissione annullata</string>

@@ -79,13 +79,13 @@
     <string name="missed_call">%d chiamata persa</string>
     <string name="missed_calls">%d chiamate perse</string>
     <string name="no_favorite_contacts">Nessun contatto preferito</string>
-    <string name="media_controller_buffering">Creazione buffer %d%%...</string>
+    <string name="media_controller_buffering">Creazione buffer %d%%…</string>
     <string name="contact_widget_loading">Caricamento…</string>
     <string name="volume_fm">Volume FM</string>
     <string name="volume_matv">Volume TV mobile</string>
     <string name="media_controller_live">Dal vivo</string>
     <string name="media_controller_playing">Riproduzione</string>
-    <string name="media_controller_connecting">Connessione...</string>
+    <string name="media_controller_connecting">Connessione…</string>
     <string name="media_controller_weak_signal">Segnale debole</string>
     <string name="VideoView_error_text_bad_file">File corrotto, impossibile riprodurre il video.</string>
     <string name="VideoView_error_text_cannot_connect_to_server">Impossibile effettuare la connessione al server.</string>
@@ -151,7 +151,7 @@
     <string name="keyguard_internal_call">Chiamata Internet</string>
     <string name="keyguard_not_set">Non impostato</string>
     <string name="network_searching">Ricerca di nuova rete</string>
-    <string name="searching_simcard">Rilevamento in corso...</string>
+    <string name="searching_simcard">Rilevamento in corso…</string>
     <string name="keyguard_close">Chiudi</string>
     <string name="more_siminfo_for_button">Altre informazioni</string>
     <string name="more_info_title">Sblocca la carta SIM marcata</string>

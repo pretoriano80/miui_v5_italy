@@ -117,7 +117,7 @@
     <string name="title_nopassword">Non richiedere per piccoli pagamenti</string>
     <string name="title_password_threshold">Limite giornaliero = %1$s yuan</string>
     <string name="title_nopassword_dialog">Limite quotidiano</string>
-    <string name="progress_loading">Caricamento in corso...</string>
+    <string name="progress_loading">Caricamento in corso…</string>
     <string name="login">Login</string>
     <string name="password_hint">Prego inserire la tua password</string>
     <string name="password_error">Autenticazione tramite password fallita</string>
@@ -163,7 +163,7 @@ In caso di dubbio, si prega di visitare il sito ufficiale Xiaomi per assistenza"
     <string name="timesync_about_feature_screen_details">"Premendo &amp;quot;Sincronizza ora&amp;quot;, Authenticator eseguirà un tentativo di sincronizzare l'orologio interno con i server di Google. La data e l'ora del dispositivo non verranno modificate. &lt;p&gt; Authenticator non trasmette nessun dato personale né informazioni sull'account durante la sincronizzazione del proprio orario interno con i server di Google. &lt;p&gt; &lt;b&gt;Perché è utile&lt;/b&gt; &lt;p&gt; Authenticator genera i codici di verifica in 2 passi basandosi su 1) l'orario attuale, e 2) un numero segreto noto all'app e al server. &lt;p&gt; Se Authenticator e il server non concordano sull'ora, i codici generati dall'app potrebbero non essere accettati quando cerchi di eseguire l'accesso. &lt;p&gt; Per impostazione predefinita, Authenticator usa la data e l'ora impostata sul dispositivo, e spesso si riesci a generare codici validi assicurandosi che le impostazioni di orario, data, e fuso orario sono correttamente configurati. Ad ogni modo, quando c'è una differenza sull'orario, può essere difficile capire dov'è l'errore (specialmente se usi il fuso orario o l'orario fornito dalla rete)."</string>
     <string name="timesync_sync_now_screen_title">Sincronizza ora</string>
     <string name="timesync_sync_now_progress_dialog_title">Sincronizza ora</string>
-    <string name="timesync_sync_now_progress_dialog_details">Connessione al server in corsa...</string>
+    <string name="timesync_sync_now_progress_dialog_details">Connessione al server in corsa…</string>
     <string name="timesync_sync_now_time_corrected_dialog_title">Orario aggiornato</string>
     <string name="timesync_sync_now_time_corrected_dialog_details">"L'orologio interno di Authenticator è stato regolato per corrispondere all'orario fornito dai server in rete. 
 

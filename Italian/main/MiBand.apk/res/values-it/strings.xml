@@ -220,7 +220,7 @@
 	<string name="app_exit_press_again">Premi di nuovo per uscire</string> 
 	<string name="set_goal_step">8000 passi al giorno</string> 
 	<string name="hour_1">Inizio alle</string> 
-	<string name="wait">Attendere...</string> 
+	<string name="wait">Attendere…</string> 
 	<string name="content_too_short">Non può essere lasciato vuoto</string> 
 	<string name="help">Guida</string> 
 	<string name="unlock_screen_invalid_helper">Guida sui problemi di sblocco schermo</string> 

@@ -33,8 +33,8 @@
     <string name="resource_pack_warning">Attenzione! Hai giù acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente.</string>
     <string name="resource_title">Dettagli risorsa</string>
     <string name="resource_download">Download</string>
-    <string name="resource_downloading">In Download...</string>
-    <string name="resource_waiting_download">In attesa del download...</string>
+    <string name="resource_downloading">In Download…</string>
+    <string name="resource_waiting_download">In attesa del download…</string>
     <string name="resource_import_successful">Download completato.</string>
     <string name="resource_import_failed">Importazione fallita</string>
     <string name="resource_delta_update_successful">Aggiornamento patch completato，risparmiati %1$s.</string>
@@ -44,11 +44,11 @@
     <string name="resource_update">Aggiorna</string>
     <string name="resource_select">Seleziona</string>
     <string name="resource_buy">Compra</string>
-    <string name="resource_importing">Importazione...</string>
+    <string name="resource_importing">Importazione…</string>
     <string name="resource_ringtone_playing_error">Errore di riproduzione</string>
     <string name="online_no_network">Impossibile connettersi alla rete</string>
     <string name="online_search_hint">Ricerca online per le risorse</string>
-    <string name="loading">Caricamento...</string>
+    <string name="loading">Caricamento…</string>
     <string name="download_failed">Download fallito</string>
     <string name="download_preview_failed">Caricamento anteprima fallito</string>
     <string name="resource_delete_confirm">Sei sicuro di voler eliminare queste risorse?</string>
@@ -75,8 +75,8 @@
     <string name="resource_unable_to_access">"Spiacenti
 il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="resource_list_title">Ultime</string>
-    <string name="resource_get_auth_checking">Ricerca autorizzazioni...</string>
-    <string name="resource_get_auth_retrieving">Recupero autorizzazioni...</string>
+    <string name="resource_get_auth_checking">Ricerca autorizzazioni…</string>
+    <string name="resource_get_auth_retrieving">Recupero autorizzazioni…</string>
     <string name="resource_get_auth_missing">Il tema non è stato scaricato dal market ufficiale, si prega di riscaricarlo uno simile dal market ufficiale.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazione superato</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite massimo 10 installazioni, si prega di usare su un altro dispositivo</string>
@@ -93,10 +93,10 @@ il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="resource_trial_end_message">"Prova per %1$s scaduta. Se ti piace procedi con l'acquisto."</string>
     <string name="resource_trial_end_restore">Prova terminata</string>
     <string name="resource_trial_end_purchase">Acquista</string>
-    <string name="deleting">Eliminazione...</string>
+    <string name="deleting">Eliminazione…</string>
     <string name="resource_title_select_ringtone">Seleziona suoneria</string>
     <string name="resource_tip_select_ringtone">Nessuna suoneria selezionata</string>
-    <string name="loading_resource_detail_info">Caricamento delle informazioni...</string>
+    <string name="loading_resource_detail_info">Caricamento delle informazioni…</string>
     <string name="loading_resource_detail_fail">Impossibile caricare la risorsa!</string>
     <string name="resource_expand_full_text">Espandi</string>
     <string name="resource_account_login">Accedi</string>
@@ -306,7 +306,7 @@ il contenuto che stai cercando non è disponibile per il tuo Paese."</string>
     <string name="payphone">Telefono a monete</string>
     <string name="dialerKeyboardHintText">Usa tastiera per comporre</string>
     <string name="dialerDialpadHintText">Componi per aggiungere una chiamata</string>
-    <string name="simContacts_emptyLoading">Caricamento da SIM...</string>
+    <string name="simContacts_emptyLoading">Caricamento da SIM…</string>
     <string name="simContacts_title">Contatti SIM</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Non hai nessun contatto da visualizzare. (Se hai appena aggiunto un account potrebbe volerci qualche minuto per la sincronizzazione dei contatti.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Non hai nessun contatto da visualizzare.</string>
@@ -563,7 +563,7 @@ Motivo: \"%s\""</string>
     <string name="upgrade_out_of_memory">La lista contatti sta per essere aggiornata. Il processo di aggiornamento richiede circa %s Mb di memoria interna. Scegli una delle seguenti opzioni:</string>
     <string name="upgrade_out_of_memory_uninstall">Disinstalla alcune applicazioni</string>
     <string name="upgrade_out_of_memory_retry">Riprova ad aggiornare</string>
-    <string name="search_results_searching">Ricerca in corso...</string>
+    <string name="search_results_searching">Ricerca in corso…</string>
     <string name="menu_display_selected">Mostra selezionati</string>
     <string name="menu_display_all">Mostra tutti</string>
     <string name="menu_select_all">Seleziona tutti</string>
@@ -591,7 +591,7 @@ Motivo: \"%s\""</string>
     <string name="list_filter_all_accounts">Tutti i contatti</string>
     <string name="list_filter_all_starred">Preferiti</string>
     <string name="list_filter_custom">Personalizza</string>
-    <string name="list_filter_customize">Personalizzazione...</string>
+    <string name="list_filter_customize">Personalizzazione…</string>
     <string name="list_filter_phones">Tutti i contatti con numero telefonico</string>
     <string name="list_filter_single">Contatto</string>
     <string name="custom_list_filter">Definisci visualizzazione personale</string>
@@ -720,7 +720,7 @@ Motivo: \"%s\""</string>
     <string name="delete_call_log_title">Confermare la cancellazione del registro chiamate?</string>
     <string name="menu_dialpad_text">Tastiera</string>
     <string name="dialer_empty_text_no_search_result">Nessun contatto trovato</string>
-    <string name="dialer_empty_text_loading">Caricamento...</string>
+    <string name="dialer_empty_text_loading">Caricamento…</string>
     <string name="dialer_empty_text_no_call_log">Nessuna chiamata</string>
     <string name="callrecordview_menu_settings">Impostazioni</string>
     <string name="callrecordview_menu_show">Filtro registro chiamate</string>
@@ -801,7 +801,7 @@ Motivo: \"%s\""</string>
     <string name="import_vcard_description">Importa contatti dal tuo archivio</string>
     <string name="export_vcard_description">Esporta vCard nel tuo archivio</string>
     <string name="export_to_sim">Esporta su SIM</string>
-    <string name="export_to_sim_title">Esportazione su SIM...…</string>
+    <string name="export_to_sim_title">Esportazione su SIM……</string>
     <string name="sim_card_no_free_space_title">SIM piena</string>
     <string name="sim_card_no_free_space_message">La capacità della tusa SIM è esaurita, impossibile importare nuovi contatti. Libera spazio e prova di nuovo.</string>
     <string name="sim_contacts">Contatti SIM</string>
@@ -1036,16 +1036,16 @@ Tocca l'icona Unisci in basso pe riniziare."</string>
     <string name="contact_is_readOnly">Impossibile modificare contatti di sola lettura</string>
     <string name="profile_name">Il mio profilo</string>
     <string name="profile_name_photo">Io</string>
-    <string name="toast_copying">Copia in corso, attendere prego...</string>
+    <string name="toast_copying">Copia in corso, attendere prego…</string>
     <string name="toast_copy_done">Copia completata con successo</string>
     <string name="group_name">I miei gruppi</string>
     <string name="import_all_sim_entries_miui">Importa tutti i contatti</string>
     <string name="import_sim_entry_miui">Importa da SIM</string>
     <string name="delete_sim_entry_miui">Elimina dal registro chiamate</string>
     <string name="simContacts_airplaneMode">Per importare contatti dalla tua SIM disattiva la modalità Aereo.</string>
-    <string name="readingSimContacts">Lettura informazioni SIM, attendere prego...</string>
+    <string name="readingSimContacts">Lettura informazioni SIM, attendere prego…</string>
     <string name="confirm_delete_sim_entry_miui">Confermare eliminazione di %d contatti dalla SIM?</string>
-    <string name="importing_sim_contacts_miui">Importazione contatti SIM...</string>
+    <string name="importing_sim_contacts_miui">Importazione contatti SIM…</string>
     <string name="import_sim_entries_finish">Importazione contatti SIM completata correttamente</string>
     <string name="deleting_sim_entry_miui">Eliminazione contatti su SIM</string>
     <string name="delete_sim_entries_finish">i contatti SIM selezionati sono stati eliminati correttamente</string>

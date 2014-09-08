@@ -18,9 +18,9 @@ Se non sei stato tu a richiedere il ripristino non consentire l'operazione. Ques
     <string name="backup_enc_password_text">Inserire una password per proteggere i dati del backup. Se lasciato vuoto, la password backup utilizzata sarà:</string>
     <string name="backup_enc_password_optional">Se vuoi proteggere tutti i dati backup, inserisci la password di seguito:</string>
     <string name="restore_enc_password_text">Se il ripristino è protetto, inserisci la password di seguito:</string>
-    <string name="toast_backup_started">Inizio backup...</string>
+    <string name="toast_backup_started">Inizio backup…</string>
     <string name="toast_backup_ended">Backup completato</string>
-    <string name="toast_restore_started">Inizio ripristino...</string>
+    <string name="toast_restore_started">Inizio ripristino…</string>
     <string name="toast_restore_ended">Ripristino completato</string>
     <string name="toast_timeout">Operazione in time out</string>
 </resources>
