@@ -174,7 +174,7 @@
     <string name="album_picker_not_found">Galleria non trovata sul dispositivo</string>
     <string name="id3_edit_failed">Impossibile modificare informazioni ID3</string>
     <string name="album_search_failed">Copertina non trovata</string>
-    <string name="start_to_download_album">Scarica copertina per la libreria brani</string>
+    <string name="start_to_download_album">Scarica copertine per i tuoi brani</string>
     <string name="start_to_download_avatar">Scarica immagine artista per la tua libreria</string>
     <string name="download_all_album">Scarica copertina</string>
     <string name="download_all_avatar">Scarica immagine artista</string>

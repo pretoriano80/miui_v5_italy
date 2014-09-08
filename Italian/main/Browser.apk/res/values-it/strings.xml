@@ -365,7 +365,7 @@
     <string name="pref_setting_title">Impostazioni pagina</string>
     <string name="pref_general_setting_title">Impostazioni</string>
     <string name="pref_extras_website_settings">Siti web</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Questo sito può accedere alla tua posizione. Change this on the Settings > Advanced > Website data screen.</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Questo sito può accedere alla tua posizione. Modificare questo andando in Impostazioni > Avanzate > Scarica dati Sito web.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Questo sito non può accedere alla tua posizione</string>
     <string name="pref_images_preload_dialogtitle">Precaricamento immagini</string>
     <string name="pref_images_preload_title">Precaricamento immagini</string>

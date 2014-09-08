@@ -70,6 +70,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="error_dup_phone">Il telefono è stato registrato</string>
     <string name="error_phone_error">Numero di telefono non valido</string>
     <string name="error_server">Problemi con il server</string>
+    <string name="error_ssl_hand_shake">Impossibile collegarsi al server. Controlla le impostazioni di data e orario del sistema.</string>
     <string name="error_sim_not_ready">La scheda SIM non è pronta</string>
     <string name="error_unknown">Errore sconosciuto: %1$s</string>
     <string name="error_invalid_dev_id">ID dispositivo non valido</string>
@@ -89,6 +90,29 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="data_wipe_from_phone">Elimina i dati dal telefono</string>
     <string name="login_notice">Accesso…</string>
     <string name="data_sync_notice">Usa il tuo account Xiaomi per sincronizzare Messaggi, Contatti e altri dati.</string>
+    <string name="sms_prompt_cloud_service">MiCloud</string>
+    <string name="sms_prompt_sync">sincronizza</string>
+    <string name="sms_prompt_cloud_messaging">Messaggi Cloud</string>
+    <string name="sms_prompt_find_device">Trova Telefono</string>
+    <string name="all_cloud_service_dspt">"Scegli quale dei servizi MiCloud vuoi utilizzare.
+Puoi attivarli o disattivarli quando vuoi all'interno delle Impostazioni."</string>
+    <string name="sync_dspt_in_all_setting">Sincronizza le tue foto, messaggi di testo, note, ed altro su tutti i tuoi dispositivi Xiaomi</string>
+    <string name="mx_dspt_in_all_setting">Invia messaggi SMS gratuitamente ad altri utenti MIUI</string>
+    <string name="find_device_dspt_in_all_setting_1">"Localizza, blocca o resetta il tuo telefono su "</string>
+    <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+    <string name="find_device_dspt_in_all_setting_3" />
+    <string name="sms_prompt_set_all">questi servizi</string>
+    <string name="sms_prompt_set_single">questo servizio</string>
+    <string name="find_device_notice_1">"Se perdi il tuo dispositivo puopi andare su "</string>
+    <string name="find_device_notice_2">i.mi.com</string>
+    <string name="find_device_notice_3">" per localizzarlo, bloccarlo o resettarlo.
+
+Puoi attivare o disattivare questo servizio quando vuoi all'interno delle Impostazioni."</string>
+    <string name="find_device_additional_alert">Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questo servizio.</string>
+    <string name="cloud_message_notice">"I Messaggi Cloud ti permette di inviare gratuitamente messaggi ad altri utenti MIUI.
+
+Puoi attivare o disattivare questo servizio quando vuoi all'interno delle Impostazioni."</string>
+    <string name="cloud_messaging_dspt">Attiva i messaggi Cloud</string>
     <string name="cmcc_data_sync_notice">Usa il tuo account Xiaomi per sincronizzare Messaggi, Contatti e altri dati. allo stesso tempo puoi provare anche i servizi cloud Xiaomi.</string>
     <string name="sync_dspt">Attiva sincronizzazione</string>
     <string name="sync_sub_1_sms">Verrà inviato un SMS per collegare la tua SIM con questo account. Verranno applicate le tariffe previste dal tuo operatore.</string>
@@ -122,11 +146,15 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="find_device_disabled_notice">Puoi riaprire Trova il Tuo Telefono da Impostazioni -> Account e Sinc.-> xiaomi account</string>
     <string name="micloud_area_code_title">Prefisso internazionale</string>
     <string name="micloud_area_code_hot">Hot</string>
-    <string name="user_agreement_p1">"Accedendo accetti\u0020"</string>
-    <string name="user_agreement_p2">Termini e Condizioni del servizio Xiaomi</string>
+    <string name="user_agreement_p1">"Accedendo accetti\u0020
+  "</string>
+    <string name="user_agreement_p2">Termini e Condizioni del servizio</string>
     <string name="user_agreement_p3"> e </string>
-    <string name="user_agreement_p4">la Regolamentazione sulla Privacy</string>
-    <string name="user_agreement_p5">"Iscrivendoti, accetti"</string>
+    <string name="user_agreement_p4">Privacy</string>
+    <string name="user_agreement_p5">"Creando un account, dai il tuo consenso
+per  "</string>
+    <string name="user_agreement_p6">"L'uso di questo servizio è soggetto a "</string>
+    <string name="user_agreement_p7">Condizioni di Utilizzo di MiCLoud</string>
     <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
     <string name="skip_setup_account_msg">Con il tuo account Xiaomi puoi sincronizzare le tue foto, i tuoi sms, le tue chiamate, le tue note etc. Continuare ed impostarlo più tardi?</string>
     <string name="account_dspt">"L'account Xiaomi può sincronizzare e salvare i tuoi messaggi, contatti,immagini, etc"</string>
@@ -135,7 +163,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="find_password_on_web_msg">Visita account.xiaomi.com per recuperare la password</string>
     <string name="relogin">Accedi di nuovo</string>
     <string name="skip_login">Salta accesso</string>
-    <string name="skip_login_u">&lt;u>Salta accesso&lt;/u></string>
+    <string name="skip_login_u">Salta accesso</string>
     <string name="removing_account">Rimozione account…</string>
     <string name="checking_account">Verifica account…</string>
     <string name="button_cancel">Annulla</string>
@@ -293,4 +321,5 @@ Per risolvere questo problema, puoi eliminare alcuni vecchi file o acquistare sp
     <string name="enable_sync">Attiva sincronizzazione</string>
     <string name="micloud_proceed">Continua</string>
     <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona di nuovo il QR code dopo aver effettuato l'accesso."</string>
+    <string name="activate">Attivazione</string>
 </resources>
