@@ -8,7 +8,7 @@
     <string name="usb_storage_detail">Utilizza il telefono come unità di archiviazione</string>
     <string name="usb_mtp">Disp. Media (MTP)</string>
     <string name="usb_mtp_detail">Trasferisci file media su PC</string>
-    <string name="usb_selection_processing">Elaborazione...attendere prego.</string>
+    <string name="usb_selection_processing">Elaborazione…attendere prego.</string>
     <string name="device_reboot">Riavvia</string>
     <string name="cancel">Annulla</string>
     <string name="detect_new_SD_title">Scheda SD inserita</string>

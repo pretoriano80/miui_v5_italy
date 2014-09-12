@@ -36,7 +36,7 @@
     <string name="receive_tip">Per accoppiamenti rapidi con altri dispositivi e ricezione di richieste di collegamento.</string>
     <string name="choose_title">Seleziona file</string>
     <string name="send_files">%1$d file in fase di invio</string>
-    <string name="scanning">Scansione...</string>
+    <string name="scanning">Scansione…</string>
     <string name="connecting">Connessione</string>
     <string name="scan_tip">Assicurati che il destinatario abbia la connessione attivata e possa ricevere i file</string>
     <string name="send_to">Invia a:</string>
@@ -138,7 +138,7 @@
 in [ %1$s ]"</string>
     <string name="send_share_link">Utilizzo link condivisione</string>
     <string name="generate_share_link_failed">Connessione di condivisione fallita!</string>
-    <string name="generating_share_link">Creazione link di condivisione...</string>
+    <string name="generating_share_link">Creazione link di condivisione…</string>
     <string name="network_not_connected">Connessione di rete non disponibile! Provare di nuovo</string>
     <string name="login_failed">Accesso account Xiaomi fallito!</string>
     <string name="select_file_to_share">Seleziona i file da condividere</string>
@@ -147,7 +147,7 @@ in [ %1$s ]"</string>
     <string name="all_history">Tutta la cronologia</string>
     <string name="share_history">Cronologia condivisione</string>
     <string name="receive_history">Cronologia ricezione</string>
-    <string name="init_xiaomi_account">Inizializzazione account Xiaomi...</string>
+    <string name="init_xiaomi_account">Inizializzazione account Xiaomi…</string>
     <string name="send_file_to_friends_by_net">Condividi file con gli amici grazie a MiShare</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="unselect_all">Deseleziona tutto</string>
@@ -170,7 +170,7 @@ in [ %1$s ]"</string>
     <string name="file_restore">Ripristina file</string>
     <string name="file_uploading">Caricamento file</string>
     <string name="from_kuaipan">Da MiCloud</string>
-    <string name="waitting">In attesa...</string>
+    <string name="waitting">In attesa…</string>
     <string name="wait_login">In attesa di accesso</string>
     <string name="wait_net">In attesa della rete</string>
     <string name="wait_sdcard">In atetsa della scheda SD</string>
@@ -202,7 +202,7 @@ in [ %1$s ]"</string>
     <string name="wait_for_upload_to_download">Attesa del termine del download automatico, attendere prego.</string>
     <string name="restore_succeed">Ripristino completato</string>
     <string name="restart">Riprendi</string>
-    <string name="loading_file">Caricamento file...</string>
+    <string name="loading_file">Caricamento file…</string>
     <string name="load_file_error">Impossiile caricare file!</string>
     <string name="retry_to_load_file_info">Ricaricare le informazioni del file?</string>
     <string name="download_succeed">Download fallito</string>

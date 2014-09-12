@@ -14,7 +14,7 @@
     <string name="new_message">Nuovo messaggio</string>
     <string name="menu_compose_new">Scrivi</string>
     <string name="menu_preferences">Impostazioni</string>
-    <string name="refreshing">Aggiornamento...</string>
+    <string name="refreshing">Aggiornamento…</string>
     <string name="no_subject_view">(Nessun oggetto)</string>
     <string name="messagelist_sender_self">Io</string>
     <string name="view_message_details">Mostra dettagli</string>
@@ -26,7 +26,7 @@
     <string name="undelivered_sms_dialog_body">Invio messaggio non riuscito.</string>
     <string name="menu_forward">Inoltra</string>
     <string name="download">Scarica</string>
-    <string name="downloading">Download...</string>
+    <string name="downloading">Download…</string>
     <string name="insufficient_drm_rights">Diritti DRM insufficienti.</string>
     <string name="copy_message_text">Copia testo</string>
     <string name="copy_message_text_success">Messaggio copiato correttamente!</string>
@@ -73,8 +73,8 @@
     <string name="cannot_send_message">Impossibile inviare il messaggio</string>
     <string name="cannot_send_message_reason">Il messaggio non ha destinatari validi.</string>
     <string name="cannot_forward_drm_obj">"Impossibile inoltrare l'oggetto DRM incluso nel messaggio."</string>
-    <string name="converting_to_picture_message">Conversione in messaggio multimediale...</string>
-    <string name="converting_to_text_message">Conversione in messaggio di testo...</string>
+    <string name="converting_to_picture_message">Conversione in messaggio multimediale…</string>
+    <string name="converting_to_text_message">Conversione in messaggio di testo…</string>
     <string name="cannot_add_slide_anymore">Impossibile aggiungere altre diapositive.</string>
     <string name="cannot_add_picture_and_video">Impossibile aggiungere video e immagine a una diapositiva.</string>
     <string name="message_saved_as_draft">Messaggio salvato come bozza.</string>
@@ -134,7 +134,7 @@
     <string name="unsticked_conversation">La conversazione attuale è già non evidenziata</string>
     <string name="invalid_conversation">Conversazione non valida</string>
     <string name="no_conversations">Nessuna conversazione.</string>
-    <string name="loading_conversations">Caricamento conversazioni...</string>
+    <string name="loading_conversations">Caricamento conversazioni…</string>
     <string name="cannot_get_details">Impossibile recuperare dettagli</string>
     <string name="message_details_title">Dettagli messaggio</string>
     <string name="message_type_label">"Tipo: "</string>
@@ -260,7 +260,7 @@
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="message_received">Ricevuto</string>
     <string name="message_failed">Fallito</string>
-    <string name="message_pending">Invio in corso...</string>
+    <string name="message_pending">Invio in corso…</string>
     <string name="message_readed">Leggi</string>
     <string name="message_rejected">Respinto</string>
     <string name="resent_message">Reinvia</string>
@@ -325,7 +325,7 @@
     <string name="batch_deleting_message_progress_message">Eliminazione messaggi selezionati</string>
     <string name="attach_subject">Oggetto</string>
     <string name="flatshow_page_no">%1$d</string>
-    <string name="prepare_send">Preparazione invio...</string>
+    <string name="prepare_send">Preparazione invio…</string>
     <string name="activity_not_found">Applicazione non installata sul telefono.</string>
     <string name="activity_not_found_uri">Impossibile trovare programmi per questo</string>
     <string name="fetion_prefix">[Fetion]</string>
@@ -349,8 +349,8 @@
     <string name="timed_message_expired_title">%d messaggio(i) programmati non inviato(i)</string>
     <string name="timed_message_expired_title_2">Vuoi inviarli adesso?</string>
     <string name="timed_message_to">a</string>
-    <string name="timed_message_in_total">... (%d in totale)</string>
-    <string name="processing">Processo in corso...</string>
+    <string name="timed_message_in_total">… (%d in totale)</string>
+    <string name="processing">Processo in corso…</string>
     <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Messaggi cloud</string>
     <string name="mx_enable">Abilita messaggi cloud</string>
@@ -368,13 +368,13 @@
     <string name="msg_type_hint_sms">Messaggio di testo</string>
     <string name="msg_type_hint_mms">Messaggio Multimediale</string>
     <string name="msg_type_hint_mx">Messaggio Cloud</string>
-    <string name="need_download">Sincronizzazione in corso...</string>
+    <string name="need_download">Sincronizzazione in corso…</string>
     <string name="found_wild_messages_title">Scarica Messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite MiCloud, vuoi scaricarli ?</string>
     <string name="found_old_messages_title">Aggiorna Messaggi</string>
     <string name="found_old_messages">Resoconto: %1$s trovati nei vecchi account. Vuoi caricarli nel tuo attuale account: %2$s?</string>
     <string name="show_all_messages">Mostra tutti i messaggi</string>
-    <string name="loading_all_messages">Caricamento di tutti i messaggi...</string>
+    <string name="loading_all_messages">Caricamento di tutti i messaggi…</string>
     <string name="mx_online">In linea</string>
     <string name="mx_offline">Non in linea</string>
     <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un sms per attivare il servizio, potrebbero essere applicati dei costi dal tuo operatore. Continuare?"</string>
@@ -431,13 +431,13 @@
     <string name="file_share_message_description">Vorrei condividere alcuni file con te</string>
     <string name="addBlackList">Blacklist</string>
     <string name="confirm_add_blacklist_dialog_dspt">Aggiungere numero alla blacklist?</string>
-    <string name="batch_adding_progress_message">Operazione in corso...</string>
+    <string name="batch_adding_progress_message">Operazione in corso…</string>
     <string name="invalid_private_contact">Contatto privato non valido</string>
     <string name="sp_conversation_title">Messaggi di notifica</string>
     <string name="title_collapse_sp_messages">Raccogli i messaggi del provider</string>
     <string name="pref_collapse_sp_messages_summary">"Raccogli i messaggi del provider in un'unica lista"</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
-    <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso...</string>
+    <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso…</string>
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
     <string name="refill_now">Ricarica</string>
@@ -454,7 +454,7 @@ Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="quick_reply">Rispondi</string>
     <string name="view_hms_details">Dettagli</string>
     <string name="xiaomi_service_number">Numero del servizio</string>
-    <string name="retrive_hms_tips">Nuovo tentativo...</string>
+    <string name="retrive_hms_tips">Nuovo tentativo…</string>
     <string name="hms_first_use_tips">Per ricevere messaggi di servizio, devi essere connesso ad una rete Wi-Fi</string>
     <string name="send_hms_editor_hints">Messaggi Cloud</string>
     <string name="share_img">Condividi</string>

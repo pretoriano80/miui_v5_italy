@@ -2,7 +2,7 @@
 <resources>
     <string name="activate">Attiva</string>
     <string name="activate_fail_notification_title">Si prega di riattivare il servizio Sincronizzazione Xiaomi</string>
-    <string name="activating">Attivazione...</string>
+    <string name="activating">Attivazione…</string>
     <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Imposta come predefinito</string>
     <string name="android_lockscreen_glogin_instructions">Accedi con il tuo account per sbloccare</string>
@@ -264,11 +264,11 @@
     <string name="experimental_validate">Verifica</string>
     <string name="experimental_validate_fail">Verifica fallita, prova di nuovo</string>
     <string name="experimental_validate_password">Password</string>
-    <string name="experimental_validate_progress">Verifica in corso...</string>
+    <string name="experimental_validate_progress">Verifica in corso…</string>
     <string name="experimental_validate_thanks">Grazie!</string>
     <string name="experimental_validate_username">ID Xiaomi</string>
     <string name="experimental_validate_warning">Ogni tuo contributo aiuta MIUI a migliorare !</string>
-    <string name="find_device_check_sim">Controllo SIM...</string>
+    <string name="find_device_check_sim">Controllo SIM…</string>
     <string name="find_device_sim_change_instructions">Il tuo terminale è stato bloccato. Inserisci SIM o digita la password del tuo account</string>
     <string name="find_device_sim_change_instructions_no_network">Il tuo telefono è stato bloccato. Inserire la SIM orginale</string>
     <string name="find_device_turn_off_flight_mode">Disattiva modalità aereo</string>
@@ -361,7 +361,7 @@
     <string name="permlab_accessNote">Accedi a Note</string>
     <string name="private_num">Numero privato</string>
     <string name="reboot_confirm">Il telefono verrà riavviato</string>
-    <string name="reboot_progress">Riavvio in corso...</string>
+    <string name="reboot_progress">Riavvio in corso…</string>
     <string name="reverse_all">Deseleziona tutto</string>
     <string name="safetylegal_activity_unreachable">Il telefono non è collegato ad un servizio dati. Per visualizzare adesso questa informazione, vai su %s da un qualsiasi computer collegato ad Internet.</string>
     <string name="screen_button_notification_text">"Premi 'Home'+'Power' abilitare"</string>

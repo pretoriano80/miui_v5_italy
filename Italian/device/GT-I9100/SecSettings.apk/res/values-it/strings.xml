@@ -382,7 +382,7 @@ Per la crittografia è necessaria un'ora o più. Avviate il processo con la batt
     <string name="bluetooth_menu_advanced">Avanzate</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
     <string name="bluetooth_empty_list_bluetooth_off">Attiva il Bluetooth per vedere i dispositivi disponibili</string>
-    <string name="bluetooth_connect_specific_profiles_title">Connetti a...</string>
+    <string name="bluetooth_connect_specific_profiles_title">Connetti a…</string>
     <string name="bluetooth_profile_a2dp">Audio multimediale</string>
     <string name="bluetooth_profile_headset">Audio telefono</string>
     <string name="bluetooth_profile_opp">Trasferimento file</string>

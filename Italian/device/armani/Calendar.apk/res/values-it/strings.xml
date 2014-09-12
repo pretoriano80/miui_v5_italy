@@ -236,7 +236,7 @@
     <string name="cta_notice_checkbox">Non mostrare più</string>
     <string name="cta_notice_ok">Sì</string>
     <string name="cta_notify_settings">Avvisami quando accede ai contatti</string>
-    <string name="more_string">Altri %1$s...</string>
+    <string name="more_string">Altri %1$s…</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
     <string name="done">Completato</string>

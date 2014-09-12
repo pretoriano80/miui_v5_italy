@@ -92,8 +92,8 @@
     <string name="delete_item">Elimina</string>
     <string name="remove_item">Rimuovi</string>
     <string name="delete_song_desc">\"%s\" saranno eliminati permanentemente dalla scheda SD.</string>
-    <string name="scanning">Scansione scheda SD...</string>
-    <string name="scanning_nosdcard">Scansione archiviazione SD...</string>
+    <string name="scanning">Scansione scheda SD…</string>
+    <string name="scanning_nosdcard">Scansione archiviazione SD…</string>
     <string name="search_title">Cerca</string>
     <string name="delete_playlist_menu">Cancella</string>
     <string name="rename_playlist_menu">Rinomina</string>
@@ -155,7 +155,7 @@
     <string name="load_audio_failed">Impossibile caricare lista audio, provare di nuovo</string>
     <string name="retry">Riprova</string>
     <string name="lrc_search_failed">Testi non trovati</string>
-    <string name="lrc_searching">Ricerca testi...</string>
+    <string name="lrc_searching">Ricerca testi…</string>
     <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione su rete mobile</string>
     <string name="music_open_other_connect">Scarica musica utilizzando la connessione Internet</string>
     <string name="impunity_declaration_title">Dichiarazione</string>

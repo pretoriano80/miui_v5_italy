@@ -221,7 +221,7 @@ Your carrier's data usage accounting shows you have %1$s of off-peak usage remai
     <string name="datausage_purchase_get_captcha_again">Invia di nuovo</string>
     <string name="datausage_purchase_get_captcha_failed">"Impossibile ottenere il codice di verifica. Verifica la tua connessione dati e riprova."</string>
     <string name="datausage_purchase_confirm_tip">Ordine:</string>
-    <string name="datausage_purchase_ordering">Acquisto in corso...</string>
+    <string name="datausage_purchase_ordering">Acquisto in corso…</string>
     <string name="datausage_purchase_result_ok">"Acquistati %s
 Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informazioni."</string>
     <string name="datausage_purchase_result_failed">"Impossibile completare l'acquisto"</string>

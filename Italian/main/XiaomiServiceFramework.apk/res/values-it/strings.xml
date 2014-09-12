@@ -37,9 +37,9 @@
     <string name="micloud_error_email">Email non valida</string>
     <string name="micloud_account">Account XiaoMi</string>
     <string name="micloud_activing_account">Attivazione account</string>
-    <string name="micloud_activing_account_delayed">"Il tempo di attivazione è di circa 30 secondi. Nel frattempo tu puoi fare qualcos'altro..."</string>
+    <string name="micloud_activing_account_delayed">"Il tempo di attivazione è di circa 30 secondi. Nel frattempo tu puoi fare qualcos'altro…"</string>
     <string name="micloud_activing_account_failed">Impossibile attivare il tuo account</string>
-    <string name="micloud_activating_account_notify_title">Attivazione account in corso...</string>
+    <string name="micloud_activating_account_notify_title">Attivazione account in corso…</string>
     <string name="micloud_activate_account_success_notify_title">Account Xiaomi attivato con successo</string>
     <string name="micloud_activate_account_fail_notify_title">Impossibile attivare il tuo account Xiaomi</string>
     <string name="micloud_activating_account_notify_info">Stai attivando il tuo account Xiaomi</string>
@@ -88,7 +88,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="remove_account_notice">Cosa vuoi fare con i dati precedentemente sincronizzati (contatti, registro delle chiamate e note) ?</string>
     <string name="data_keep_in_phone">Mantieni i dati sul telefono</string>
     <string name="data_wipe_from_phone">Elimina i dati dal telefono</string>
-    <string name="login_notice">Accesso...</string>
+    <string name="login_notice">Accesso…</string>
     <string name="data_sync_notice">Usa il tuo account Xiaomi per sincronizzare Messaggi, Contatti e altri dati.</string>
     <string name="sms_prompt_cloud_service">MiCloud</string>
     <string name="sms_prompt_sync">sincronizza</string>
@@ -122,16 +122,16 @@ Puoi attivare o disattivare questo servizio quando vuoi all'interno delle Impost
     <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati 2 SMS per collegare le tue SIM con questo account. Potrebbero verificarsi addebiti aggiuntivi da parte del tuo operatore.</string>
     <string name="failed_to_send_activate_email">Invio Email di attivazione fallito</string>
     <string name="access_denied">Accesso negato</string>
-    <string name="reging">Registrazione in corso, attendere prego...</string>
+    <string name="reging">Registrazione in corso, attendere prego…</string>
     <string name="reg_success">Registrazione completata</string>
     <string name="reg_success_summary">Il tuo numero %1$s è già assegnato a MiLock, puoi utilizzarlo per accedere e recuperare la password.</string>
     <string name="sync_on">On</string>
     <string name="sync_off">Off</string>
-    <string name="activating">Attivazione...</string>
+    <string name="activating">Attivazione…</string>
     <string name="other_settings">Altre impostazioni</string>
     <string name="find_device">Localizza terminale</string>
-    <string name="find_device_enabling">Attivazione...</string>
-    <string name="find_device_disabling">Disattivazione...</string>
+    <string name="find_device_enabling">Attivazione…</string>
+    <string name="find_device_disabling">Disattivazione…</string>
     <string name="enable_find_device_error">%1$s, impossibile attivare localizzazione device</string>
     <string name="disable_find_device_error">%1$s, impossibile disattivare localizzazione terminale</string>
     <string name="find_device_error_network">Rete non disponibile</string>
@@ -164,8 +164,8 @@ per  "</string>
     <string name="relogin">Accedi di nuovo</string>
     <string name="skip_login">Salta accesso</string>
     <string name="skip_login_u">Salta accesso</string>
-    <string name="removing_account">Rimozione account...</string>
-    <string name="checking_account">Verifica account...</string>
+    <string name="removing_account">Rimozione account…</string>
+    <string name="checking_account">Verifica account…</string>
     <string name="button_cancel">Annulla</string>
     <string name="mili_center">MiCredit</string>
     <string name="bank_cards">Carte di credito</string>
@@ -223,8 +223,8 @@ per  "</string>
     <string name="vcode_notification_title">Il tuo accesso di verifica è incompleto</string>
     <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare MiCloud per la SIM %s</string>
-    <string name="activate_status_title_activating">Attivazione SIM, attendere prego...</string>
-    <string name="activate_status_title_activating_msim">Attivazione SIM %s...</string>
+    <string name="activate_status_title_activating">Attivazione SIM, attendere prego…</string>
+    <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
     <string name="activate_status_desc_query_activation_info">Richiesta informazioni attivazioni dal server</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nessuna informazioni di attivazione sul server</string>
     <string name="activate_status_desc_query_activation_info_server_error">Si è verificato un errore del server durante la richiesta di informazioni</string>
@@ -288,7 +288,7 @@ per  "</string>
     <string name="activate_feature_mms_sync">Sync SMS</string>
     <string name="activate_feature_call_log_sync">Sync registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
-    <string name="checking_input">Verifica inserimento...</string>
+    <string name="checking_input">Verifica inserimento…</string>
     <string name="micloud_space_full_influence">Cosa succede se esaurisco lo spazio?</string>
     <string name="micloud_title_dspt" formatted="false">"Totale %s
  | Utilizzato %s | Libero %s"</string>
