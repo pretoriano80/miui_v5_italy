@@ -411,7 +411,7 @@ su condizione"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) di %3$s periodo massimo</string>
     <string name="voicemail_settings_for">Impostazioni per %s</string>
     <string name="throttle_time_frame_subtext">%1$d٪ del ciclo trascorso.Il periodo succ. inizia tra %2$d gg (%3$s)</string>
-    <string name="voicemail_number_not_set">&lt;non impostato></string>
+    <string name="voicemail_number_not_set"><non impostato></string>
     <string name="phoneAppLabel">Telefono</string>
     <string name="emergencyDialerIconLabel">Chiamata emergenza</string>
     <string name="phoneIconLabel">Telefono</string>
@@ -891,8 +891,8 @@ Passare comunque al nuovo operatore?"</string>
     <string name="auth_username_title">Autenticazione username</string>
     <string name="auth_username_summary">Username usato per autenticazione</string>
     <string name="default_preference_summary">Non impostato</string>
-    <string name="display_name_summary">&lt;Uguale allo username></string>
-    <string name="optional_summary">&lt;Opzionale></string>
+    <string name="display_name_summary">Uguale allo username</string>
+    <string name="optional_summary">Opzionale</string>
     <string name="advanced_settings_show">▷ Tocca per mostrare tutto</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
     <string name="empty_alert">%s richiesto, non può essere omesso</string>
@@ -983,7 +983,6 @@ Passare comunque al nuovo operatore?"</string>
     <string name="auto_ip_summary_not_enabled">Non abilitato</string>
     <string name="auto_ip_setting_miui">Impostazioni IP automatico</string>
     <string name="autoip_sum_miui">Aggiungi prefisso IP a numero sconosciuto. Inserire prefisso di seguito.</string>
-    Lista eccezioni pref. int.
     <string name="auto_ip_no_exceptions_miui">Inserire i numeri a cui non si deve anteporre il prefisso internazionale</string>
     <string name="auto_ip_add_exception_numbers_miui">Aggiungi numeri</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Sicuro di voler cancellare questi %d numeri?</string>
