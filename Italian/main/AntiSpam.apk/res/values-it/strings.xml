@@ -73,7 +73,7 @@
     <string name="toast_keyword_exist">Parola chiave: %s già esistente</string>
     <string name="toast_keyword_invalid">Parola non valida</string>
     <string name="dlg_antispam_mode_delete_title">Cancellla regole personalizzate</string>
-    <string name="dlg_antispam_mode_delete_message">Non puoi ripriostinare le regole personalizzate per la lista blocco dopo la loro cancellazione."</string>
+    <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare le regole personalizzate per la lista blocco dopo la loro cancellazione."</string>
     <string name="dlg_antispam_using_mode_delete_message">Cancellare il profilo della lista blocco che stai utilizzando e passare al profilo predefinito? Questa azione è irreversibile!</string>
     <string name="dlg_antispam_using_mode_international_delete_message">Cancellare il profilo della lista blocco che stai utilizzando e passare al profilo predefinito? Questa azione è irreversibile!</string>
     <string name="menu_clear_all_sms">Rimuovere tutti i messaggi bloccati</string>
@@ -266,7 +266,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="block_message_number">Messaggi spam: %d</string>
     <string name="block_phone_number">Chiamate spam: %d</string>
     <string name="block_phm_number">%d</string>
-    <string name="read_all_sms">Read all</string>
+    <string name="read_all_sms">Leggi tutti</string>
     <string name="report">Segnala</string>
     <string name="report_sms">Messaggio da segnalare</string>
     <string name="report_only">Seleziona almeno un messaggio</string>
