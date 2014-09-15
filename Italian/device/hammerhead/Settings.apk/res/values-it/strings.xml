@@ -207,6 +207,11 @@
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
     <string name="dialog_title_load_cleanup_engine_error">Errore</string>
     <string name="dialog_msg_load_cleanup_engine_error">Motore pulizia non funzionante o errore nei pacchetti analizzati.</string>
+    <string name="large_file_sort_type_item_name">Nome</string>
+    <string name="large_file_sort_type_item_size">Dimensione</string>
+    <string name="cache_data_sort_type_item_name">Nome</string>
+    <string name="cache_data_sort_type_item_size">Dimensione</string>
+    <string name="empty_content_size">Nessuno</string>   
     <string name="opt_clean_garbage">%d Mb cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
     <string name="opt_freed_ram">Liberati %dMb di memoria</string>
