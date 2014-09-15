@@ -1102,8 +1102,8 @@ Passare comunque al nuovo operatore?"</string>
     <string name="cdma_conference_call_miui">Conference call</string>
     <string name="respond_via_sms_canned_response_1_miui">Al momento non sono disponibile, richiamerò io più tardi.</string>
     <string name="respond_via_sms_canned_response_2_miui">Ti chiamo dopo.</string>
-    <string name="respond_via_sms_canned_response_3_miui">Non posso parlare in questo momento.Cosa succede?</string>
-    <string name="respond_via_sms_canned_response_4_miui">Non posso parlare in questo momento.Puoi chiamarmi dopo?</string>
+    <string name="respond_via_sms_canned_response_3_miui">Non posso parlare in questo momento. Cosa succede?</string>
+    <string name="respond_via_sms_canned_response_4_miui">Non posso parlare in questo momento. Puoi chiamarmi dopo?</string>
     <string name="call_waiting_tone_title_miui">Tono chiamata in attesa</string>
     <string name="call_waiting_tone_stop_summary">\u0020(Premi il tasto volume per silenziare manualmente)</string>
     <string name="call_waiting_tone_continuously_miui">Riproduci tono di continuo</string>
