@@ -797,7 +797,16 @@ dell'allegato superano quelle massime del destinatario"</string>
 \u0009 (Verifica l'impostazione di 'Sincronizzazione automatica orario')"</string>
     <string name="ser_resp_err_map_connect_err">Errore nella connessione di rete. Prego provare con una rete diversa</string>
     <string name="no_wifi_promot">Nessuna rete Wi-Fi attiva, si prega di tenere controllato il traffico dati</string>
-    <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
+    <string name="downloading_message_body">Download email, attendere prego…</string>
+    <string name="message_body_download_failed">Download email fallito</string>
+    <string name="message_body_auto_download_tip">Se stai usando la rete Wi-Fi,le tue email si scaricheranno automaticamente</string>
+    <string name="message_body_auto_download_complete">Hai scaricato automaticamente le email usando la rete Wi-Fi</string>
+    <string name="check_setup_data">Convalida impostazioni server…</string>
+    <string name="delete_conversation_hint_message">%1$d %2$s è stato eliminato</string>
+    <string name="chat_type_name">Chat</string>
+    <string name="message_type_name">Messaggio</string>
+    <string name="feedback_sent">Grazie per il tuo feedback.Continueremo a migliorare per voi</string>
+	<string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
     <string name="xiaomi_update_dialog_message">"Introduzione della versione %1$s
 Dimensione: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzione della versione %1$s
