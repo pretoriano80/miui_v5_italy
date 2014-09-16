@@ -2,7 +2,7 @@
 <resources>
     <string name="short_app_name">Movie Studio</string>
     <string name="full_app_name">Android Movie Studio</string>
-    <string name="editor_loading_project">Caricamento progetto...</string>
+    <string name="editor_loading_project">Caricamento progetto…</string>
     <string name="editor_no_project">Nessun progetto trovato.</string>
     <string name="editor_add">Aggiungi</string>
     <string name="editor_import_video">Importa video clip</string>

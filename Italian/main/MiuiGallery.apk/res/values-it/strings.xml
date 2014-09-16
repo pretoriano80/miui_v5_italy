@@ -454,7 +454,7 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="album_share_subtitle_requesting">Download informazioni album…</string>
     <string name="album_share_subtitle_invited">Condiviso da %1$s, accettare o ignorare?</string>
     <string name="album_share_subtitle_normal">Condiviso da %1$s</string>
-    <string name="album_share_subtitle_accepting">Accettazione invito da %1$s...</string>
+    <string name="album_share_subtitle_accepting">Accettazione invito da %1$s…</string>
     <string name="album_share_subtitle_denying">Ignora invito da %1$s…</string>
     <string name="album_share_subtitle_quitting">Chiusura invito da %1$s…</string>
     <string name="system_album">Album di sistema</string>

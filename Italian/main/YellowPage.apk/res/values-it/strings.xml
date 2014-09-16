@@ -265,7 +265,7 @@ Il Servizio personalizzato vi contatterà in un secondo momento</string>
     <string name="balance_inquiry_send_sms_fail_hint">Impossibile inviare SMS. Verifica lo stato della SIM.</string>
     <string name="navigation_search_default_hint">Digita la parola che vuoi cercare (e.s. xiaomi)</string>
     <string name="navigation_search_automatically_positioned_city">Città attuale</string>
-    <string name="navigation_search_positioning">Ricerca posizione...</string>
+    <string name="navigation_search_positioning">Ricerca posizione…</string>
     <string name="navigation_search_positioning_failed">Impossibile localizzare città</string>
     <string name="navigation_search_no_city_list">Nessun dato trovato sulla città!</string>
     <string name="navigation_search_hot_cities">Principali</string>
