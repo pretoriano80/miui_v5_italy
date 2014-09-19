@@ -29,13 +29,14 @@
     <string name="micloud_error_empty_vcode">Inserisci codice verifica.</string>
     <string name="micloud_email">Indirizzo email</string>
     <string name="reg_type_phone">Registra tramite numero telefonico (consigliato)</string>
-    <string name="reg_type_email">Registra via email</string>    
+    <string name="reg_type_email">Registra via email</string>
+    <string name="reg_title">Crea un account Xiaomi utilizzando:</string>
     <string name="micloud_input_password_prompt">Inserisci password</string>
     <string name="micloud_password_confirm_hint">Conferma password</string>
-    <string name="micloud_password_req_notice">8~16 caratteri, contenente numeri, lettere, maiuscole e minuscole</string>
+    <string name="micloud_password_req_notice">8-16 caratteri, contenente numeri, lettere, maiuscole e minuscole</string>
     <string name="micloud_password_error_inconsistent">Password non corrispondente</string>
     <string name="micloud_error_email">Email non valida</string>
-    <string name="micloud_account">Account XiaoMi</string>
+    <string name="micloud_account">Account Xiaomi</string>
     <string name="micloud_activing_account">Attivazione account</string>
     <string name="micloud_activing_account_delayed">"Il tempo di attivazione è di circa 30 secondi. Nel frattempo tu puoi fare qualcos'altro…"</string>
     <string name="micloud_activing_account_failed">Impossibile attivare il tuo account</string>
@@ -155,6 +156,9 @@ Puoi attivare o disattivare questo servizio quando vuoi all'interno delle Impost
 per  "</string>
     <string name="user_agreement_p6">"L'uso di questo servizio è soggetto a "</string>
     <string name="user_agreement_p7">Condizioni di Utilizzo di MiCLoud</string>
+    <string name="user_agreement_p8">" per sapere quali informazioni raccogliamo, come le utilizziamo e quali scelte hai in merito.
+
+Creando un account, fornisci il conseno agli elementi riportati sopra."</string>
     <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
     <string name="skip_setup_account_msg">Con il tuo account Xiaomi puoi sincronizzare le tue foto, i tuoi sms, le tue chiamate, le tue note etc. Continuare ed impostarlo più tardi?</string>
     <string name="account_dspt">"L'account Xiaomi può sincronizzare e salvare i tuoi messaggi, contatti,immagini, etc"</string>
@@ -322,4 +326,6 @@ Per risolvere questo problema, puoi eliminare alcuni vecchi file o acquistare sp
     <string name="micloud_proceed">Continua</string>
     <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona di nuovo il QR code dopo aver effettuato l'accesso."</string>
     <string name="activate">Attivazione</string>
+    <string name="error_data_in_transfer_title">MiCloud non disponibile.</string>
+    <string name="error_data_in_transfer">La sincronizzazione terminerà in %s ore.</string>
 </resources>

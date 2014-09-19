@@ -618,6 +618,10 @@ Confermare l'uscita da questa pagina?"</string>
     <string name="adblock_notification">%d ad bloccato/i</string>
     <string name="bookmarks_history">Segnalibri/Cronologia</string>
     <string name="delete_homepage">Cancella homepage</string>
+    <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
+    <string name="show_check_security_url_check_tip_dialog_description">Questo URL verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare quesa funzione nelle Impostazioni."</string>
+    <string name="pref_check_security_url_title">Controlla sicurezza URL</string>
+    <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza.</string>
     <string name="webapp_app_name">App Web Store Light</string>
     <string name="webapp_dialog_title">"Aggiungi l'app sulla home"</string>
     <string name="webapp_add_to_desktop">Aggiungi alla home</string>
