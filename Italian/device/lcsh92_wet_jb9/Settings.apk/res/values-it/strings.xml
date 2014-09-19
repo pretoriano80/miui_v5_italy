@@ -897,6 +897,8 @@ Consentire l'avvio automatico?"</string>
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
     <string name="button_text_view_power">Mostra consumo</string>
+	<string name="cache_data_sort_type_item_name">Nome</string>
+    <string name="cache_data_sort_type_item_size">Dimensione</string>
     <string name="notification_title_firewall_blocked">Bloccato</string>
     <string name="pref_category_title_securitycenter_settings">Impostazioni Centro Sicurezza</string>
     <string name="pref_category_title_module_settings">Impostazioni dei moduli</string>
@@ -1121,6 +1123,8 @@ Consentire l'avvio automatico?"</string>
     <string name="bluetooth_pb_remember_choice">Non chiedere più</string>
     <string name="date_and_time">Impostazioni data e ora</string>
     <string name="choose_timezone">Scegli il fuso orario</string>
+	<string name="deepclean_cache_header_left">Cache file: %d</string>
+    <string name="deepclean_sort_type_title">Sorta</string>
     <string name="default_date_format">dd/MM/yyyy</string>
     <string name="normal_date_format">Regionale (%s)</string>
     <string name="display_preview_label">Anteprima:</string>
@@ -1661,6 +1665,7 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="sim_change_pin">PIN della SIM</string>
     <string name="sim_bad_pin">PIN errato</string>
     <string name="sim_pins_dont_match">I PIN non corrispondono</string>
+	<string name="sim_radio_off">Non attivato</string>
     <string name="sim_change_failed">"Impossibile cambiare il PIN.
 Il PIN potrebbe essere errato."</string>
     <string name="sim_change_succeeded">PIN della SIM modificato</string>
@@ -2061,6 +2066,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="language_settings">Lingua e tastiera</string>
     <string name="language_keyboard_settings_title">Lingua e immissione</string>
     <string name="language_settings_category">Impostazioni lingua</string>
+	<string name="large_file_sort_type_item_name">Nome</string>
+    <string name="large_file_sort_type_item_size">Dimensione</string>
     <string name="keyboard_settings_category">Tastiera e metodi di immissione</string>
     <string name="phone_language">Lingua</string>
     <string name="phone_language_summary" />
@@ -2218,11 +2225,13 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="accessibility_service_security_warning_title">Utilizzare %1$s?</string>
     <string name="accessibility_service_security_warning_summary">%1$s è in grado di raccogliere tutto il testo digitato, tranne le password. Sono inclusi i dati personali come i numeri di carte di credito. Può anche raccogliere dati sulle tue interazioni con il telefono.</string>
     <string name="accessibility_service_disable_warning_title">Interrompere %1$s?</string>
+	<string name="accessibility_service_no_apps_confirm">Ok</string>
     <string name="accessibility_service_disable_warning_summary">Se tocchi OK %1$s verrà interrotto.</string>
     <string name="accessibility_no_services_installed">Nessun servizio installato</string>
     <string name="accessibility_service_no_apps_title">Hai bisogno di uno screen reader?</string>
     <string name="accessibility_service_no_apps_message">"TalkBack fornisce commenti vocali per utenti non vedenti o con problemi di vista. Vuoi installare gratuitamente l'applicazione da Google Play?"</string>
-    <string name="accessibility_script_injection_security_warning_summary">Vuoi che le applicazioni installino script di Google per rendere più accessibili i relativi contenuti web?</string>
+    <string name="accessibility_service_no_apps_prompt">TalkBack fornisce un feedback parlato per aiutare gli utenti non vedenti e ipovedenti. Ottieni questo servizio gratuito dal Play Store.</string>
+	<string name="accessibility_script_injection_security_warning_summary">Vuoi che le applicazioni installino script di Google per rendere più accessibili i relativi contenuti web?</string>
     <string name="accessibility_service_default_description">Nessuna descrizione fornita.</string>
     <string name="settings_button">Impostazioni</string>
     <string name="power_usage_summary_title">Batteria</string>
@@ -2381,6 +2390,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="credentials_enabled">"L'archivio di credenziali è attivo."</string>
     <string name="credentials_configure_lock_screen_hint">"Devi impostare un PIN o una password di blocco dello schermo per poter utilizzare l'archivio credenziali."</string>
     <string name="emergency_tone_title">Tono chiamate emergenza</string>
+	<string name="empty_content_size">Nessuno</string>
     <string name="emergency_tone_summary">Imposta il comportamento in caso di chiamata di emergenza</string>
     <string name="privacy_settings">Backup e ripristino</string>
     <string name="privacy_settings_title">Backup e ripristino</string>
@@ -2484,6 +2494,7 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="really_remove_account_message">"La rimozione di questo account comporterà l'eliminazione di tutti i relativi messaggi, contatti e altri dati dal telefono."</string>
     <string name="remove_account_failed">Questo account è richiesto da alcune applicazioni. Puoi rimuoverlo solo ripristinando le impostazioni predefinite di fabbrica del telefono (questa operazione elimina tutti i dati personali) in Impostazioni > Backup e ripristino.</string>
     <string name="provider_label">Sottoscrizioni push</string>
+	<string name="provision_inputmethod_policy_description">Politiche Privacy per la selezione della keyboard</string>
     <string name="sync_item_title">Sincronizza %s</string>
     <string name="cant_sync_dialog_title">Impossibile sincronizzare manualmente</string>
     <string name="cant_sync_dialog_message">Al momento la sincronizzazione di questo elemento non è attiva. Per modificare questa impostazione, attiva temporaneamente i dati in background e la sincronizzazione automatica.</string>
@@ -2547,6 +2558,12 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="animator_duration_scale_title">Durata animazione</string>
     <string name="overlay_display_devices_title">Simula display secondario</string>
     <string name="debug_applications_category">Applicazioni</string>
+	<string name="high_performance_notif_summary">Modalità prestazioni è attiva.</string>
+    <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
+	<string name="high_performance_title">"Sembra che stai eseguendo un test di benchmark.Imposta dalla gestione batteria la modalità consumo \"Prestazioni\" per avere dei risultati migliori."</string>
+    <string name="ime_privacy_policy">Politiche privacy della tastiera</string>
+    <string name="ime_privacy_policy_no_network">Nessuna connessione di rete.È possibile visualizzare le politiche sulla privacy al sito %s</string>
+    <string name="ime_security_warning">"Questo metodo di immissione potrebbe riuscire a raccogliere tutto il testo digitato, compresi i dati personali come password e numeri di carte di credito. Deriva dall'applicazione %1$s. Utilizzare questo metodo di immissione?"</string>   
     <string name="immediately_destroy_activities">Non conservare attività</string>
     <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
     <string name="app_process_limit_title">Limite processi background</string>
@@ -3100,12 +3117,12 @@ e lancialo manualmente。"</li>"
 "<li>Installa di nuovo i driver.</li></string>
     <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
-1) Usa il tool di installazione (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
-2) Crea una directory (mkdir /media/mtp)
+1) Usa il tool di installazione ($sudo aptitude install mtpfs libfuse-dev libmad0-dev)
+2) Crea una directory ($mkdir /media/mtp)
 3) Conferma  i permessi del gruppo utente nel gruppo utente fuse attuale
 4) Accedi di nuovo
 5) Accedi al dispositivo montato mtpfs /media/mtp via File explorer; stesso della directory locale
-6) Disinstalla il dispositivo (fusermount -u /media/mtp)
+6) Disinstalla il dispositivo ($fusermount -u /media/mtp)
  Nota: Per ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
@@ -3705,7 +3722,8 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="enable_wifi_tether">Abilita hotspot Wi-Fi</string>
     <string name="enable_gps">Abilita GPS</string>
     <string name="enable_gps_confirm_message">Occorre una connessione dati wireless per acquisire i dati di supporto GPS (EPO, A-GPS), questo può comportare costi extra per il traffico dati. Sei certo di voler abilitare il GPS?</string>
-    <string name="mouse_primary_button_title">Passa dai tasti primari ai secondari</string>
+    <string name="enable_mobile_data_when_opening_hotspot">Abilitare la connessione dati?</string>
+	<string name="mouse_primary_button_title">Passa dai tasti primari ai secondari</string>
     <string name="mouse_primary_button_dialog_title">Passa ai tasti primari</string>
     <string name="double_click_title">Velocità doppio tocco</string>
     <string name="test_area">AREA TEST:</string>

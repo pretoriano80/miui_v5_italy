@@ -122,6 +122,7 @@
     <string name="pref_camera_coloreffect_entry_mono">B/N</string>
     <string name="pref_camera_coloreffect_entry_vivid">Vivido</string>
     <string name="pref_camera_coloreffect_entry_yesteryear">Antico</string>
+	<string name="pref_camera_coloreffect_entry_aqua">Acqua</string>
     <string name="pref_camera_coloreffect_entry_brannan">Alba</string>
     <string name="pref_camera_coloreffect_entry_sketch">Fumetto</string>
     <string name="pref_camera_coloreffect_entry_seventy">"Anni'70"</string>
@@ -131,7 +132,10 @@
     <string name="pref_camera_coloreffect_entry_mosaic">Pixel</string>
     <string name="pref_camera_coloreffect_entry_earlybird">Autunno</string>
     <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
+	<string name="pref_camera_coloreffect_entry_negative">Negativo</string>
     <string name="pref_camera_coloreffect_entry_planet">Riduzione</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Poster</string>
+	<string name="pref_camera_coloreffect_entry_sepia">Seppia</string>
     <string name="pref_camera_coloreffect_entry_mirror">Specchio</string>
     <string name="pref_camera_coloreffect_entry_gaussianblur">Sfocato</string>
     <string name="pref_camera_touchafaec_title">Tocco AF/AEC</string>
