@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="st_antispam_mode_smart_state">1111110</string>
+    <string name="st_antispam_mode_smart_state">1111111</string>
     <string name="st_antispam_mode_blacklist_state">1111211</string>
     <string name="st_antispam_mode_only_contacts_state">1111000</string>
     <string name="st_antispam_mode_only_whitelist_state">1100000</string>
@@ -73,7 +73,7 @@
     <string name="toast_keyword_exist">Parola chiave: %s già esistente</string>
     <string name="toast_keyword_invalid">Parola non valida</string>
     <string name="dlg_antispam_mode_delete_title">Cancellla regole personalizzate</string>
-    <string name="dlg_antispam_mode_delete_message">Non puoi ripriostinare le regole personalizzate per la lista blocco dopo la loro cancellazione."</string>
+    <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare le regole personalizzate per la lista blocco dopo la loro cancellazione."</string>
     <string name="dlg_antispam_using_mode_delete_message">Cancellare il profilo della lista blocco che stai utilizzando e passare al profilo predefinito? Questa azione è irreversibile!</string>
     <string name="dlg_antispam_using_mode_international_delete_message">Cancellare il profilo della lista blocco che stai utilizzando e passare al profilo predefinito? Questa azione è irreversibile!</string>
     <string name="menu_clear_all_sms">Rimuovere tutti i messaggi bloccati</string>
@@ -156,7 +156,10 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_title_back_sound_stop">Numero fuori servizio</string>
     <string name="st_title_call_wait_setting">Impostazioni chiamata in attesa</string>
     <string name="st_title_call_wait">Chiamata in attesa</string>
+    <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+    <string name="st_title_not_sim">Vuoto</string>
     <string name="st_sum_call_wait">Se il segnale di occupato non è quello predefinito potrebbe confondere il chiamante.</string>
+    <string name="sim_not_ready">SIM non pronta</string>
     <string name="st_antispam_bw_man_add">Aggiungi numero di telefono</string>
     <string name="st_antispam_bw_head_add">Aggiungi prefisso</string>
     <string name="st_antispam_bw_pick_add">Seleziona un contatto</string>
@@ -266,7 +269,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="block_message_number">Messaggi spam: %d</string>
     <string name="block_phone_number">Chiamate spam: %d</string>
     <string name="block_phm_number">%d</string>
-    <string name="read_all_sms">Read all</string>
+    <string name="read_all_sms">Leggi tutti</string>
     <string name="report">Segnala</string>
     <string name="report_sms">Messaggio da segnalare</string>
     <string name="report_only">Seleziona almeno un messaggio</string>
