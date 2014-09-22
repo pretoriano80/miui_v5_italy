@@ -92,6 +92,10 @@
     <string name="resource_apply_trial">Prova adesso</string>
     <string name="resource_on_trial">Prova: %1$s</string>
     <string name="resource_trial_time">（prova per %1$d minuti）</string>
+    <string name="resource_trial_fail_title">Impossibile impostare una sessione di prova</string>
+    <string name="resource_trial_fail_message">"Assicurati che l'ora di sistema sia impostata correttamente."</string>
+    <string name="resource_trial_fail_cancel">OK</string>
+    <string name="resource_trial_fail_go_settings">Impostazioni</string>
     <string name="resource_trial_end_title">Prova terminata</string>
     <string name="resource_trial_end_message">"La prova di %1$s terminata. Se ti piace prosegui con l'acquisto."</string>
     <string name="resource_trial_end_restore">Termine prova</string>
@@ -163,6 +167,9 @@
     <string name="resource_comment_loading_list">Caricamento commenti…</string>
     <string name="resource_comment_rate">Valutazione:</string>
     <string name="resource_comment_entry_tips">Mostra commenti</string>
+    <string name="resource_comment_rating_star_tips">Tocca le stelle per valutare:</string>
+    <string name="resource_clear_search_history">Cancella cronologia</string>
+    <string name="resource_clear_search_history_dialog">Cancellare la cronologia?</string>
     <string name="fail_to_add_account">Impossibile aggiungere account!</string>
     <string name="account_unactivated">Account non attivato.</string>
     <string name="to_activate_the_account">Attiva il tuo account Xiaomi</string>

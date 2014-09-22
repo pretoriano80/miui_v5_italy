@@ -140,7 +140,7 @@
     <string name="status_bar_style_settings">Impostazioni Barra di Stato</string>
     <string name="status_bar_and_notification_bar">Pannello notifiche e barra di stato</string>
     <string name="settings_toggle_layout_style">Stile comandi</string>
-    <string name="settings_toggle_layout_style_compact">Compatto</string>
+    <string name="settings_toggle_layout_style_compact">Compatta</string>
     <string name="settings_toggle_layout_style_single_page">Pagina</string>
     <string name="settings_toggle_layout_style_applying">Modifica stile comandi…</string>
     <string name="settings_custom_notification">Notifiche personalizzate</string>
