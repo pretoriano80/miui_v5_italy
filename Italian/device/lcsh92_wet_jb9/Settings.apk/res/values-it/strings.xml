@@ -1124,7 +1124,7 @@ Consentire l'avvio automatico?"</string>
     <string name="date_and_time">Impostazioni data e ora</string>
     <string name="choose_timezone">Scegli il fuso orario</string>
 	<string name="deepclean_cache_header_left">Cache file: %d</string>
-    <string name="deepclean_sort_type_title">Sorta</string>
+    <string name="deepclean_sort_type_title">Ordina</string>
     <string name="default_date_format">dd/MM/yyyy</string>
     <string name="normal_date_format">Regionale (%s)</string>
     <string name="display_preview_label">Anteprima:</string>
