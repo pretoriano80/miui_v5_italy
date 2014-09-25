@@ -75,8 +75,8 @@
     <string name="resource_downloaded_title">Risorse scaricate</string>
     <string name="resource_see_more">Vedi di più</string>
     <string name="resource_no_result">Nessun risultato</string>
-    <string name="resource_failed_to_load_list">Impossibile caricare lista</string>
-    <string name="resource_search_list_empty">Impossibile trovare risultati</string>
+    <string name="resource_failed_to_load_list">Caricamento lista fallito</string>
+    <string name="resource_search_list_empty">Nessun risultato trovato</string>
     <string name="resource_list_title">Ultime</string>
     <string name="resource_get_auth_checking">Ricerca autorizzazioni…</string>
     <string name="resource_get_auth_retrieving">Recupero autorizzazioni…</string>
@@ -167,7 +167,7 @@
     <string name="resource_comment_loading_list">Caricamento commenti…</string>
     <string name="resource_comment_rate">Valutazione:</string>
     <string name="resource_comment_entry_tips">Mostra commenti</string>
-    <string name="resource_comment_rating_star_tips">TOcca le stelle per valutare:</string>
+    <string name="resource_comment_rating_star_tips">Tocca le stelle per valutare:</string>
     <string name="resource_clear_search_history">Cancella cronologia</string>
     <string name="resource_clear_search_history_dialog">Cancellare la cronologia?</string>
     <string name="fail_to_add_account">Impossibile aggiungere account!</string>
