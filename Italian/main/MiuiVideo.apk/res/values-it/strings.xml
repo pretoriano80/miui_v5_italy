@@ -159,6 +159,7 @@
     <string name="live_loading_symbol"><CDATA>Caricamento </CDATA></string>
     <string name="live_loading_to_be_play">Caricamento in corso…</string>
     <string name="live_title">Dal vivo</string>
+    <string name="live_tabs_my">I miei canali</string>
     <string name="live_tabs_all">Vedi tutto</string>
     <string name="live_tabs_choice">Raccolte</string>
     <string name="live_pending_symbol"><CDATA>Buffering in corso </CDATA></string>
@@ -335,7 +336,10 @@
     <string name="menu_item_about_label">Informazioni</string>
     <string name="about_title">Informazioni</string>
     <string name="about_app_name">MiPlayer</string>
-    <string name="about_version">V4.0</string>
+    <string name="prefix_countdown">Pubblicità rimanente:</string>
+    <string name="suffix_countdown">secondi</string>
+    <string name="ad_moredetail">Altri dettagli</string>
+    <string name="about_version">1.0.1</string>
     <string name="menu_wh_item_auto_select_label">Automatico</string>
     <string name="menu_wh_item_full_screen_label">Schermo intero</string>
     <string name="menu_wh_item_adapt_width_label">Adatta larghezza</string>
@@ -394,5 +398,20 @@ box o TV"</string>
     <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">Super</string>
     <string name="vp_full_high_definition">1080P</string>
-    <string name="live_tabs_hot">Popolare</string>
+    <string name="vp_select_video_source">Seleziona fonte</string>
+    <string name="vp_unknown_source">Fonte sconosciuta</string>
+    <string name="vp_download_file_fail">Download fallito. Accertati di avere spazio sufficiente</string>
+    <string name="vp_download_connect_fail">Impossibile trovare URL. Check your data connection and try again."</string>
+    <string name="vp_support_by">Supportato da %1$s</string>
+    <string name="vp_loading"><CDATA>in downlaod </CDATA></string>
+    <string name="vp_install_title">Note di installazione</string>
+    <string name="vp_install">Installa</string>
+    <string name="vp_confirm">Conferma</string>
+    <string name="vp_retry">Riprova</string>
+    <string name="vp_cancel">Annulla</string>
+    <string name="vp_client_message">Vuoi installare %1$s?</string>
+    <string name="vp_plugin_message">Goditi il suono in HD, installeremoun plugin HD per te, sei d'accordo?</string>
+    <string name="vp_closedialog">Conferma</string>
+    <string name="vp_hint">Suggerimento</string>
+    <string name="vp_maintitlearea">"Goditi l'alta definizione, la velocità di download, ci sono molti altri show disponibili! Download componenti HD, premi OK per entrare nella home"</string>
 </resources>
