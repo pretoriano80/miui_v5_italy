@@ -7,7 +7,7 @@
         <item>GB</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Traffico da ieri\u0020</item>
+        <item>Traffico di ieri\u0020</item>
         <item>Traffico di oggi\u0020</item>
         <item>Traffico mensile\u0020</item>
     </string-array>
@@ -41,12 +41,16 @@
     <string-array name="traffic_type">
         <item>\u00203G\u0020</item>
         <item>\u0020Wi-Fi\u0020</item>
-        <item>\u0020Risparmia traffico\u0020</item>
+        <item>\u0020Traffico risparmiato\u0020</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Rete dati "</item>
+        <item>"Wi-Fi "</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>Utilizzo dati</item>
-        <item>Utilizzo Wi-Fi</item>
-        <item>Totale</item>
+        <item>"Rete dati "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Totale</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Usa modello messaggio automaticamente</item>

@@ -5,7 +5,7 @@
     <string name="worldclock_title">Orologio</string>
     <string name="stopwatch_title">Cronometro</string>
     <string name="timer_title">Timer</string>
-    <string name="menu_add_worldclock">Aggiungi fuso orario</string>
+    <string name="menu_add_worldclock">Fuso orario</string>
     <string name="menu_edit_systemtime">Modifica orario sistema</string>
     <string name="delete_timezone_title">Cancella fuso orario</string>
     <string name="delelte_selected_timezone">Sicuro di voler cancellare i fusi orari selezionati?</string>

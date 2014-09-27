@@ -9,7 +9,7 @@
 Prego rieseguire il login."</string>
     <string name="mipay_error_cert_date">"Errore data certificato.
 Prego verificare la data locale e riprovare."</string>
-    <string name="mipay_format_time">dd MMM yyyy hh:mmaa</string>
+    <string name="mipay_format_time">dd MMM yyyy HH:mm</string>
     <string name="mipay_format_date">dd MMM. yyyy</string>
     <string name="mipay_denom_unit">RMB</string>
     <string name="mipay_button_pay">Paga</string>

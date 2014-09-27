@@ -46,7 +46,7 @@
     <string name="message_list_send_pending_messages_action">Invia tutti messaggi</string>
     <string name="choose_attachment_dialog_title">Scegli allegato</string>
     <string name="move_to_folder_dialog_title">Sposta in</string>
-    <string name="status_loading_messages">Caricamento messaggi...</string>
+    <string name="status_loading_messages">Caricamento messaggi…</string>
     <string name="status_network_error">Problema di connessione.</string>
     <string name="error_loading_message_body">Impossibile caricare il testo del messaggio. Il messaggio potrebbe essere troppo grande per poter essere visualizzato.</string>
     <string name="cannot_move_protocol_not_supported_toast">Lo spostamento non è supportato negli account POP3.</string>
@@ -171,7 +171,7 @@ CC: %4$s
     <string name="message_saved_toast">Messaggio salvato come bozza.</string>
     <string name="message_view_display_attachment_toast">"Impossibile visualizzare l'allegato."</string>
     <string name="message_view_load_attachment_failed_toast">"Impossibile caricare l'allegato \"%s\"."</string>
-    <string name="message_view_parse_message_toast">Apertura messaggio...</string>
+    <string name="message_view_parse_message_toast">Apertura messaggio…</string>
     <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
     <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
@@ -195,7 +195,7 @@ CC: %4$s
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
     <string name="account_password_spaces_error">Questa password inizia o termina con uno o più spazi. Molti server non supportano le password contenenti spazi.</string>
     <string name="account_setup_check_settings_retr_info_msg">"Recupero informazioni sull'account…"</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo...</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Verifica impostazioni server posta in uscita…</string>
     <string name="account_setup_names_title">Impostazione account</string>
     <string name="account_setup_names_headline">"Il tuo account è stato impostato e l'email sarà presto disponibile."</string>
@@ -322,7 +322,7 @@ CC: %4$s
     <string name="account_settings_summary">Frequenza sincronizzazione, notifiche e altro.</string>
     <string name="account_settings_notify_summary">"Notifica sulla barra di sistema l'arrivo di una email"</string>
     <string name="account_settings_mail_check_frequency_label">Frequenza di controllo Posta in arrivo</string>
-    <string name="account_settings_incoming_label">Impost. posta in arrivo</string>
+    <string name="account_settings_incoming_label">Impostazioni posta in arrivo</string>
     <string name="account_settings_incoming_summary">Nome utente, password e altre impostazioni del server in entrata</string>
     <string name="account_settings_outgoing_label">Impost. posta in uscita</string>
     <string name="account_settings_outgoing_summary">Nome utente, password e altre impostazioni del server in uscita</string>
@@ -395,7 +395,7 @@ CC: %4$s
     <string name="widget_all_mail">Posta in arr. combinata</string>
     <string name="widget_unread">Da leggere</string>
     <string name="widget_starred">Speciali</string>
-    <string name="widget_loading">Caricamento...</string>
+    <string name="widget_loading">Caricamento…</string>
     <string name="widget_touch_to_configure">Tocca per configurare.</string>
     <string name="widget_no_accounts">Non hai ancora impostato un account email.</string>
     <string name="widget_no_mailboxes">Questo account non è sincronizzato. Riprovare più tardi.</string>
@@ -416,15 +416,15 @@ CC: %4$s
     <string name="contextmenu_openlink">Apri nel browser</string>
     <string name="contextmenu_copy">Copia</string>
     <string name="contextmenu_copylink">Copia URL link</string>
-    <string name="contextmenu_dial_dot">Componi...</string>
-    <string name="contextmenu_sms_dot">SMS...</string>
+    <string name="contextmenu_dial_dot">Componi…</string>
+    <string name="contextmenu_sms_dot">SMS…</string>
     <string name="contextmenu_add_contact">Aggiungi contatto</string>
     <string name="contextmenu_send_mail">Invia email</string>
     <string name="contextmenu_map">Mappa</string>
     <string name="contextmenu_sharelink">Condividi link</string>
     <string name="contextmenu_help">Guida</string>
     <string name="contextmenu_feedback">Invia feedback</string>
-    <string name="more_string">Altri %1$s...</string>
+    <string name="more_string">Altri %1$s…</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
     <string name="done">Fatto</string>
@@ -437,6 +437,6 @@ CC: %4$s
     <string name="account_setup_basic_name_label">Tuo nome (opzionale)</string>
     <string name="account_setup_basic_description_label">Nome account (opzionale)</string>
     <string name="add_quick_responses_action">Crea nuovo</string>
-    <string name="account_security_waiting_policy_key_message">%s ha bisogno delle informazioni di sicurezza dalle impostazioni del server，attendere prego...</string>
+    <string name="account_security_waiting_policy_key_message">%s ha bisogno delle informazioni di sicurezza dalle impostazioni del server，attendere prego…</string>
     <string name="cleared_trusted_senders_message">"Le immagini all'interno dei messaggi non verranno mostrate automaticamente."</string>
 </resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="confirm_radio_title">Scheda SIM disattivata</string>
+    <string name="confirm_radio_msg">%1$s è disattavata. Vuoi attivare questa scheda SIM?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Modalità aereo è attiva e</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s è ora disattivata.Vuoi disattivare la modalità aereo e attivare questa scheda SIM?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Modalità aereo è attiva.Vuoi disattivarla? </string>
+    <string name="confirm_radio_msg_single">Modalità aereo è attiva.Vuoi disattivarla? </string>
+    <string name="confirm_pin_title">Scheda SIM bloccata</string>
+    <string name="confirm_pin_msg">La scheda SIM selezionata è bloccata.Si prega di sbloccarla prima.</string>
+    <string name="confirm_simmelock_title">SCheda sim bloccata</string>
+    <string name="confirm_simmelock_msg">The selected SIM slot is now locked.Please unlock it first.</string>
+    <string name="confirm_fdn_title">FDN attivato</string>
+    <string name="confirm_fdn_msg">La scheda SIM selezionata è bloccata.Si prega di sbloccarla prima.</string>
+    <string name="confirm_roaming_title">Avviso roaming</string>
+    <string name="confirm_roaming_msg">La scheda SIM che stai utilizzando è in roaming.Nessun scheda Sim lcale è disponibile.Vuoi continuare?</string>
+    <string name="confirm_roaming_withPrefer_msg">La scheda SIM che stai utilizzando è in roaming.Vuoi continuare con la scheda SIM locale?</string>
+    <string name="confirm_roaming_lbutton">Continua</string>
+    <string name="confirm_roaming_rbutton">Annulla</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Scheda SIM locale</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Roaming scheda SIM</string>
+    <string name="confirm_radio_lbutton">Attiva</string>
+    <string name="confirm_unlock_lbutton">Sblocca</string>
+    <string name="confirm_unlock_fail">Operazione annullata</string>
+    <string name="confirm_turnon_radio_fail">Operazione annullata</string>
+    <string name="confirm_permit_roaming_fail">Si annulla questa azione sulla scheda SIM in roaming</string>
+    <string name="confirm_sim_locked_message">La scheda SIM è stata bloccata in modo permanente</string>
+    <string name="confirm_slot_locked_message">Lo slot è stato bloccato permanentemente</string>
+    <string name="button_yes">Si</string>
+    <string name="button_no">No</string>
+</resources>

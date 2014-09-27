@@ -29,17 +29,18 @@
     <string name="micloud_error_empty_vcode">Inserisci codice verifica.</string>
     <string name="micloud_email">Indirizzo email</string>
     <string name="reg_type_phone">Registra tramite numero telefonico (consigliato)</string>
-    <string name="reg_type_email">Registra via email</string>    
+    <string name="reg_type_email">Registra via email</string>
+    <string name="reg_title">Crea un account Xiaomi utilizzando:</string>
     <string name="micloud_input_password_prompt">Inserisci password</string>
     <string name="micloud_password_confirm_hint">Conferma password</string>
-    <string name="micloud_password_req_notice">8~16 caratteri, contenente numeri, lettere, maiuscole e minuscole</string>
+    <string name="micloud_password_req_notice">8-16 caratteri, contenente numeri, lettere, maiuscole e minuscole</string>
     <string name="micloud_password_error_inconsistent">Password non corrispondente</string>
     <string name="micloud_error_email">Email non valida</string>
-    <string name="micloud_account">Account XiaoMi</string>
+    <string name="micloud_account">Account Xiaomi</string>
     <string name="micloud_activing_account">Attivazione account</string>
-    <string name="micloud_activing_account_delayed">"Il tempo di attivazione è di circa 30 secondi. Nel frattempo tu puoi fare qualcos'altro..."</string>
+    <string name="micloud_activing_account_delayed">"Il tempo di attivazione è di circa 30 secondi. Nel frattempo tu puoi fare qualcos'altro…"</string>
     <string name="micloud_activing_account_failed">Impossibile attivare il tuo account</string>
-    <string name="micloud_activating_account_notify_title">Attivazione account in corso...</string>
+    <string name="micloud_activating_account_notify_title">Attivazione account in corso…</string>
     <string name="micloud_activate_account_success_notify_title">Account Xiaomi attivato con successo</string>
     <string name="micloud_activate_account_fail_notify_title">Impossibile attivare il tuo account Xiaomi</string>
     <string name="micloud_activating_account_notify_info">Stai attivando il tuo account Xiaomi</string>
@@ -66,13 +67,17 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="login_failed">Accesso fallito</string>
     <string name="logout_failed">Logout fallito</string>
     <string name="error_network">Problemi con la connessione di rete</string>
+    <string name="error_device_id">"Impossibile rilevare IMEI"</string>
     <string name="error_dup_phone">Il telefono è stato registrato</string>
     <string name="error_phone_error">Numero di telefono non valido</string>
     <string name="error_server">Problemi con il server</string>
+    <string name="error_ssl_hand_shake">Impossibile collegarsi al server. Controlla le impostazioni di data e orario del sistema.</string>
     <string name="error_sim_not_ready">La scheda SIM non è pronta</string>
     <string name="error_unknown">Errore sconosciuto: %1$s</string>
     <string name="error_invalid_dev_id">ID dispositivo non valido</string>
     <string name="error_user_name">Nome utente non valido!</string>
+    <string name="error_login">Impossibile accedere</string>
+    <string name="relogin_notice">"Devi eseguire di nuovo l'accesso"</string>
     <string name="quick_login_title">"È richiesta l'autenticazione, si prega di inserire la password."</string>
     <string name="quick_login_step2_title">Accesso di sicurezza</string>
     <string name="account_name">Account: %1$s</string>
@@ -84,8 +89,31 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="remove_account_notice">Cosa vuoi fare con i dati precedentemente sincronizzati (contatti, registro delle chiamate e note) ?</string>
     <string name="data_keep_in_phone">Mantieni i dati sul telefono</string>
     <string name="data_wipe_from_phone">Elimina i dati dal telefono</string>
-    <string name="login_notice">Accesso...</string>
+    <string name="login_notice">Accesso…</string>
     <string name="data_sync_notice">Usa il tuo account Xiaomi per sincronizzare Messaggi, Contatti e altri dati.</string>
+    <string name="sms_prompt_cloud_service">MiCloud</string>
+    <string name="sms_prompt_sync">sincronizza</string>
+    <string name="sms_prompt_cloud_messaging">Messaggi Cloud</string>
+    <string name="sms_prompt_find_device">Trova Telefono</string>
+    <string name="all_cloud_service_dspt">"Scegli quale dei servizi MiCloud vuoi utilizzare.
+Puoi attivarli o disattivarli quando vuoi all'interno delle Impostazioni."</string>
+    <string name="sync_dspt_in_all_setting">Sincronizza le tue foto, messaggi di testo, note, ed altro su tutti i tuoi dispositivi Xiaomi</string>
+    <string name="mx_dspt_in_all_setting">Invia messaggi SMS gratuitamente ad altri utenti MIUI</string>
+    <string name="find_device_dspt_in_all_setting_1">"Localizza, blocca o resetta il tuo telefono su "</string>
+    <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+    <string name="find_device_dspt_in_all_setting_3" />
+    <string name="sms_prompt_set_all">questi servizi</string>
+    <string name="sms_prompt_set_single">questo servizio</string>
+    <string name="find_device_notice_1">"Se perdi il tuo dispositivo puopi andare su "</string>
+    <string name="find_device_notice_2">i.mi.com</string>
+    <string name="find_device_notice_3">" per localizzarlo, bloccarlo o resettarlo.
+
+Puoi attivare o disattivare questo servizio quando vuoi all'interno delle Impostazioni."</string>
+    <string name="find_device_additional_alert">Se cambi SIM, verrà inviato automaticamente un altro SMS per attivare questo servizio.</string>
+    <string name="cloud_message_notice">"I Messaggi Cloud ti permette di inviare gratuitamente messaggi ad altri utenti MIUI.
+
+Puoi attivare o disattivare questo servizio quando vuoi all'interno delle Impostazioni."</string>
+    <string name="cloud_messaging_dspt">Attiva i messaggi Cloud</string>
     <string name="cmcc_data_sync_notice">Usa il tuo account Xiaomi per sincronizzare Messaggi, Contatti e altri dati. allo stesso tempo puoi provare anche i servizi cloud Xiaomi.</string>
     <string name="sync_dspt">Attiva sincronizzazione</string>
     <string name="sync_sub_1_sms">Verrà inviato un SMS per collegare la tua SIM con questo account. Verranno applicate le tariffe previste dal tuo operatore.</string>
@@ -95,16 +123,16 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati 2 SMS per collegare le tue SIM con questo account. Potrebbero verificarsi addebiti aggiuntivi da parte del tuo operatore.</string>
     <string name="failed_to_send_activate_email">Invio Email di attivazione fallito</string>
     <string name="access_denied">Accesso negato</string>
-    <string name="reging">Registrazione in corso, attendere prego...</string>
+    <string name="reging">Registrazione in corso, attendere prego…</string>
     <string name="reg_success">Registrazione completata</string>
     <string name="reg_success_summary">Il tuo numero %1$s è già assegnato a MiLock, puoi utilizzarlo per accedere e recuperare la password.</string>
     <string name="sync_on">On</string>
     <string name="sync_off">Off</string>
-    <string name="activating">Attivazione...</string>
+    <string name="activating">Attivazione…</string>
     <string name="other_settings">Altre impostazioni</string>
     <string name="find_device">Localizza terminale</string>
-    <string name="find_device_enabling">Attivazione...</string>
-    <string name="find_device_disabling">Disattivazione...</string>
+    <string name="find_device_enabling">Attivazione…</string>
+    <string name="find_device_disabling">Disattivazione…</string>
     <string name="enable_find_device_error">%1$s, impossibile attivare localizzazione device</string>
     <string name="disable_find_device_error">%1$s, impossibile disattivare localizzazione terminale</string>
     <string name="find_device_error_network">Rete non disponibile</string>
@@ -119,11 +147,18 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="find_device_disabled_notice">Puoi riaprire Trova il Tuo Telefono da Impostazioni -> Account e Sinc.-> xiaomi account</string>
     <string name="micloud_area_code_title">Prefisso internazionale</string>
     <string name="micloud_area_code_hot">Hot</string>
-    <string name="user_agreement_p1">"Accedendo accetti\u0020"</string>
-    <string name="user_agreement_p2">Termini e Condizioni del servizio Xiaomi</string>
+    <string name="user_agreement_p1">"Accedendo accetti\u0020
+  "</string>
+    <string name="user_agreement_p2">Termini e Condizioni del servizio</string>
     <string name="user_agreement_p3"> e </string>
-    <string name="user_agreement_p4">la Regolamentazione sulla Privacy</string>
-    <string name="user_agreement_p5">"Iscrivendoti, accetti"</string>
+    <string name="user_agreement_p4">Privacy</string>
+    <string name="user_agreement_p5">"Creando un account, dai il tuo consenso
+per  "</string>
+    <string name="user_agreement_p6">"L'uso di questo servizio è soggetto a "</string>
+    <string name="user_agreement_p7">Condizioni di Utilizzo di MiCLoud</string>
+    <string name="user_agreement_p8">" per sapere quali informazioni raccogliamo, come le utilizziamo e quali scelte hai in merito.
+
+Creando un account, fornisci il conseno agli elementi riportati sopra."</string>
     <string name="skip_setup_account_title">"Salta l'impostazione dell'account"</string>
     <string name="skip_setup_account_msg">Con il tuo account Xiaomi puoi sincronizzare le tue foto, i tuoi sms, le tue chiamate, le tue note etc. Continuare ed impostarlo più tardi?</string>
     <string name="account_dspt">"L'account Xiaomi può sincronizzare e salvare i tuoi messaggi, contatti,immagini, etc"</string>
@@ -132,11 +167,12 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="find_password_on_web_msg">Visita account.xiaomi.com per recuperare la password</string>
     <string name="relogin">Accedi di nuovo</string>
     <string name="skip_login">Salta accesso</string>
-    <string name="skip_login_u">&lt;u>Salta accesso&lt;/u></string>
-    <string name="removing_account">Rimozione account...</string>
-    <string name="checking_account">Verifica account...</string>
+    <string name="skip_login_u">Salta accesso</string>
+    <string name="removing_account">Rimozione account…</string>
+    <string name="checking_account">Verifica account…</string>
     <string name="button_cancel">Annulla</string>
     <string name="mili_center">MiCredit</string>
+    <string name="bank_cards">Carte di credito</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
@@ -191,8 +227,8 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="vcode_notification_title">Il tuo accesso di verifica è incompleto</string>
     <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Impossibile avviare MiCloud per la SIM %s</string>
-    <string name="activate_status_title_activating">Attivazione SIM, attendere prego...</string>
-    <string name="activate_status_title_activating_msim">Attivazione SIM %s...</string>
+    <string name="activate_status_title_activating">Attivazione SIM, attendere prego…</string>
+    <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
     <string name="activate_status_desc_query_activation_info">Richiesta informazioni attivazioni dal server</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nessuna informazioni di attivazione sul server</string>
     <string name="activate_status_desc_query_activation_info_server_error">Si è verificato un errore del server durante la richiesta di informazioni</string>
@@ -218,21 +254,21 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Si è verificato un errore durante la verifica del tuo Mi Account</string>
     <string name="activate_status_desc_registering_xiaomi_account">Registrazione Mi Account sul server</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Si è verificato un errore durante la creazione del tuo Mi Account</string>
-    <string name="sim_unactivated_title">La tua carta SIM non è attiva</string>
-    <string name="activate_popup_title_manual">Attivazione carta SIM</string>
-    <string name="activate_popup_desc_sim_card">Ti verrà inviato un SMS per attivare la tua SIM, in modo da poter attivare funzioni come %s (ai costi preisti dal tuo operatore)</string>
-    <string name="activate_popup_desc_intl_sim_card">"Verrà inviato un SMS internazionale per attivare la tua carta SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_mixed_sim_cards">"Verrà inviato un SMS internazionale per attivare le tue 2 carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_2_sim_cards">"2 SMS verranno inviati per attivare le tue 2 carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_2_intl_sim_cards">"2 SMS internazionali verranno inviati per attivare la tua carta SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_sim_card_downlink">Prego inserire il numero della tua carta SIM, per abilitare feature come %s</string>
+    <string name="sim_unactivated_title">La tua scheda SIM non è attiva</string>
+    <string name="activate_popup_title_manual">Attivazione scheda SIM</string>
+    <string name="activate_popup_desc_sim_card">Ti verrà inviato un SMS per attivare la tua scheda SIM, in modo da poter attivare funzioni come %s (ai costi preisti dal tuo operatore)</string>
+    <string name="activate_popup_desc_intl_sim_card">"Verrà inviato un SMS internazionale per attivare la tua scheda SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_mixed_sim_cards">"Verrà inviato un SMS internazionale per attivare le tue 2 schede SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_2_sim_cards">"2 SMS verranno inviati per attivare le tue 2 schede SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_2_intl_sim_cards">"2 SMS internazionali verranno inviati per attivare la tua scheda SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_sim_card_downlink">Prego inserire il numero della tua scheda SIM, per abilitare feature come %s</string>
     <string name="activate_popup_title_new_sim_card">Attivazione nuova carta SIM</string>
-    <string name="activate_popup_desc_new_sim_card">"La tua carta SIM è cambiata. Verrà inviato un SMS per attivare la nuova carta SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_new_intl_sim_card">"La tua carta SIM è cambiata. Verrà inviato un SMS per attivare la nuova carta SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_new_mixed_sim_cards">"Le tue carte SIM sono cambiate. Verranno inviati un SMS normale e un SMS internazionale per attivare le 2 nuove carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_new_2_sim_cards">"Le tue carte SIM sono cambiate. Verranno inviati due SMS per attivare le 2 nuove carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_new_2_intl_sim_cards">"Le tue carte SIM sono cambiate. Verranno inviati due SMS internazionali per attivare le 2 carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
-    <string name="activate_popup_desc_new_sim_card_downlink">La tua carta SIM è cambiata. Prego inserire il numero della tua carta SIM, in modo da abilitare feature come %s</string>
+    <string name="activate_popup_desc_new_sim_card">"La tua scheda SIM è cambiata. Verrà inviato un SMS per attivare la nuova carta SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_new_intl_sim_card">"La tua scheda SIM è cambiata. Verrà inviato un SMS per attivare la nuova carta SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_new_mixed_sim_cards">"Le tue schede SIM sono cambiate. Verranno inviati un SMS normale e un SMS internazionale per attivare le 2 nuove carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_new_2_sim_cards">"Le tue scheda SIM sono cambiate. Verranno inviati due SMS per attivare le 2 nuove carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_new_2_intl_sim_cards">"Le tue schede SIM sono cambiate. Verranno inviati due SMS internazionali per attivare le 2 carte SIM in modo da abilitare feature come %s (costi dipendenti dall'operatore)"</string>
+    <string name="activate_popup_desc_new_sim_card_downlink">La tua scheda SIM è cambiata. Prego inserire il numero della tua carta SIM, in modo da abilitare feature come %s</string>
     <string name="activate_popup_title_register_account">Registra account</string>
     <string name="activate_popup_desc_register_account">Verrà inviato un SMS per registrare il tuo account Xiaomi</string>
     <string name="activate_popup_desc_register_account_intl">Verrà inviato un SMS internazionale per registrare il tuo account Xiaomi</string>
@@ -256,7 +292,7 @@ Fare clic sul link di attivazione nel messaggio inviato alla tua casella di post
     <string name="activate_feature_mms_sync">Sync SMS</string>
     <string name="activate_feature_call_log_sync">Sync registro chiamate</string>
     <string name="activate_feature_find_device">Trova dispositivo</string>
-    <string name="checking_input">Verifica inserimento...</string>
+    <string name="checking_input">Verifica inserimento…</string>
     <string name="micloud_space_full_influence">Cosa succede se esaurisco lo spazio?</string>
     <string name="micloud_title_dspt" formatted="false">"Totale %s
  | Utilizzato %s | Libero %s"</string>
@@ -287,4 +323,9 @@ Per risolvere questo problema, puoi eliminare alcuni vecchi file o acquistare sp
     <string name="micloud_upgrade_space">Aggiornamento spazio</string>
     <string name="enable_sync_dspt">Sincronizzazione disattivata</string>
     <string name="enable_sync">Attiva sincronizzazione</string>
+    <string name="micloud_proceed">Continua</string>
+    <string name="barcode_add_account_prompt">"Per aggiungere un account, scansiona di nuovo il QR code dopo aver effettuato l'accesso."</string>
+    <string name="activate">Attivazione</string>
+    <string name="error_data_in_transfer_title">MiCloud non disponibile.</string>
+    <string name="error_data_in_transfer">La sincronizzazione terminerà in %s ore.</string>
 </resources>

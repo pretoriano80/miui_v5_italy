@@ -8,7 +8,6 @@
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
-        <item>Risparmio batteria</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
@@ -28,8 +27,7 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
-        <item>Risparmio batteria</item>
-    </string-array>
+     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Non vibrare mai</item>
         <item>Vibra quando silenzioso</item>
@@ -472,11 +470,11 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositivo connesso, creazione sessione...</item>
+        <item>Dispositivo connesso, creazione sessione…</item>
         <item>Sessione creata</item>
-        <item>Disattivazione sessione...</item>
+        <item>Disattivazione sessione…</item>
         <item>Sessione fallita</item>
-        <item>Creazione sessione scaduta, nuovo tentativo...</item>
+        <item>Creazione sessione scaduta, nuovo tentativo…</item>
         <item>Dispositivo connesso</item>
     </string-array>
     <string-array name="msd_pc_system">

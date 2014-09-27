@@ -213,7 +213,7 @@
     <string name="download_sdcard_busy_dlg_title">Archivio USB non dispon.</string>
     <string name="download_sdcard_busy_dlg_msg">"L'archivio USB è già in uso. Per consentire i download, tocca Disattiva archivio USB nella notifica."</string>
     <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
-    <string name="download_pending">Avvio download...</string>
+    <string name="download_pending">Avvio download…</string>
     <string name="dump_nav">Dump cache di navigazione</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="webstorage_outofspace_notification_title">Memoria browser esaurita</string>
@@ -237,7 +237,7 @@
     <string name="website_settings_clear_all_dialog_message">Eliminare tutti i dati del sito web e le relative autorizzazioni di localizzazione?</string>
     <string name="website_settings_clear_all_dialog_ok_button">Ok</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Annulla</string>
-    <string name="progress_dialog_setting_wallpaper">Impostazione sfondo...</string>
+    <string name="progress_dialog_setting_wallpaper">Impostazione sfondo…</string>
     <string name="error_console_header_text_minimized">Mostra consolle di JavaScript</string>
     <string name="error_console_header_text_maximized">Consolle di JavaScript</string>
     <string name="error_console_eval_text_hint">Valutare JavaScript</string>
@@ -364,8 +364,8 @@
     <string name="empty_history">Cronologia vuota.</string>
     <string name="pref_setting_title">Impostazioni pagina</string>
     <string name="pref_general_setting_title">Impostazioni</string>
-    <string name="pref_extras_website_settings">Dai sito</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Questo sito può accedere alla tua posizione. Change this on the Settings > Advanced > Website data screen.</string>
+    <string name="pref_extras_website_settings">Siti web</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Questo sito può accedere alla tua posizione. Modificare questo andando in Impostazioni > Avanzate > Scarica dati Sito web.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Questo sito non può accedere alla tua posizione</string>
     <string name="pref_images_preload_dialogtitle">Precaricamento immagini</string>
     <string name="pref_images_preload_title">Precaricamento immagini</string>
@@ -605,6 +605,9 @@ Confermare l'uscita da questa pagina?"</string>
     <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Incolla</string>
     <string name="common_use_phrase_bottom_bar_up_analytic_txt">Espandi</string>
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Chiudi</string>
+    <string name="cloud_sync_failed_toast">Aggiornamento fallito, riprovare più tardi</string>
+    <string name="cloud_sync_closed_toast">La sincronizzazione CLoud è disattivata, impossibile aggiornare</string>
+    <string name="close_cloud_tab_tip">Chiudere schede Cloud su %s ?</string>
     <string name="pref_content_cloud_speedup">Carica contenuti più velocemente utilizzando server proxy</string>
     <string name="enter_developer_mode">Enter developer mode</string>
     <string name="pref_adblock_title">Adblock</string>
@@ -613,6 +616,12 @@ Confermare l'uscita da questa pagina?"</string>
     <string name="pref_adblock_counts">Ad totali bloccati: %d</string>
     <string name="pref_clear_adblock_statistics_dlg">Cancellare tutte le statistiche Adblock?</string>
     <string name="adblock_notification">%d ad bloccato/i</string>
+    <string name="bookmarks_history">Segnalibri/Cronologia</string>
+    <string name="delete_homepage">Cancella homepage</string>
+    <string name="show_check_security_url_check_tip_dialog_title">Sicurezza URL</string>
+    <string name="show_check_security_url_check_tip_dialog_description">Questo URL verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare quesa funzione nelle Impostazioni."</string>
+    <string name="pref_check_security_url_title">Controlla sicurezza URL</string>
+    <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza.</string>
     <string name="webapp_app_name">App Web Store Light</string>
     <string name="webapp_dialog_title">"Aggiungi l'app sulla home"</string>
     <string name="webapp_add_to_desktop">Aggiungi alla home</string>

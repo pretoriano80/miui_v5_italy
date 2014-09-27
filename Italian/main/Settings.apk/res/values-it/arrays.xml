@@ -12,7 +12,6 @@
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
-        <item>Risparmio batteria</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
@@ -32,7 +31,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
-        <item>Risparmio batteria</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Non vibrare mai</item>
@@ -241,7 +239,7 @@
         <item>Usa sempre il controllo HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animationi disattivate</item>
+        <item>Animazioni disattivate</item>
         <item>Scala animazioni .5x</item>
         <item>Scala animazioni 1x</item>
         <item>Scala animazioni 1.5x</item>
@@ -384,11 +382,11 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositico connesso, creazione sessione...</item>
+        <item>Dispositivo connesso, creazione sessione…</item>
         <item>Sessione creata</item>
-        <item>Disattivazione sessione...</item>
+        <item>Disattivazione sessione…</item>
         <item>Sessione fallita</item>
-        <item>Creazione sessione scaduta, nuovo tentativo...</item>
+        <item>Creazione sessione scaduta, nuovo tentativo…</item>
         <item>Dispositivo connesso</item>
     </string-array>
     <string-array name="msd_pc_system">
@@ -475,5 +473,10 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>La rete è lenta a causa del traffico intenso</item>
         <item>La rete è lenta a causa del segnale debole</item>
         <item>Spostamento…</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+          <item>Posizione</item>
+          <item>Privato</item>
+          <item>Intelligente</item>
     </string-array>
 </resources>

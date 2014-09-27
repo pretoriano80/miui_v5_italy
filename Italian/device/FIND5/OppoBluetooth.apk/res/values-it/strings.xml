@@ -117,14 +117,14 @@
     <string name="import_contact_file_to_sim_card">Importa nella SIM</string>
     <string name="import_contact_file_to_phone">Importa nel telefono</string>
     <string name="upload_fail">Condivisione Bluetooth: non tutti i file sono stati inviati correttamente!</string>
-    <string name="clearing_history">Cancellazione cronologia...</string>
+    <string name="clearing_history">Cancellazione cronologia…</string>
     <string name="clear_history">Cancella cronologia</string>
     <string name="status_phone_full">Spazio insufficiente sul telefono</string>
     <string name="bt_sm_2_1_phone">Spazio insufficiente sul telefono per salvare il file da \"%1$s\"</string>
     <string name="file_encrypted">La cartella è stata crittografata</string>
     <string name="bluetooth_preparing_share">Preparazione condivisione Bluetooth</string>
     <string name="bluetooth_preparing_share_title">Condivisione Bluetooth</string>
-    <string name="bluetooth_preparing_share_content">Preparazione...</string>
+    <string name="bluetooth_preparing_share_content">Preparazione…</string>
     <string name="pbap_session_key_dialog_title">Digita la chiave di sessione per %1$s</string>
     <string name="pbap_session_key_dialog_header">Chiave sessione Bluetooth necessaria</string>
     <string name="pbap_acceptance_timeout_message">"Timeout dell'accettazione della connessione con %1$s"</string>

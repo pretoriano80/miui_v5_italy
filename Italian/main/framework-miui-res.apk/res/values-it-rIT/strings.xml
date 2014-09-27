@@ -2,7 +2,7 @@
 <resources>
     <string name="activate">Attiva</string>
     <string name="activate_fail_notification_title">Si prega di riattivare il servizio Sincronizzazione Xiaomi</string>
-    <string name="activating">Attivazione...</string>
+    <string name="activating">Attivazione…</string>
     <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Imposta come predefinito</string>
     <string name="android_lockscreen_glogin_instructions">Accedi con il tuo account per sbloccare</string>
@@ -264,16 +264,16 @@
     <string name="experimental_validate">Verifica</string>
     <string name="experimental_validate_fail">Verifica fallita, prova di nuovo</string>
     <string name="experimental_validate_password">Password</string>
-    <string name="experimental_validate_progress">Verifica in corso...</string>
+    <string name="experimental_validate_progress">Verifica in corso…</string>
     <string name="experimental_validate_thanks">Grazie!</string>
     <string name="experimental_validate_username">ID Xiaomi</string>
     <string name="experimental_validate_warning">Ogni tuo contributo aiuta MIUI a migliorare !</string>
-    <string name="find_device_check_sim">Controllo SIM...</string>
+    <string name="find_device_check_sim">Controllo SIM…</string>
     <string name="find_device_sim_change_instructions">Il tuo terminale è stato bloccato. Inserisci SIM o digita la password del tuo account</string>
     <string name="find_device_sim_change_instructions_no_network">Il tuo telefono è stato bloccato. Inserire la SIM orginale</string>
     <string name="find_device_turn_off_flight_mode">Disattiva modalità aereo</string>
     <string name="find_device_turn_off_flight_mode_instructions">Il tuo dispositivo è stato bloccato. Disattiva la modalità aereo</string>
-    <string name="firewall_setting">Firewall</string>
+    <string name="firewall_setting">Blacklist</string>
     <string name="first_back_long_press_message">Vuoi abilitare la funzione long-press del tasto Indietro per chiudere il porcesso attuale ed i servizi in background associati? Abilita da Impostazioni > Sistema > Tasto Impostazioni</string>
     <string name="fm_record_smaple_prefix_miui">RegistrazioneFM</string>
     <string name="fools_day" />
@@ -361,7 +361,7 @@
     <string name="permlab_accessNote">Accedi a Note</string>
     <string name="private_num">Numero privato</string>
     <string name="reboot_confirm">Il telefono verrà riavviato</string>
-    <string name="reboot_progress">Riavvio in corso...</string>
+    <string name="reboot_progress">Riavvio in corso…</string>
     <string name="reverse_all">Deseleziona tutto</string>
     <string name="safetylegal_activity_unreachable">Il telefono non è collegato ad un servizio dati. Per visualizzare adesso questa informazione, vai su %s da un qualsiasi computer collegato ad Internet.</string>
     <string name="screen_button_notification_text">"Premi 'Home'+'Power' abilitare"</string>
@@ -524,6 +524,6 @@ Prova di nuovo tra %d secondi."</string>
     <string name="puk_operation_failed">Operazione PUK fallita.</string>
     <string name="pin_operation_failed">Operazione PIN fallita.</string>
     <string name="return_to_me_message">Si prega di riportare al proprietario.</string>
-    <string name="unlock_string">OK</string>
+    <string name="unlock_string">Ok</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
 </resources>

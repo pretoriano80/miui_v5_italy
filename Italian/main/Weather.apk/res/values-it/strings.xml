@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">Invio...</string>
+    <string name="sina_share_pendding">Invio…</string>
     <string name="sina_share_success">Condiviso con successo!</string>
     <string name="sina_share_fail">Invio fallito!</string>
     <string name="sina_token_expired_warning">Account Weibo scaduto, collegare di nuovo</string>
@@ -13,7 +13,7 @@
     <string name="enable_notification_city">Hai attivato %s notifiche meteo, verranno inviate delle notifiche di sistema quando si verificheranno cambiamenti inaspettati del tempo come pioggia, neve o bruschi cambiamenti di temperatura.</string>
     <string name="sms_notification">Condividi tramite SMS</string>
     <string name="send_sms_notification">Inoltra notifiche meteo</string>
-    <string name="send_sms_notification_summary">Invia il meteo i oggi ai tuoi contatti tramite SMS</string>
+    <string name="send_sms_notification_summary">Invia il meteo di oggi ai tuoi contatti tramite SMS</string>
     <string name="location_management">Località</string>
     <string name="gps_hint">Posizione attualen</string>
     <string name="add_city">Aggiungi città</string>
@@ -32,9 +32,9 @@
     <string name="act_find_city_null_data">Nessun risultato.</string>
     <string name="act_find_city_hint">Cerca</string>
     <string name="act_set_city_find_side_on">Trova località</string>
-    <string name="act_set_city_find_side">Localizzazione città...</string>
+    <string name="act_set_city_find_side">Localizzazione città…</string>
     <string name="local_city" />
-    <string name="act_set_city_re_find_side">Localizzazione...</string>
+    <string name="act_set_city_re_find_side">Localizzazione…</string>
     <string name="act_set_city_find_side_error">Impossibile localizzare.</string>
     <string name="act_city_find_gps_error">Seleziona manualmente una città nella lista.</string>
     <string name="act_weather_main_data_null">Nessun dato meteo, tocca per aggiornare</string>
@@ -123,7 +123,7 @@ La qualità dell'aria a %1$s oggi è: %2$s, %3$s. %4$s %5$s."</string>
     <string name="weather_unit_with_c">°C</string>
     <string name="act_weather_find_city_searching">Ricerca…</string>
     <string name="act_init_dialog_finish">Sono state aggiunte le informazioni meteo globali.</string>
-    <string name="loading_weather">Caricamento meteo...</string>
+    <string name="loading_weather">Caricamento meteo…</string>
     <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
     <string name="menu_add">Aggiungi città</string>
     <string name="menu_more">Dettagli</string>

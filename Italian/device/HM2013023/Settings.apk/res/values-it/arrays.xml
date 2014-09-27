@@ -5,6 +5,10 @@
         <item>Chiedi</item>
         <item>Nega</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Consenti</item>
+        <item>Nega</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
@@ -381,11 +385,11 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositico connesso, creazione sessione...</item>
+        <item>Dispositico connesso, creazione sessione…</item>
         <item>Sessione creata</item>
-        <item>Disattivazione sessione...</item>
+        <item>Disattivazione sessione…</item>
         <item>Sessione fallita</item>
-        <item>Creazione sessione scaduta, nuovo tentativo...</item>
+        <item>Creazione sessione scaduta, nuovo tentativo…</item>
         <item>Dispositivo connesso</item>
     </string-array>
     <string-array name="msd_pc_system">

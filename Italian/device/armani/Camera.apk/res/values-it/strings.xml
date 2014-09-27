@@ -24,16 +24,11 @@
     <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
     <string name="pref_camera_recordlocation_entry_on">Attivato</string>
     <string name="pref_camera_sound_title">Suono fotocamera</string>
-    <string name="pref_camera_sound_title_entry_off">Disattivato</string>
-    <string name="pref_camera_sound_title_entry_on">Attivato</string>
-    <string name="pref_camera_sound_entry_off">off</string>
-    <string name="pref_camera_sound_entry_on">on</string>
     <string name="pref_camera_auto_focus_title_entry_off">Disattivato</string>
     <string name="pref_camera_auto_focus_title_entry_on">Attivato</string>
     <string name="pref_captrue_mirror_title">Fotoc.frontale (effetto specchio)</string>
-    <string name="pref_captrue_mirror_entry_off">Disattivato</string>
-    <string name="pref_captrue_mirror_entry_on">Attivato</string>
     <string name="pref_video_quality_title">Qualità video</string>
+	<string name="pref_video_quality_entry_4kuhd">4K</string>
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
     <string name="pref_video_quality_entry_720p">HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>
@@ -123,21 +118,21 @@
     <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua" />
     <string name="pref_camera_coloreffect_entry_none">Normale</string>
-    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mono">B/N</string>
     <string name="pref_camera_coloreffect_entry_vivid">Vivido</string>
-    <string name="pref_camera_coloreffect_entry_yesteryear">Yesteryear</string>
-    <string name="pref_camera_coloreffect_entry_brannan">Dawn</string>
-    <string name="pref_camera_coloreffect_entry_sketch">Sketch</string>
-    <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
+    <string name="pref_camera_coloreffect_entry_yesteryear">Antico</string>
+    <string name="pref_camera_coloreffect_entry_brannan">Alba</string>
+    <string name="pref_camera_coloreffect_entry_sketch">Fumetto</string>
+    <string name="pref_camera_coloreffect_entry_seventy">"Anni'70"</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
-    <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
+    <string name="pref_camera_coloreffect_entry_jstyle">Giappone</string>
     <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
-    <string name="pref_camera_coloreffect_entry_mosaic">Mosaic</string>
-    <string name="pref_camera_coloreffect_entry_earlybird">Autumn</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Pixel</string>
+    <string name="pref_camera_coloreffect_entry_earlybird">Autunno</string>
     <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
-    <string name="pref_camera_coloreffect_entry_planet">Small world</string>
-    <string name="pref_camera_coloreffect_entry_mirror">Mirror</string>
-    <string name="pref_camera_coloreffect_entry_gaussianblur">Gaussian blur</string>
+    <string name="pref_camera_coloreffect_entry_planet">Riduzione</string>
+    <string name="pref_camera_coloreffect_entry_mirror">Specchio</string>
+    <string name="pref_camera_coloreffect_entry_gaussianblur">Sfocato</string>
     <string name="pref_camera_touchafaec_title">Tocco AF/AEC</string>
     <string name="pref_camera_touchafaec_entry_off">Disattivato</string>
     <string name="pref_camera_touchafaec_entry_on">Attivato</string>
@@ -208,7 +203,7 @@
     <string name="pano_dialog_panorama_failed">Impossibile salvare panorama</string>
     <string name="pano_dialog_title">Panorama</string>
     <string name="pref_camera_panoramamode_title">Panorama</string>
-    <string name="pano_review_saving_indication_str">Salvataggio...</string>
+    <string name="pano_review_saving_indication_str">Salvataggio…</string>
     <string name="tap_to_focus">Tocca per mettere a fuoco</string>
     <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
     <string name="effect_none">Nessuno</string>
@@ -224,6 +219,7 @@
     <string name="effect_backdropper_gallery">Scegli tu</string>
     <string name="bg_replacement_message">"Posiziona il terminale in basso
 ed esci dall'inquadratura"</string>
+    <string name="burst_shoot_exit_button_text">Esci dalla modalità scatto multiplo</string>
     <string name="video_snapshot_hint">"Scatta una foto durante la registrazione video toccando l'anteprima."</string>
     <string name="disable_video_snapshot_hint">Le foto durante la registrazione video sono disabilitati se si usano gli effetti video.</string>
     <string name="snapshot_lower_than_video">La risoluzione dello snapshot video è più bassa di quella video. Raggiungere i valori del video. Selezionare una risoluzione uguale o superiore a quella del video.</string>
@@ -265,8 +261,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_zsl_entry_off">Disattivato</string>
     <string name="pref_camera_zsl_entry_on">Attivato</string>
     <string name="pref_camera_facedetection_title">Riconoscimento Viso</string>
-    <string name="pref_camera_facedetection_entry_off">Disattivato</string>
-    <string name="pref_camera_facedetection_entry_on">Attivato</string>
     <string name="error_app_unsupported_raw_wavelet">La riduzione di onde non funzionerà scattando foto normalmente</string>
     <string name="pref_camera_redeyereduction_title">Occhi Rossi</string>
     <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
@@ -283,13 +277,12 @@ ed esci dall'inquadratura"</string>
     <string name="pref_grp_picture_settings">Impostazioni Immagini</string>
     <string name="pref_grp_capture_settings">Impostazioni Scatto</string>
     <string name="pref_advanced_settings">Avanzate</string>
+	<string name="pref_burst_shoot_title">Scatto multiplo</string>
     <string name="pref_advanced_functions">Funzioni avanzate</string>
     <string name="pref_grp_advanced_settings">Impostazioni avanzate</string>
     <string name="pref_grp_restore_settings">Ripristina impostazioni</string>
     <string name="pref_camera_settings_title">Impostazioni</string>
     <string name="pref_camera_referenceline_title">Linea di riferimento</string>
-    <string name="pref_camera_referenceline_entry_off">Disattivato</string>
-    <string name="pref_camera_referenceline_entry_on">Attivato</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
@@ -310,8 +303,6 @@ ed esci dall'inquadratura"</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Lo scatto multiplo non è supportato quando ISO non è impostato su Auto</string>
     <string name="time_lapse_error">Dimensione video non valida per la registrazione programmata.</string>
     <string name="pref_camera_movie_solid_title">Stabilizzazione video</string>
-    <string name="pref_camera_movie_solid_entry_off">Disattivato</string>
-    <string name="pref_camera_movie_solid_entry_on">Attivato</string>
     <string name="share">Condividi</string>
     <string name="send">Invia</string>
     <string name="delete">Elimina</string>
@@ -395,7 +386,7 @@ ed esci dall'inquadratura"</string>
     <string name="simple_mode_button_text_panorama">Esci dalla modalità panorama</string>
     <string name="simple_mode_button_text_color_effect">Chiudi filtro</string>
     <string name="simple_mode_button_text_audio_capture">Esci dalla modalità scatto vocale</string>
-    <string name="simple_mode_button_text_fast_video">Esci dalla modalità fast-motion</string>
+    <string name="simple_mode_button_text_fast_video">Chiudi la fotocamera fast-motion</string>
     <string name="simple_mode_button_text_slow_video">Chiudi la fotocamera slow-motion</string>
     <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
     <string name="pref_video_fast_speed_title_simple_mode">Fast-motion</string>
@@ -450,21 +441,19 @@ ed esci dall'inquadratura"</string>
     <string name="cloud_album_details">Dettagli album cloud:</string>
     <string name="visit_cloud_album">Apri album cloud</string>
     <string name="find_cloud_album">Trova un album cloud con QR code</string>
-    <string name="wifi_connecting">Connessione Wi-Fi...</string>
+    <string name="wifi_connecting">Connessione Wi-Fi…</string>
     <string name="wifi_open_fail">Impossibile aprire connessione Wi-Fi</string>
     <string name="wifi_connect_fail">Connessione scaduta o errore della rete Wi-Fi</string>
     <string name="wifi_connect_success">Connesso</string>
     <string name="wifi_connect_not_found">Impossibile trovare rete Wi-Fi</string>
     <string name="wifi_connect_current_connetion">Non sei connesso alla rete Wi-Fi</string>
     <string name="pref_camera_watermark_title">Aggiungi data</string>
-    <string name="pref_camera_watermark_entry_off">Disattivato</string>
-    <string name="pref_camera_watermark_entry_on">Attivato</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_setting_title">Impostazioni</string>
     <string name="pref_camera_raw_data_title">RAW</string>
+	<string name="pref_priority_storage_title">Salva nella scheda SD</string>
     <string name="pref_scan_qrcode_title">Scansiona QR Code</string>
-    <string name="pref_scan_qrcode_entry_off">Disattivato</string>
-    <string name="pref_scan_qrcode_entry_on">Attivato</string>
+	<string name="pref_long_press_shutter_button_focus_title">Premere a lungo il pulsante di scatto per mettere a fuoco</string>
     <string name="pref_manual_exposure_title">Esposizione manuale</string>
     <string name="pref_camera_exposuretime_title">Tempo si esposizione</string>
     <string name="pref_camera_exposuretime_entry_auto">Auto</string>
@@ -515,9 +504,6 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_multiple_face_beauty_title">Modalità Bellezza</string>
     <string name="pref_camera_multiple_face_beauty_entry_off">Un viso</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">Due visi</string>
-
-
-
     <string name="measure_whitebalance_button">Misura</string>
     <string name="measure_whitebalance_text">"Posiziona un foglio bianco o grigio davanti all'obbiettivo e premi il tasto"</string>
     <string name="pref_camera_hdr_type_title">Tipo di HDR</string>
@@ -529,5 +515,14 @@ ed esci dall'inquadratura"</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma Flash automatico</string>
     <string name="pref_touch_down_capture_title">Ripresa Touch Down</string>
     <string name="toast_cannot_preview_image_when_screen_locked">Impossibile vedere immagini o video quando lo schermo è bloccato.</string>
-    <string name="accessibility_ev_control">Controllo di compensazione esposizione</string>
+	<string name="accessibility_ev_control">Controllo di compensazione esposizione</string>
+	<string name="object_track_enable_toast">"Scorri sull'anteprima per attivare il tracciamento dell'oggetto."</string>
+    <string name="cannot_move_warning_message">Foto in esecuzione, non muovere il dispositivo</string>
+    <string name="ubifocus_capture_warning_message">"E' meglio quando la schermata di anteprima contiene sia oggetti vicini (meno di un metro dall'obbiettivo) che oggetti lontani"</string>
+    <string name="pref_camera_auto_capture_when_stable_title">Scatta automaticamente quando stabile</string>
+    <string name="ubi_focus_capture_fail">Catturazione fallita,si prega di riprovare</string>
+    <string name="pref_video_4kuhd_title_simple_mode">Modalità 4K</string>
+    <string name="simple_mode_button_text_4kuhd">Chiudi fotocamera 4K</string>
+    <string name="pref_camera_countdown_title">Conto alla rovescia</string>
+    <string name="simple_mode_button_text_countdown">Chiudi conto alla rovescia</string>
 </resources>

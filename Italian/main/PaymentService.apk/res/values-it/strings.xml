@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Servizio pagamento</string>
-    <string name="format_time">MMM dd, yyyy hh:mmaa</string>
+    <string name="format_time">MMM dd, yyyy HH:mm</string>
     <string name="format_date">MMM. dd, yyyy</string>
     <string name="colon">": "</string>
     <string name="label_order_name">Prodotto:</string>
@@ -84,15 +84,15 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="paytool_error_install">Impossibile installare il plugin %1$s per la sicurezza mobile</string>
     <string name="paytool_error_msp">%1$s fallito</string>
     <string name="paytool_msp_not_installed">Non hai installato il plugin %1$s per la sicurezza mobile, installarlo adesso?</string>
-    <string name="progress_paytool_creating">Creazione ordine %1$s...</string>
-    <string name="progress_paytool_installing">Installazione plugin  %1$s per la sicurezza mobile…</string>
+    <string name="progress_paytool_creating">Creazione ordine %1$s…</string>
+    <string name="progress_paytool_installing">Installazione plugin %1$s per la sicurezza mobile…</string>
     <string name="prepaid_grid_carrier_hint">Seleziona operatore</string>
     <string name="prepaid_grid_denomination_hint">Seleziona importo</string>
     <string name="prepaid_picker_hint_1_1">1.</string>
     <string name="prepaid_picker_hint_1_2">Supportate solo ricariche mono uso.</string>
     <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">Il valore nominale deve essere equivalente a quello della carta prepagata. La selezione di un importo diverso annullerà la carta. Questa operazione non può essere annullata.</string>
-    <string name="prepaid_picker_hint_2_2_b">"Se il valore nominale della carta prepagata non è &lt;font color=red>￥%1$s&lt;/font>, la carta verrà annullata. Xiaomi non è responsabile per qualsiasi perdita di denaro causata da errori dell'utente."</string>
+    <string name="prepaid_picker_hint_2_2_b">"Se il valore nominale della carta prepagata non è ￥%1$s, la carta verrà annullata. Xiaomi non è responsabile per qualsiasi perdita di denaro causata da errori dell'utente."</string>
     <string name="prepaid_number_edit_hint">Numero</string>
     <string name="prepaid_password_edit_hint">Password</string>
     <string name="prepaid_edit_limit">numeri</string>
@@ -110,7 +110,7 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="voucher_error_password">Codice voucher non valido!</string>
     <string name="progress_voucher_creating">Ricarica carta MiCredit in corso…</string>
     <string name="msg_picker_hint_1_1">1.</string>
-    <string name="msg_picker_hint_1_2">La ricarica tramite SMS potrebbe essere più costosa: &lt;font color=red>￥2 = 1 MiCredit&lt;/font></string>
+    <string name="msg_picker_hint_1_2">La ricarica tramite SMS potrebbe essere più costosa: ￥2 = 1 MiCredit</string>
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Gli operatori addebitano ￥0.1 di costi per ogni ricarica</string>
     <string name="msg_denomination_type">MiCredit</string>
@@ -138,12 +138,16 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="giftcard_acitivity_and_denomination">Scheda regalo del valore di %2$s-MiCredit da %1$s</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s scaduta</string>
     <string name="giftcard_empty">Nessuna carta regalo.</string>
+    <string name="giftcard_title">Certificati MiCredit</string>
+    <string name="giftcard_define_detail">Utilizza questi certificati come i normali MiCredit. Potresti ricevere dei crediti partecipando ad eventi e promozioni Xiaomi.</string>
+    <string name="progress_mipay_creating">Generazione ordine</string>
+    <string name="mipay_error">Errore Mipay</string>
     <string name="bankcall_merchant">Ricevente:</string>
     <string name="bankcall_denom">Pagamento:</string>
     <string name="bankcall_bank_account">Carta bancaria:</string>
-    <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
-    <string name="bankcall_denom_number">%1$s yuan</string>
-    <string name="bankcall_card">Carta bancaria</string>
+    <string name="bankcall_xiaomi_company">\u0020Xiaomi Corporation (Beijing)</string>
+    <string name="bankcall_denom_number">\u0020%1$s yuan</string>
+    <string name="bankcall_card">Carta credito</string>
     <string name="bankcall_card_hint">Inserisci numero conto</string>
     <string name="bankcall_card_type">%1$s-%2$s</string>
     <string name="bankcall_card_type_tailnum">%1$s-%2$s(Numero carta %3$s)</string>
@@ -184,11 +188,9 @@ Verifica la data locale e prova di nuovo."</string>
     <string name="progress_error_pay_title">Pagamento fallito</string>
     <string name="progress_error_pay_summary">Aggiunti %1$s MiCredit, ma pagamento fallito! Riprova più tardi.</string>
     <string name="progress_warning_waiting">Il pagamento non ha ancora raggiunto il tuo conto.</string>
-    <string name="progress_warning_contact_server">"Il pagamento non ha ancora raggiunto il tuo conto. 
-1. Contatta il nostro centro servizio clienti di Shenzhou：%1$s 
-2. Quando richiesto, fornisci il numero di serie: %2$s."</string>
-    <string name="progress_warning_check">"Il pagamento non ha ancora raggiunto il tuo conto. 
-Controlleremo di nuovo entro due giorni lavorativi."</string>
+    <string name="progress_warning_check_with_contact">Il pagamento non ha ancora raggiunto il tuo conto. 
+Verificheremo di nuovo entro 2 giorni lavorativi.
+Centro servizio assistenza：400-100-5678"</string>
     <string name="btn_back">Indietro</string>
     <string name="btn_recharge_other">Ricarica</string>
     <string name="btn_call">Chiama</string>
@@ -197,7 +199,7 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit in omaggio</string>
     <string name="recharge_push_notification_prime_title">%1$d ha aggiunto %2$s MiCredit sul tuo account</string>
     <string name="recharge_push_notification_sub_title">Ricarica completata.</string>
-    <string name="giftcard_expire_notification_prime_title">Accidenti! Il tuo codice promozionale sta per scadere...</string>
+    <string name="giftcard_expire_notification_prime_title">Accidenti! Il tuo codice promozionale sta per scadere…</string>
     <string name="giftcard_expire_notification_sub_title">La tua scheda regalo Mi scade il %1$s</string>
     <string name="title_mili_center">MiCredit</string>
     <string name="title_recharge_record">Registro ricariche</string>
@@ -221,18 +223,18 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="mibi_license_message_span">Accordo Utente MiCredit</string>
     <string name="btn_agree">"Sono d'accordo"</string>
     <string name="security_setting">Impostazioni di sicurezza</string>
-    <string name="lockscreen_forgot_pattern_button_text">&lt;u>Sequenza dimenticata&lt;/u></string>
+    <string name="lockscreen_forgot_pattern_button_text"><u>Sequenza dimenticata</u></string>
     <string name="lockpattern_recording_intro_header">Disegna sequenza di sblocco:</string>
     <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza di sblocco</string>
     <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti. Prova di nuovo:</string>
     <string name="lockpattern_pattern_entered_header">Sequenza salvata.</string>
     <string name="lockpattern_need_to_confirm">Disegna di nuovo la sequenza:</string>
     <string name="lockpattern_need_to_confirm_wrong">Non corrisponde a alla sequenza precedente, riprovare:</string>
-    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Password sbagliata, ti restano %d tentativi&lt;/font></string>
+    <string name="lockpattern_need_to_unlock_wrong">Password sbagliata, ti restano %d tentativi</string>
     <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco:</string>
     <string name="lockpattern_recording_inprogress">Allontana il dito dallo schermo quando hai finito.</string>
-    <string name="lockpattern_retry_text">&lt;u>Ripristina sequenza di sblocco&lt;/u></string>
-    <string name="forget_password">&lt;u>Ripristina password&lt;/u></string>
+    <string name="lockpattern_retry_text"><u>Ripristina sequenza di sblocco</u></string>
+    <string name="forget_password"><u>Ripristina password</u></string>
     <string name="login">Accedi</string>
     <string name="cancel">Annulla</string>
     <string name="change_security_lock">Modifica blocco di sicurezza</string>
@@ -244,7 +246,7 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
     <string name="lockpattern_tutorial_continue_label">Avanti</string>
     <string name="lockpattern_need_to_unlock_wrong_footer" />
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Troppi tentativi sbagliati!&lt;/font></string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi sbagliati!</string>
     <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Riprova tra  %d secondi.</string>
     <string name="title_myaccount">Account Mi: %s</string>

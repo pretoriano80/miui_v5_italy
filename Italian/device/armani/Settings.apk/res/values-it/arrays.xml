@@ -5,6 +5,10 @@
         <item>Chiedi</item>
         <item>Nega</item>
     </string-array>
+	    <string-array name="perm_disable_keyguard_action">
+        <item>Consenti</item>
+        <item>Nega</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
@@ -441,11 +445,11 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositivo connesso, creazione sessione...</item>
+        <item>Dispositivo connesso, creazione sessione…</item>
         <item>Sessione creata</item>
-        <item>Disattivazione sessione...</item>
+        <item>Disattivazione sessione…</item>
         <item>Sessione fallita</item>
-        <item>Creazione sessione scaduta, nuovo tentativo...</item>
+        <item>Creazione sessione scaduta, nuovo tentativo…</item>
         <item>Dispositivo connesso</item>
     </string-array>
     <string-array name="msd_pc_system">
@@ -537,5 +541,9 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Ritardo minimo</item>
         <item>Normale</item>
         <item>Qualità migliore</item>
+    </string-array>
+	<string-array name="priority_storage_entries">
+        <item>Memoria interna</item>
+        <item>Memoria esterna</item>
     </string-array>
 </resources>

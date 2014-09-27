@@ -41,9 +41,9 @@ Confermare la disattivazione?"</string>
     <string name="rubbish_cleaning">Pulizia di sistema</string>
     <string name="storage_size_title">Archiviazione</string>
     <string name="storage_size_content">%1$s Utilizzati | %2$s Disponibili</string>
-    <string name="quick_scan_doing_title">Scansione...</string>
+    <string name="quick_scan_doing_title">Scansione…</string>
     <string name="quick_scan_done_title">Scansione completata!</string>
-    <string name="quick_scan_cleaning_title">Pulizia...</string>
+    <string name="quick_scan_cleaning_title">Pulizia…</string>
     <string name="quick_scan_result_title">%s elementi trovati</string>
     <string name="quick_scan_result_summary">La pulizia inizierà tra %d sec</string>
     <string name="optimize_cache_header_left">File cache: %d</string>
@@ -93,7 +93,7 @@ Confermare la disattivazione?"</string>
     <string name="deep_clean_tips_large_file_title">Grandi file：</string>
     <string name="deep_clean_tips_large_file_content">File di grandi dimensioni (ad esempio più grandi di 10MB) che sono attualmente archiviati sul tuo dispositivo. Solo tu sai se sono davvero necessari.</string>
     <string name="toast_qucik_scan_list_empty">Sembra tutto ok, pulizia non necessaria!</string>
-    <string name="quick_scan_list_loading_hits">Scansione...</string>
+    <string name="quick_scan_list_loading_hits">Scansione…</string>
     <string name="app_uninstall_residual">Cancellare i file residui delle installazioni?</string>
     <string name="residual_cancel">Annulla</string>
     <string name="residual_clean">Pulisci</string>
@@ -118,8 +118,8 @@ Confermare la disattivazione?"</string>
     <string name="scanning_prefix">Scansione:%s</string>
     <string name="cleanning_prefix">Pulizia:%s</string>
     <string name="scanning_start_hints">Preparazione scansione</string>
-    <string name="pref_category_title_cleanup_white_list">Lista esclusione pulizia</string>
-    <string name="pref_title_cleanup_white_list">Lista di esclusione degli elementi di pulizia</string>
+    <string name="pref_category_title_cleanup_white_list">Lista eccezioni pulizia</string>
+    <string name="pref_title_cleanup_white_list">Lista eccezioni elementi di pulizia</string>
     <string name="pref_summary_cleanup_white_list">Gli elementi nella whitelist verranno ignorati</string>
     <string name="pref_category_title_auto_update_cleanup_db">Impostazioni aggiornamento pulizia database</string>
     <string name="pref_title_auto_update_cleanup_db">Aggiornamento automatico</string>
@@ -131,7 +131,7 @@ Confermare la disattivazione?"</string>
     <string name="pref_title_garbage_cleanup_check_size">Limite avviso cestino</string>
     <string name="pref_title_expand_cache_group">Espandi i gruppi cache</string>
     <string name="pref_summary_expand_cache_group">I gruppi nella lista cache verranno espansi in modo predefinito</string>
-    <string name="msg_cleanup_db_update_checking">Verifica...</string>
+    <string name="msg_cleanup_db_update_checking">Verifica…</string>
     <string name="msg_update_error_code_success">Aggiornamento completato</string>
     <string name="msg_update_error_code_no_newer_db">Aggiornamento non necessario</string>
     <string name="msg_update_error_code_already_running">Aggiornamento</string>
@@ -200,19 +200,19 @@ Confermare la disattivazione?"</string>
     <string name="white_list_apk_header">Applicazioni: %d</string>
     <string name="white_list_large_file_header">Grandi file: %d</string>
     <string name="white_list_residual_header">Residui: %d</string>
-    <string name="white_list_title">Lista esclusione</string>
-    <string name="button_text_delete_from_white_list">Fuori lista esclusione</string>
-    <string name="toast_add_white_list_success">Aggiunto alla lista di esclusione, controlla le impostazioni</string>
+    <string name="white_list_title">Lista eccezioni</string>
+    <string name="button_text_delete_from_white_list">Fuori lista eccezioni</string>
+    <string name="toast_add_white_list_success">Aggiunto alla lista eccezioni, controlla le impostazioni</string>
     <string name="dialog_title_check_all">Seleziona tutto</string>
     <string name="dialog_msg_check_all">Conferma la selezione di %1$s contenente %2$d elementi</string>
-    <string name="toast_removed_from_white_list">Rimosso dalla lista di esclusione</string>
+    <string name="toast_removed_from_white_list">Rimosso dalla lista eccezioni</string>
     <string name="notification_button_text_of_low_memory">Pulisci</string>
     <string name="notification_title_of_low_memory">Memoria del telefono utilizzata %s</string>
     <string name="notification_summary_of_low_memory">Quando la memoria è in esaurimento non installare nuove applicazioni</string>
-    <string name="garbage_white_list_empty_content">Lista di esclusione vuota</string>
+    <string name="garbage_white_list_empty_content">Lista eccezioni vuota</string>
     <string name="toast_garbage_cleanup_success">Pulizia completata</string>
     <string name="dialog_title_load_cleanup_engine_error">Errore</string>
-    <string name="dialog_msg_load_cleanup_engine_error">Si è verificato un errore nel processo di pulizia , riprovare.</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Si è verificato un errore nel processo di pulizia,riprovare.</string>
     <string name="opt_clean_garbage">%d Mb cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
     <string name="opt_freed_ram">Liberati %dMb di memoria</string>
@@ -226,7 +226,7 @@ Confermare la disattivazione?"</string>
     <string name="opt_done_desc">Completato</string>
     <string name="opt_cancel_desc">Annulla</string>
     <string name="opt_resume_desc">Continua</string>
-    <string name="opt_state_running">Ottimizzazione...</string>
+    <string name="opt_state_running">Ottimizzazione…</string>
     <string name="opt_state_pause">Pausa</string>
     <string name="opt_state_done">Completato</string>
     <string name="opt_garbage_size">Dimensione file da pulire：</string>
@@ -262,7 +262,7 @@ Confermare la disattivazione?"</string>
     <string name="power_chooser_standby_title">Modalità maratona</string>
     <string name="power_chooser_standby_summary">Disattiva funzioni Internet</string>
     <string name="power_chooser_sleep_title">Sospensione</string>
-    <string name="power_chooser_sleep_summary">Disattiva tutte le funzioni (telefono, messaggi, Internet) ad esclusione delle sveglie</string>
+    <string name="power_chooser_sleep_summary">Disattiva tutte le funzioni (telefono, messaggi, Internet) ad eccezione delle sveglie</string>
     <string name="power_chooser_mine_title">Personalizza</string>
     <string name="power_chooser_mine_summary">Salva impostazioni di sistema originali</string>
     <string name="power_chooser_user_define_title">Aggiungi profilo personalizzato</string>
@@ -338,7 +338,7 @@ Confermare la disattivazione?"</string>
  Devi modificare le impostazioni prima di eliminare questo profilo."</string>
     <string name="power_save_choose_mode">Seleziona un profilo</string>
     <string name="power_save_low_battery_title">Risparmia quando in esaurimento</string>
-    <string name="power_save_low_battery_auto_save_title">Risparmia quando in esaurimento</string>
+    <string name="power_save_low_battery_auto_save_title">Attiva automaticamente</string>
     <string name="power_save_low_battery_seekbar_title">Considera scarica sotto il: %1$d%%</string>
     <string name="power_save_low_battery_option_title">Quando scarica passa a</string>
     <string name="power_save_low_battery_option_summary">Quando al di sopra della soglia minima il dispositivo tornerà al profilo più utilizzato di recente</string>
@@ -378,7 +378,7 @@ Confermare la disattivazione?"</string>
     <string name="power_mode_chooser_button_text">Applica</string>
     <string name="power_20s_enter_mode">%1$ds passa a modalità %2$s</string>
     <string name="power_notify_lowbattery">Batteria sotto il %1$d%%</string>
-    <string name="power_recovery_mode">Ripristino modalità %1$s</string>
+    <string name="power_recovery_mode">Modalità %1$s ripristinata</string>
     <string name="power_subtitle_lowbattery">Risparmio automatico quando il livello batteria è basso</string>
     <string name="power_subtitle_ontime">Risparmio automatico quando stabilito</string>
     <string name="power_exitlowbattery_whencharge">Esci quando in carica</string>
@@ -409,9 +409,9 @@ Confermare la disattivazione?"</string>
     <string name="perm_trusted_app">Applicazioni fidate (%1$d)</string>
     <string name="perm_show_system_app">Mostra applicazioni di sistema</string>
     <string name="perm_hide_system_app">Nascondi applicazioni di sistema</string>
-    <string name="perm_loading">Caricamento...</string>
-    <string name="perm_operating">Esecuzione...</string>
-    <string name="perm_canceling">Annullamento...</string>
+    <string name="perm_loading">Caricamento…</string>
+    <string name="perm_operating">Esecuzione…</string>
+    <string name="perm_canceling">Annullamento…</string>
     <string name="perm_invalid_input">Input non valido</string>
     <string name="perm_service_enabled">Servizio attivato</string>
     <string name="perm_service_disabled">Servizio disattivato</string>
@@ -647,19 +647,19 @@ Consentire l'avvio automatico?"</string>
     <string name="protection_adb">USB debugging</string>
     <string name="protection_perm">Impostazione permessi</string>
     <string name="protection_sms">Filtro SMS</string>
-    <string name="start_checking_protection">Verifica protezione in tempo reale...</string>
-    <string name="finish_checking_protection">Completamento protezione in tempo reale...</string>
-    <string name="start_checking_memory">Verifica condizioni memoria...</string>
-    <string name="finish_checking_memory">Completamento verifica condizioni memoria...</string>
-    <string name="start_checking_trash">Verifica cache applicazioni...</string>
-    <string name="finish_checking_trash">Completamento verifica cache applicazioni...</string>
-    <string name="checking">Verifica...</string>
-    <string name="start_optimize_protection">Ottimizzazione protezione in tempo reale...</string>
-    <string name="finish_optimize_protection">Completamento ottimizzazione protezione in tempo reale...</string>
-    <string name="start_optimize_memory">Ottimizzazione memoria...</string>
-    <string name="finish_optimize_memory">Completamento ottimizzazione memoria...</string>
-    <string name="start_optimize_trash">Ottimizzazione cache applicazioni...</string>
-    <string name="finish_optimize_trash">Completamento ottimizzazione cache applicazioni...</string>
+    <string name="start_checking_protection">Verifica protezione in tempo reale…</string>
+    <string name="finish_checking_protection">Completamento protezione in tempo reale…</string>
+    <string name="start_checking_memory">Verifica condizioni memoria…</string>
+    <string name="finish_checking_memory">Completamento verifica condizioni memoria…</string>
+    <string name="start_checking_trash">Verifica cache applicazioni…</string>
+    <string name="finish_checking_trash">Completamento verifica cache applicazioni…</string>
+    <string name="checking">Verifica…</string>
+    <string name="start_optimize_protection">Ottimizzazione protezione in tempo reale…</string>
+    <string name="finish_optimize_protection">Completamento ottimizzazione protezione in tempo reale…</string>
+    <string name="start_optimize_memory">Ottimizzazione memoria…</string>
+    <string name="finish_optimize_memory">Completamento ottimizzazione memoria…</string>
+    <string name="start_optimize_trash">Ottimizzazione cache applicazioni…</string>
+    <string name="finish_optimize_trash">Completamento ottimizzazione cache applicazioni…</string>
     <string name="optimizing">Ottimizzazione</string>
     <string name="virus_scanner_title">Antivirus</string>
     <string name="virus_scanner_scanning">Controlla le applicazioni</string>
@@ -674,11 +674,11 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scanner_auto_update">Aggiornamento automatico</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
     <string name="virus_scanner_manual_update">Aggiornato manualmente il %s</string>
-    <string name="virus_scanner_lib_updating">Aggiornamento database...</string>
+    <string name="virus_scanner_lib_updating">Aggiornamento database…</string>
     <string name="virus_scanner_lib_already_latest">Database virus aggiornato</string>
-    <string name="virus_scan_app_safe_scanning">Scansione in corso...</string>
+    <string name="virus_scan_app_safe_scanning">Scansione in corso…</string>
     <string name="virus_scan_app_multi_engines">Scegli un motore, il tempo di scansione può essere più lungo</string>
-    <string name="virus_scan_app_scanning">Scansione...</string>
+    <string name="virus_scan_app_scanning">Scansione…</string>
     <string name="virus_scan_app_waiting">In attesa di</string>
     <string name="virus_scan_app_passed">Scansione completata</string>
     <string name="virus_scan_app_risk">Minaccia trovata!</string>
@@ -718,7 +718,7 @@ Consentire l'avvio automatico?"</string>
     <string name="opt_reject_blacklist">Rifiuti chiamate da numeri sulla blacklist</string>
     <string name="opt_reject_blacklist_stranger">Rifiuta chiamate da numeri sconosciuti in blacklist</string>
     <string name="opt_reject_blacklist_stranger_summary">Le chiamate da numeri bloccati verranno bloccate automaticamente</string>
-    <string name="opt_accept_whitelist">Accetta chiamate da numeri sulla lista esclusioni</string>
+    <string name="opt_accept_whitelist">Accetta chiamate da numeri sulla lista eccezioni</string>
     <string name="opt_reject_all">Rifiuta tutte le chiamate</string>
     <string name="firewall_action">Blocca azioni</string>
     <string name="act_call">Devia subito chiamata</string>
@@ -845,7 +845,7 @@ Consentire l'avvio automatico?"</string>
     <string name="last_checked_date_mark">pts</string>
     <string name="last_checked_date2">"L'ultima scansione risale a %d giorni fa"</string>
     <string name="just_checked">Sistema OK!</string>
-    <string name="need_check">Alcuni elementi sono stati ottimizzati...</string>
+    <string name="need_check">Alcuni elementi sono stati ottimizzati…</string>
     <string name="scan_done">Scansione completata</string>
     <string name="realtime_protection_title">Protezione</string>
     <string name="process_manager_actionbar_title">Memoria utilizzata</string>
@@ -874,10 +874,10 @@ Consentire l'avvio automatico?"</string>
     <string name="examination_score_80_60">Alcuni elementi potrebbero essere ottimizzati.</string>
     <string name="examination_score_60_0">Hey! Forse dovresti ottimizzare il tuo telefono.</string>
     <string name="examination_score_has_virus">Sono state rilevate alcune app sospette!</string>
-    <string name="scanning_virus">Scansione in corso...</string>
-    <string name="finish_checking_virus">Completamento...</string>
-    <string name="optimizing_virus">Rimozione virus...</string>
-    <string name="finish_optimizing_virus">Completamento...</string>
+    <string name="scanning_virus">Scansione in corso…</string>
+    <string name="finish_checking_virus">Completamento…</string>
+    <string name="optimizing_virus">Rimozione virus…</string>
+    <string name="finish_optimizing_virus">Completamento…</string>
     <string name="menu_item_about_title">Informazioni</string>
     <string name="menu_item_about_content">Sicurezza: %s</string>
     <string name="menu_item_about_summary">Versione：%s</string>
@@ -897,6 +897,8 @@ Consentire l'avvio automatico?"</string>
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
     <string name="button_text_view_power">Mostra consumo</string>
+	<string name="cache_data_sort_type_item_name">Nome</string>
+    <string name="cache_data_sort_type_item_size">Dimensione</string>
     <string name="notification_title_firewall_blocked">Bloccato</string>
     <string name="pref_category_title_securitycenter_settings">Impostazioni Centro Sicurezza</string>
     <string name="pref_category_title_module_settings">Impostazioni dei moduli</string>
@@ -924,8 +926,8 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_safe">Cancella</string>
     <string name="virus_scan_dangerous">Rischio</string>
     <string name="virus_scan_find">%d rischi rilevati</string>
-    <string name="virus_scan_parpare">Avvio operazione...</string>
-    <string name="virus_scan_is_scanning">Scansione...</string>
+    <string name="virus_scan_parpare">Avvio operazione…</string>
+    <string name="virus_scan_is_scanning">Scansione…</string>
     <string name="virus_scan_stop">Pausa</string>
     <string name="virus_scan_finish">Completato</string>
     <string name="virus_scan_clear">pulizia</string>
@@ -952,7 +954,7 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scanner_lib_update_success">Le definizioni dei virus sono state aggiornate automaticamente. ^_^</string>
     <string name="virus_scanner_lib_update_failed">Aggiornamento fallito.</string>
     <string name="virus_scan_finish_text">OK, gli elementi pericolosi sono stati rimossi!</string>
-    <string name="virus_scan_list_loading_hits">Scansione in corso...</string>
+    <string name="virus_scan_list_loading_hits">Scansione in corso…</string>
     <string name="virus_scan_list_empty_content">Nessun elemento sospetto rilevato.</string>
     <string name="virus_scan_guard_provider_missed">Lo scanner virus è stato compromesso. Devi eseguire un ripristino di fabbrica del telefono.</string>
     <string name="virus_scan_lib_update_time">ultimo aggiornamento: %s</string>
@@ -973,8 +975,8 @@ Consentire l'avvio automatico?"</string>
     <string name="virus_scan_last_scan_yesterday">"Ultima scansione: ieri "</string>
     <string name="virus_scan_last_scan_date">"L'ultima scansione risale a %d giorni fa"</string>
     <string name="virus_scan_unknown_virus_name">Sconosciuto</string>
-    <string name="virus_scan_is_cloud_scanning">Scansione MiCloud...</string>
-    <string name="virus_scan_clean_dialog_message">Pulizia in corso...</string>
+    <string name="virus_scan_is_cloud_scanning">Scansione MiCloud…</string>
+    <string name="virus_scan_clean_dialog_message">Pulizia in corso…</string>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
     <string name="input_method_selector_show_automatically_value">0</string>
@@ -1008,7 +1010,7 @@ Consentire l'avvio automatico?"</string>
     <string name="radioInfo_service_out">Fuori servizio</string>
     <string name="radioInfo_service_emergency">Solo chiamate di emergenza</string>
     <string name="radioInfo_service_off">Segnale radio disattivato</string>
-    <string name="radioInfo_roaming_in">Roaming...</string>
+    <string name="radioInfo_roaming_in">Roaming…</string>
     <string name="radioInfo_roaming_not">Non roaming</string>
     <string name="radioInfo_phone_idle">Inattivo</string>
     <string name="radioInfo_phone_ringing">Chiamata in corso</string>
@@ -1092,10 +1094,10 @@ Consentire l'avvio automatico?"</string>
     <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi)</string>
     <string name="bluetooth_disconnected">Disconnesso</string>
-    <string name="bluetooth_disconnecting">Disconnessione...</string>
-    <string name="bluetooth_connecting">Connessione...</string>
+    <string name="bluetooth_disconnecting">Disconnessione…</string>
+    <string name="bluetooth_connecting">Connessione…</string>
     <string name="bluetooth_unknown" />
-    <string name="bluetooth_pairing">Accoppiamento...</string>
+    <string name="bluetooth_pairing">Accoppiamento…</string>
     <string name="bluetooth_device">Dispositivo Bluetooth senza nome</string>
     <string name="progress_scanning">Ricerca</string>
     <string name="bluetooth_no_devices_found">Nessun dispositivo Bluetooth in vicinanze.</string>
@@ -1110,8 +1112,8 @@ Consentire l'avvio automatico?"</string>
     <string name="bluetooth_ask_lasting_discovery">"Un'applicazione sul telefono vuole rendere il telefono \"sempre rilevabile\" da altri dispositivi Bluetooth. Consentire?"</string>
     <string name="bluetooth_ask_enablement_and_discovery">"Un'applicazione sul telefono vuole attivare il Bluetooth e rendere il telefono rilevabile da altri dispositivi per %1$d secondi. Consentire?"</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">"Un'applicazione sul telefono vuole attivare il Bluetooth e rendere il telefono rilevabile da altri dispositivi. Consentire?"</string>
-    <string name="bluetooth_turning_on">Attivazione Bluetooth...</string>
-    <string name="bluetooth_turning_off">Disattivazione Bluetooth...</string>
+    <string name="bluetooth_turning_on">Attivazione Bluetooth…</string>
+    <string name="bluetooth_turning_off">Disattivazione Bluetooth…</string>
     <string name="bluetooth_auto_connect">Connessione automatica</string>
     <string name="bluetooth_connection_permission_request">Richiesta di connessione Bluetooth</string>
     <string name="bluetooth_connection_notif_message">Tocca per connetterti con \"%1$s\".</string>
@@ -1121,6 +1123,8 @@ Consentire l'avvio automatico?"</string>
     <string name="bluetooth_pb_remember_choice">Non chiedere più</string>
     <string name="date_and_time">Impostazioni data e ora</string>
     <string name="choose_timezone">Scegli il fuso orario</string>
+	<string name="deepclean_cache_header_left">Cache file: %d</string>
+    <string name="deepclean_sort_type_title">Ordina</string>
     <string name="default_date_format">dd/MM/yyyy</string>
     <string name="normal_date_format">Regionale (%s)</string>
     <string name="display_preview_label">Anteprima:</string>
@@ -1144,7 +1148,7 @@ Consentire l'avvio automatico?"</string>
     <string name="proxy_error">Attenzione</string>
     <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_invalid_host">Il nome host specificato non è valido.</string>
-    <string name="proxy_error_invalid_exclusion_list">"L'elenco di esclusioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole."</string>
+    <string name="proxy_error_invalid_exclusion_list">"L'elenco di eccezioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole."</string>
     <string name="proxy_error_empty_port">Inserisci un valore nel campo Porta.</string>
     <string name="proxy_error_empty_host_set_port">Il campo Porta deve essere vuoto se il campo Host è vuoto.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
@@ -1182,7 +1186,7 @@ Consentire l'avvio automatico?"</string>
     <string name="radio_info_toggle_dns_check_label">Attiva o disattiva verifica DNS</string>
     <string name="oem_radio_info_label">Info/impostazioni specifiche OEM</string>
     <string name="band_mode_title">Imposta banda GSM/UMTS</string>
-    <string name="band_mode_loading">Caricamento lista bande...</string>
+    <string name="band_mode_loading">Caricamento lista bande…</string>
     <string name="band_mode_set">Imposta</string>
     <string name="band_mode_failed">Non riuscita</string>
     <string name="band_mode_succeeded">Riuscita</string>
@@ -1211,7 +1215,7 @@ Consentire l'avvio automatico?"</string>
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
     <string name="airplane_mode">Modalità aereo</string>
-    <string name="radio_controls_title">Altro...</string>
+    <string name="radio_controls_title">Altro…</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
     <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="roaming">Roaming dati</string>
@@ -1362,7 +1366,7 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_connecting_error_message">Errore durante la connessione a %1$s.</string>
     <string name="bluetooth_preference_scan_title">Ricerca dispositivi</string>
     <string name="bluetooth_search_for_devices">Ricerca dispositivi</string>
-    <string name="bluetooth_searching_for_devices">Ricerca...</string>
+    <string name="bluetooth_searching_for_devices">Ricerca…</string>
     <string name="bluetooth_preference_device_settings">Impostazioni dispositivo</string>
     <string name="bluetooth_preference_paired_devices">Dispositivi associati</string>
     <string name="bluetooth_preference_found_devices">Dispositivi disponibili</string>
@@ -1371,11 +1375,11 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="bluetooth_device_context_pair_connect">Associa e connetti</string>
     <string name="bluetooth_device_context_unpair">Dissocia</string>
     <string name="bluetooth_device_context_disconnect_unpair">Disconnetti e dissocia</string>
-    <string name="bluetooth_device_context_connect_advanced">Opzioni...</string>
+    <string name="bluetooth_device_context_connect_advanced">Opzioni…</string>
     <string name="bluetooth_menu_advanced">Avanzato</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
     <string name="bluetooth_empty_list_bluetooth_off">Attiva il Bluetooth per vedere i dispositivi disponibili</string>
-    <string name="bluetooth_connect_specific_profiles_title">Connetti a...</string>
+    <string name="bluetooth_connect_specific_profiles_title">Connetti a…</string>
     <string name="bluetooth_profile_a2dp">Audio multimediale</string>
     <string name="bluetooth_profile_headset">Audio telefono</string>
     <string name="bluetooth_profile_opp">Trasferimento file</string>
@@ -1448,8 +1452,8 @@ Per riprendere a utilizzare il telefono devi effettuare il ripristino dei dati d
     <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_settings_summary">Configura e gestisci punti di accesso wireless</string>
     <string name="wifi_setup_wizard_title">Seleziona Wi-Fi</string>
-    <string name="wifi_starting">Attivazione Wi-Fi...</string>
-    <string name="wifi_stopping">Disattivazione Wi-Fi...</string>
+    <string name="wifi_starting">Attivazione Wi-Fi…</string>
+    <string name="wifi_stopping">Disattivazione Wi-Fi…</string>
     <string name="wifi_error">Errore</string>
     <string name="wifi_in_airplane_mode">In modalità aereo</string>
     <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
@@ -1661,6 +1665,7 @@ La configurazione del telefono può richiedere una significativa attività di re
     <string name="sim_change_pin">PIN della SIM</string>
     <string name="sim_bad_pin">PIN errato</string>
     <string name="sim_pins_dont_match">I PIN non corrispondono</string>
+	<string name="sim_radio_off">Non attivato</string>
     <string name="sim_change_failed">"Impossibile cambiare il PIN.
 Il PIN potrebbe essere errato."</string>
     <string name="sim_change_succeeded">PIN della SIM modificato</string>
@@ -1711,7 +1716,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="memory_available">Disponibile</string>
     <string name="memory_available_read_only">Disponibile (sola-lettura)</string>
     <string name="memory_size">Spazio totale</string>
-    <string name="memory_calculating_size">Calcolo...</string>
+    <string name="memory_calculating_size">Calcolo…</string>
     <string name="memory_apps_usage">Applicazioni</string>
     <string name="memory_media_usage">Supporti</string>
     <string name="memory_downloads_usage">Download</string>
@@ -1866,11 +1871,11 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="terms_title">Termini e condizioni</string>
     <string name="settings_license_activity_title">Licenze open source</string>
     <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
-    <string name="settings_license_activity_loading">Caricamento...</string>
+    <string name="settings_license_activity_loading">Caricamento…</string>
     <string name="settings_safetylegal_title">Informazioni sulla sicurezza</string>
     <string name="settings_safetylegal_activity_title">Informazioni sulla sicurezza</string>
     <string name="settings_safetylegal_activity_unreachable">Nessuna connessione dati disponibile. Per visualizzare ora le informazioni, visita il sito %s da qualsiasi computer collegato a Internet.</string>
-    <string name="settings_safetylegal_activity_loading">Caricamento...</string>
+    <string name="settings_safetylegal_activity_loading">Caricamento…</string>
     <string name="lockpassword_choose_your_password_header">Scegli la tua password</string>
     <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
     <string name="lockpassword_choose_your_pin_header">Scegli il tuo PIN</string>
@@ -1982,7 +1987,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="no_applications">Nessuna applicazione.</string>
     <string name="internal_storage">Archivio interno</string>
     <string name="sd_card_storage">Archivio USB</string>
-    <string name="recompute_size">Ricalcolo dimensioni...</string>
+    <string name="recompute_size">Ricalcolo dimensioni…</string>
     <string name="clear_data_dlg_title">"Eliminare i dati dell'applicazione?"</string>
     <string name="clear_data_dlg_text">"Tutti i dati dell'applicazione verranno eliminati definitivamente, inclusi tutti i file, le impostazioni, gli account, i database e così via."</string>
     <string name="app_not_found_dlg_title" />
@@ -2000,7 +2005,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="security_settings_billing_desc">Questa applicazione potrebbe addebitarti dei costi:</string>
     <string name="security_settings_premium_sms_desc">Invio SMS premium</string>
-    <string name="computing_size">Elaborazione...</string>
+    <string name="computing_size">Elaborazione…</string>
     <string name="invalid_size_value">Impossibile stabilire le dimensioni del pacchetto</string>
     <string name="empty_list_msg">Nessuna applicazione di terze parti installata.</string>
     <string name="move_app">Sposta</string>
@@ -2061,6 +2066,8 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="language_settings">Lingua e tastiera</string>
     <string name="language_keyboard_settings_title">Lingua e immissione</string>
     <string name="language_settings_category">Impostazioni lingua</string>
+	<string name="large_file_sort_type_item_name">Nome</string>
+    <string name="large_file_sort_type_item_size">Dimensione</string>
     <string name="keyboard_settings_category">Tastiera e metodi di immissione</string>
     <string name="phone_language">Lingua</string>
     <string name="phone_language_summary" />
@@ -2107,7 +2114,7 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
 Puoi aggiungere una parola toccando il pulsante Aggiungi (+)."</string>
     <string name="user_dict_settings_all_languages">Tutte le lingue</string>
     <string name="user_dict_settings_more_languages">Altre lingue…</string>
-    <string name="testing">Verifica...</string>
+    <string name="testing">Verifica…</string>
     <string name="testing_phone_info">Informazioni telefono</string>
     <string name="testing_battery_info">Informazioni batteria</string>
     <string name="testing_sim_toolkit">Strumenti SIM</string>
@@ -2218,11 +2225,13 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="accessibility_service_security_warning_title">Utilizzare %1$s?</string>
     <string name="accessibility_service_security_warning_summary">%1$s è in grado di raccogliere tutto il testo digitato, tranne le password. Sono inclusi i dati personali come i numeri di carte di credito. Può anche raccogliere dati sulle tue interazioni con il telefono.</string>
     <string name="accessibility_service_disable_warning_title">Interrompere %1$s?</string>
+	<string name="accessibility_service_no_apps_confirm">Ok</string>
     <string name="accessibility_service_disable_warning_summary">Se tocchi OK %1$s verrà interrotto.</string>
     <string name="accessibility_no_services_installed">Nessun servizio installato</string>
     <string name="accessibility_service_no_apps_title">Hai bisogno di uno screen reader?</string>
     <string name="accessibility_service_no_apps_message">"TalkBack fornisce commenti vocali per utenti non vedenti o con problemi di vista. Vuoi installare gratuitamente l'applicazione da Google Play?"</string>
-    <string name="accessibility_script_injection_security_warning_summary">Vuoi che le applicazioni installino script di Google per rendere più accessibili i relativi contenuti web?</string>
+    <string name="accessibility_service_no_apps_prompt">TalkBack fornisce un feedback parlato per aiutare gli utenti non vedenti e ipovedenti. Ottieni questo servizio gratuito dal Play Store.</string>
+	<string name="accessibility_script_injection_security_warning_summary">Vuoi che le applicazioni installino script di Google per rendere più accessibili i relativi contenuti web?</string>
     <string name="accessibility_service_default_description">Nessuna descrizione fornita.</string>
     <string name="settings_button">Impostazioni</string>
     <string name="power_usage_summary_title">Batteria</string>
@@ -2347,8 +2356,8 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">Attivato</string>
     <string name="gadget_state_off">Disattivato</string>
-    <string name="gadget_state_turning_on">Attivazione in corso...</string>
-    <string name="gadget_state_turning_off">Disattivazione in corso...</string>
+    <string name="gadget_state_turning_on">Attivazione in corso…</string>
+    <string name="gadget_state_turning_off">Disattivazione in corso…</string>
     <string name="gadget_wifi">WLAN</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_gps">GPS</string>
@@ -2381,6 +2390,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="credentials_enabled">"L'archivio di credenziali è attivo."</string>
     <string name="credentials_configure_lock_screen_hint">"Devi impostare un PIN o una password di blocco dello schermo per poter utilizzare l'archivio credenziali."</string>
     <string name="emergency_tone_title">Tono chiamate emergenza</string>
+	<string name="empty_content_size">Nessuno</string>
     <string name="emergency_tone_summary">Imposta il comportamento in caso di chiamata di emergenza</string>
     <string name="privacy_settings">Backup e ripristino</string>
     <string name="privacy_settings_title">Backup e ripristino</string>
@@ -2417,7 +2427,7 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="sound_category_system_title">Sistema</string>
     <string name="wifi_setup_title">Impostazione Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Connetti alla rete Wi-Fi %s</string>
-    <string name="wifi_setup_title_connecting_network">Connessione alla rete Wi-Fi %s...</string>
+    <string name="wifi_setup_title_connecting_network">Connessione alla rete Wi-Fi %s…</string>
     <string name="wifi_setup_title_connected_network">Connesso alla rete Wi-Fi %s</string>
     <string name="wifi_setup_title_add_network">Aggiungi una rete</string>
     <string name="wifi_setup_not_connected">Non connesso</string>
@@ -2431,17 +2441,17 @@ Se il dispositivo ha utenti multipli, utilizzando questa scorciatoia sulla locks
     <string name="wifi_setup_forget">Elimina</string>
     <string name="wifi_setup_save">Salva</string>
     <string name="wifi_setup_cancel">Annulla</string>
-    <string name="wifi_setup_status_scanning">Ricerca reti...</string>
+    <string name="wifi_setup_status_scanning">Ricerca reti…</string>
     <string name="wifi_setup_status_select_network">Tocca una rete per collegarti</string>
     <string name="wifi_setup_status_existing_network">Connetti a rete esistente</string>
     <string name="wifi_setup_status_unsecured_network">Collegati a rete non protetta</string>
     <string name="wifi_setup_status_edit_network">Digita configurazione di rete</string>
     <string name="wifi_setup_status_new_network">Connetti a nuova rete</string>
-    <string name="wifi_setup_status_connecting">Connessione...</string>
+    <string name="wifi_setup_status_connecting">Connessione…</string>
     <string name="wifi_setup_status_proceed_to_next">Vai al passaggio successivo</string>
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
     <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti.\u0090"</string>
-    <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto...</string>
+    <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto…</string>
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per proseguire con la configurazione.
 
 Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
@@ -2484,6 +2494,7 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="really_remove_account_message">"La rimozione di questo account comporterà l'eliminazione di tutti i relativi messaggi, contatti e altri dati dal telefono."</string>
     <string name="remove_account_failed">Questo account è richiesto da alcune applicazioni. Puoi rimuoverlo solo ripristinando le impostazioni predefinite di fabbrica del telefono (questa operazione elimina tutti i dati personali) in Impostazioni > Backup e ripristino.</string>
     <string name="provider_label">Sottoscrizioni push</string>
+	<string name="provision_inputmethod_policy_description">Politiche Privacy per la selezione della tastiera</string>
     <string name="sync_item_title">Sincronizza %s</string>
     <string name="cant_sync_dialog_title">Impossibile sincronizzare manualmente</string>
     <string name="cant_sync_dialog_message">Al momento la sincronizzazione di questo elemento non è attiva. Per modificare questa impostazione, attiva temporaneamente i dati in background e la sincronizzazione automatica.</string>
@@ -2520,8 +2531,8 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="show_screen_updates_summary">Fai lampeggiare le aree dello schermo quando si aggiornano</string>
     <string name="show_hw_screen_updates">Mostra aggiornamenti GPU</string>
     <string name="show_hw_screen_updates_summary">"Visualizzazione rapida all'interno di finestre quando la GPU è in elaborazione"</string>
-    <string name="show_hw_layers_updates">Mostra sovrapposizione aggiornamenti hardware</string>
-    <string name="show_hw_layers_updates_summary">Aggiornamenti flash hardware quando è verde.</string>
+    <string name="show_hw_layers_updates">Mostra aggiornamenti hardware</string>
+    <string name="show_hw_layers_updates_summary">Lampeggiamento in verde su aggiornamenti hardware.</string>
     <string name="show_hw_overdraw">Mostra overdraw GPU</string>
     <string name="show_hw_overdraw_summary">Da buono a debole: blu, verde, rosso chiaro, rosso</string>
     <string name="disable_overlays">Disattiva overlay HW</string>
@@ -2547,6 +2558,11 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="animator_duration_scale_title">Durata animazione</string>
     <string name="overlay_display_devices_title">Simula display secondario</string>
     <string name="debug_applications_category">Applicazioni</string>
+	<string name="high_performance_notif_summary">Modalità prestazioni è attiva.</string>
+    <string name="high_performance_notif_title">Avviso utilizzo della batteria</string>
+	<string name="high_performance_title">"Sembra che stai eseguendo un test di benchmark.Imposta dalla gestione batteria la modalità consumo \"Prestazioni\" per avere dei risultati migliori."</string>
+    <string name="ime_privacy_policy">Politiche privacy della tastiera</string>
+    <string name="ime_privacy_policy_no_network">Nessuna connessione di rete.È possibile visualizzare le politiche sulla privacy al sito %s</string>
     <string name="immediately_destroy_activities">Non conservare attività</string>
     <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
     <string name="app_process_limit_title">Limite processi background</string>
@@ -2561,7 +2577,7 @@ Tocca "<b>Indietro</b>" per collegarti ad un'altra rete Wi-Fi."</string>
     <string name="data_usage_menu_show_ethernet">Mostra utilizzo Ethernet</string>
     <string name="data_usage_menu_metered">Hotspot Mobili</string>
     <string name="data_usage_menu_auto_sync">Auto-sincronizzazione dati</string>
-    <string name="data_usage_change_cycle">Cambia ciclo...</string>
+    <string name="data_usage_change_cycle">Cambia ciclo…</string>
     <string name="data_usage_pick_cycle_day">Giorno del mese in cui reimpostare ciclo di utilizzo dei dati:</string>
     <string name="data_usage_empty">Dati non usati da applicazioni in questo periodo.</string>
     <string name="data_usage_label_foreground">Primo piano</string>
@@ -2734,20 +2750,20 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="dndm_auto_time_turn_on_title">Attiva automaticamente la modalità DND</string>
     <string name="dndm_auto_time_turn_off">Alle</string>
     <string name="dndm_auto_time_turn_off_title">Disattiva automaticamente la modalità DND</string>
-    <string name="dndm_dlg_remove_vip">Rimuovere dalla lista delle esclusioni?</string>
+    <string name="dndm_dlg_remove_vip">Rimuovere dalla lista delle eccezioni?</string>
     <string name="dndm_dlg_remove_ok">Rimuovi</string>
-    <string name="dndm_menu_add_vip_custom">Aggiungi esclusione</string>
+    <string name="dndm_menu_add_vip_custom">Aggiungi eccezione</string>
     <string name="dndm_mute_all">Silenzia chiamate e messaggi</string>
-    <string name="dndm_special_call_setting_group">Esclusioni</string>
-    <string name="dndm_vip_call_setting_title">Impostazioni esclusioni</string>
+    <string name="dndm_special_call_setting_group">Eccezioni</string>
+    <string name="dndm_vip_call_setting_title">Imposta eccezioni</string>
     <string name="dndm_vip_call_summary_none">Tocca per configurare</string>
-    <string name="dndm_vip_call_summary_custom">%d esclusioni</string>
+    <string name="dndm_vip_call_summary_custom">%d eccezioni</string>
     <string name="dndm_vip_call_summary_contact">Tutti i contatti</string>
-    <string name="dndm_vip_call_button_title">Consenti chiamate dalle esclusioni</string>
-    <string name="dndm_vip_list_group">Lista esclusioni</string>
+    <string name="dndm_vip_call_button_title">Accetta le eccezioni</string>
+    <string name="dndm_vip_list_group">Lista eccezioni</string>
     <string name="dndm_vip_list_custom">Eccezioni</string>
     <string name="dndm_vip_list_contact">Tutti i contatti</string>
-    <string name="dndm_vip_list_custom_group">Esclusioni</string>
+    <string name="dndm_vip_list_custom_group">Eccezioni</string>
     <string name="dndm_repeated_call_setting_title">Ripeti chiamate</string>
     <string name="dndm_repeated_call_summary_none">Silenzia chiamate ripetute dallo stesso numero</string>
     <string name="dndm_repeated_call_summary_3min">Se lo stesso numero richiama entro tre minuti il telefono squillerà</string>
@@ -2836,8 +2852,8 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="preferred_application_title">Preferita: %s</string>
     <string name="preferred_application_warning_title">Sostituzione predefinita %s</string>
     <string name="preferred_application_warning_message">Sostituendo la predefinita %s si potrebbe verificare un uso maggiore della memoria. Sicuro di voler continuare?</string>
-    <string name="preferred_application_warning_replace">Cambia Launcher</string>
-    <string name="preferred_application_warning_use_system">Usa %s come predefinita</string>
+    <string name="preferred_application_warning_replace">Cambia</string>
+    <string name="preferred_application_warning_use_system">%s predef.</string>
     <string name="key_settings_title">Impostazioni tasti</string>
     <string name="key_settings">Tasto</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
@@ -2854,6 +2870,10 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="pref_volume_wake_summary">Riattiva il telefono premendo i tasti volume su/giù. Pensato per terminali in cui il tasto accensione si preme con difficoltà</string>
     <string name="media_button">Tasto Media</string>
     <string name="preferred_media_app_summary">Scegli app Musica</string>
+    <string name="priority_storage_app_settings">I dati utente verranno salvati in %1$s</string>
+    <string name="priority_storage_settings_summary">Se non viene rilevata una scheda SD, i dati utente verranno salvati automaticamente nella memoria interna del tuo dispositivo"</string>
+    <string name="priority_storage_summary">Seleziona il tipo di memoria predefinita in cui salvare i dati utente</string>
+    <string name="priority_storage_title">Impostazioni di archiviazione</string>
     <string name="no_media_button_receiver">No</string>
     <string name="camera_key_action_title">Tasto MI</string>
     <string name="camera_key_action_setting_title">Tasto MI</string>
@@ -2935,7 +2955,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="apn_new">Nuovo punto di accesso</string>
     <string name="apn_save">Salvare APN?</string>
     <string name="apn_save_msg">Le impostazioni APN sono state modificate, vuoi salvarle ?</string>
-    <string name="activating">Attivazione...</string>
+    <string name="activating">Attivazione…</string>
     <string name="wifi_enable_watchdog_service_summary">Non utilizzare una rete Wi-Fi se non ha una buona connessione Internet</string>
     <string name="wifi_disabled_help">La rete è tata esclusa a causa della scarsa intensità. Disattiva questa funzione da > Wi-Fi > Impostazioni avanzate.</string>
     <string name="wifi_wps_overlap_error">"E' stata rilevata un'altra sessione Wi-Fi protetta. Riprova tra pochi minuti."</string>
@@ -2996,7 +3016,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="master_clear_personal_data_application">Sei sicuro di voler eliminare i tuoi dati e le applicazioni installate ? Questa operazione è irreversibile</string>
     <string name="master_clear_personal_data_sdcard">Sei sicuro di voler eliminare i tuoi dati e cancellare la scheda SD ? Questa operazione è irreversibile</string>
     <string name="master_clear_all">Sei sicuro di voler cancellare tutti i dati tornando alle impostazioni di fabbrica ? Questa operazione è irreversibile</string>
-    <string name="master_clear_erase_application_progress">Cancellazione applicazioni in corso...</string>
+    <string name="master_clear_erase_application_progress">Cancellazione applicazioni in corso…</string>
     <string name="erase_internal_storage">Cancella Memoria Interna</string>
     <string name="erase_internal_storage_description">Cancellando la memoria interna verranno cancellati tutti i file come musica e foto</string>
     <string name="storage_format">Cancella</string>
@@ -3040,8 +3060,8 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="dolby_roomsize_low">Interno</string>
     <string name="dolby_roomsize_normal">Normale</string>
     <string name="dolby_roomsize_high">Esterno</string>
-    <string name="dolby_eq_enter_alert_title">Apri modalità EQ Dolby</string>
-    <string name="dolby_eq_enter_alert_msg">Vuoi aprire la modalità Equalizzatore Dolby ?</string>
+    <string name="dolby_eq_enter_alert_title">Apri modalità equalizzatore</string>
+    <string name="dolby_eq_enter_alert_msg">Aprire modalità equalizzatore?</string>
     <string name="dirac_switch_title">Tecnologia Dirac Sound</string>
     <string name="dirac_switch_summary">"Migliora l'audio tramite Dirac Sound quando usi gli altoparlanti del telefono"</string>
     <string name="dirac_mode_off">Dirac disattivato</string>
@@ -3061,7 +3081,7 @@ Ogni utente può accettare aggiornamenti e richieste di permessi da applicazioni
     <string name="wfd_enabler_title">Abilita Wi-Fi Display</string>
     <string name="wfd_enable_wifi_diag_title">Puoi utilizzare Wi-Fi Display solo quando la connessione Wi-Fi è attivata. Attivare adesso?</string>
     <string name="wfd_menu_search">Cerca dispositivi</string>
-    <string name="wfd_menu_searching">Ricerca in corso...</string>
+    <string name="wfd_menu_searching">Ricerca in corso…</string>
     <string name="wfd_menu_teardown">Disconnetti</string>
     <string name="wfd_available_devices">Dispositivi disponibili</string>
     <string name="wfd_disconnect_diag_title">Disconnettere sessione Wi-Fi ?</string>
@@ -3096,12 +3116,12 @@ e lancialo manualmente。"</li>"
 "<li>Installa di nuovo i driver.</li></string>
     <string name="msd_install_retry_linux">"Se il tuo computer non rileva correttamente il telefono,
 prova in questo modo:
-1) Usa il tool di installazione (sudo aptitude install mtpfs libfuse-dev libmad0-dev)
-2) Crea una directory (mkdir /media/mtp)
+1) Usa il tool di installazione ($sudo aptitude install mtpfs libfuse-dev libmad0-dev)
+2) Crea una directory ($mkdir /media/mtp)
 3) Conferma  i permessi del gruppo utente nel gruppo utente fuse attuale
 4) Accedi di nuovo
 5) Accedi al dispositivo montato mtpfs /media/mtp via File explorer; stesso della directory locale
-6) Disinstalla il dispositivo (fusermount -u /media/mtp)
+6) Disinstalla il dispositivo ($fusermount -u /media/mtp)
  Nota: Per ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Installa driver</string>
     <string name="msd_install_status_done">Driver già installati</string>
@@ -3286,7 +3306,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="free_wifi_connect_dialog_summary">Questa Wi-Fi gratuita è in parte fornita da %2$s.</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">Connetti</string>
-    <string name="free_wifi_connecting">Connessione in corso...</string>
+    <string name="free_wifi_connecting">Connessione in corso…</string>
     <string name="free_wifi_connected">Connettiti alla rete wi-Fi gratuita</string>
     <string name="free_wifi_connect_fail">Impossibile connettersi alla rete</string>
     <string name="free_wifi_connect_fail2">Impossibile accedere. Aspetta un paio di minuti e riprova.</string>
@@ -3310,9 +3330,9 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="miui_screensaver_usage">"Una volta attivato, le immagini nell'album screensaver verranno mostrate ripetutamente dopo 5 secondi dalla disattivazione dello schermo."</string>
     <string name="alert_show_screensaver_when_not_charging_title">Screensaver quando non in carica</string>
     <string name="alert_show_screensaver_when_not_charging_msg">La batteria verrà consumata più rapidamente se si utilizza lo screensaver quando il dispositivo non è in carica. Vuoi disattivare questa funzione?</string>
-    <string name="preferred_app_settings">Impostazioni predefinite app</string>
+    <string name="preferred_app_settings">Impostazione app predefinite</string>
     <string name="preferred_app_settings_default">Predefinito</string>
-    <string name="preferred_app_settings_reset">Ripristina imp. predefinite</string>
+    <string name="preferred_app_settings_reset">Ripristina impostazioni predefinite</string>
     <string name="preferred_app_settings_reset_message">Confermi di voler ripristinare le impostazioni predefinite?</string>
     <string name="translation_contributors_title">Traduttori</string>
     <string name="bluetooth_advanced_settings">Impostazioni avanzate</string>
@@ -3417,7 +3437,7 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="mtk_thememanager_title">Temi</string>
     <string name="default_name">Predefinito</string>
     <string name="custom_theme_name">Nuovo [%1$s]</string>
-    <string name="loading">Caricamento in corso...</string>
+    <string name="loading">Caricamento in corso…</string>
     <string name="sim_enter_pin_hints">(Inserisci 4-8 cifre)</string>
     <string name="sim_remain">(Rimanenti:%d)</string>
     <string name="gps_time_sync_attention_gps_on">"Occorre al massimo un minuto per ottenere il fix del GPS. A parte questo, il GPS potrebbe fallire nell'ottenimento dell'orario per via di un segnale debole nell'ambiente in cui ci si trova.
@@ -3453,8 +3473,8 @@ Sei certo di volere abilitare il GPS ora e attendere per l'orario provveduto dal
     <string name="gemini_gsm_umts_network_preferneces_summary">Non ancora implementato!</string>
     <string name="gemini_gsm_umts_network_preferences_dialogtitle">Modalità rete</string>
     <string name="gemini_3g_service_settings">Servizio 3G</string>
-    <string name="gemini_sim_mode_progress_activating_message">Attivazione in corso...</string>
-    <string name="gemini_sim_mode_progress_deactivating_message">Disattivazione in corso... </string>
+    <string name="gemini_sim_mode_progress_activating_message">Attivazione in corso…</string>
+    <string name="gemini_sim_mode_progress_deactivating_message">Disattivazione in corso… </string>
     <string name="gemini_sim_mode_change_failed_message">Fallito, errore di rete.</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Modalità aereo</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Il telefono entrerà in modalità Aereo. Tutte le connessioni wireless saranno disabilitate. Continuare?</string>
@@ -3467,8 +3487,8 @@ Sei certo di volere abilitare il GPS ora e attendere per l'orario provveduto dal
     <string name="gemini_sim_info_editor_number_display_format">Formato numeri</string>
     <string name="gemini_no_sim_indicator">Nessuna SIM</string>
     <string name="gemini_sim_list_default_title">Lista carte SIM</string>
-    <string name="gemini_data_connection_progress_message">Attendere...</string>
-    <string name="gemini_3g_modem_switching_message">Il cambio di SIM impiegherà intorno ai 10 secondi. Si prega di attendere...</string>
+    <string name="gemini_data_connection_progress_message">Attendere…</string>
+    <string name="gemini_3g_modem_switching_message">Il cambio di SIM impiegherà intorno ai 10 secondi. Si prega di attendere…</string>
     <string name="gemini_3g_modem_switch_confirm_message">Questo provocherà anche il passaggio del servizio 3G a questa SIM. Continuare? Prego assicurarsi che la SIM selezionata supporti il servizio 3G.</string>
     <string name="gemini_3g_disable_warning">Il servizio 3G non è disponibile con la SIM selezionata. Questo comporta un caricamento dati più lento. Puoi cambiare le impostazioni del servizio 3G sotto Impostazioni-> Wi-Fi e reti -> Reti mobili.</string>
     <string name="gemini_3g_disable_warning_cu">Il servizio 3G non è disponibile con la SIM selezionata. Questo comporta un caricamento dati più lento. Puoi cambiare le impostazioni del servizio 3G sotto Impostazioni -> Gestione SIM.</string>
@@ -3500,7 +3520,7 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="gemini_sim_tether_select_cancel">Annulla</string>
     <string name="gemini_sim_tether_revert_title">Attenzione</string>
     <string name="gemini_sim_tether_revert_message">Le tue configurazioni sono cambiate e non sono ancora state salvate. Sei sicuro di voler uscire senza salvarle?</string>
-    <string name="gemini_tether_saving_progress_message">Salvataggio in corso...</string>
+    <string name="gemini_tether_saving_progress_message">Salvataggio in corso…</string>
     <string name="gemini_sim_lock_sim1_tab_tag">SIM1</string>
     <string name="gemini_sim_lock_sim1_tab_label">SIM1</string>
     <string name="gemini_sim_lock_sim2_tab_tag">SIM2</string>
@@ -3539,7 +3559,7 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="wifi_gprs_selector_title">Selettore rete</string>
     <string name="data_enabler_title">Attivazione dati</string>
     <string name="data_enabler_summary">"Abilita l'accesso dati sulla rete mobile"</string>
-    <string name="data_enabler_waiting_message">Attendere prego...</string>
+    <string name="data_enabler_waiting_message">Attendere prego…</string>
     <string name="wifi_tether_fix_channel_width_text">20 MHz</string>
     <string name="wifi_tether_auto_channel_text">Automatico</string>
     <string name="wifi_tether_auto_channel_width_text">20/40 MHz automatico</string>
@@ -3661,8 +3681,8 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="card_emulation_settings_category_title">Elemento di sicurezza disponibile</string>
     <string name="card_emulation_settings_no_element_found">Nessun elemento di sicurezza disponibile.</string>
     <string name="card_emulation_settings_off_text">"Per visualizzare gli elementi di sicurezza disponibili, attivare l'emulazione scheda NFC."</string>
-    <string name="card_emulation_turning_off_text">Disattivazione emulazione scheda NFC in corso...</string>
-    <string name="card_emulation_turning_on_text">Attivazione emulazione scheda NFC in corso...</string>
+    <string name="card_emulation_turning_off_text">Disattivazione emulazione scheda NFC in corso…</string>
+    <string name="card_emulation_turning_on_text">Attivazione emulazione scheda NFC in corso…</string>
     <string name="card_emulation_switch_error_title">Errore</string>
     <string name="card_emulation_switch_error_message">Fallito il passaggio a %1$s.</string>
     <string name="card_emulation_sim_not_supported_message">%1$s non supporta la funzione di emulazione scheda NFC..</string>    
@@ -3701,7 +3721,8 @@ Tocca il pulsante Aggiunti contatti per selezionare i contatti che vuoi associar
     <string name="enable_wifi_tether">Abilita hotspot Wi-Fi</string>
     <string name="enable_gps">Abilita GPS</string>
     <string name="enable_gps_confirm_message">Occorre una connessione dati wireless per acquisire i dati di supporto GPS (EPO, A-GPS), questo può comportare costi extra per il traffico dati. Sei certo di voler abilitare il GPS?</string>
-    <string name="mouse_primary_button_title">Passa dai tasti primari ai secondari</string>
+    <string name="enable_mobile_data_when_opening_hotspot">Abilitare la connessione dati?</string>
+	<string name="mouse_primary_button_title">Passa dai tasti primari ai secondari</string>
     <string name="mouse_primary_button_dialog_title">Passa ai tasti primari</string>
     <string name="double_click_title">Velocità doppio tocco</string>
     <string name="test_area">AREA TEST:</string>

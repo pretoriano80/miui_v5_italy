@@ -101,13 +101,13 @@
     <string name="cit_vibrator_play_touch_pattern">Vibration pattern</string>
     <string name="cit_wifi_state_refresh">Refesh</string>
     <string name="cit_wifi_address_error">Unable to obtain Wi-Fi address, check Wi-Fi is enabled and try again</string>
-    <string name="cit_wifi_ap_scanning">Searching for Access points...</string>
+    <string name="cit_wifi_ap_scanning">Searching for Access points…</string>
     <string name="cit_wifi_ap_scan_retry">Rescan</string>
     <string name="cit_wifi_fail_to_scan">Unable to find any Wi-Fi networks</string>
     <string name="cit_bluetooth_scan_retry">Rescan</string>
-    <string name="cit_bluetooth_scanning">Searching for Bluetooth devices...</string>
+    <string name="cit_bluetooth_scanning">Searching for Bluetooth devices…</string>
     <string name="cit_bluetooth_not_support">Phone does not support Bluetooth device</string>
-    <string name="cit_bluetooth_scanning_opening_bluetooth">Opening Bluetooth devices...</string>
+    <string name="cit_bluetooth_scanning_opening_bluetooth">Opening Bluetooth devices…</string>
     <string name="cit_bluetooth_scanning_bluetooth_error">Error has occurred opening Bluetooth devices</string>
     <string name="cit_bluetooth_address_open_error">Unable to obtain Bluetooth address information</string>
     <string name="cit_bluetooth_scanning_bluetooth_done">Scan completed</string>
@@ -160,7 +160,7 @@
     <string name="cit_usb_OTG_out">USB_OTG equipment is not connected.</string>
     <string name="cit_otg_not_supported">This model does not support the OTG Test.</string>
     <string name="cit_sd_mp3_not_existed">The music.mp3 file could not be found in the root of your SD card, add the file and try the playback test again.</string>
-    <string name="cit_playing_sd_mp3">music.mp3 is being played...</string>
+    <string name="cit_playing_sd_mp3">music.mp3 is being played…</string>
     <string name="cit_display_continue">Click on the screen to begin testing</string>
     <string name="cit_vga_camera_capture">Scata foto</string>
     <string name="cit_vga_camera_delete">Elimina foto</string>
@@ -191,7 +191,7 @@
     <string name="cit_kayboard_volume_up">Test button: VOLUME_UP</string>
     <string name="cit_kayboard_volume_down">Test button: VOLUME_DOWN</string>
     <string name="cit_fm_not_supported">FM Radio not supported by your device</string>
-    <string name="cit_fm_open_bluetooth">Enabling Bluetooth...</string>
+    <string name="cit_fm_open_bluetooth">Enabling Bluetooth…</string>
     <string name="cit_fm_open_1">FM - 88.5</string>
     <string name="cit_fm_open_2">FM - 107.9</string>
     <string name="cit_fm_close">Turn off Radio</string>
@@ -216,7 +216,7 @@
     <string name="cit_tool_log_bugreport">Bug report</string>
     <string name="cit_tool_log_toast">Log file saved to %s</string>
     <string name="cit_tool_log_file_not_exist">%s does not exist</string>
-    <string name="cit_tool_log_generate_bugreport">Generating bug report...</string>
+    <string name="cit_tool_log_generate_bugreport">Generating bug report…</string>
     <string name="cit_tool_log_toast_generate_bugreport">Bug report may take up to 10 seconds to generate</string>
     <string name="cit_tool_log_no_sdcard">Operation failed, please insert SD card</string>
     <string name="cit_tool_bluetooth">Bluetooth test tools</string>

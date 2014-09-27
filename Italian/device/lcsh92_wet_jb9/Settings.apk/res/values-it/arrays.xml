@@ -8,7 +8,6 @@
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
         <item>Bilanciato</item>
-        <item>Risparmio batteria</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
@@ -381,11 +380,11 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositico connesso, creazione sessione...</item>
+        <item>Dispositico connesso, creazione sessione…</item>
         <item>Sessione creata</item>
-        <item>Disattivazione sessione...</item>
+        <item>Disattivazione sessione…</item>
         <item>Sessione fallita</item>
-        <item>Creazione sessione scaduta, nuovo tentativo...</item>
+        <item>Creazione sessione scaduta, nuovo tentativo…</item>
         <item>Dispositivo connesso</item>
     </string-array>
     <string-array name="msd_pc_system">
@@ -472,6 +471,10 @@ Il computer aprirà e leggerà automaticamente i dati del telefono"</item>
         <item>Album</item>
         <item>Musica</item>
         <item>E-mail</item>
+    </string-array>
+	<string-array name="priority_storage_entries">
+        <item>Memoria interna</item>
+        <item>Memoria esterna</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Prime 4 cifre</item>
